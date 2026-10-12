@@ -34,6 +34,8 @@ ROLE = re.compile(r"\b(data|machine learning|ml|ai|artificial intelligence|appli
                   r"analytics|deep learning|computer vision|nlp|llm|decision scien\w*|applied ai)\b", re.I)
 INTERN = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
 SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b|audit|people\w*|ux|business analytics|data analyst|quantitative (research|trad)\w*|quant (research|trad)\w*|toronto)", re.I)
+BACHELORS = re.compile(r"\b(bs|b\.s\.?|ba|bachelor'?s?|undergrad\w*|freshman|sophomore|rising (junior|senior)s?)\b", re.I)
+MASTERS = re.compile(r"\b(ms|m\.s\.?|master'?s?|graduate|grad|mba|bs/ms|ba/ms)\b", re.I)
 NON_US = re.compile(r"\b(london|uk|united kingdom|ireland|dublin|india|bangalore|bengaluru|hyderabad|toronto|canada|"
                     r"vancouver|montreal|germany|berlin|munich|france|paris|amsterdam|netherlands|singapore|"
                     r"hong kong|tokyo|japan|sydney|australia|china|shanghai|beijing|israel|tel aviv|poland|"
@@ -149,6 +151,8 @@ FEEDS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
 def wanted(job):
     t, loc = job["title"], job.get("location") or ""
     if not (INTERN.search(t) and ROLE.search(t)) or SKIP_TITLE.search(t):
+        return False
+    if BACHELORS.search(t) and not MASTERS.search(t):   # bachelor's-only postings
         return False
     canada = re.search(r",\s*(on|bc|qc|ab)\s*(,|$)", loc, re.I)
     if loc and (NON_US.search(loc) or canada) and not US_STRONG.search(loc):
