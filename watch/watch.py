@@ -14,6 +14,7 @@ Writes:
 Runs daily on GitHub Actions (.github/workflows/watch.yml). Standard library only.
 """
 
+import hashlib
 import json
 import re
 import sys
@@ -174,7 +175,8 @@ def main():
     watchlist = json.loads((WATCH / "watchlist.json").read_text())["companies"]
     seen_path = WATCH / "seen.json"
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {}
-    site = json.loads((ROOT / "jobs.json").read_text()).get("jobs", [])
+    site_data = json.loads((ROOT / "jobs.json").read_text())
+    site = site_data.get("jobs", []) + site_data.get("browse", [])
     on_site_urls = {j.get("url") for j in site}
     on_site_keys = {(norm(j.get("company")).split(" ")[0], norm(j.get("title"))) for j in site}
 
@@ -195,7 +197,7 @@ def main():
             seen[key]["last_seen"] = today
 
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=NEW_WINDOW_DAYS)).isoformat()
-    candidates = []
+    candidates, browse = [], []
     for key, s in seen.items():
         if s.get("last_seen") != today or not wanted(s):   # no longer listed, or filtered out by newer rules
             continue
@@ -203,9 +205,19 @@ def main():
         on_site = s["url"] in on_site_urls or (norm(s["company"]).split(" ")[0], norm(s["title"])) in on_site_keys
         if fresh and not on_site:
             candidates.append(s)
+        if not on_site:
+            browse.append({"id": "w-" + hashlib.sha1(key.encode()).hexdigest()[:12], "company": s["company"],
+                           "title": s["title"], "location": s.get("location", ""), "url": s["url"],
+                           "source": {"greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby",
+                                      "smartrecruiters": "SmartRecruiters", "workday": "Workday"}.get(s.get("ats"), "Company site"),
+                           "category": s.get("category", ""), "posted": s.get("posted"), "found": s["first_seen"]})
     candidates.sort(key=lambda s: (s.get("posted") or s["first_seen"]), reverse=True)
     candidates = candidates[:40]  # keep the morning scan's reading short
 
+    browse.sort(key=lambda b: (b.get("posted") or b["found"]), reverse=True)
+    (WATCH / "browse.json").write_text(json.dumps({
+        "generated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
+        "jobs": browse}, indent=1, ensure_ascii=False) + "\n")
     first_run = not seen_path.exists()
     seen_path.write_text(json.dumps(seen, indent=1, ensure_ascii=False) + "\n")
     (WATCH / "candidates.json").write_text(json.dumps({

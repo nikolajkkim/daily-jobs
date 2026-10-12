@@ -113,6 +113,13 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 .tstatus.s-offer { background: var(--strong-bg); color: var(--strong); }
 .tstatus.s-applied { background: var(--good-bg); color: var(--good); }
 .pending { font-size: 12.5px; color: var(--stretch); }
+.secnote { margin: -2px 0 6px; font-size: 13.5px; color: var(--muted); max-width: 60ch; }
+.filter { margin-bottom: 4px; }
+.filter button.chip { background: transparent; font: 13px var(--f-body); }
+.filter button.chip[aria-pressed="true"] { border-color: var(--ink); color: var(--ink); background: var(--surface); }
+.filter button.chip .n { color: var(--faint); margin-left: 4px; font-variant-numeric: tabular-nums; }
+#browseMore { justify-self: start; margin-top: 6px; }
+.cat { font-size: 12px; color: var(--faint); }
 .link[disabled] { opacity: .5; cursor: default; text-decoration: none; }
 .quietlink { color: var(--muted); }
 .fixnote { margin: 2px 0 0; font-size: 13px; color: var(--accent); }
@@ -161,6 +168,14 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     <div id="backList"><div class="empty">Roles you haven't applied to yet stack up here, strongest fits first.</div></div>
   </section>
 
+  <section id="browseSec">
+    <div class="sec-head"><h2>Browse more <span class="count" id="browseCount"></span></h2></div>
+    <p class="secnote">Every open data science and ML internship at the companies I watch, plus extra finds from the daily searches. Newest first.</p>
+    <div class="chips filter" id="browseFilter" role="group" aria-label="Filter by category"></div>
+    <div id="browseList"><div class="empty">Loading…</div></div>
+    <button class="btn" id="browseMore" type="button" hidden>Show more</button>
+  </section>
+
   <section class="folds">
     <details id="appliedBox">
       <summary>Applied <span class="count" id="appliedCount">0</span></summary>
@@ -198,6 +213,11 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 
   // ---------- state
   let jobs = [], meta = null, toastTimer = null;
+  let browse = [];         // extra open roles: watcher feeds + search finds that didn't make the daily list
+  let browseCat = "all", browseShown = 15;
+  const CATS = [["all", "All"], ["tech", "Tech & AI"], ["finance", "Finance"], ["fun", "Gaming & entertainment"], ["golf", "Golf"]];
+  const catOf = (j) => j.category === "gaming" || j.category === "entertainment" ? "fun" : (j.category || "tech");
+  try { browseCat = localStorage.getItem("daily-jobs:cat") || "all"; } catch {}
   let marks = {};          // job_id -> {status, on, synced}
   let tracker = [];        // rows mirrored from tracker.xlsx
   let reports = {};        // job_id -> latest report {id, reason, note, created_at}
@@ -260,7 +280,8 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     if (j.location) meta.append(el("span", null, j.location));
     if (j.source) meta.append(el("span", null, "via " + j.source));
     if (j.deadline) meta.append(el("span", null, "Deadline " + j.deadline));
-    if (!compact && j.found) meta.append(el("span", null, "Found " + fmt(j.found)));
+    if (j.posted) meta.append(el("span", null, "Posted " + fmt(j.posted)));
+    else if (!compact && j.found) meta.append(el("span", null, "Found " + fmt(j.found)));
     main.append(meta);
     if (j.why) main.append(el("p", "why", j.why));
     if (j.review && j.review.outcome !== "removed" && j.review.note) main.append(el("p", "fixnote", "Checked " + fmt(j.review.date) + " after your report: " + j.review.note));
@@ -317,7 +338,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       const ap = el("button", "btn primary", "Mark applied"); ap.type = "button"; ap.onclick = () => setStatus(j, "applied");
       const sk = el("button", "btn quiet", "Skip"); sk.type = "button"; sk.onclick = () => setStatus(j, "skipped");
       a.append(ap, sk);
-      if (sb) {
+      if (sb && !j._feed) {
         const rp = el("button", "btn quiet", "Report"); rp.type = "button";
         rp.onclick = () => {
           if (!session) { $("signin").hidden = false; $("email").focus(); showToast("Sign in first so the morning scan can see your report.", null); return; }
@@ -368,16 +389,45 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     return box;
   }
 
+  // ---------- browse
+  function renderBrowse(open) {
+    const counts = Object.fromEntries(CATS.map(([k]) => [k, 0]));
+    open.forEach((j) => { counts.all++; counts[catOf(j)] = (counts[catOf(j)] || 0) + 1; });
+    if (browseCat !== "all" && !counts[browseCat]) browseCat = "all";
+    const bar = $("browseFilter"); bar.replaceChildren();
+    CATS.forEach(([k, label]) => {
+      if (k !== "all" && !counts[k]) return;
+      const b = el("button", "chip"); b.type = "button"; b.setAttribute("aria-pressed", String(browseCat === k));
+      b.append(label, el("span", "n", String(counts[k])));
+      b.onclick = () => { browseCat = k; browseShown = 15; try { localStorage.setItem("daily-jobs:cat", k); } catch {} render(); };
+      bar.append(b);
+    });
+    bar.hidden = !open.length;
+    const list = open.filter((j) => browseCat === "all" || catOf(j) === browseCat)
+      .sort((a, b) => String(b.posted || b.found).localeCompare(String(a.posted || a.found)));
+    $("browseCount").textContent = open.length ? open.length + " roles" : "";
+    $("browseList").replaceChildren(rowList(list.slice(0, browseShown),
+      browse.length ? "Nothing left here. You've gone through everything open right now." : "The watcher's list shows up here after its first morning run."));
+    const more = $("browseMore");
+    more.hidden = list.length <= browseShown;
+    more.textContent = `Show more (${list.length - browseShown} left)`;
+    more.onclick = () => { browseShown += 20; render(); };
+  }
+
   // ---------- render
   function render() {
     const latest = (meta && meta.date) || jobs.reduce((m, j) => (j.found > m ? j.found : m), "");
+    const browseWithState = browse.map((j) => [j, stateOf(j)]);
     const withState = jobs.map((j) => [j, stateOf(j)]);
     const todo = withState.filter(([, s]) => s.status === "todo").map(([j]) => j);
+    // Applied / skipped / reported lists include anything you acted on from Browse too.
+    const acted = withState.concat(browseWithState.filter(([, s]) => s.status !== "todo"));
     const fresh = todo.filter((j) => j.found === latest).sort((a, b) => (fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3));
     const backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
-    const applied = withState.filter(([, s]) => s.status === "applied").sort((a, b) => String(b[1].on).localeCompare(String(a[1].on))).map(([j]) => j);
-    const skipped = withState.filter(([, s]) => s.status === "skipped").map(([j]) => j);
-    const flagged = withState.filter(([, s]) => s.status === "reported" || s.status === "removed").map(([j]) => j);
+    const applied = acted.filter(([, s]) => s.status === "applied").sort((a, b) => String(b[1].on).localeCompare(String(a[1].on))).map(([j]) => j);
+    const skipped = acted.filter(([, s]) => s.status === "skipped").map(([j]) => j);
+    const flagged = acted.filter(([, s]) => s.status === "reported" || s.status === "removed").map(([j]) => j);
+    renderBrowse(browseWithState.filter(([, s]) => s.status === "todo").map(([j]) => j));
 
     const scan = $("scan"); scan.replaceChildren();
     if (latest) {
@@ -559,7 +609,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   async function adoptLocalMarks() {
     const local = loadLocal(); const ids = Object.keys(local).filter((id) => !marks[id]);
     if (!ids.length) return;
-    const byId = Object.fromEntries(jobs.map((j) => [j.id, j]));
+    const byId = Object.fromEntries(jobs.concat(browse).map((j) => [j.id, j]));
     const rows = ids.filter((id) => byId[id]).map((id) => ({ job_id: id, status: local[id].status, company: byId[id].company, title: byId[id].title,
       url: byId[id].url || null, why: byId[id].why || null, marked_on: local[id].on || todayISO }));
     if (!rows.length) return;
@@ -589,7 +639,23 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 
   const jobsReady = fetch("jobs.json?t=" + Date.now(), { cache: "no-store" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then((d) => { jobs = Array.isArray(d.jobs) ? d.jobs : []; meta = d.lastRun || null; })
+    .then(async (d) => {
+      jobs = Array.isArray(d.jobs) ? d.jobs : []; meta = d.lastRun || null;
+      let feed = [];
+      try {
+        const r = await fetch("watch/browse.json?t=" + Date.now(), { cache: "no-store" });
+        if (r.ok) feed = ((await r.json()).jobs || []).map((j) => Object.assign({ _feed: true }, j));
+      } catch {}
+      // Search finds the morning scan kept for browsing (they have a fit + why), then the watcher's feed list.
+      const extra = (Array.isArray(d.browse) ? d.browse : []).concat(feed);
+      const taken = new Set(jobs.map((j) => j.url).concat(jobs.map((j) => companyRoot(j.company) + "|" + norm(j.title))));
+      const seenIds = new Set();
+      browse = extra.filter((j) => {
+        const k = companyRoot(j.company) + "|" + norm(j.title);
+        if (taken.has(j.url) || taken.has(k) || seenIds.has(k)) return false;
+        seenIds.add(k); return true;
+      });
+    })
     .catch(() => { $("scan").replaceChildren(el("span", null, "Couldn't load the job list. Refresh in a minute.")); });
 
   (async () => {
