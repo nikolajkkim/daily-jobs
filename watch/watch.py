@@ -30,13 +30,18 @@ NEW_WINDOW_DAYS = 3
 UA = {"User-Agent": "daily-jobs-watch/1.0 (personal job tracker)"}
 
 ROLE = re.compile(r"\b(data|machine learning|ml|ai|artificial intelligence|applied scien\w*|research scien\w*|"
-                  r"analytics|deep learning|computer vision|nlp|llm|quantitative research\w*|decision scien\w*)\b", re.I)
+                  r"analytics|deep learning|computer vision|nlp|llm|decision scien\w*|applied ai)\b", re.I)
 INTERN = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
-SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b)", re.I)
+SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b|audit|people\w*|ux|business analytics|data analyst|quantitative (research|trad)\w*|quant (research|trad)\w*|toronto|\(on\b|, on\b)", re.I)
 NON_US = re.compile(r"\b(london|uk|united kingdom|ireland|dublin|india|bangalore|bengaluru|hyderabad|toronto|canada|"
                     r"vancouver|montreal|germany|berlin|munich|france|paris|amsterdam|netherlands|singapore|"
                     r"hong kong|tokyo|japan|sydney|australia|china|shanghai|beijing|israel|tel aviv|poland|"
-                    r"warsaw|brazil|mexico|spain|madrid|switzerland|zurich|korea|seoul|taiwan|sweden|stockholm)\b", re.I)
+                    r"warsaw|brazil|mexico|spain|madrid|switzerland|zurich|korea|seoul|taiwan|sweden|stockholm|gurgaon|gurugram|"
+                    r"pune|mumbai|delhi|chennai|ontario|europe|emea|apac|berlin)\b", re.I)
+US_STRONG = re.compile(r"\b(united states|usa|new york|nyc|california|san francisco|bay area|los angeles|seattle|chicago|"
+                       r"boston|austin|texas|denver|atlanta|miami|philadelphia|san jose|palo alto|mountain view|menlo park|"
+                       r"sunnyvale|redmond|jersey city|stamford|pittsburgh|irvine|san diego|santa monica|culver city|carlsbad|"
+                       r"dallas|houston|raleigh|cary|portland|salt lake|ponte vedra|olathe|washington, d)", re.I)
 US = re.compile(r"\b(united states|usa|us|remote|new york|nyc|ny|california|ca|san francisco|sf|bay area|"
                 r"los angeles|la|seattle|wa|chicago|il|boston|ma|austin|tx|texas|denver|co|atlanta|ga|"
                 r"washington|dc|miami|fl|philadelphia|pa|san jose|palo alto|mountain view|menlo park|"
@@ -144,7 +149,7 @@ def wanted(job):
     t, loc = job["title"], job.get("location") or ""
     if not (INTERN.search(t) and ROLE.search(t)) or SKIP_TITLE.search(t):
         return False
-    if loc and NON_US.search(loc) and not US.search(loc):
+    if loc and NON_US.search(loc) and not US_STRONG.search(loc):
         return False
     return True
 
