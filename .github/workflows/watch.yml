@@ -1,0 +1,36 @@
+name: Watch job feeds
+
+on:
+  schedule:
+    - cron: "15 10 * * *"   # 6:15 AM New York (EDT); 5:15 AM in winter. Before the 7 AM Claude scan.
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["watch/watchlist.json", "watch/watch.py", ".github/workflows/watch.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check feeds
+        run: python watch/watch.py
+      - name: Save results
+        run: |
+          git config user.name "daily-jobs-watch"
+          git config user.email "actions@users.noreply.github.com"
+          git add watch/seen.json watch/candidates.json watch/report.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Watch feeds $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
