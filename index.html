@@ -113,6 +113,19 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 .tstatus.s-offer { background: var(--strong-bg); color: var(--strong); }
 .tstatus.s-applied { background: var(--good-bg); color: var(--good); }
 .pending { font-size: 12.5px; color: var(--stretch); }
+.link[disabled] { opacity: .5; cursor: default; text-decoration: none; }
+.quietlink { color: var(--muted); }
+.fixnote { margin: 2px 0 0; font-size: 13px; color: var(--accent); }
+.report { grid-column: 1 / -1; display: grid; gap: 10px; margin-top: 10px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.rlabel { margin: 0; font-size: 13.5px; font-weight: 500; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chips input { position: absolute; opacity: 0; pointer-events: none; }
+.chip { font-size: 13px; padding: 5px 12px; border-radius: 99px; border: 1px solid var(--line); color: var(--muted); cursor: pointer; }
+.chips input:checked + .chip { border-color: var(--ink); color: var(--ink); background: var(--bg); }
+.chips input:focus-visible + .chip { outline: 2px solid var(--accent); outline-offset: 2px; }
+.rnote { font: 14px var(--f-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; min-width: 0; }
+.rnote:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.report .actions { margin-top: 0; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 [hidden] { display: none !important; }
 </style>
@@ -128,6 +141,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       <span class="dot" id="syncDot" aria-hidden="true"></span>
       <span id="syncText"></span>
       <button class="link" id="syncAction" type="button"></button>
+      <button class="link quietlink" id="signOut" type="button" hidden>Sign out</button>
     </div>
     <form class="signin" id="signin" hidden>
       <label for="email">Your email</label>
@@ -156,6 +170,10 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       <summary>Skipped <span class="count" id="skippedCount">0</span></summary>
       <div id="skippedList"></div>
     </details>
+    <details id="flaggedBox">
+      <summary>Reported or removed <span class="count" id="flaggedCount">0</span></summary>
+      <div id="flaggedList"></div>
+    </details>
     <details id="trackerBox" hidden>
       <summary>Your tracker <span class="count" id="trackerCount">0</span></summary>
       <div id="trackerList"></div>
@@ -182,7 +200,12 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   let jobs = [], meta = null, toastTimer = null;
   let marks = {};          // job_id -> {status, on, synced}
   let tracker = [];        // rows mirrored from tracker.xlsx
+  let reports = {};        // job_id -> latest report {id, reason, note, created_at}
+  let syncState = null;    // {requested_at, last_run_at, last_result}
+  let waitingSince = null, pollTimer = null;
+  let reportingId = null;  // job whose report panel is open
   let sb = null, session = null;
+  const REASONS = ["Link broken", "Posting closed", "Not eligible", "Something else"];
 
   // ---------- matching (keep in step with daily-jobs-sync/sync.py)
   const STOP = new Set("intern internship summer spring fall winter co op coop the a an of and for to in at program 2025 2026 2027 2028 bs ms phd masters master s".split(" "));
@@ -208,7 +231,17 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   const slug = (s) => norm(s).replace(/ /g, "-");
 
   // A job's state: your own mark wins; otherwise a matching tracker row counts as applied.
+  // A report is settled once the morning scan has reviewed it and fixed the job (or found it fine).
+  function openReport(j) {
+    const r = reports[j.id]; if (!r) return null;
+    if (j.review && j.review.reportId === r.id && j.review.outcome !== "removed") return null;
+    return r;
+  }
+
   function stateOf(j) {
+    if (j.removed) return { status: "removed" };
+    const rep = openReport(j);
+    if (rep) return { status: "reported", report: rep };
     const m = marks[j.id];
     const t = trackerMatch(j);
     if (m) return { status: m.status, on: m.on, synced: m.synced, tracker: t };
@@ -230,7 +263,34 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     if (!compact && j.found) meta.append(el("span", null, "Found " + fmt(j.found)));
     main.append(meta);
     if (j.why) main.append(el("p", "why", j.why));
+    if (j.review && j.review.outcome !== "removed" && j.review.note) main.append(el("p", "fixnote", "Checked " + fmt(j.review.date) + " after your report: " + j.review.note));
     return main;
+  }
+
+  function reportPanel(j) {
+    const f = el("form", "report"); f.noValidate = true;
+    const legend = el("p", "rlabel", "What's wrong with this posting?"); f.append(legend);
+    const chips = el("div", "chips");
+    REASONS.forEach((r, i) => {
+      const id = "r-" + j.id + "-" + i;
+      const inp = el("input"); inp.type = "radio"; inp.name = "reason-" + j.id; inp.id = id; inp.value = r; if (i === 0) inp.checked = true;
+      const lab = el("label", "chip", r); lab.htmlFor = id;
+      chips.append(inp, lab);
+    });
+    f.append(chips);
+    const note = el("input", "rnote"); note.type = "text"; note.id = "note-" + j.id; note.placeholder = "Optional note, e.g. \"404 page\" (visible to the morning scan)"; note.maxLength = 300;
+    f.append(note);
+    const row = el("div", "actions");
+    const send = el("button", "btn primary", "Send report"); send.type = "submit";
+    const cancel = el("button", "btn quiet", "Cancel"); cancel.type = "button"; cancel.onclick = () => { reportingId = null; render(); };
+    row.append(send, cancel); f.append(row);
+    f.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const reason = (f.querySelector("input[type=radio]:checked") || {}).value || REASONS[0];
+      send.disabled = true;
+      await fileReport(j, reason, note.value.trim());
+    });
+    return f;
   }
 
   function postingLink(j, quiet) {
@@ -242,11 +302,30 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   function actionBar(j) {
     const a = el("div", "actions");
     const st = stateOf(j);
+    if (st.status === "removed") {
+      a.append(el("span", "pending", "Removed " + fmt(j.removed.date) + ": " + (j.removed.reason || "")));
+      return a;
+    }
+    if (st.status === "reported") {
+      a.append(el("span", "pending", "Reported: " + st.report.reason + " · the next morning scan will check it"));
+      const p = postingLink(j, true); if (p) a.append(p);
+      const u = el("button", "btn quiet", "Undo report"); u.type = "button"; u.onclick = () => undoReport(j, st.report); a.append(u);
+      return a;
+    }
     if (st.status === "todo") {
       const p = postingLink(j, false); if (p) a.append(p);
       const ap = el("button", "btn primary", "Mark applied"); ap.type = "button"; ap.onclick = () => setStatus(j, "applied");
       const sk = el("button", "btn quiet", "Skip"); sk.type = "button"; sk.onclick = () => setStatus(j, "skipped");
       a.append(ap, sk);
+      if (sb) {
+        const rp = el("button", "btn quiet", "Report"); rp.type = "button";
+        rp.onclick = () => {
+          if (!session) { $("signin").hidden = false; $("email").focus(); showToast("Sign in first so the morning scan can see your report.", null); return; }
+          reportingId = reportingId === j.id ? null : j.id; render();
+          const n = document.getElementById("note-" + j.id); if (n) n.focus();
+        };
+        a.append(rp);
+      }
       return a;
     }
     if (st.status === "applied") {
@@ -267,7 +346,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   function rowList(items, emptyText) {
     if (!items.length) return el("div", "empty", emptyText);
     const box = el("div", "rows");
-    items.forEach((j) => { const r = el("div", "row"); r.append(jobBody(j, true), actionBar(j)); box.append(r); });
+    items.forEach((j) => { const r = el("div", "row"); r.append(jobBody(j, true), actionBar(j)); if (reportingId === j.id) r.append(reportPanel(j)); box.append(r); });
     return box;
   }
 
@@ -298,6 +377,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     const backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
     const applied = withState.filter(([, s]) => s.status === "applied").sort((a, b) => String(b[1].on).localeCompare(String(a[1].on))).map(([j]) => j);
     const skipped = withState.filter(([, s]) => s.status === "skipped").map(([j]) => j);
+    const flagged = withState.filter(([, s]) => s.status === "reported" || s.status === "removed").map(([j]) => j);
 
     const scan = $("scan"); scan.replaceChildren();
     if (latest) {
@@ -313,7 +393,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     $("newCount").textContent = fresh.length ? fresh.length + (fresh.length === 1 ? " role" : " roles") : "";
     const nl = $("newList"); nl.replaceChildren();
     if (!fresh.length) nl.append(el("div", "empty", latest ? "Nothing new left from the latest scan. Work through the list below." : "This morning's matches will appear here."));
-    fresh.forEach((j) => { const c = el("article", "card new"); c.append(jobBody(j, false), actionBar(j)); nl.append(c); });
+    fresh.forEach((j) => { const c = el("article", "card new"); c.append(jobBody(j, false), actionBar(j)); if (reportingId === j.id) c.append(reportPanel(j)); nl.append(c); });
 
     $("backCount").textContent = backlog.length ? backlog.length + " roles" : "";
     $("backList").replaceChildren(rowList(backlog, "Nothing older waiting. Roles you don't get to on their first day move here."));
@@ -321,6 +401,8 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     $("appliedList").replaceChildren(rowList(applied, "Mark a role as applied and it moves here."));
     $("skippedCount").textContent = skipped.length;
     $("skippedList").replaceChildren(rowList(skipped, "Skipped roles land here."));
+    $("flaggedCount").textContent = flagged.length;
+    $("flaggedList").replaceChildren(rowList(flagged, "Jobs you report, or that turn out to be closed, land here."));
     $("trackerBox").hidden = !session;
     $("trackerCount").textContent = tracker.length;
     if (session) $("trackerList").replaceChildren(trackerList());
@@ -332,6 +414,8 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     if (!sb) { box.hidden = true; return; }
     box.hidden = false;
     box.classList.remove("on", "wait");
+    $("signOut").hidden = true;
+    act.disabled = false;
     if (!session) {
       $("syncText").textContent = "Saved in this browser only.";
       act.textContent = "Sign in to sync with your tracker";
@@ -339,12 +423,59 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       return;
     }
     const waiting = Object.values(marks).filter((m) => m.status === "applied" && !m.synced).length;
-    box.classList.add(waiting ? "wait" : "on");
-    $("syncText").textContent = waiting
-      ? `Linked to tracker.xlsx · ${waiting} waiting for your Mac to sync`
-      : `Linked to tracker.xlsx · ${tracker.length} applications`;
-    act.textContent = "Sign out";
-    act.onclick = async () => { await sb.auth.signOut(); };
+    const last = syncState && syncState.last_run_at ? new Date(syncState.last_run_at) : null;
+    const when = last ? (last.toDateString() === new Date().toDateString()
+      ? "today " + last.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })
+      : last.toLocaleDateString("en-US", { month: "short", day: "numeric" })) : "never";
+    let text;
+    if (waitingSince) {
+      box.classList.add("wait");
+      text = Date.now() - waitingSince > 4 * 60 * 1000
+        ? "Sync requested · your Mac hasn't picked it up yet (it syncs as soon as it's awake)"
+        : "Syncing with your Mac…";
+    } else {
+      box.classList.add(waiting ? "wait" : "on");
+      text = `Linked to tracker.xlsx · last synced ${when}` + (waiting ? ` · ${waiting} new to add` : "");
+    }
+    $("syncText").textContent = text;
+    act.textContent = "Sync now";
+    act.disabled = !!waitingSince;
+    act.onclick = requestSync;
+    $("signOut").hidden = false;
+  }
+
+  // ---------- sync button: ask the Mac to sync, then watch for it to finish
+  async function requestSync() {
+    const at = new Date().toISOString();
+    const { error } = await sb.from("sync_state").update({ requested_at: at }).eq("id", 1);
+    if (error) { showToast("Couldn't reach the database. Try again in a moment.", null); return; }
+    waitingSince = Date.now(); renderSync();
+    clearInterval(pollTimer);
+    pollTimer = setInterval(async () => {
+      const { data } = await sb.from("sync_state").select("requested_at,last_run_at,last_result").eq("id", 1).maybeSingle();
+      if (data) syncState = data;
+      if (data && data.last_run_at && new Date(data.last_run_at) >= new Date(at)) {
+        clearInterval(pollTimer); waitingSince = null;
+        await loadRemote();
+        showToast("Synced with your tracker" + (data.last_result && /Excel/.test(data.last_result) ? ". Close tracker.xlsx in Excel so new rows can be added." : ""), null);
+      } else if (Date.now() - waitingSince > 15 * 60 * 1000) {
+        clearInterval(pollTimer); waitingSince = null; renderSync();
+      } else { renderSync(); }
+    }, 8000);
+  }
+
+  // ---------- reports
+  async function fileReport(j, reason, note) {
+    const { data, error } = await sb.from("job_reports").insert({ job_id: j.id, reason, note: note || null }).select("id,job_id,reason,note,created_at").single();
+    if (error) { showToast("Couldn't send the report. Try again.", null); render(); return; }
+    reports[j.id] = data; reportingId = null; render();
+    showToast("Reported. Tomorrow's scan will check it and fix or remove it.", () => undoReport(j, data));
+  }
+
+  async function undoReport(j, r) {
+    const { error } = await sb.from("job_reports").delete().eq("id", r.id);
+    if (error) { showToast("Couldn't undo the report.", null); return; }
+    delete reports[j.id]; render();
   }
 
   function showToast(msg, undo) {
@@ -395,10 +526,12 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 
   // ---------- reads
   async function loadRemote() {
-    if (!session) { marks = {}; Object.entries(loadLocal()).forEach(([id, m]) => { marks[id] = { status: m.status, on: m.on, synced: false }; }); tracker = []; render(); return; }
-    const [mk, tr] = await Promise.all([
+    if (!session) { marks = {}; reports = {}; Object.entries(loadLocal()).forEach(([id, m]) => { marks[id] = { status: m.status, on: m.on, synced: false }; }); tracker = []; render(); return; }
+    const [mk, tr, rp, ss] = await Promise.all([
       sb.from("job_marks").select("job_id,status,marked_on,synced_at"),
       sb.from("tracker_rows").select("company,role,status,date_added"),
+      sb.from("job_reports").select("id,job_id,reason,note,created_at").order("created_at"),
+      sb.from("sync_state").select("requested_at,last_run_at,last_result").eq("id", 1).maybeSingle(),
     ]);
     if (mk.error || tr.error) {
       $("syncText").textContent = "Signed in, but this email can't read the list. Check the email in schema.sql.";
@@ -407,6 +540,9 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     marks = {};
     (mk.data || []).forEach((r) => { marks[r.job_id] = { status: r.status, on: r.marked_on, synced: !!r.synced_at, syncedAt: r.synced_at }; });
     tracker = tr.data || [];
+    reports = {};
+    if (!rp.error) (rp.data || []).forEach((r) => { reports[r.job_id] = r; });  // ordered, so the latest wins
+    syncState = ss.error ? null : ss.data;
     render();
   }
 
@@ -434,6 +570,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     showToast("Check your email for the sign-in link.", null);
   });
   $("signinCancel").onclick = () => { $("signin").hidden = true; };
+  $("signOut").onclick = async () => { clearInterval(pollTimer); waitingSince = null; await sb.auth.signOut(); };
 
   // ---------- boot
   const cfg = window.DAILY_JOBS_CONFIG || {};

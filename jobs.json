@@ -1,5 +1,9 @@
 {
-  "lastRun": { "date": "2026-10-12", "found": 7, "note": "First scan: 7 roles" },
+  "lastRun": {
+    "date": "2026-10-12",
+    "found": 7,
+    "note": "First scan: 7 roles"
+  },
   "jobs": [
     {
       "id": "imc-mle-intern-2027",
@@ -21,7 +25,11 @@
       "url": "https://www.capitalonecareers.com/job/mclean/current-master-s-data-science-internship-summer-2027/31238/98043168880",
       "fit": "strong",
       "why": "Built for current master's students. Large-scale data work fits your 14M-reading IoT capstone and XGBoost modeling. Pays $161K annualized in NYC/SF.",
-      "found": "2026-10-12"
+      "found": "2026-10-12",
+      "removed": {
+        "date": "2026-10-12",
+        "reason": "Posting closed: Capital One took it down on Sep 26."
+      }
     },
     {
       "id": "adobe-mle-intern-2027",
