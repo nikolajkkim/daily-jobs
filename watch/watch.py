@@ -197,7 +197,7 @@ def main():
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=NEW_WINDOW_DAYS)).isoformat()
     candidates = []
     for key, s in seen.items():
-        if s.get("last_seen") != today:          # no longer listed
+        if s.get("last_seen") != today or not wanted(s):   # no longer listed, or filtered out by newer rules
             continue
         fresh = s["first_seen"] >= cutoff or (s.get("posted") or "") >= cutoff
         on_site = s["url"] in on_site_urls or (norm(s["company"]).split(" ")[0], norm(s["title"])) in on_site_keys
