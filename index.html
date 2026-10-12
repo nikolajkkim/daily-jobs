@@ -338,7 +338,7 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       const ap = el("button", "btn primary", "Mark applied"); ap.type = "button"; ap.onclick = () => setStatus(j, "applied");
       const sk = el("button", "btn quiet", "Skip"); sk.type = "button"; sk.onclick = () => setStatus(j, "skipped");
       a.append(ap, sk);
-      if (sb && !j._feed) {
+      if (sb) {
         const rp = el("button", "btn quiet", "Report"); rp.type = "button";
         rp.onclick = () => {
           if (!session) { $("signin").hidden = false; $("email").focus(); showToast("Sign in first so the morning scan can see your report.", null); return; }
