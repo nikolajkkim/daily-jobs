@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Daily Jobs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a calm notepad page — one narrow column, quiet serif headings, jobs as note entries separated by hairlines, almost no boxes */
+:root { color-scheme: light;
+  --bg: #FAFAF7;
+  --surface: #FFFFFF;
+  --ink: #1D1F1C;
+  --muted: #7A7D76;
+  --faint: #A9ACA4;
+  --line: #ECECE6;
+  --accent: #3F7A4A;       /* soft garden green: primary action, applied */
+  --accent-soft: #E9F1E7;
+  --accent-ink: #FFFFFF;
+  --new: #3F7A4A;
+  --strong: #3F7A4A; --strong-bg: #EAF2E8;
+  --good: #5C6B80;   --good-bg: #EEF1F4;
+  --stretch: #8C6A3A; --stretch-bg: #F5EFE4;
+  --f-display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --f-body: "Geist", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #141513; --surface: #1B1C1A; --ink: #ECECE7; --muted: #9A9C95; --faint: #6E716A; --line: #2A2B28;
+  --accent: #8CC492; --accent-soft: #1F2B20; --accent-ink: #10180F; --new: #8CC492;
+  --strong: #8CC492; --strong-bg: #1E2A1F; --good: #A9B6C8; --good-bg: #22262C;
+  --stretch: #D4B183; --stretch-bg: #2C2519; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #141513; --surface: #1B1C1A; --ink: #ECECE7; --muted: #9A9C95; --faint: #6E716A; --line: #2A2B28;
+  --accent: #8CC492; --accent-soft: #1F2B20; --accent-ink: #10180F; --new: #8CC492;
+  --strong: #8CC492; --strong-bg: #1E2A1F; --good: #A9B6C8; --good-bg: #22262C;
+  --stretch: #D4B183; --stretch-bg: #2C2519; color-scheme: dark }
+
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 640px; margin: 0 auto; padding-inline: 20px; padding-block: 56px 80px; display: grid; gap: 44px; }
+
+header { display: grid; gap: 10px; }
+.date { font-size: 13px; color: var(--muted); margin: 0; }
+h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(32px, 6vw, 42px); line-height: 1.1; margin: 0; letter-spacing: -0.015em; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; max-width: 56ch; }
+.scan { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 0; margin-top: 2px; }
+.scan > span + span::before { content: "·"; margin: 0 8px; color: var(--faint); }
+.scan b { color: var(--ink); font-weight: 500; font-variant-numeric: tabular-nums; }
+
+section { display: grid; gap: 6px; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-bottom: 6px; }
+h2 { font-family: var(--f-display); font-weight: 500; font-size: 22px; margin: 0; display: flex; align-items: baseline; gap: 10px; letter-spacing: -0.01em; }
+.count { font-family: var(--f-body); font-size: 13px; color: var(--faint); font-weight: 400; }
+.sun { width: 7px; height: 7px; border-radius: 50%; background: var(--new); align-self: center; }
+
+/* Entries: note-style, separated by hairlines */
+.cards, .rows { display: grid; }
+.card, .row { padding: 18px 0; border-top: 1px solid var(--line); display: grid; gap: 6px; min-width: 0; }
+.cards > :first-child, .rows > :first-child { border-top: 0; padding-top: 6px; }
+.co { font-size: 13px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.title { font-weight: 500; font-size: 16.5px; line-height: 1.35; margin: 0; overflow-wrap: anywhere; letter-spacing: -0.005em; }
+.meta { display: flex; flex-wrap: wrap; color: var(--faint); font-size: 13px; }
+.meta > span + span::before { content: "·"; margin: 0 7px; }
+.why { margin: 2px 0 0; font-size: 14.5px; color: var(--ink); max-width: 60ch; opacity: .86; }
+.pill { font-size: 12px; padding: 1px 8px; border-radius: 99px; font-weight: 500; }
+.fit-strong { color: var(--strong); background: var(--strong-bg); }
+.fit-good { color: var(--good); background: var(--good-bg); }
+.fit-stretch { color: var(--stretch); background: var(--stretch-bg); }
+.actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; align-items: center; }
+.btn { font: 500 13px var(--f-body); border-radius: 99px; padding: 6px 13px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: background .12s, border-color .12s; }
+.btn:hover { border-color: var(--faint); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.btn.primary:hover { filter: brightness(1.06); }
+.btn.quiet { border-color: transparent; background: transparent; color: var(--muted); }
+.btn.quiet:hover { color: var(--ink); background: var(--line); }
+.btn:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Backlog: same entries, a touch tighter, actions on the right on wide screens */
+.row { grid-template-columns: 1fr auto; gap: 4px 16px; align-items: center; padding: 14px 0; }
+.row .main { min-width: 0; display: grid; gap: 3px; }
+.row .title { font-size: 15.5px; }
+.row .why { font-size: 13.5px; color: var(--muted); opacity: 1; }
+.row .actions { margin: 0; }
+@media (max-width: 560px) { .row { grid-template-columns: 1fr; } .row .actions { margin-top: 6px; } }
+
+.folds { display: grid; gap: 4px; border-top: 1px solid var(--line); padding-top: 12px; }
+summary { cursor: pointer; font-size: 14px; color: var(--muted); list-style: none; display: flex; gap: 8px; align-items: baseline; padding: 6px 0; }
+summary:hover { color: var(--ink); }
+summary::-webkit-details-marker { display: none; }
+summary::before { content: "›"; font-size: 15px; transition: transform .15s; display: inline-block; }
+details[open] summary::before { transform: rotate(90deg); }
+details .rows, details .empty { margin: 4px 0 12px 16px; }
+.stamp { font-size: 12.5px; color: var(--accent); background: var(--accent-soft); padding: 2px 9px; border-radius: 99px; }
+
+.empty { color: var(--muted); font-size: 14px; padding: 6px 0 4px; }
+.foot { font-size: 13px; color: var(--faint); margin: 0; max-width: 60ch; }
+.foot b { color: var(--muted); font-weight: 500; }
+.toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 16px; border-radius: 99px; font-size: 13px; display: flex; gap: 14px; align-items: center; z-index: 5; box-shadow: 0 6px 24px rgba(0,0,0,.12); }
+.toast button { background: none; border: 0; color: var(--bg); text-decoration: underline; font: 500 13px var(--f-body); cursor: pointer; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="date" id="today"></p>
+    <h1>Daily Jobs</h1>
+    <p class="sub">Data science and ML internships matched to your resume, found each morning so you can apply in the first wave.</p>
+    <div class="scan" id="scan"><span>Loading your list…</span></div>
+  </header>
+
+  <section id="newSec">
+    <div class="sec-head"><h2><span class="sun" aria-hidden="true"></span><span id="newLabel">New today</span> <span class="count" id="newCount"></span></h2></div>
+    <div class="cards" id="newList"><div class="empty">This morning's matches will appear here. Each scan adds up to five new roles from Greenhouse, Lever, Ashby and company career pages.</div></div>
+  </section>
+
+  <section id="backSec">
+    <div class="sec-head"><h2>Still to apply <span class="count" id="backCount"></span></h2></div>
+    <div id="backList"><div class="empty">Roles you haven't applied to yet stack up here, strongest fits first.</div></div>
+  </section>
+
+  <section class="folds">
+    <details id="appliedBox">
+      <summary>Applied <span class="count" id="appliedCount">0</span></summary>
+      <div id="appliedList"></div>
+    </details>
+    <details id="skippedBox">
+      <summary>Skipped <span class="count" id="skippedCount">0</span></summary>
+      <div id="skippedList"></div>
+    </details>
+  </section>
+
+  <p class="foot">Fit levels: <b>strong</b> lines up with your RL, LLM/retrieval or applied ML work and your Dec 2027 graduation; <b>good</b> matches the role but with a gap; <b>stretch</b> is worth a shot but asks for more than the resume shows. Always check the posting is still open before applying.</p>
+</div>
+<div class="toast" id="toast" hidden><span id="toastMsg"></span><button id="toastUndo" type="button">Undo</button></div>
+
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const tz = "America/New_York";
+  const KEY = "daily-jobs:status";
+  const todayISO = new Intl.DateTimeFormat("en-CA", { timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  const fmt = (iso) => { if (!iso) return ""; const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }); };
+  const fitRank = { strong: 0, good: 1, stretch: 2 };
+  let jobs = [], meta = null, toastTimer = null;
+  $("today").textContent = new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: tz });
+
+  // Your applied/skipped marks live in this browser only.
+  function loadMarks() { try { return JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch { return {}; } }
+  function saveMarks(m) { try { localStorage.setItem(KEY, JSON.stringify(m)); return true; } catch { return false; } }
+  let marks = loadMarks();
+
+  function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function safeUrl(u) { try { const x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x.href : null; } catch { return null; } }
+  function statusOf(j) { return (marks[j.id] && marks[j.id].status) || "todo"; }
+
+  function jobBody(j, compact) {
+    const main = el("div", "main");
+    const co = el("div", "co");
+    co.append(el("span", null, j.company || ""));
+    if (j.fit) co.append(el("span", "pill fit-" + j.fit, j.fit));
+    main.append(co);
+    main.append(el("p", "title", j.title || ""));
+    const meta = el("div", "meta");
+    if (j.location) meta.append(el("span", null, j.location));
+    if (j.source) meta.append(el("span", null, "via " + j.source));
+    if (j.deadline) meta.append(el("span", null, "Deadline " + j.deadline));
+    if (!compact && j.found) meta.append(el("span", null, "Found " + fmt(j.found)));
+    main.append(meta);
+    if (j.why) main.append(el("p", "why", j.why));
+    return main;
+  }
+
+  function actionBar(j) {
+    const a = el("div", "actions");
+    const href = safeUrl(j.url);
+    const st = statusOf(j);
+    if (st === "todo") {
+      if (href) { const l = el("a", "btn", "Open posting ↗"); l.href = href; l.target = "_blank"; l.rel = "noopener"; a.append(l); }
+      const ap = el("button", "btn primary", "Mark applied"); ap.type = "button"; ap.onclick = () => setStatus(j, "applied");
+      const sk = el("button", "btn quiet", "Skip"); sk.type = "button"; sk.onclick = () => setStatus(j, "skipped");
+      a.append(ap, sk);
+    } else {
+      if (st === "applied" && marks[j.id].on) a.append(el("span", "stamp", "Applied " + fmt(marks[j.id].on)));
+      if (href) { const l = el("a", "btn quiet", "Posting ↗"); l.href = href; l.target = "_blank"; l.rel = "noopener"; a.append(l); }
+      const u = el("button", "btn quiet", "Move back"); u.type = "button"; u.onclick = () => setStatus(j, "todo"); a.append(u);
+    }
+    return a;
+  }
+
+  function rowList(items, emptyText) {
+    if (!items.length) return el("div", "empty", emptyText);
+    const box = el("div", "rows");
+    items.forEach((j) => { const r = el("div", "row"); r.append(jobBody(j, true), actionBar(j)); box.append(r); });
+    return box;
+  }
+
+  function render() {
+    const latest = (meta && meta.date) || jobs.reduce((m, j) => (j.found > m ? j.found : m), "");
+    const todo = jobs.filter((j) => statusOf(j) === "todo");
+    const fresh = todo.filter((j) => j.found === latest).sort((a, b) => (fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3));
+    const backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
+    const applied = jobs.filter((j) => statusOf(j) === "applied").sort((a, b) => String(marks[b.id].on).localeCompare(String(marks[a.id].on)));
+    const skipped = jobs.filter((j) => statusOf(j) === "skipped");
+
+    const scan = $("scan"); scan.replaceChildren();
+    if (latest) {
+      const s1 = el("span"); s1.append("Last scan ", el("b", null, latest === todayISO ? "today" : fmt(latest))); scan.append(s1);
+      if (meta && typeof meta.found === "number") { const s2 = el("span"); s2.append(el("b", null, String(meta.found)), " new"); scan.append(s2); }
+      const s3 = el("span"); s3.append(el("b", null, String(todo.length)), " to apply"); scan.append(s3);
+      const s4 = el("span"); s4.append(el("b", null, String(applied.length)), " applied"); scan.append(s4);
+    } else {
+      scan.append(el("span", null, "No scans yet. The first one runs tomorrow at 7 AM ET."));
+    }
+
+    $("newLabel").textContent = latest && latest !== todayISO ? "New on " + fmt(latest) : "New today";
+    $("newCount").textContent = fresh.length ? fresh.length + (fresh.length === 1 ? " role" : " roles") : "";
+    const nl = $("newList"); nl.replaceChildren();
+    if (!fresh.length) nl.append(el("div", "empty", latest ? "Nothing new left from the latest scan. Work through the list below." : "This morning's matches will appear here."));
+    fresh.forEach((j) => { const c = el("article", "card new"); c.append(jobBody(j, false), actionBar(j)); nl.append(c); });
+
+    $("backCount").textContent = backlog.length ? backlog.length + " roles" : "";
+    $("backList").replaceChildren(rowList(backlog, "Nothing older waiting. Roles you don't get to on their first day move here."));
+    $("appliedCount").textContent = applied.length;
+    $("appliedList").replaceChildren(rowList(applied, "Mark a role as applied and it moves here with the date."));
+    $("skippedCount").textContent = skipped.length;
+    $("skippedList").replaceChildren(rowList(skipped, "Skipped roles land here."));
+  }
+
+  function showToast(msg, undo) {
+    $("toastMsg").textContent = msg; $("toast").hidden = false;
+    $("toastUndo").hidden = !undo; $("toastUndo").onclick = () => { $("toast").hidden = true; undo && undo(); };
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => { $("toast").hidden = true; }, 5000);
+  }
+
+  function setStatus(j, status) {
+    const prev = marks[j.id] ? Object.assign({}, marks[j.id]) : null;
+    if (status === "todo") delete marks[j.id];
+    else marks[j.id] = { status, on: todayISO };
+    const ok = saveMarks(marks);
+    render();
+    if (!ok) { showToast("This browser isn't saving changes (private window?). They'll reset on reload.", null); return; }
+    const label = status === "applied" ? "Marked applied" : status === "skipped" ? "Skipped" : "Moved back to your list";
+    showToast(label, status === "todo" ? null : () => { if (prev) marks[j.id] = prev; else delete marks[j.id]; saveMarks(marks); render(); });
+  }
+
+  fetch("jobs.json?t=" + Date.now(), { cache: "no-store" })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((d) => { jobs = Array.isArray(d.jobs) ? d.jobs : []; meta = d.lastRun || null; render(); })
+    .catch(() => { $("scan").replaceChildren(el("span", null, "Couldn't load the job list. Refresh in a minute.")); });
+})();
+</script>
+</body>
+</html>

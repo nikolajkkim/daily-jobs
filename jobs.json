@@ -1,0 +1,82 @@
+{
+  "lastRun": { "date": "2026-10-12", "found": 7, "note": "First scan: 7 roles" },
+  "jobs": [
+    {
+      "id": "imc-mle-intern-2027",
+      "company": "IMC Trading",
+      "title": "Machine Learning Engineer Intern – Summer 2027",
+      "location": "New York, NY",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/imc/jobs/4962456101",
+      "fit": "strong",
+      "why": "NYC, wants grads Sep 2027–Jul 2028 (you're Dec 2027). Your PPO training/debugging and LLM pipeline work map to building ML training systems.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "capitalone-ms-ds-intern-2027",
+      "company": "Capital One",
+      "title": "Current Master's – Data Science Internship – Summer 2027",
+      "location": "NYC, SF, San Jose + 5 more",
+      "source": "Company site",
+      "url": "https://www.capitalonecareers.com/job/mclean/current-master-s-data-science-internship-summer-2027/31238/98043168880",
+      "fit": "strong",
+      "why": "Built for current master's students. Large-scale data work fits your 14M-reading IoT capstone and XGBoost modeling. Pays $161K annualized in NYC/SF.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "adobe-mle-intern-2027",
+      "company": "Adobe",
+      "title": "2027 Intern – Machine Learning Engineer",
+      "location": "Hybrid, team office (SJ/SF/NYC)",
+      "source": "Simplify",
+      "url": "https://simplify.jobs/p/c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
+      "fit": "strong",
+      "why": "Grad window Dec 2027–Jun 2028 matches you exactly. Asks for LLM apps, retrieval pipelines and Hugging Face, which is your DAPLab work.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "kensho-mle-intern-2027",
+      "company": "Kensho (S&P Global)",
+      "title": "Machine Learning Engineer – Summer Intern 2027",
+      "location": "New York, NY or Cambridge, MA",
+      "source": "Company site",
+      "url": "https://kensho.com/careers#open-roles",
+      "fit": "strong",
+      "why": "Brand new: it showed up on a job board within the last two days but isn't on Kensho's own careers page yet. GenAI, LLM apps and data extraction in NYC fit your retrieval pipeline and DistilBERT work. Check back daily and apply the moment it appears.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "tiktok-ds-intern-product-2027",
+      "company": "TikTok",
+      "title": "Data Science Intern (TikTok Product) – 2027 Summer",
+      "location": "San Jose, CA",
+      "source": "Simplify",
+      "url": "https://simplify.jobs/p/3b700557-5c32-4773-8cfe-f11a66b71a4f",
+      "fit": "good",
+      "why": "Takes master's students in data science. Product analytics and experimentation; you'd lean on SQL and stats coursework since you don't have A/B testing on the resume yet.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "milwaukeetool-mle-intern-2027",
+      "company": "Milwaukee Tool",
+      "title": "Summer 2027: Machine Learning Engineering Intern",
+      "location": "Brookfield, WI area",
+      "source": "Company site",
+      "url": "https://tti.yello.co/external/requisitions/_RPVP9oCAwh78R9TcYTm1A",
+      "fit": "good",
+      "why": "Applied ML deployed on hardware; asks for PyTorch, scikit-learn and NumPy. Your quadcopter sim-to-control work is a good story here. Outside NYC/CA.",
+      "found": "2026-10-12"
+    },
+    {
+      "id": "src-mle-intern-2027",
+      "company": "SRC, Inc.",
+      "title": "Machine Learning Engineer (Intern – Summer 2027)",
+      "location": "Syracuse, NY or Dayton, OH",
+      "source": "Jobvite",
+      "url": "https://jobs.jobvite.com/src-inc/job/o8lHAfwu",
+      "fit": "stretch",
+      "why": "Explicitly wants deep RL or LLM experience, which you have both of. Defense contractor, so check citizenship/clearance requirements first.",
+      "found": "2026-10-12"
+    }
+  ]
+}
