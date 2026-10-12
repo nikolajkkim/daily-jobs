@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:33+00:00",
+ "generated": "2026-10-12T20:46+00:00",
  "feeds_ok": 87,
  "feeds_total": 87,
  "companies": {
@@ -33,7 +33,7 @@
   },
   "Airbnb": {
    "status": "ok",
-   "open_jobs": 159,
+   "open_jobs": 161,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "airbnb"
@@ -82,7 +82,7 @@
   },
   "Coinbase": {
    "status": "ok",
-   "open_jobs": 224,
+   "open_jobs": 223,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "coinbase"
@@ -215,7 +215,7 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 369,
+   "open_jobs": 368,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "waymo"
@@ -250,8 +250,8 @@
   },
   "Notion": {
    "status": "ok",
-   "open_jobs": 131,
-   "matches": 1,
+   "open_jobs": 130,
+   "matches": 0,
    "ats": "ashby",
    "slug": "notion"
   },
