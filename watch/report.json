@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-12T20:30+00:00",
- "feeds_ok": 89,
- "feeds_total": 146,
+ "generated": "2026-10-12T20:31+00:00",
+ "feeds_ok": 87,
+ "feeds_total": 87,
  "companies": {
   "Anthropic": {
    "status": "ok",
@@ -178,11 +178,6 @@
    "ats": "greenhouse",
    "slug": "klaviyo"
   },
-  "Etsy": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "etsy"
-  },
   "Squarespace": {
    "status": "ok",
    "open_jobs": 33,
@@ -204,11 +199,6 @@
    "ats": "greenhouse",
    "slug": "asana"
   },
-  "Grammarly": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "grammarly"
-  },
   "Faire": {
    "status": "ok",
    "open_jobs": 81,
@@ -217,9 +207,11 @@
    "slug": "faire"
   },
   "Gecko Robotics": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "geckorobotics"
+   "status": "ok",
+   "open_jobs": 21,
+   "matches": 1,
+   "ats": "ashby",
+   "slug": "gecko-robotics"
   },
   "Waymo": {
    "status": "ok",
@@ -241,11 +233,6 @@
    "matches": 1,
    "ats": "greenhouse",
    "slug": "nuro"
-  },
-  "Rippling": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "rippling"
   },
   "Ramp": {
    "status": "ok",
@@ -276,9 +263,11 @@
    "slug": "perplexity"
   },
   "Cursor (Anysphere)": {
-   "status": "not found",
+   "status": "ok",
+   "open_jobs": 134,
+   "matches": 0,
    "ats": "ashby",
-   "slug": "anysphere"
+   "slug": "cursor"
   },
   "Linear": {
    "status": "ok",
@@ -322,11 +311,6 @@
    "ats": "ashby",
    "slug": "replit"
   },
-  "Hebbia": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "hebbia"
-  },
   "Mercury": {
    "status": "ok",
    "open_jobs": 0,
@@ -342,8 +326,10 @@
    "slug": "palantir"
   },
   "Plaid": {
-   "status": "not found",
-   "ats": "lever",
+   "status": "ok",
+   "open_jobs": 120,
+   "matches": 0,
+   "ats": "ashby",
    "slug": "plaid"
   },
   "Spotify": {
@@ -416,11 +402,6 @@
    "ats": "greenhouse",
    "slug": "towerresearchcapital"
   },
-  "Two Sigma": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "twosigma"
-  },
   "Bridgewater": {
    "status": "ok",
    "open_jobs": 18,
@@ -457,8 +438,10 @@
    "slug": "clearstreet"
   },
   "Wealthfront": {
-   "status": "not found",
-   "ats": "greenhouse",
+   "status": "ok",
+   "open_jobs": 22,
+   "matches": 0,
+   "ats": "lever",
    "slug": "wealthfront"
   },
   "Betterment": {
@@ -525,8 +508,10 @@
    "slug": "scopely"
   },
   "Niantic": {
-   "status": "not found",
-   "ats": "greenhouse",
+   "status": "ok",
+   "open_jobs": 0,
+   "matches": 0,
+   "ats": "ashby",
    "slug": "niantic"
   },
   "PlayStation": {
@@ -543,37 +528,12 @@
    "ats": "greenhouse",
    "slug": "2k"
   },
-  "Zynga": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "zynga"
-  },
-  "Activision Blizzard": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "activision"
-  },
-  "Electronic Arts": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "ea"
-  },
   "FanDuel": {
    "status": "ok",
    "open_jobs": 79,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "fanduel"
-  },
-  "DraftKings": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "draftkings"
-  },
-  "NBA": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "nba"
   },
   "Twitch": {
    "status": "ok",
@@ -596,32 +556,12 @@
    "ats": "workday",
    "slug": "disney"
   },
-  "Topgolf Callaway Brands": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "topgolfcallawaybrands"
-  },
-  "Arccos Golf": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "arccosgolf"
-  },
   "TrackMan": {
    "status": "ok",
    "open_jobs": 0,
    "matches": 0,
    "ats": "smartrecruiters",
    "slug": "TrackMan"
-  },
-  "PGA TOUR": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "pgatour"
-  },
-  "Acushnet (Titleist)": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "acushnet"
   },
   "TaylorMade": {
    "status": "ok",
@@ -630,281 +570,42 @@
    "ats": "smartrecruiters",
    "slug": "TaylorMadeGolf"
   },
-  "Garmin": {
-   "status": "http 422",
-   "ats": "workday",
-   "slug": "garmin"
-  },
-  "Gecko Robotics#probe-lever-geckorobotics": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "geckorobotics"
-  },
-  "Gecko Robotics#probe-ashby-gecko-robotics": {
-   "status": "ok",
-   "open_jobs": 21,
-   "matches": 1,
-   "ats": "ashby",
-   "slug": "gecko-robotics"
-  },
-  "Gecko Robotics#probe-ashby-geckorobotics": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "geckorobotics"
-  },
-  "Cursor (Anysphere)#probe-ashby-cursor": {
-   "status": "ok",
-   "open_jobs": 134,
-   "matches": 0,
-   "ats": "ashby",
-   "slug": "cursor"
-  },
-  "Grammarly#probe-ashby-grammarly": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "grammarly"
-  },
-  "Grammarly#probe-lever-grammarly": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "grammarly"
-  },
-  "Hebbia#probe-greenhouse-hebbia": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "hebbia"
-  },
-  "Plaid#probe-ashby-plaid": {
-   "status": "ok",
-   "open_jobs": 120,
-   "matches": 0,
-   "ats": "ashby",
-   "slug": "plaid"
-  },
-  "Plaid#probe-greenhouse-plaid": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "plaid"
-  },
-  "Wealthfront#probe-ashby-wealthfront": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "wealthfront"
-  },
-  "Wealthfront#probe-lever-wealthfront": {
-   "status": "ok",
-   "open_jobs": 22,
-   "matches": 0,
-   "ats": "lever",
-   "slug": "wealthfront"
-  },
-  "Niantic#probe-ashby-niantic": {
-   "status": "ok",
-   "open_jobs": 0,
-   "matches": 0,
-   "ats": "ashby",
-   "slug": "niantic"
-  },
-  "Niantic#probe-greenhouse-nianticlabs": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "nianticlabs"
-  },
-  "Niantic#probe-lever-niantic": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "niantic"
-  },
-  "Rippling#probe-lever-rippling": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "rippling"
-  },
-  "Rippling#probe-greenhouse-rippling": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "rippling"
-  },
-  "Arccos Golf#probe-lever-arccosgolf": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "arccosgolf"
-  },
-  "Arccos Golf#probe-ashby-arccos": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "arccos"
-  },
-  "Arccos Golf#probe-lever-arccos": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "arccos"
-  },
-  "DraftKings#probe-lever-draftkings": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "draftkings"
-  },
-  "Etsy#probe-lever-etsy": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "etsy"
-  },
-  "Zynga#probe-lever-zynga": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "zynga"
-  },
-  "NBA#probe-lever-nba": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "nba"
-  },
-  "Two Sigma#probe-lever-twosigma": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "twosigma"
-  },
-  "GOLFTEC#probe-greenhouse-golftec": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "golftec"
-  },
-  "Five Iron Golf#probe-greenhouse-fiveirongolf": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "fiveirongolf"
-  },
-  "Full Swing Golf#probe-lever-fullswinggolf": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "fullswinggolf"
-  },
-  "Sportsbox AI#probe-ashby-sportsbox": {
-   "status": "not found",
-   "ats": "ashby",
-   "slug": "sportsbox"
-  },
-  "Topgolf#probe-greenhouse-topgolf": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "topgolf"
-  },
-  "Bungie#probe-greenhouse-bungie": {
-   "status": "ok",
-   "open_jobs": 2,
-   "matches": 0,
-   "ats": "greenhouse",
-   "slug": "bungie"
-  },
-  "Unity#probe-greenhouse-unity3d": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "unity3d"
-  },
-  "Valve#probe-greenhouse-valve": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "valve"
-  },
-  "Supercell#probe-greenhouse-supercell": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "supercell"
-  },
-  "Netflix#probe-lever-netflix": {
-   "status": "not found",
-   "ats": "lever",
-   "slug": "netflix"
-  },
-  "Snap#probe-greenhouse-snap": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "snap"
-  },
-  "SeatGeek#probe-greenhouse-seatgeek": {
-   "status": "ok",
-   "open_jobs": 34,
-   "matches": 0,
-   "ats": "greenhouse",
-   "slug": "seatgeek"
-  },
-  "Genius Sports#probe-greenhouse-geniussports": {
-   "status": "ok",
-   "open_jobs": 36,
-   "matches": 0,
-   "ats": "greenhouse",
-   "slug": "geniussports"
-  },
-  "Hinge Health#probe-greenhouse-hingehealth": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "hingehealth"
-  },
-  "Citadel#probe-greenhouse-citadel": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "citadel"
-  },
-  "Jane Street#probe-greenhouse-janestreet": {
+  "Jane Street": {
    "status": "ok",
    "open_jobs": 230,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "janestreet"
   },
-  "Optiver#probe-greenhouse-optiver": {
+  "Bungie": {
    "status": "ok",
-   "open_jobs": 0,
+   "open_jobs": 2,
    "matches": 0,
    "ats": "greenhouse",
-   "slug": "optiver"
+   "slug": "bungie"
   },
-  "Susquehanna#probe-greenhouse-sig": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "sig"
-  },
-  "Millennium#probe-greenhouse-millennium": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "millennium"
-  },
-  "Bloomberg#probe-greenhouse-bloomberg": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "bloomberg"
-  },
-  "Nubank#probe-greenhouse-nubank": {
+  "SeatGeek": {
    "status": "ok",
-   "open_jobs": 0,
+   "open_jobs": 34,
    "matches": 0,
    "ats": "greenhouse",
-   "slug": "nubank"
+   "slug": "seatgeek"
   },
-  "Marqeta#probe-greenhouse-marqeta": {
-   "status": "not found",
+  "Genius Sports": {
+   "status": "ok",
+   "open_jobs": 36,
+   "matches": 0,
    "ats": "greenhouse",
-   "slug": "marqeta"
+   "slug": "geniussports"
   },
-  "Peloton#probe-greenhouse-peloton": {
+  "Peloton": {
    "status": "ok",
    "open_jobs": 54,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "peloton"
   },
-  "Strava#probe-greenhouse-strava": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "strava"
-  },
-  "Whoop#probe-greenhouse-whoop": {
-   "status": "not found",
-   "ats": "greenhouse",
-   "slug": "whoop"
-  },
-  "Oura#probe-greenhouse-oura": {
+  "Oura": {
    "status": "ok",
    "open_jobs": 75,
    "matches": 0,
