@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:32+00:00",
+ "generated": "2026-10-12T20:33+00:00",
  "feeds_ok": 87,
  "feeds_total": 87,
  "companies": {
@@ -19,7 +19,7 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 895,
+   "open_jobs": 896,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "databricks"
@@ -33,7 +33,7 @@
   },
   "Airbnb": {
    "status": "ok",
-   "open_jobs": 158,
+   "open_jobs": 159,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "airbnb"
@@ -258,7 +258,7 @@
   "Perplexity": {
    "status": "ok",
    "open_jobs": 134,
-   "matches": 1,
+   "matches": 0,
    "ats": "ashby",
    "slug": "perplexity"
   },

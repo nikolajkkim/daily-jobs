@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12T20:32+00:00",
- "note": "First run: everything currently open counts as new.",
+ "generated": "2026-10-12T20:33+00:00",
+ "note": "Postings first seen (or posted) in the last 3 days and not yet on the site.",
  "candidates": [
   {
    "title": "Applied AI/ML Scientist, Intern",
@@ -283,17 +283,6 @@
    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
    "posted": "2026-05-13",
    "company": "Cohere",
-   "category": "tech",
-   "ats": "ashby",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Internship - Search Machine Learning Engineer",
-   "location": "Belgrade",
-   "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "posted": "2026-01-13",
-   "company": "Perplexity",
    "category": "tech",
    "ats": "ashby",
    "first_seen": "2026-10-12",
