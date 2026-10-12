@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12T20:24+00:00",
- "note": "First run: everything currently open counts as new.",
+ "generated": "2026-10-12T20:30+00:00",
+ "note": "Postings first seen (or posted) in the last 3 days and not yet on the site.",
  "candidates": [
   {
    "title": "2027 Quantitative Research Intern",
@@ -153,6 +153,17 @@
    "company": "Epic Games",
    "category": "gaming",
    "ats": "greenhouse",
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12"
+  },
+  {
+   "title": "AI/Machine Learning Engineering Intern",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8",
+   "posted": "2026-09-16",
+   "company": "Gecko Robotics#probe-ashby-gecko-robotics",
+   "category": "probe",
+   "ats": "ashby",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-12"
   },
@@ -428,17 +439,6 @@
    "company": "IMC Trading",
    "category": "finance",
    "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Machine Learning Intern/Co-op  (Winter 2027)",
-   "location": "Canada / Europe / United States / United Kingdom / Remote",
-   "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "posted": "2026-05-13",
-   "company": "Cohere",
-   "category": "tech",
-   "ats": "ashby",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-12"
   }
