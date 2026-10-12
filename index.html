@@ -98,6 +98,21 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
 .foot b { color: var(--muted); font-weight: 500; }
 .toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 16px; border-radius: 99px; font-size: 13px; display: flex; gap: 14px; align-items: center; z-index: 5; box-shadow: 0 6px 24px rgba(0,0,0,.12); }
 .toast button { background: none; border: 0; color: var(--bg); text-decoration: underline; font: 500 13px var(--f-body); cursor: pointer; }
+.sync { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 13px; color: var(--muted); }
+.sync .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--faint); }
+.sync.on .dot { background: var(--accent); }
+.sync.wait .dot { background: var(--stretch); }
+.link { background: none; border: 0; padding: 0; font: 500 13px var(--f-body); color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--faint); cursor: pointer; }
+.link:hover { text-decoration-color: var(--ink); }
+.signin { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 4px; }
+.signin label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.signin input { font: 14px var(--f-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 99px; padding: 7px 14px; min-width: 0; flex: 1 1 220px; }
+.signin input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.tstatus { font-size: 12px; padding: 1px 8px; border-radius: 99px; background: var(--line); color: var(--muted); font-weight: 500; }
+.tstatus.s-phone-screen, .tstatus.s-onsite { background: var(--stretch-bg); color: var(--stretch); }
+.tstatus.s-offer { background: var(--strong-bg); color: var(--strong); }
+.tstatus.s-applied { background: var(--good-bg); color: var(--good); }
+.pending { font-size: 12.5px; color: var(--stretch); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 [hidden] { display: none !important; }
 </style>
@@ -109,6 +124,17 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     <h1>Daily Jobs</h1>
     <p class="sub">Data science and ML internships matched to your resume, found each morning so you can apply in the first wave.</p>
     <div class="scan" id="scan"><span>Loading your list…</span></div>
+    <div class="sync" id="sync" hidden>
+      <span class="dot" id="syncDot" aria-hidden="true"></span>
+      <span id="syncText"></span>
+      <button class="link" id="syncAction" type="button"></button>
+    </div>
+    <form class="signin" id="signin" hidden>
+      <label for="email">Your email</label>
+      <input id="email" type="email" autocomplete="email" required placeholder="you@example.com">
+      <button class="btn primary" type="submit" id="signinBtn">Email me a sign-in link</button>
+      <button class="btn quiet" type="button" id="signinCancel">Cancel</button>
+    </form>
   </header>
 
   <section id="newSec">
@@ -130,11 +156,17 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
       <summary>Skipped <span class="count" id="skippedCount">0</span></summary>
       <div id="skippedList"></div>
     </details>
+    <details id="trackerBox" hidden>
+      <summary>Your tracker <span class="count" id="trackerCount">0</span></summary>
+      <div id="trackerList"></div>
+    </details>
   </section>
 
   <p class="foot">Fit levels: <b>strong</b> lines up with your RL, LLM/retrieval or applied ML work and your Dec 2027 graduation; <b>good</b> matches the role but with a gap; <b>stretch</b> is worth a shot but asks for more than the resume shows. Always check the posting is still open before applying.</p>
 </div>
 <div class="toast" id="toast" hidden><span id="toastMsg"></span><button id="toastUndo" type="button">Undo</button></div>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 
 <script>
 (function () {
@@ -142,19 +174,47 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
   const tz = "America/New_York";
   const KEY = "daily-jobs:status";
   const todayISO = new Intl.DateTimeFormat("en-CA", { timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
-  const fmt = (iso) => { if (!iso) return ""; const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }); };
+  const fmt = (iso) => { const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso || ""); if (!m) return iso || ""; return new Date(Date.UTC(+m[1], +m[2] - 1, +m[3], 12)).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }); };
   const fitRank = { strong: 0, good: 1, stretch: 2 };
-  let jobs = [], meta = null, toastTimer = null;
   $("today").textContent = new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: tz });
 
-  // Your applied/skipped marks live in this browser only.
-  function loadMarks() { try { return JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch { return {}; } }
-  function saveMarks(m) { try { localStorage.setItem(KEY, JSON.stringify(m)); return true; } catch { return false; } }
-  let marks = loadMarks();
+  // ---------- state
+  let jobs = [], meta = null, toastTimer = null;
+  let marks = {};          // job_id -> {status, on, synced}
+  let tracker = [];        // rows mirrored from tracker.xlsx
+  let sb = null, session = null;
 
+  // ---------- matching (keep in step with daily-jobs-sync/sync.py)
+  const STOP = new Set("intern internship summer spring fall winter co op coop the a an of and for to in at program 2025 2026 2027 2028 bs ms phd masters master s".split(" "));
+  const norm = (s) => (s || "").toLowerCase().replace(/[‐-―]/g, " ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+  const companyRoot = (c) => norm((c || "").replace(/\(.*?\)/g, " ")).split(" ").filter((w) => w && w !== "the")[0] || "";
+  const titleTokens = (t) => new Set(norm(t).split(" ").filter((w) => w && !STOP.has(w)));
+  function sameJob(ca, ta, cb, tb) {
+    const r = companyRoot(ca); if (!r || r !== companyRoot(cb)) return false;
+    const a = titleTokens(ta), b = titleTokens(tb); if (!a.size || !b.size) return false;
+    let inter = 0; a.forEach((w) => { if (b.has(w)) inter++; });
+    const union = a.size + b.size - inter;
+    return inter / union >= 0.6 || inter === a.size || inter === b.size;
+  }
+  const trackerMatch = (j) => tracker.find((r) => sameJob(r.company, r.role, j.company, j.title)) || null;
+
+  // ---------- local fallback storage (signed out)
+  function loadLocal() { try { return JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch { return {}; } }
+  function saveLocal(m) { try { localStorage.setItem(KEY, JSON.stringify(m)); return true; } catch { return false; } }
+
+  // ---------- helpers
   function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
   function safeUrl(u) { try { const x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x.href : null; } catch { return null; } }
-  function statusOf(j) { return (marks[j.id] && marks[j.id].status) || "todo"; }
+  const slug = (s) => norm(s).replace(/ /g, "-");
+
+  // A job's state: your own mark wins; otherwise a matching tracker row counts as applied.
+  function stateOf(j) {
+    const m = marks[j.id];
+    const t = trackerMatch(j);
+    if (m) return { status: m.status, on: m.on, synced: m.synced, tracker: t };
+    if (t) return { status: "applied", on: t.date_added, synced: true, tracker: t, fromTracker: true };
+    return { status: "todo", tracker: null };
+  }
 
   function jobBody(j, compact) {
     const main = el("div", "main");
@@ -173,18 +233,32 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     return main;
   }
 
+  function postingLink(j, quiet) {
+    const href = safeUrl(j.url); if (!href) return null;
+    const l = el("a", quiet ? "btn quiet" : "btn", quiet ? "Posting ↗" : "Open posting ↗");
+    l.href = href; l.target = "_blank"; l.rel = "noopener"; return l;
+  }
+
   function actionBar(j) {
     const a = el("div", "actions");
-    const href = safeUrl(j.url);
-    const st = statusOf(j);
-    if (st === "todo") {
-      if (href) { const l = el("a", "btn", "Open posting ↗"); l.href = href; l.target = "_blank"; l.rel = "noopener"; a.append(l); }
+    const st = stateOf(j);
+    if (st.status === "todo") {
+      const p = postingLink(j, false); if (p) a.append(p);
       const ap = el("button", "btn primary", "Mark applied"); ap.type = "button"; ap.onclick = () => setStatus(j, "applied");
       const sk = el("button", "btn quiet", "Skip"); sk.type = "button"; sk.onclick = () => setStatus(j, "skipped");
       a.append(ap, sk);
-    } else {
-      if (st === "applied" && marks[j.id].on) a.append(el("span", "stamp", "Applied " + fmt(marks[j.id].on)));
-      if (href) { const l = el("a", "btn quiet", "Posting ↗"); l.href = href; l.target = "_blank"; l.rel = "noopener"; a.append(l); }
+      return a;
+    }
+    if (st.status === "applied") {
+      if (st.tracker) {
+        a.append(el("span", "tstatus s-" + slug(st.tracker.status || "applied"), "Tracker: " + (st.tracker.status || "Applied")));
+      } else if (st.on) {
+        a.append(el("span", "stamp", "Applied " + fmt(st.on)));
+      }
+      if (session && !st.synced && !st.tracker) a.append(el("span", "pending", "Waiting for your Mac to add it"));
+    }
+    const p = postingLink(j, true); if (p) a.append(p);
+    if (!st.fromTracker && !(st.status === "applied" && st.tracker)) {
       const u = el("button", "btn quiet", "Move back"); u.type = "button"; u.onclick = () => setStatus(j, "todo"); a.append(u);
     }
     return a;
@@ -197,13 +271,33 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     return box;
   }
 
+  function trackerList() {
+    const order = ["Offer", "Onsite", "Phone Screen", "Applied", "Drafted", "Rejected", "Withdrawn"];
+    const rank = (s) => { const i = order.indexOf(s); return i < 0 ? order.length : i; };
+    const rows = tracker.slice().sort((a, b) => (rank(a.status) - rank(b.status)) || String(b.date_added).localeCompare(String(a.date_added)));
+    if (!rows.length) return el("div", "empty", "Nothing synced from tracker.xlsx yet.");
+    const box = el("div", "rows");
+    rows.forEach((r) => {
+      const row = el("div", "row");
+      const main = el("div", "main");
+      const co = el("div", "co"); co.append(el("span", null, r.company)); main.append(co);
+      main.append(el("p", "title", r.role));
+      if (r.date_added) { const m = el("div", "meta"); m.append(el("span", null, "Added " + fmt(r.date_added))); main.append(m); }
+      const a = el("div", "actions"); a.append(el("span", "tstatus s-" + slug(r.status || "applied"), r.status || "Applied"));
+      row.append(main, a); box.append(row);
+    });
+    return box;
+  }
+
+  // ---------- render
   function render() {
     const latest = (meta && meta.date) || jobs.reduce((m, j) => (j.found > m ? j.found : m), "");
-    const todo = jobs.filter((j) => statusOf(j) === "todo");
+    const withState = jobs.map((j) => [j, stateOf(j)]);
+    const todo = withState.filter(([, s]) => s.status === "todo").map(([j]) => j);
     const fresh = todo.filter((j) => j.found === latest).sort((a, b) => (fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3));
     const backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
-    const applied = jobs.filter((j) => statusOf(j) === "applied").sort((a, b) => String(marks[b.id].on).localeCompare(String(marks[a.id].on)));
-    const skipped = jobs.filter((j) => statusOf(j) === "skipped");
+    const applied = withState.filter(([, s]) => s.status === "applied").sort((a, b) => String(b[1].on).localeCompare(String(a[1].on))).map(([j]) => j);
+    const skipped = withState.filter(([, s]) => s.status === "skipped").map(([j]) => j);
 
     const scan = $("scan"); scan.replaceChildren();
     if (latest) {
@@ -224,9 +318,33 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     $("backCount").textContent = backlog.length ? backlog.length + " roles" : "";
     $("backList").replaceChildren(rowList(backlog, "Nothing older waiting. Roles you don't get to on their first day move here."));
     $("appliedCount").textContent = applied.length;
-    $("appliedList").replaceChildren(rowList(applied, "Mark a role as applied and it moves here with the date."));
+    $("appliedList").replaceChildren(rowList(applied, "Mark a role as applied and it moves here."));
     $("skippedCount").textContent = skipped.length;
     $("skippedList").replaceChildren(rowList(skipped, "Skipped roles land here."));
+    $("trackerBox").hidden = !session;
+    $("trackerCount").textContent = tracker.length;
+    if (session) $("trackerList").replaceChildren(trackerList());
+    renderSync();
+  }
+
+  function renderSync() {
+    const box = $("sync"), act = $("syncAction");
+    if (!sb) { box.hidden = true; return; }
+    box.hidden = false;
+    box.classList.remove("on", "wait");
+    if (!session) {
+      $("syncText").textContent = "Saved in this browser only.";
+      act.textContent = "Sign in to sync with your tracker";
+      act.onclick = () => { $("signin").hidden = false; $("email").focus(); };
+      return;
+    }
+    const waiting = Object.values(marks).filter((m) => m.status === "applied" && !m.synced).length;
+    box.classList.add(waiting ? "wait" : "on");
+    $("syncText").textContent = waiting
+      ? `Linked to tracker.xlsx · ${waiting} waiting for your Mac to sync`
+      : `Linked to tracker.xlsx · ${tracker.length} applications`;
+    act.textContent = "Sign out";
+    act.onclick = async () => { await sb.auth.signOut(); };
   }
 
   function showToast(msg, undo) {
@@ -235,21 +353,113 @@ details .rows, details .empty { margin: 4px 0 12px 16px; }
     clearTimeout(toastTimer); toastTimer = setTimeout(() => { $("toast").hidden = true; }, 5000);
   }
 
-  function setStatus(j, status) {
-    const prev = marks[j.id] ? Object.assign({}, marks[j.id]) : null;
-    if (status === "todo") delete marks[j.id];
-    else marks[j.id] = { status, on: todayISO };
-    const ok = saveMarks(marks);
-    render();
-    if (!ok) { showToast("This browser isn't saving changes (private window?). They'll reset on reload.", null); return; }
-    const label = status === "applied" ? "Marked applied" : status === "skipped" ? "Skipped" : "Moved back to your list";
-    showToast(label, status === "todo" ? null : () => { if (prev) marks[j.id] = prev; else delete marks[j.id]; saveMarks(marks); render(); });
+  // ---------- writes
+  async function writeMark(j, status, prev) {
+    if (session) {
+      if (status === "todo") {
+        const { error } = await sb.from("job_marks").delete().eq("job_id", j.id);
+        if (error) throw error;
+      } else {
+        const row = { job_id: j.id, status, company: j.company, title: j.title, url: j.url || null, why: j.why || null,
+                      marked_on: (prev && prev.on) || todayISO, synced_at: (prev && prev.syncedAt) || null };
+        const { error } = await sb.from("job_marks").upsert(row, { onConflict: "job_id" });
+        if (error) throw error;
+      }
+    } else {
+      const local = loadLocal();
+      if (status === "todo") delete local[j.id]; else local[j.id] = { status, on: (prev && prev.on) || todayISO };
+      if (!saveLocal(local)) throw new Error("storage");
+    }
   }
 
-  fetch("jobs.json?t=" + Date.now(), { cache: "no-store" })
+  async function setStatus(j, status) {
+    const prev = marks[j.id] ? Object.assign({}, marks[j.id]) : null;
+    if (status === "todo") delete marks[j.id]; else marks[j.id] = { status, on: todayISO, synced: false };
+    render();
+    try {
+      await writeMark(j, status, null);
+    } catch (e) {
+      if (prev) marks[j.id] = prev; else delete marks[j.id];
+      render();
+      showToast(session ? "Couldn't save that. Check your connection and try again." : "This browser isn't saving changes (private window?).", null);
+      return;
+    }
+    const label = status === "applied" ? (session ? "Marked applied · it'll land in your tracker on the next sync" : "Marked applied")
+                : status === "skipped" ? "Skipped" : "Moved back to your list";
+    showToast(label, status === "todo" ? null : async () => {
+      if (prev) marks[j.id] = prev; else delete marks[j.id];
+      render();
+      try { await writeMark(j, prev ? prev.status : "todo", prev); } catch { showToast("Couldn't undo. Try Move back.", null); }
+    });
+  }
+
+  // ---------- reads
+  async function loadRemote() {
+    if (!session) { marks = {}; Object.entries(loadLocal()).forEach(([id, m]) => { marks[id] = { status: m.status, on: m.on, synced: false }; }); tracker = []; render(); return; }
+    const [mk, tr] = await Promise.all([
+      sb.from("job_marks").select("job_id,status,marked_on,synced_at"),
+      sb.from("tracker_rows").select("company,role,status,date_added"),
+    ]);
+    if (mk.error || tr.error) {
+      $("syncText").textContent = "Signed in, but this email can't read the list. Check the email in schema.sql.";
+      return;
+    }
+    marks = {};
+    (mk.data || []).forEach((r) => { marks[r.job_id] = { status: r.status, on: r.marked_on, synced: !!r.synced_at, syncedAt: r.synced_at }; });
+    tracker = tr.data || [];
+    render();
+  }
+
+  // Move anything marked while signed out into the database, once.
+  async function adoptLocalMarks() {
+    const local = loadLocal(); const ids = Object.keys(local).filter((id) => !marks[id]);
+    if (!ids.length) return;
+    const byId = Object.fromEntries(jobs.map((j) => [j.id, j]));
+    const rows = ids.filter((id) => byId[id]).map((id) => ({ job_id: id, status: local[id].status, company: byId[id].company, title: byId[id].title,
+      url: byId[id].url || null, why: byId[id].why || null, marked_on: local[id].on || todayISO }));
+    if (!rows.length) return;
+    const { error } = await sb.from("job_marks").upsert(rows, { onConflict: "job_id" });
+    if (!error) { saveLocal({}); await loadRemote(); }
+  }
+
+  // ---------- sign in
+  $("signin").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const email = $("email").value.trim(); if (!email) return;
+    $("signinBtn").disabled = true;
+    const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname } });
+    $("signinBtn").disabled = false;
+    if (error) { showToast("Couldn't send the link: " + error.message, null); return; }
+    $("signin").hidden = true;
+    showToast("Check your email for the sign-in link.", null);
+  });
+  $("signinCancel").onclick = () => { $("signin").hidden = true; };
+
+  // ---------- boot
+  const cfg = window.DAILY_JOBS_CONFIG || {};
+  if (cfg.supabaseUrl && cfg.supabaseKey && window.supabase && window.supabase.createClient) {
+    sb = window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey);
+  }
+
+  const jobsReady = fetch("jobs.json?t=" + Date.now(), { cache: "no-store" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then((d) => { jobs = Array.isArray(d.jobs) ? d.jobs : []; meta = d.lastRun || null; render(); })
+    .then((d) => { jobs = Array.isArray(d.jobs) ? d.jobs : []; meta = d.lastRun || null; })
     .catch(() => { $("scan").replaceChildren(el("span", null, "Couldn't load the job list. Refresh in a minute.")); });
+
+  (async () => {
+    await jobsReady;
+    if (!sb) { await loadRemote(); return; }
+    const { data } = await sb.auth.getSession();
+    session = data.session;
+    await loadRemote();
+    if (session) adoptLocalMarks();
+    sb.auth.onAuthStateChange(async (_evt, s) => {
+      const was = !!session; session = s;
+      if (was !== !!session) { await loadRemote(); if (session) adoptLocalMarks(); }
+    });
+    // Pick up the Mac's latest sync when you come back to the tab.
+    document.addEventListener("visibilitychange", () => { if (!document.hidden && session) loadRemote(); });
+  })();
 })();
 </script>
 </body>
