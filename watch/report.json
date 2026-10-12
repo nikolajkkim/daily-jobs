@@ -1,0 +1,639 @@
+{
+ "generated": "2026-10-12T20:24+00:00",
+ "feeds_ok": 76,
+ "feeds_total": 96,
+ "companies": {
+  "Anthropic": {
+   "status": "ok",
+   "open_jobs": 647,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "anthropic"
+  },
+  "Scale AI": {
+   "status": "ok",
+   "open_jobs": 184,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "scaleai"
+  },
+  "Databricks": {
+   "status": "ok",
+   "open_jobs": 894,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "databricks"
+  },
+  "Stripe": {
+   "status": "ok",
+   "open_jobs": 722,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "stripe"
+  },
+  "Airbnb": {
+   "status": "ok",
+   "open_jobs": 158,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "airbnb"
+  },
+  "Figma": {
+   "status": "ok",
+   "open_jobs": 151,
+   "matches": 2,
+   "ats": "greenhouse",
+   "slug": "figma"
+  },
+  "DoorDash": {
+   "status": "ok",
+   "open_jobs": 462,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "doordashusa"
+  },
+  "Lyft": {
+   "status": "ok",
+   "open_jobs": 188,
+   "matches": 3,
+   "ats": "greenhouse",
+   "slug": "lyft"
+  },
+  "Instacart": {
+   "status": "ok",
+   "open_jobs": 121,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "instacart"
+  },
+  "Pinterest": {
+   "status": "ok",
+   "open_jobs": 178,
+   "matches": 4,
+   "ats": "greenhouse",
+   "slug": "pinterest"
+  },
+  "Reddit": {
+   "status": "ok",
+   "open_jobs": 142,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "reddit"
+  },
+  "Coinbase": {
+   "status": "ok",
+   "open_jobs": 224,
+   "matches": 6,
+   "ats": "greenhouse",
+   "slug": "coinbase"
+  },
+  "Robinhood": {
+   "status": "ok",
+   "open_jobs": 181,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "robinhood"
+  },
+  "Datadog": {
+   "status": "ok",
+   "open_jobs": 433,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "datadog"
+  },
+  "Cloudflare": {
+   "status": "ok",
+   "open_jobs": 434,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "cloudflare"
+  },
+  "Samsara": {
+   "status": "ok",
+   "open_jobs": 236,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "samsara"
+  },
+  "MongoDB": {
+   "status": "ok",
+   "open_jobs": 395,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "mongodb"
+  },
+  "Duolingo": {
+   "status": "ok",
+   "open_jobs": 60,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "duolingo"
+  },
+  "Airtable": {
+   "status": "ok",
+   "open_jobs": 3,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "airtable"
+  },
+  "Brex": {
+   "status": "ok",
+   "open_jobs": 276,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "brex"
+  },
+  "Affirm": {
+   "status": "ok",
+   "open_jobs": 201,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "affirm"
+  },
+  "SoFi": {
+   "status": "ok",
+   "open_jobs": 49,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "sofi"
+  },
+  "Chime": {
+   "status": "ok",
+   "open_jobs": 67,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "chime"
+  },
+  "Toast": {
+   "status": "ok",
+   "open_jobs": 318,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "toast"
+  },
+  "Klaviyo": {
+   "status": "ok",
+   "open_jobs": 145,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "klaviyo"
+  },
+  "Etsy": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "etsy"
+  },
+  "Squarespace": {
+   "status": "ok",
+   "open_jobs": 33,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "squarespace"
+  },
+  "Dropbox": {
+   "status": "ok",
+   "open_jobs": 32,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "dropbox"
+  },
+  "Asana": {
+   "status": "ok",
+   "open_jobs": 102,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "asana"
+  },
+  "Grammarly": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "grammarly"
+  },
+  "Faire": {
+   "status": "ok",
+   "open_jobs": 81,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "faire"
+  },
+  "Gecko Robotics": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "geckorobotics"
+  },
+  "Waymo": {
+   "status": "ok",
+   "open_jobs": 369,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "waymo"
+  },
+  "Anduril": {
+   "status": "ok",
+   "open_jobs": 2491,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "andurilindustries"
+  },
+  "Nuro": {
+   "status": "ok",
+   "open_jobs": 105,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "nuro"
+  },
+  "Rippling": {
+   "status": "not found",
+   "ats": "ashby",
+   "slug": "rippling"
+  },
+  "Ramp": {
+   "status": "ok",
+   "open_jobs": 165,
+   "matches": 1,
+   "ats": "ashby",
+   "slug": "ramp"
+  },
+  "OpenAI": {
+   "status": "ok",
+   "open_jobs": 809,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "openai"
+  },
+  "Notion": {
+   "status": "ok",
+   "open_jobs": 131,
+   "matches": 1,
+   "ats": "ashby",
+   "slug": "notion"
+  },
+  "Perplexity": {
+   "status": "ok",
+   "open_jobs": 134,
+   "matches": 2,
+   "ats": "ashby",
+   "slug": "perplexity"
+  },
+  "Cursor (Anysphere)": {
+   "status": "not found",
+   "ats": "ashby",
+   "slug": "anysphere"
+  },
+  "Linear": {
+   "status": "ok",
+   "open_jobs": 31,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "linear"
+  },
+  "Harvey": {
+   "status": "ok",
+   "open_jobs": 351,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "harvey"
+  },
+  "Cohere": {
+   "status": "ok",
+   "open_jobs": 119,
+   "matches": 1,
+   "ats": "ashby",
+   "slug": "cohere"
+  },
+  "ElevenLabs": {
+   "status": "ok",
+   "open_jobs": 132,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "elevenlabs"
+  },
+  "Runway": {
+   "status": "ok",
+   "open_jobs": 3,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "runway"
+  },
+  "Replit": {
+   "status": "ok",
+   "open_jobs": 69,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "replit"
+  },
+  "Hebbia": {
+   "status": "not found",
+   "ats": "ashby",
+   "slug": "hebbia"
+  },
+  "Mercury": {
+   "status": "ok",
+   "open_jobs": 0,
+   "matches": 0,
+   "ats": "ashby",
+   "slug": "mercury"
+  },
+  "Palantir": {
+   "status": "ok",
+   "open_jobs": 309,
+   "matches": 0,
+   "ats": "lever",
+   "slug": "palantir"
+  },
+  "Plaid": {
+   "status": "not found",
+   "ats": "lever",
+   "slug": "plaid"
+  },
+  "Spotify": {
+   "status": "ok",
+   "open_jobs": 83,
+   "matches": 0,
+   "ats": "lever",
+   "slug": "spotify"
+  },
+  "Zoox": {
+   "status": "ok",
+   "open_jobs": 237,
+   "matches": 0,
+   "ats": "lever",
+   "slug": "zoox"
+  },
+  "Shield AI": {
+   "status": "ok",
+   "open_jobs": 611,
+   "matches": 0,
+   "ats": "lever",
+   "slug": "shieldai"
+  },
+  "IMC Trading": {
+   "status": "ok",
+   "open_jobs": 176,
+   "matches": 3,
+   "ats": "greenhouse",
+   "slug": "imc"
+  },
+  "Point72": {
+   "status": "ok",
+   "open_jobs": 221,
+   "matches": 5,
+   "ats": "greenhouse",
+   "slug": "point72"
+  },
+  "Jump Trading": {
+   "status": "ok",
+   "open_jobs": 105,
+   "matches": 5,
+   "ats": "greenhouse",
+   "slug": "jumptrading"
+  },
+  "Akuna Capital": {
+   "status": "ok",
+   "open_jobs": 42,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "akunacapital"
+  },
+  "DRW": {
+   "status": "ok",
+   "open_jobs": 174,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "drweng"
+  },
+  "Hudson River Trading": {
+   "status": "ok",
+   "open_jobs": 87,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "wehrtyou"
+  },
+  "Tower Research Capital": {
+   "status": "ok",
+   "open_jobs": 94,
+   "matches": 1,
+   "ats": "greenhouse",
+   "slug": "towerresearchcapital"
+  },
+  "Two Sigma": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "twosigma"
+  },
+  "Bridgewater": {
+   "status": "ok",
+   "open_jobs": 18,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "bridgewater89"
+  },
+  "AQR": {
+   "status": "ok",
+   "open_jobs": 53,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "aqr"
+  },
+  "Schonfeld": {
+   "status": "ok",
+   "open_jobs": 68,
+   "matches": 2,
+   "ats": "greenhouse",
+   "slug": "schonfeld"
+  },
+  "Old Mission": {
+   "status": "ok",
+   "open_jobs": 38,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "oldmissioncapital"
+  },
+  "Clear Street": {
+   "status": "ok",
+   "open_jobs": 45,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "clearstreet"
+  },
+  "Wealthfront": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "wealthfront"
+  },
+  "Betterment": {
+   "status": "ok",
+   "open_jobs": 25,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "betterment"
+  },
+  "Capital One": {
+   "status": "ok",
+   "open_jobs": 60,
+   "matches": 0,
+   "ats": "workday",
+   "slug": "capitalone"
+  },
+  "BlackRock": {
+   "status": "ok",
+   "open_jobs": 51,
+   "matches": 0,
+   "ats": "workday",
+   "slug": "blackrock"
+  },
+  "Morgan Stanley": {
+   "status": "ok",
+   "open_jobs": 60,
+   "matches": 0,
+   "ats": "workday",
+   "slug": "ms"
+  },
+  "Riot Games": {
+   "status": "ok",
+   "open_jobs": 155,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "riotgames"
+  },
+  "Epic Games": {
+   "status": "ok",
+   "open_jobs": 141,
+   "matches": 2,
+   "ats": "greenhouse",
+   "slug": "epicgames"
+  },
+  "Roblox": {
+   "status": "ok",
+   "open_jobs": 263,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "roblox"
+  },
+  "Discord": {
+   "status": "ok",
+   "open_jobs": 49,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "discord"
+  },
+  "Scopely": {
+   "status": "ok",
+   "open_jobs": 177,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "scopely"
+  },
+  "Niantic": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "niantic"
+  },
+  "PlayStation": {
+   "status": "ok",
+   "open_jobs": 203,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "sonyinteractiveentertainmentglobal"
+  },
+  "2K": {
+   "status": "ok",
+   "open_jobs": 121,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "2k"
+  },
+  "Zynga": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "zynga"
+  },
+  "Activision Blizzard": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "activision"
+  },
+  "Electronic Arts": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "ea"
+  },
+  "FanDuel": {
+   "status": "ok",
+   "open_jobs": 79,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "fanduel"
+  },
+  "DraftKings": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "draftkings"
+  },
+  "NBA": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "nba"
+  },
+  "Twitch": {
+   "status": "ok",
+   "open_jobs": 52,
+   "matches": 0,
+   "ats": "greenhouse",
+   "slug": "twitch"
+  },
+  "Warner Bros. Discovery": {
+   "status": "ok",
+   "open_jobs": 52,
+   "matches": 0,
+   "ats": "workday",
+   "slug": "warnerbros"
+  },
+  "Disney": {
+   "status": "ok",
+   "open_jobs": 60,
+   "matches": 0,
+   "ats": "workday",
+   "slug": "disney"
+  },
+  "Topgolf Callaway Brands": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "topgolfcallawaybrands"
+  },
+  "Arccos Golf": {
+   "status": "not found",
+   "ats": "greenhouse",
+   "slug": "arccosgolf"
+  },
+  "TrackMan": {
+   "status": "ok",
+   "open_jobs": 0,
+   "matches": 0,
+   "ats": "smartrecruiters",
+   "slug": "TrackMan"
+  },
+  "PGA TOUR": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "pgatour"
+  },
+  "Acushnet (Titleist)": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "acushnet"
+  },
+  "TaylorMade": {
+   "status": "ok",
+   "open_jobs": 0,
+   "matches": 0,
+   "ats": "smartrecruiters",
+   "slug": "TaylorMadeGolf"
+  },
+  "Garmin": {
+   "status": "http 422",
+   "ats": "workday",
+   "slug": "garmin"
+  }
+ }
+}
