@@ -1,18 +1,7 @@
 {
- "generated": "2026-10-12T20:31+00:00",
- "note": "Postings first seen (or posted) in the last 3 days and not yet on the site.",
+ "generated": "2026-10-12T20:32+00:00",
+ "note": "First run: everything currently open counts as new.",
  "candidates": [
-  {
-   "title": "2027 Quantitative Research Intern",
-   "location": "Austin, Texas, United States",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
-   "posted": "2026-10-09",
-   "company": "Schonfeld",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
   {
    "title": "Applied AI/ML Scientist, Intern",
    "location": "San Francisco, CA",
@@ -58,28 +47,6 @@
    "last_seen": "2026-10-12"
   },
   {
-   "title": "Data Analyst, Intern",
-   "location": "New York, Seattle, South San Francisco HQ",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-   "posted": "2026-10-01",
-   "company": "Stripe",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Machine Learning Intern 2027 (Toronto)",
-   "location": "Toronto, ON, CA",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
-   "posted": "2026-10-01",
-   "company": "Pinterest",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "title": "Master's Data Science Internship 2027 (USA)",
    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
@@ -94,17 +61,6 @@
    "title": "Master's Machine Learning Internship 2027 (USA)",
    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
-   "posted": "2026-10-01",
-   "company": "Pinterest",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "UX Quantitative Research Intern (USA)",
-   "location": "Remote, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
    "posted": "2026-10-01",
    "company": "Pinterest",
    "category": "tech",
@@ -135,17 +91,6 @@
    "last_seen": "2026-10-12"
   },
   {
-   "title": "Internal Audit Analytics Intern",
-   "location": "Hybrid - New York, NY",
-   "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
-   "posted": "2026-09-21",
-   "company": "Coinbase",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "title": "Data Science Intern",
    "location": "Cary,North Carolina,United States",
    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
@@ -161,8 +106,8 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8",
    "posted": "2026-09-16",
-   "company": "Gecko Robotics#probe-ashby-gecko-robotics",
-   "category": "probe",
+   "company": "Gecko Robotics",
+   "category": "tech",
    "ats": "ashby",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-12"
@@ -184,28 +129,6 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
    "posted": "2026-09-14",
    "company": "Figma",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-   "location": "Menlo Park, CA",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
-   "posted": "2026-09-14",
-   "company": "Robinhood",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Data Analyst Intern (Summer 2027)",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
-   "posted": "2026-09-11",
-   "company": "Lyft",
    "category": "tech",
    "ats": "greenhouse",
    "first_seen": "2026-10-12",
@@ -278,50 +201,6 @@
    "last_seen": "2026-10-12"
   },
   {
-   "title": "People Analytics Intern",
-   "location": "Hybrid - New York, NY",
-   "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
-   "posted": "2026-09-08",
-   "company": "Coinbase",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "2027 Business Analytics Intern",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
-   "posted": "2026-09-04",
-   "company": "Schonfeld",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Internship - Machine Learning Research Engineer",
-   "location": "Berlin / Remote",
-   "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-   "posted": "2026-09-02",
-   "company": "Perplexity",
-   "category": "tech",
-   "ats": "ashby",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Intern - AI/ML",
-   "location": "Gurgaon",
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
-   "posted": "2026-08-20",
-   "company": "Tower Research Capital",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "title": "Data Science Intern (Winter 2027)",
    "location": "San Francisco, California / Remote",
    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
@@ -339,28 +218,6 @@
    "posted": "2026-08-07",
    "company": "Epic Games",
    "category": "gaming",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Quantitative Research Intern, Summer 2027",
-   "location": "Chicago, IL ",
-   "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-   "posted": "2026-07-13",
-   "company": "Akuna Capital",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "title": "Quantitative Research Intern",
-   "location": "Chicago, New York City",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-   "posted": "2026-07-13",
-   "company": "DRW",
-   "category": "finance",
    "ats": "greenhouse",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-12"
@@ -410,17 +267,6 @@
    "last_seen": "2026-10-12"
   },
   {
-   "title": "Campus Quantitative Researcher, UG/MS (Intern)",
-   "location": "Chicago; New York",
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
-   "posted": "2026-07-08",
-   "company": "Jump Trading",
-   "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
    "location": "New York, United States",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
@@ -432,11 +278,44 @@
    "last_seen": "2026-10-12"
   },
   {
-   "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
-   "location": "Chicago, United States",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
-   "posted": "2026-07-01",
-   "company": "IMC Trading",
+   "title": "Machine Learning Intern/Co-op  (Winter 2027)",
+   "location": "Canada / Europe / United States / United Kingdom / Remote",
+   "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+   "posted": "2026-05-13",
+   "company": "Cohere",
+   "category": "tech",
+   "ats": "ashby",
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12"
+  },
+  {
+   "title": "Internship - Search Machine Learning Engineer",
+   "location": "Belgrade",
+   "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+   "posted": "2026-01-13",
+   "company": "Perplexity",
+   "category": "tech",
+   "ats": "ashby",
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12"
+  },
+  {
+   "title": "Software Engineer, AI Platform - Intern",
+   "location": "Mountain View, California (HQ)",
+   "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+   "posted": "2025-10-22",
+   "company": "Nuro",
+   "category": "tech",
+   "ats": "greenhouse",
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12"
+  },
+  {
+   "title": "Machine Learning Researcher - Intern",
+   "location": "New York",
+   "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+   "posted": "2024-08-15",
+   "company": "Point72",
    "category": "finance",
    "ats": "greenhouse",
    "first_seen": "2026-10-12",
