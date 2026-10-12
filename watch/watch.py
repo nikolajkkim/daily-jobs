@@ -32,7 +32,7 @@ UA = {"User-Agent": "daily-jobs-watch/1.0 (personal job tracker)"}
 ROLE = re.compile(r"\b(data|machine learning|ml|ai|artificial intelligence|applied scien\w*|research scien\w*|"
                   r"analytics|deep learning|computer vision|nlp|llm|decision scien\w*|applied ai)\b", re.I)
 INTERN = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
-SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b|audit|people\w*|ux|business analytics|data analyst|quantitative (research|trad)\w*|quant (research|trad)\w*|toronto|\(on\b|, on\b)", re.I)
+SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b|audit|people\w*|ux|business analytics|data analyst|quantitative (research|trad)\w*|quant (research|trad)\w*|toronto)", re.I)
 NON_US = re.compile(r"\b(london|uk|united kingdom|ireland|dublin|india|bangalore|bengaluru|hyderabad|toronto|canada|"
                     r"vancouver|montreal|germany|berlin|munich|france|paris|amsterdam|netherlands|singapore|"
                     r"hong kong|tokyo|japan|sydney|australia|china|shanghai|beijing|israel|tel aviv|poland|"
@@ -149,7 +149,8 @@ def wanted(job):
     t, loc = job["title"], job.get("location") or ""
     if not (INTERN.search(t) and ROLE.search(t)) or SKIP_TITLE.search(t):
         return False
-    if loc and NON_US.search(loc) and not US_STRONG.search(loc):
+    canada = re.search(r",\s*(on|bc|qc|ab)\s*(,|$)", loc, re.I)
+    if loc and (NON_US.search(loc) or canada) and not US_STRONG.search(loc):
         return False
     return True
 
