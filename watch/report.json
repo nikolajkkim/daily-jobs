@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:46+00:00",
+ "generated": "2026-10-12T21:05+00:00",
  "feeds_ok": 87,
  "feeds_total": 87,
  "companies": {
@@ -26,7 +26,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 722,
+   "open_jobs": 723,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -103,7 +103,7 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 434,
+   "open_jobs": 435,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
@@ -216,7 +216,7 @@
   "Waymo": {
    "status": "ok",
    "open_jobs": 368,
-   "matches": 1,
+   "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
@@ -236,7 +236,7 @@
   },
   "Ramp": {
    "status": "ok",
-   "open_jobs": 165,
+   "open_jobs": 164,
    "matches": 1,
    "ats": "ashby",
    "slug": "ramp"
@@ -264,7 +264,7 @@
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "open_jobs": 134,
+   "open_jobs": 135,
    "matches": 0,
    "ats": "ashby",
    "slug": "cursor"
@@ -341,7 +341,7 @@
   },
   "Zoox": {
    "status": "ok",
-   "open_jobs": 237,
+   "open_jobs": 235,
    "matches": 0,
    "ats": "lever",
    "slug": "zoox"
@@ -488,7 +488,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 263,
+   "open_jobs": 264,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
