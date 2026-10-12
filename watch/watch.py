@@ -37,7 +37,7 @@ NON_US = re.compile(r"\b(london|uk|united kingdom|ireland|dublin|india|bangalore
                     r"vancouver|montreal|germany|berlin|munich|france|paris|amsterdam|netherlands|singapore|"
                     r"hong kong|tokyo|japan|sydney|australia|china|shanghai|beijing|israel|tel aviv|poland|"
                     r"warsaw|brazil|mexico|spain|madrid|switzerland|zurich|korea|seoul|taiwan|sweden|stockholm|gurgaon|gurugram|"
-                    r"pune|mumbai|delhi|chennai|ontario|europe|emea|apac|berlin)\b", re.I)
+                    r"pune|mumbai|delhi|chennai|ontario|europe|emea|apac|berlin|belgrade|serbia|lisbon|portugal|prague|budapest|romania|ukraine|kyiv|nigeria|kenya|egypt|vietnam|philippines|manila|indonesia|malaysia|thailand|argentina|colombia|chile)\b", re.I)
 US_STRONG = re.compile(r"\b(united states|usa|new york|nyc|california|san francisco|bay area|los angeles|seattle|chicago|"
                        r"boston|austin|texas|denver|atlanta|miami|philadelphia|san jose|palo alto|mountain view|menlo park|"
                        r"sunnyvale|redmond|jersey city|stamford|pittsburgh|irvine|san diego|santa monica|culver city|carlsbad|"
