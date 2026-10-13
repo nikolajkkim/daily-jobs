@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T21:18+00:00",
+ "generated": "2026-10-13T21:24+00:00",
  "feeds_ok": 88,
  "feeds_total": 88,
  "companies": {
@@ -103,7 +103,7 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 437,
+   "open_jobs": 438,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
@@ -152,7 +152,7 @@
   },
   "SoFi": {
    "status": "ok",
-   "open_jobs": 47,
+   "open_jobs": 48,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sofi"

@@ -1,8 +1,8 @@
 {
   "lastRun": {
     "date": "2026-10-13",
-    "found": 5,
-    "note": "5 new roles · 0 more to browse · reports already handled · 4 listings re-checked, all open · Problem: Workday/Meta pages didn't load, so picks rest on feed data"
+    "found": 2,
+    "note": "2 new roles; quiet day · 0 more to browse · reports already handled · 4 listings re-checked, all open · Problem: Nissan/GDIT Workday pages didn't load, so picks rest on feed data; Ascension DS Intern was already closed"
   },
   "jobs": [
     {
@@ -173,6 +173,32 @@
       "found": "2026-10-13",
       "category": "tech",
       "posted": "2026-10-12"
+    },
+    {
+      "id": "nissan-financial-ai-engineer-intern-2027",
+      "company": "Nissan Global",
+      "title": "Financial AI Engineer Intern",
+      "location": "Franklin, TN",
+      "source": "Workday",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+      "fit": "good",
+      "why": "Summer 2027 role open to master's students; ML applied to finance fits his XGBoost class-imbalance work and LLM pipeline. Page didn't load, so details rest on feed data; Tennessee onsite.",
+      "found": "2026-10-13",
+      "posted": "2026-10-12",
+      "category": "finance"
+    },
+    {
+      "id": "nissan-ai-data-analytics-intern-2027",
+      "company": "Nissan",
+      "title": "AI & Data Analytics Intern",
+      "location": "Franklin, TN / Irving, TX",
+      "source": "Workday",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
+      "fit": "good",
+      "why": "Summer 2027 AI/analytics role that fits his Python/SQL and applied ML; analytics-leaning and degree level not confirmed. Page didn't load, so this rests on feed data.",
+      "found": "2026-10-13",
+      "posted": "2026-10-12",
+      "category": "tech"
     }
   ],
   "browse": [
