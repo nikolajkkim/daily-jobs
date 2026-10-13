@@ -2,11 +2,11 @@ name: Watch job feeds
 
 on:
   schedule:
-    - cron: "15 10 * * *"   # 6:15 AM New York (EDT); 5:15 AM in winter. Before the 7 AM Claude scan.
+    - cron: "37 8 * * *"    # backup only: GitHub often runs scheduled jobs hours late. The morning scan triggers a fresh run itself via watch/.trigger.
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["watch/watchlist.json", "watch/watch.py", ".github/workflows/watch.yml"]
+    paths: ["watch/watchlist.json", "watch/watch.py", "watch/.trigger", ".github/workflows/watch.yml"]
 
 permissions:
   contents: write
