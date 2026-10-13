@@ -27,7 +27,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WATCH = ROOT / "watch"
-NEW_WINDOW_DAYS = 3
+NEW_WINDOW_DAYS = 2     # "new" = posted (or first seen, when no date) within this many days
+BROWSE_MAX_AGE_DAYS = 45
 UA = {"User-Agent": "daily-jobs-watch/1.0 (personal job tracker)"}
 
 ROLE = re.compile(r"\b(data|machine learning|ml|ai|artificial intelligence|applied scien\w*|research scien\w*|"
@@ -143,6 +144,44 @@ def workday(c):
     return out
 
 
+SIMPLIFY_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+STATE = re.compile(r",\s*(A[KLRZ]|C[AOT]|D[CE]|FL|GA|HI|I[ADLN]|K[SY]|LA|M[ADEINOST]|N[CDEHJMVY]|O[HKR]|PA|RI|S[CD]|T[NX]|UT|V[AT]|W[AIVY])\b")
+
+
+def us_location(loc):
+    return bool(US_STRONG.search(loc) or STATE.search(loc) or re.search(r"remote in usa|\busa\b|united states", loc, re.I))
+
+
+def simplify_listings():
+    """Simplify's community-maintained internship list (thousands of companies, with posting dates)."""
+    data = fetch_json(SIMPLIFY_URL)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=BROWSE_MAX_AGE_DAYS)
+    out = []
+    for x in data:
+        if not x.get("active") or x.get("is_visible") is False:
+            continue
+        posted_dt = datetime.fromtimestamp(x.get("date_posted") or 0, tz=timezone.utc)
+        if posted_dt < cutoff:
+            continue
+        terms = x.get("terms") or []
+        if terms and not any("2027" in t or t == "N/A" for t in terms):
+            continue
+        degrees = x.get("degrees") or []
+        if degrees and "Master's" not in degrees:          # bachelor's-only, PhD-only, etc.
+            continue
+        title = x.get("title", "")
+        if not ROLE.search(title) or SKIP_TITLE.search(title) or (BACHELORS.search(title) and not MASTERS.search(title)):
+            continue
+        locs = [l for l in (x.get("locations") or []) if us_location(l)]
+        if not locs:
+            continue
+        out.append({"title": title, "location": " / ".join(locs[:4]) + (" + more" if len(locs) > 4 else ""),
+                    "url": x.get("url", ""), "posted": posted_dt.date().isoformat(),
+                    "company": x.get("company_name", ""), "terms": terms, "degrees": degrees,
+                    "category": "finance" if "Quant" in (x.get("category") or "") else ""})
+    return out
+
+
 FEEDS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
          "smartrecruiters": smartrecruiters, "workday": workday}
 
@@ -188,6 +227,16 @@ def main():
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(check, watchlist))
 
+    known_cat = {c["name"].lower(): c.get("category", "") for c in watchlist}
+    try:
+        simp = simplify_listings()
+        results.append(({"name": "Simplify internship list", "ats": "simplify", "slug": "SimplifyJobs/Summer2027-Internships"},
+                        {"status": "ok", "open_jobs": len(simp), "matches": len(simp)},
+                        [dict(j, ats="simplify", category=j["category"] or known_cat.get(j["company"].lower(), "tech")) for j in simp]))
+    except Exception as e:
+        results.append(({"name": "Simplify internship list", "ats": "simplify", "slug": "SimplifyJobs/Summer2027-Internships"},
+                        {"status": f"error: {type(e).__name__}: {str(e)[:120]}"}, []))
+
     report = {}
     for c, status, hits in results:
         report[c["name"]] = dict(status, ats=c["ats"], slug=c.get("slug") or c.get("tenant"))
@@ -201,22 +250,35 @@ def main():
             seen[key]["last_seen"] = today
 
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=NEW_WINDOW_DAYS)).isoformat()
-    candidates, browse = [], []
-    for key, s in seen.items():
-        if s.get("last_seen") != today or not wanted(s):   # no longer listed, or filtered out by newer rules
+    old_cutoff = (datetime.now(timezone.utc).date() - timedelta(days=BROWSE_MAX_AGE_DAYS)).isoformat()
+    candidates, browse, dup = [], [], set()
+    # Feed entries first (direct company links), then Simplify, so duplicates keep the direct link.
+    order = sorted(seen.items(), key=lambda kv: kv[1].get("ats") == "simplify")
+    for key, s in order:
+        if s.get("last_seen") != today:                      # no longer listed
             continue
-        fresh = s["first_seen"] >= cutoff or (s.get("posted") or "") >= cutoff
-        on_site = s["url"] in on_site_urls or (norm(s["company"]).split(" ")[0], norm(s["title"])) in on_site_keys
+        if s.get("ats") != "simplify" and not wanted(s):     # filtered out by newer rules
+            continue
+        posted = s.get("posted") or ""
+        if posted and posted < old_cutoff:
+            continue
+        ident = (norm(s["company"]).split(" ")[0] if s["company"] else "", norm(s["title"]))
+        if ident in dup:
+            continue
+        dup.add(ident)
+        fresh = posted >= cutoff if posted else s["first_seen"] >= cutoff
+        on_site = s["url"] in on_site_urls or ident in on_site_keys
         if fresh and not on_site:
             candidates.append(s)
         if not on_site:
             browse.append({"id": "w-" + hashlib.sha1(key.encode()).hexdigest()[:12], "company": s["company"],
                            "title": s["title"], "location": s.get("location", ""), "url": s["url"],
                            "source": {"greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby",
-                                      "smartrecruiters": "SmartRecruiters", "workday": "Workday"}.get(s.get("ats"), "Company site"),
+                                      "smartrecruiters": "SmartRecruiters", "workday": "Workday",
+                                      "simplify": "Simplify list"}.get(s.get("ats"), "Company site"),
                            "category": s.get("category", ""), "posted": s.get("posted"), "found": s["first_seen"]})
     candidates.sort(key=lambda s: (s.get("posted") or s["first_seen"]), reverse=True)
-    candidates = candidates[:40]  # keep the morning scan's reading short
+    candidates = candidates[:60]  # keep the morning scan's reading short
 
     browse.sort(key=lambda b: (b.get("posted") or b["found"]), reverse=True)
     (WATCH / "browse.json").write_text(json.dumps({
@@ -227,7 +289,7 @@ def main():
     (WATCH / "candidates.json").write_text(json.dumps({
         "generated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
         "note": "First run: everything currently open counts as new." if first_run else
-                f"Postings first seen (or posted) in the last {NEW_WINDOW_DAYS} days and not yet on the site.",
+                f"Postings posted in the last {NEW_WINDOW_DAYS} days (or first seen then, when no date is known) and not yet on the site.",
         "candidates": candidates}, indent=1, ensure_ascii=False) + "\n")
     ok = sum(1 for r in report.values() if r["status"] == "ok")
     (WATCH / "report.json").write_text(json.dumps({
