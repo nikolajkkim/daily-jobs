@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "tag": "Markets",
+      "headline": "Stocks ended flat as earnings season kicked off",
+      "note": "S&P 500 −0.02%, Nasdaq −0.15%, Dow −0.35%. JPMorgan missed profit estimates while Goldman Sachs beat them on strong trading, so the big banks sent mixed signals.",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026",
+      "source": "TheStreet"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Memory-chip stocks fell on a Chinese rival's progress",
+      "note": "Micron, Samsung and SK Hynix dropped after reports that China's CXMT advanced a new memory design. High-bandwidth memory is a bottleneck for AI hardware, so this is an AI supply-chain story.",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026",
+      "source": "TheStreet"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI cancelled its GPT-6.1 Astra launch after failed safety tests",
+      "note": "The model was meant to power ChatGPT and Codex but didn't pass internal alignment checks. A rare case of a lab pulling a model publicly; AI evals and safety keep coming up in ML interviews.",
+      "url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
+      "source": "The Next Web"
+    },
+    {
+      "tag": "AI",
+      "headline": "New frontier models from Anthropic, OpenAI and Google landed in late September",
+      "note": "Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon (limited to vetted security teams for now). Worth knowing the names and what each is good at before interviews.",
+      "url": "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html",
+      "source": "Model roundup"
+    },
+    {
+      "tag": "AI",
+      "headline": "Microsoft's Maia 300 AI chip reportedly packs 288 GB of HBM4",
+      "note": "Big tech keeps building its own AI chips to rely less on Nvidia. Same memory theme as today's chip-stock story.",
+      "url": "https://aiweekly.co/alerts/microsoft-maia-300-packs-288-gb-hbm4-7x-maia-200-throughput",
+      "source": "AI Weekly"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Wall Street is split on whether the Fed raises rates later this month",
+      "note": "Some banks, including Goldman Sachs, expect an October hike; prediction markets put it near 50/50. Higher rates make borrowing pricier, which tends to weigh on tech stocks and startup hiring.",
+      "url": "https://www.thestandard.com.hk/finance/article/343083/Goldman-Sachs-sees-October-Fed-hike-after-hawkish-signal",
+      "source": "The Standard"
+    }
+  ],
+  "learn": {
+    "n": 1,
+    "term": "Earnings season and \"beating estimates\"",
+    "explain": "Four times a year, public companies report their quarterly results. Beforehand, analysts publish a forecast for earnings per share (EPS: profit divided by the number of shares). The stock usually moves on whether the company beats or misses that forecast, not on whether the profit is big. That's how JPMorgan can earn billions and still disappoint. Big banks report first, so they kick off each season.",
+    "try": "Search \"JPM\" on Yahoo Finance and compare the EPS estimate with the reported EPS for the latest quarter."
+  },
+  "learned": ["Earnings season and EPS"]
+}

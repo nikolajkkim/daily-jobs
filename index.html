@@ -114,6 +114,24 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
 .tstatus.s-offer { background: var(--strong-bg); color: var(--strong); }
 .tstatus.s-applied { background: var(--good-bg); color: var(--good); }
 .pending { font-size: 12.5px; color: var(--stretch); }
+.brief { list-style: none; margin: 0; padding: 0; display: grid; }
+.brief li { display: grid; grid-template-columns: 76px 1fr; gap: 2px 12px; padding: 11px 0; border-top: 1px solid var(--line); }
+.brief li:first-child { border-top: 0; padding-top: 4px; }
+.brief .tag { font-size: 11.5px; font-weight: 500; color: var(--muted); padding-top: 2px; text-transform: uppercase; letter-spacing: .06em; }
+.brief .tag.t-markets, .brief .tag.t-economy { color: var(--good); }
+.brief .tag.t-ai, .brief .tag.t-chips, .brief .tag.t-tech { color: var(--accent); }
+.brief .tag.t-golf, .brief .tag.t-gaming, .brief .tag.t-nyc, .brief .tag.t-jobs { color: var(--stretch); }
+.brief a.hl { color: var(--ink); text-decoration: none; font-weight: 500; font-size: 15px; line-height: 1.4; }
+.brief a.hl:hover { text-decoration: underline; text-decoration-color: var(--faint); text-underline-offset: 3px; }
+.brief .bn { grid-column: 2; margin: 0; font-size: 13.5px; color: var(--muted); max-width: 62ch; }
+.brief .src { color: var(--faint); }
+@media (max-width: 480px) { .brief li { grid-template-columns: 1fr; } .brief .bn { grid-column: 1; } }
+.learn { margin-top: 10px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); display: grid; gap: 4px; }
+.learn p { margin: 0; }
+.learn-k { font-size: 11.5px; text-transform: uppercase; letter-spacing: .06em; color: var(--good); font-weight: 500; }
+.learn-t { font-family: var(--f-display); font-size: 18px; }
+.learn-x { font-size: 14px; max-width: 62ch; }
+.learn-try { font-size: 13px; color: var(--muted); }
 .secnote { margin: -2px 0 6px; font-size: 13.5px; color: var(--muted); max-width: 60ch; }
 .filter { margin-bottom: 4px; }
 .filter button.chip { background: transparent; font: 13px var(--f-body); }
@@ -158,6 +176,17 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
       <button class="btn quiet" type="button" id="signinCancel">Cancel</button>
     </form>
   </header>
+
+  <section id="briefSec" hidden>
+    <div class="sec-head"><h2>Today's brief <span class="count" id="briefDate"></span></h2></div>
+    <ul class="brief" id="briefList"></ul>
+    <div class="learn" id="learnBox" hidden>
+      <p class="learn-k" id="learnK"></p>
+      <p class="learn-t" id="learnT"></p>
+      <p class="learn-x" id="learnX"></p>
+      <p class="learn-try" id="learnTry"></p>
+    </div>
+  </section>
 
   <section id="newSec">
     <div class="sec-head"><h2><span class="sun" aria-hidden="true"></span><span id="newLabel">New today</span> <span class="count" id="newCount"></span></h2></div>
@@ -637,6 +666,37 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
   if (cfg.supabaseUrl && cfg.supabaseKey && window.supabase && window.supabase.createClient) {
     sb = window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey);
   }
+
+
+  // ---------- today's brief
+  fetch("news.json?t=" + Date.now(), { cache: "no-store" })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((n) => {
+      if (!n || !Array.isArray(n.items) || !n.items.length) return;
+      $("briefSec").hidden = false;
+      $("briefDate").textContent = n.date === todayISO ? "" : "from " + fmt(n.date);
+      const ul = $("briefList"); ul.replaceChildren();
+      n.items.forEach((it) => {
+        const li = el("li");
+        li.append(el("span", "tag t-" + slug(it.tag || ""), it.tag || ""));
+        const href = safeUrl(it.url);
+        const h = href ? el("a", "hl", it.headline) : el("span", "hl", it.headline);
+        if (href) { h.href = href; h.target = "_blank"; h.rel = "noopener"; }
+        li.append(h);
+        const p = el("p", "bn", it.note || "");
+        if (it.source) { p.append(" "); p.append(el("span", "src", "· " + it.source)); }
+        li.append(p); ul.append(li);
+      });
+      if (n.learn && n.learn.term) {
+        $("learnBox").hidden = false;
+        $("learnK").textContent = "Finance 101 · #" + (n.learn.n || 1);
+        $("learnT").textContent = n.learn.term;
+        $("learnX").textContent = n.learn.explain || "";
+        $("learnTry").textContent = n.learn.try ? "Try: " + n.learn.try : "";
+        $("learnTry").hidden = !n.learn.try;
+      }
+    })
+    .catch(() => {});
 
   const jobsReady = fetch("jobs.json?t=" + Date.now(), { cache: "no-store" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })

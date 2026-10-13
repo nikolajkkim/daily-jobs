@@ -95,13 +95,29 @@ jobs:
             --max-turns 80
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3:*)"
 
+      - name: Write today's brief with Claude
+        id: brief
+        if: steps.check.outputs.skip == 'false'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ env.CLEAN_TOKEN }}
+          github_token: ${{ github.token }}
+          prompt: |
+            Today is ${{ steps.check.outputs.today }} (America/New_York).
+            Read scan/NEWS.md and follow it exactly.
+          claude_args: |
+            --max-turns 40
+            --allowedTools "Read,Write,Edit,WebSearch,WebFetch,Bash(python3:*)"
+
       - name: Check and save
         if: steps.check.outputs.skip == 'false'
         run: |
           python3 -c "import json;d=json.load(open('jobs.json'));print('jobs:',len(d['jobs']),'browse:',len(d.get('browse',[])),'|',d['lastRun'])"
+          python3 -c "import json;n=json.load(open('news.json'));print('brief:',n['date'],len(n['items']),'items |',n['learn']['term'])" || git checkout -- news.json
           git config user.name "daily-jobs-scan"
           git config user.email "actions@users.noreply.github.com"
-          git add jobs.json watch/seen.json watch/candidates.json watch/report.json watch/browse.json
+          git add jobs.json news.json watch/seen.json watch/candidates.json watch/report.json watch/browse.json
           git diff --cached --quiet && { echo "Nothing changed."; exit 0; }
           git commit -m "Daily scan ${{ steps.check.outputs.today }}"
           for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
