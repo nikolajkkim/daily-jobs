@@ -84,7 +84,17 @@
       "url": "https://jobs.jobvite.com/src-inc/job/o8lHAfwu",
       "fit": "stretch",
       "why": "Explicitly wants deep RL or LLM experience, which you have both of. Defense contractor, so check citizenship/clearance requirements first.",
-      "found": "2026-10-12"
+      "found": "2026-10-12",
+      "removed": {
+        "date": "2026-10-13",
+        "reason": "Posting closed: SRC's posting no longer exists."
+      },
+      "review": {
+        "reportId": "5c084223-9f11-46e5-8cee-04ce0f33dfe5",
+        "date": "2026-10-13",
+        "outcome": "removed",
+        "note": "Checked after your report: the posting no longer exists."
+      }
     },
     {
       "id": "pinterest-ms-ml-intern-2027",
@@ -152,5 +162,26 @@
       "category": "finance"
     }
   ],
-  "browse": []
+  "browse": [
+    {
+      "id": "w-002125624d29",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+      "source": "Greenhouse",
+      "category": "tech",
+      "found": "2026-10-12",
+      "removed": {
+        "date": "2026-10-13",
+        "reason": "Not eligible: open to bachelor's students only."
+      },
+      "review": {
+        "reportId": "b51930c7-0568-43c7-b499-04596129bb52",
+        "date": "2026-10-13",
+        "outcome": "removed",
+        "note": "You were right: the role is for bachelor's students only."
+      }
+    }
+  ]
 }
