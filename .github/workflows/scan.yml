@@ -58,7 +58,7 @@ jobs:
           import json, os, urllib.request
           key = "".join((os.environ.get("SB_KEY") or "").split())
           if not key:
-              print("No SUPABASE_SECRET_KEY secret; skipping."); raise SystemExit
+              print("::notice title=Applied list::No SUPABASE_SECRET_KEY secret; skipping."); raise SystemExit
           base = "https://xsrmswbbakfqfvpdxtjo.supabase.co/rest/v1/"
           h = {"apikey": key}
           if key.startswith("eyJ"): h["Authorization"] = "Bearer " + key
@@ -69,6 +69,7 @@ jobs:
                  "site_marks": get("job_marks?select=company,title,status")}
           json.dump(out, open("scan/applied.json", "w"), indent=1)
           print(len(out["tracker"]), "tracker rows,", len(out["site_marks"]), "site marks")
+          print(f"::notice title=Applied list::{len(out['tracker'])} tracker rows, {len(out['site_marks'])} site marks")
           PY
 
       - name: Clean up the token (removes stray line breaks from copy/paste)
