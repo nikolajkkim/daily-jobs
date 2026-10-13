@@ -3,7 +3,8 @@
 A daily list of data science and ML internships matched to my resume, so I can apply early.
 
 - `index.html` is the site (GitHub Pages).
-- `jobs.json` holds the jobs. A scheduled Claude task adds up to 5 new matches every morning around 7 AM ET and pushes them here.
+- `jobs.json` holds the jobs. The **Morning scan** workflow (`.github/workflows/scan.yml`) refreshes the job feeds and runs Claude early each morning to add up to 5 daily picks plus extra Browse finds. Instructions live in `scan/PROMPT.md`. Run it by hand from the Actions tab (Morning scan → Run workflow).
+- `watch/` holds the company watchlist and the feed checker (`watch/watch.py`).
 - "Mark applied" and "Skip" are saved in your browser, so they're per device.
 
 ## Sync with tracker.xlsx (optional)

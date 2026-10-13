@@ -1,0 +1,77 @@
+name: Morning scan
+
+on:
+  schedule:
+    # GitHub often starts scheduled jobs late, so try three times early in the morning.
+    # Whichever runs first does the scan; the others see it's done and stop.
+    - cron: "23 8 * * *"    # 4:23 AM New York (EDT) / 3:23 AM (EST)
+    - cron: "23 9 * * *"    # 5:23 AM / 4:23 AM
+    - cron: "23 10 * * *"   # 6:23 AM / 5:23 AM
+  push:
+    branches: [main]
+    paths: ["scan/.run"]   # editing this file starts a forced run (handy for testing)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's scan already happened"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Already done today?
+        id: check
+        run: |
+          TODAY=$(TZ=America/New_York date +%F)
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+          LAST=$(python3 -c "import json;print(json.load(open('jobs.json')).get('lastRun',{}).get('date',''))")
+          if [ "$LAST" = "$TODAY" ] && [ "${{ inputs.force }}" != "true" ] && [ "${{ github.event_name }}" != "push" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"; echo "Today's scan already ran ($TODAY)."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip == 'false'
+        with:
+          python-version: "3.12"
+
+      - name: Refresh job feeds
+        if: steps.check.outputs.skip == 'false'
+        run: python watch/watch.py
+
+      - name: Pick today's jobs with Claude
+        if: steps.check.outputs.skip == 'false'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Today is ${{ steps.check.outputs.today }} (America/New_York).
+            Read scan/PROMPT.md and follow it exactly.
+          claude_args: |
+            --model claude-sonnet-5-5
+            --max-turns 80
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3:*)"
+
+      - name: Check and save
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          python3 -c "import json;d=json.load(open('jobs.json'));print('jobs:',len(d['jobs']),'browse:',len(d.get('browse',[])),'|',d['lastRun'])"
+          git config user.name "daily-jobs-scan"
+          git config user.email "actions@users.noreply.github.com"
+          git add jobs.json watch/seen.json watch/candidates.json watch/report.json watch/browse.json
+          git diff --cached --quiet && { echo "Nothing changed."; exit 0; }
+          git commit -m "Daily scan ${{ steps.check.outputs.today }}"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
