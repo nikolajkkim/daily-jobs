@@ -94,6 +94,8 @@ jobs:
                   msg = f"Couldn't read execution file: {e}"
           open("scan/last-error.txt", "w").write(msg + "\n")
           print(msg)
+          one = " ".join(msg.split())[:900].replace("%", "%25")
+          print(f"::warning title=Claude result::{one}")
           PY
           git config user.name "daily-jobs-scan"
           git config user.email "actions@users.noreply.github.com"
