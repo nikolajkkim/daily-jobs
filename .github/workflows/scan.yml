@@ -7,9 +7,6 @@ on:
     - cron: "23 8 * * *"    # 4:23 AM New York (EDT) / 3:23 AM (EST)
     - cron: "23 9 * * *"    # 5:23 AM / 4:23 AM
     - cron: "23 10 * * *"   # 6:23 AM / 5:23 AM
-  push:
-    branches: [main]
-    paths: ["scan/.run"]   # editing this file starts a forced run (handy for testing)
   workflow_dispatch:
     inputs:
       force:
@@ -37,7 +34,7 @@ jobs:
           TODAY=$(TZ=America/New_York date +%F)
           echo "today=$TODAY" >> "$GITHUB_OUTPUT"
           LAST=$(python3 -c "import json;print(json.load(open('jobs.json')).get('lastRun',{}).get('date',''))")
-          if [ "$LAST" = "$TODAY" ] && [ "${{ inputs.force }}" != "true" ] && [ "${{ github.event_name }}" != "push" ]; then
+          if [ "$LAST" = "$TODAY" ] && [ "${{ inputs.force }}" != "true" ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"; echo "Today's scan already ran ($TODAY)."
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"
