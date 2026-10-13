@@ -50,6 +50,7 @@ jobs:
         run: python watch/watch.py
 
       - name: Pick today's jobs with Claude
+        id: claude
         if: steps.check.outputs.skip == 'false'
         uses: anthropics/claude-code-action@v1
         with:
@@ -59,7 +60,6 @@ jobs:
             Today is ${{ steps.check.outputs.today }} (America/New_York).
             Read scan/PROMPT.md and follow it exactly.
           claude_args: |
-            --model claude-sonnet-5-5
             --max-turns 80
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3:*)"
 
@@ -73,3 +73,29 @@ jobs:
           git diff --cached --quiet && { echo "Nothing changed."; exit 0; }
           git commit -m "Daily scan ${{ steps.check.outputs.today }}"
           for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+
+      - name: Save the error if Claude failed
+        if: failure() && steps.claude.outcome == 'failure'
+        env:
+          EXEC_FILE: ${{ steps.claude.outputs.execution_file }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          path = os.environ.get("EXEC_FILE") or ""
+          msg = "No execution file was produced."
+          if path and os.path.exists(path):
+              try:
+                  data = json.load(open(path))
+                  items = data if isinstance(data, list) else [data]
+                  res = [m for m in items if isinstance(m, dict) and m.get("type") == "result"]
+                  last = res[-1] if res else items[-1]
+                  msg = json.dumps({k: last.get(k) for k in ("subtype", "is_error", "result", "num_turns")}, indent=1)[:2000]
+              except Exception as e:
+                  msg = f"Couldn't read execution file: {e}"
+          open("scan/last-error.txt", "w").write(msg + "\n")
+          print(msg)
+          PY
+          git config user.name "daily-jobs-scan"
+          git config user.email "actions@users.noreply.github.com"
+          git add scan/last-error.txt
+          git commit -m "Morning scan error $(date -u +%F)" && git pull --rebase -q origin main && git push -q origin main || true
