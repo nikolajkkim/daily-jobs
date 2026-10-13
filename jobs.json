@@ -2,7 +2,7 @@
   "lastRun": {
     "date": "2026-10-13",
     "found": 5,
-    "note": "5 new roles · reports already handled · no new closures · discovery searches skipped"
+    "note": "Moved older postings to Browse; daily list is now new postings only"
   },
   "jobs": [
     {
@@ -94,6 +94,41 @@
         "date": "2026-10-13",
         "outcome": "removed",
         "note": "Checked after your report: the posting no longer exists."
+      }
+    },
+    {
+      "id": "faire-applied-ml-scientist-intern-2027",
+      "company": "Faire",
+      "title": "Applied AI/ML Scientist, Intern",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+      "fit": "good",
+      "why": "Open to Master's/PhD students; applied ML on shipping and delivery estimates matches his modeling work. It is a Winter 2027 term starting January, so it overlaps the Columbia school term.",
+      "found": "2026-10-13",
+      "posted": "2026-10-06",
+      "category": "tech"
+    }
+  ],
+  "browse": [
+    {
+      "id": "w-002125624d29",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+      "source": "Greenhouse",
+      "category": "tech",
+      "found": "2026-10-12",
+      "removed": {
+        "date": "2026-10-13",
+        "reason": "Not eligible: open to bachelor's students only."
+      },
+      "review": {
+        "reportId": "b51930c7-0568-43c7-b499-04596129bb52",
+        "date": "2026-10-13",
+        "outcome": "removed",
+        "note": "You were right: the role is for bachelor's students only."
       }
     },
     {
@@ -201,19 +236,6 @@
       "category": "tech"
     },
     {
-      "id": "faire-applied-ml-scientist-intern-2027",
-      "company": "Faire",
-      "title": "Applied AI/ML Scientist, Intern",
-      "location": "San Francisco, CA",
-      "source": "Greenhouse",
-      "url": "https://job-boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
-      "fit": "good",
-      "why": "Open to Master's/PhD students; applied ML on shipping and delivery estimates matches his modeling work. It is a Winter 2027 term starting January, so it overlaps the Columbia school term.",
-      "found": "2026-10-13",
-      "posted": "2026-10-06",
-      "category": "tech"
-    },
-    {
       "id": "gecko-robotics-ai-ml-intern-2027",
       "company": "Gecko Robotics",
       "title": "AI/Machine Learning Engineering Intern",
@@ -225,28 +247,6 @@
       "found": "2026-10-13",
       "posted": "2026-09-16",
       "category": "tech"
-    }
-  ],
-  "browse": [
-    {
-      "id": "w-002125624d29",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
-      "source": "Greenhouse",
-      "category": "tech",
-      "found": "2026-10-12",
-      "removed": {
-        "date": "2026-10-13",
-        "reason": "Not eligible: open to bachelor's students only."
-      },
-      "review": {
-        "reportId": "b51930c7-0568-43c7-b499-04596129bb52",
-        "date": "2026-10-13",
-        "outcome": "removed",
-        "note": "You were right: the role is for bachelor's students only."
-      }
     }
   ]
 }
