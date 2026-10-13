@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T18:33+00:00",
+ "generated": "2026-10-13T19:11+00:00",
  "note": "Postings first seen (or posted) in the last 3 days and not yet on the site.",
  "candidates": [
   {
@@ -31,28 +31,6 @@
    "posted": "2026-10-02",
    "company": "Affirm",
    "category": "finance",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Master's Data Science Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
-   "posted": "2026-10-01",
-   "company": "Pinterest",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Master's Machine Learning Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
-   "posted": "2026-10-01",
-   "company": "Pinterest",
-   "category": "tech",
    "ats": "greenhouse",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-13"
@@ -97,17 +75,6 @@
    "posted": "2026-09-16",
    "company": "Gecko Robotics",
    "category": "tech",
-   "ats": "ashby",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Applied Scientist Intern",
-   "location": "New York, NY (HQ) / Remote",
-   "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
-   "posted": "2026-09-15",
-   "company": "Ramp",
-   "category": "finance",
    "ats": "ashby",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-13"
@@ -160,28 +127,6 @@
    "title": "Data Engineer Intern",
    "location": "Hybrid - San Francisco, CA",
    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-   "posted": "2026-09-08",
-   "company": "Coinbase",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Hybrid - New York, NY",
-   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
-   "posted": "2026-09-08",
-   "company": "Coinbase",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
    "posted": "2026-09-08",
    "company": "Coinbase",
    "category": "tech",

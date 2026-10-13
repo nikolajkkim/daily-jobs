@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T18:33+00:00",
+ "generated": "2026-10-13T19:11+00:00",
  "feeds_ok": 87,
  "feeds_total": 87,
  "companies": {
@@ -12,14 +12,14 @@
   },
   "Scale AI": {
    "status": "ok",
-   "open_jobs": 182,
+   "open_jobs": 183,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "scaleai"
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 895,
+   "open_jobs": 894,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "databricks"
@@ -103,14 +103,14 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 435,
+   "open_jobs": 436,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 241,
+   "open_jobs": 239,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -159,7 +159,7 @@
   },
   "Chime": {
    "status": "ok",
-   "open_jobs": 66,
+   "open_jobs": 67,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "chime"
@@ -222,7 +222,7 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2494,
+   "open_jobs": 2493,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -243,7 +243,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 803,
+   "open_jobs": 801,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -341,7 +341,7 @@
   },
   "Zoox": {
    "status": "ok",
-   "open_jobs": 235,
+   "open_jobs": 236,
    "matches": 0,
    "ats": "lever",
    "slug": "zoox"
@@ -397,7 +397,7 @@
   },
   "Tower Research Capital": {
    "status": "ok",
-   "open_jobs": 94,
+   "open_jobs": 95,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "towerresearchcapital"
@@ -600,14 +600,14 @@
   },
   "Peloton": {
    "status": "ok",
-   "open_jobs": 55,
+   "open_jobs": 54,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "peloton"
   },
   "Oura": {
    "status": "ok",
-   "open_jobs": 75,
+   "open_jobs": 76,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "oura"
