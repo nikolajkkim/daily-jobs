@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-12",
-    "found": 7,
-    "note": "First scan: 7 roles"
+    "date": "2026-10-13",
+    "found": 5,
+    "note": "5 new roles (picked by hand; the 7 AM scan failed, being fixed)"
   },
   "jobs": [
     {
@@ -85,6 +85,72 @@
       "fit": "stretch",
       "why": "Explicitly wants deep RL or LLM experience, which you have both of. Defense contractor, so check citizenship/clearance requirements first.",
       "found": "2026-10-12"
+    },
+    {
+      "id": "pinterest-ms-ml-intern-2027",
+      "company": "Pinterest",
+      "title": "Master's Machine Learning Internship 2027 (USA)",
+      "location": "San Francisco, Palo Alto, Seattle or New York",
+      "source": "Greenhouse",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+      "fit": "strong",
+      "why": "Made for master's students. Asks for ML in ranking, NLP, embeddings or retrieval plus PyTorch, which is your LLaMA + embeddings retrieval pipeline almost word for word. $11K/month, NYC option.",
+      "found": "2026-10-13",
+      "posted": "2026-10-01",
+      "category": "tech"
+    },
+    {
+      "id": "pinterest-ms-ds-intern-2027",
+      "company": "Pinterest",
+      "title": "Master's Data Science Internship 2027 (USA)",
+      "location": "San Francisco, Palo Alto, Seattle or New York",
+      "source": "Greenhouse",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+      "fit": "strong",
+      "why": "Master's-only. Wants SQL + Python, large messy datasets and ML/statistical modeling, which fits your 14M-reading XGBoost capstone and GAM/LASSO work. Light on product analytics experience, so lean on how your models drove decisions.",
+      "found": "2026-10-13",
+      "posted": "2026-10-01",
+      "category": "tech"
+    },
+    {
+      "id": "ramp-applied-scientist-intern-2027",
+      "company": "Ramp",
+      "title": "Applied Scientist Intern",
+      "location": "New York, NY (HQ) / Remote",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "fit": "strong",
+      "why": "NYC, graduation window Dec 2027–2029 includes you. Asks for ML fundamentals, LLMs/agents, PyTorch and scikit-learn plus building and evaluating models. Gap: no Snowflake/BigQuery-style warehouse experience (you have DuckDB).",
+      "found": "2026-10-13",
+      "posted": "2026-09-15",
+      "category": "finance"
+    },
+    {
+      "id": "coinbase-ds-intern-2027",
+      "company": "Coinbase",
+      "title": "Data Science Intern",
+      "location": "Hybrid - New York, NY",
+      "source": "Greenhouse",
+      "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+      "fit": "good",
+      "why": "Summer 2027 in NYC, open to grad students. Statistical modeling, SQL and Python match well; it also wants A/B testing or causal inference, which you'd frame as interest rather than experience.",
+      "found": "2026-10-13",
+      "posted": "2026-09-08",
+      "category": "finance"
+    },
+    {
+      "id": "coinbase-mle-intern-2027",
+      "company": "Coinbase",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "fit": "good",
+      "why": "ML engineering in SF from the same intern batch. Your PyTorch, DistilBERT fine-tuning and RL training work fit; production deployment is the gap to address in the application.",
+      "found": "2026-10-13",
+      "posted": "2026-09-08",
+      "category": "finance"
     }
-  ]
+  ],
+  "browse": []
 }
