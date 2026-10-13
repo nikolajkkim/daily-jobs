@@ -49,12 +49,21 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: python watch/watch.py
 
+      - name: Clean up the token (removes stray line breaks from copy/paste)
+        if: steps.check.outputs.skip == 'false'
+        env:
+          RAW: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          CLEAN=$(printf '%s' "$RAW" | tr -d '[:space:]')
+          echo "::add-mask::$CLEAN"
+          echo "CLEAN_TOKEN=$CLEAN" >> "$GITHUB_ENV"
+
       - name: Pick today's jobs with Claude
         id: claude
         if: steps.check.outputs.skip == 'false'
         uses: anthropics/claude-code-action@v1
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_code_oauth_token: ${{ env.CLEAN_TOKEN }}
           github_token: ${{ github.token }}   # no Claude GitHub App needed
           prompt: |
             Today is ${{ steps.check.outputs.today }} (America/New_York).
