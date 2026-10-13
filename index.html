@@ -38,7 +38,7 @@
   --stretch: #D4B183; --stretch-bg: #2C2519; color-scheme: dark }
 
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
-.wrap { max-width: 640px; margin: 0 auto; padding-inline: 20px; padding-block: 56px 80px; display: grid; gap: 44px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-inline: 20px; padding-block: 56px 80px; display: grid; gap: 44px; }
 
 header { display: grid; gap: 10px; }
 .date { font-size: 13px; color: var(--muted); margin: 0; }
@@ -114,6 +114,18 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
 .tstatus.s-offer { background: var(--strong-bg); color: var(--strong); }
 .tstatus.s-applied { background: var(--good-bg); color: var(--good); }
 .pending { font-size: 12.5px; color: var(--stretch); }
+.cols { display: grid; grid-template-columns: minmax(0, 640px) minmax(0, 1fr); gap: 56px; align-items: start; }
+.col-main { display: grid; gap: 44px; min-width: 0; }
+.col-side { min-width: 0; position: sticky; top: calc(24px + env(safe-area-inset-top, 0px)); max-height: calc(100vh - 48px); overflow-y: auto; padding-right: 4px; }
+.side .sec-head h2 { font-size: 19px; }
+.side .brief li { grid-template-columns: 1fr; gap: 3px; padding: 10px 0; }
+.side .brief .bn { grid-column: 1; font-size: 13px; }
+.side .brief a.hl { font-size: 14px; }
+@media (max-width: 980px) {
+  .wrap { max-width: 640px; }
+  .cols { grid-template-columns: 1fr; gap: 44px; }
+  .col-side { position: static; max-height: none; overflow: visible; padding-right: 0; }
+}
 .brief { list-style: none; margin: 0; padding: 0; display: grid; }
 .brief li { display: grid; grid-template-columns: 76px 1fr; gap: 2px 12px; padding: 11px 0; border-top: 1px solid var(--line); }
 .brief li:first-child { border-top: 0; padding-top: 4px; }
@@ -177,17 +189,10 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     </form>
   </header>
 
-  <section id="briefSec" hidden>
-    <div class="sec-head"><h2>Today's brief <span class="count" id="briefDate"></span></h2></div>
-    <ul class="brief" id="briefList"></ul>
-    <div class="learn" id="learnBox" hidden>
-      <p class="learn-k" id="learnK"></p>
-      <p class="learn-t" id="learnT"></p>
-      <p class="learn-x" id="learnX"></p>
-      <p class="learn-try" id="learnTry"></p>
-    </div>
-  </section>
 
+
+<div class="cols">
+<div class="col-main">
   <section id="newSec">
     <div class="sec-head"><h2><span class="sun" aria-hidden="true"></span><span id="newLabel">New today</span> <span class="count" id="newCount"></span></h2></div>
     <div class="cards" id="newList"><div class="empty">This morning's matches will appear here. Each scan adds up to five new roles from Greenhouse, Lever, Ashby and company career pages.</div></div>
@@ -226,6 +231,20 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
   </section>
 
   <p class="foot">Fit levels: <b>strong</b> lines up with your RL, LLM/retrieval or applied ML work and your Dec 2027 graduation; <b>good</b> matches the role but with a gap; <b>stretch</b> is worth a shot but asks for more than the resume shows. Always check the posting is still open before applying.</p>
+</div>
+<aside class="col-side">
+  <section id="briefSec" class="side" hidden>
+    <div class="sec-head"><h2>Today's brief <span class="count" id="briefDate"></span></h2></div>
+    <ul class="brief" id="briefList"></ul>
+    <div class="learn" id="learnBox" hidden>
+      <p class="learn-k" id="learnK"></p>
+      <p class="learn-t" id="learnT"></p>
+      <p class="learn-x" id="learnX"></p>
+      <p class="learn-try" id="learnTry"></p>
+    </div>
+  </section>
+</aside>
+</div>
 </div>
 <div class="toast" id="toast" hidden><span id="toastMsg"></span><button id="toastUndo" type="button">Undo</button></div>
 <script src="config.js"></script>
