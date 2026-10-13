@@ -22,10 +22,10 @@
   "last_seen": "2026-10-13"
  },
  "https://job-boards.greenhouse.io/doordashusa/jobs/8204111": {
-  "title": "Machine Learning Intern (Masters) - Summer 2027",
-  "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+  "title": "Machine Learning Engineer Intern - Masters",
+  "location": "Seattle, WA / NYC / Sunnyvale, CA",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
-  "posted": "2026-09-23",
+  "posted": "2026-09-25",
   "company": "DoorDash",
   "category": "tech",
   "ats": "greenhouse",
@@ -33,8 +33,8 @@
   "last_seen": "2026-10-13"
  },
  "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002": {
-  "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
+  "title": "Data Science Intern - Algorithms",
+  "location": "NYC",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "posted": "2026-09-11",
   "company": "Lyft",
@@ -55,8 +55,8 @@
   "last_seen": "2026-10-13"
  },
  "https://www.pinterestcareers.com/jobs/?gh_jid=8138097": {
-  "title": "Master's Data Science Internship 2027 (USA)",
-  "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+  "title": "Data Science Intern",
+  "location": "Palo Alto, CA / Seattle, WA / NYC",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
   "posted": "2026-10-01",
   "company": "Pinterest",
@@ -66,8 +66,8 @@
   "last_seen": "2026-10-13"
  },
  "https://www.pinterestcareers.com/jobs/?gh_jid=8138090": {
-  "title": "Master's Machine Learning Internship 2027 (USA)",
-  "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+  "title": "Machine Learning Intern",
+  "location": "Palo Alto, CA / Seattle, WA / NYC",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
   "posted": "2026-10-01",
   "company": "Pinterest",
@@ -309,9 +309,9 @@
  },
  "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004": {
   "title": "Data Science Intern",
-  "location": "Cary,North Carolina,United States",
+  "location": "Cary, NC",
   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
-  "posted": "2026-09-21",
+  "posted": "2026-09-22",
   "company": "Epic Games",
   "category": "gaming",
   "ats": "greenhouse",
@@ -327,6 +327,4384 @@
   "category": "gaming",
   "ats": "greenhouse",
   "first_seen": "2026-10-12",
+  "last_seen": "2026-10-13"
+ },
+ "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601": {
+  "title": "Data Analytics Intern - Multiple Teams",
+  "location": "Portage, MI",
+  "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601",
+  "posted": "2026-08-31",
+  "company": "Stryker",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968": {
+  "title": "Data Science & Analytics Intern",
+  "location": "Atlanta, GA",
+  "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968",
+  "posted": "2026-08-31",
+  "company": "The Home Depot",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://c3.ai/job-description/8738918002?gh_jid=8738918002": {
+  "title": "Data Scientist Intern - Summer 2027",
+  "location": "Redwood City, CA",
+  "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002",
+  "posted": "2026-08-31",
+  "company": "C3.ai",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/BoschGroup/744000146524429": {
+  "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
+  "location": "Farmington Hills, MI",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429",
+  "posted": "2026-08-31",
+  "company": "Robert Bosch Venture Capital",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": {
+  "title": "Machine Learning Engineer Intern",
+  "location": "Seattle, WA / Austin, TX / San Jose, CA / NYC + more",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+  "posted": "2026-08-31",
+  "company": "Adobe",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304": {
+  "title": "Business Insights & Analytics Intern - BI&A LDP",
+  "location": "Hartford, CT / St Paul, MN",
+  "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
+  "posted": "2026-09-01",
+  "company": "Travelers",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784": {
+  "title": "Data Analytics Intern - Enterprise Technology Services",
+  "location": "Charlotte, NC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782": {
+  "title": "Data Analytics Intern - Enterprise Technology Services",
+  "location": "Palo Alto, CA",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607": {
+  "title": "Data Analytics Intern - US Consumer Services",
+  "location": "NYC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "MBA"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781": {
+  "title": "Data Engineer Intern - Enterprise Technology Services",
+  "location": "Sunrise, FL",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668": {
+  "title": "Data Management Intern - Global Merchant & Network Services",
+  "location": "Phoenix, AZ",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764": {
+  "title": "Data Engineer Intern - Enterprise Technology Services",
+  "location": "Charlotte, NC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783": {
+  "title": "Data Analytics Intern - Enterprise Technology Services",
+  "location": "NYC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191": {
+  "title": "Data Science Intern - Finance",
+  "location": "NYC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors": {
+  "title": "Data Analytics Intern - Data Science - Applied Math",
+  "location": "Pomona, CA / Rosemead, CA",
+  "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+  "posted": "2026-09-01",
+  "company": "Edison International",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "MBA",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors": {
+  "title": "Data Analytics Intern - Data Science/Applied Math",
+  "location": "Pomona, CA / Rosemead, CA",
+  "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors",
+  "posted": "2026-09-01",
+  "company": "Edison International",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "MBA",
+   "PharmD",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266": {
+  "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
+  "location": "NYC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
+  "posted": "2026-09-01",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746": {
+  "title": "Data Science Co-op - Summer 2027",
+  "location": "Cincinnati, OH",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
+  "posted": "2026-09-01",
+  "company": "Johnson & Johnson",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/perpay/jobs/4076934007": {
+  "title": "Analytics Intern",
+  "location": "Philadelphia, PA",
+  "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007",
+  "posted": "2026-09-01",
+  "company": "Perpay",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://apply.workable.com/twgai/j/772CD136FF/apply": {
+  "title": "AI Engineer Intern - Summer 2027",
+  "location": "Santa Monica, CA",
+  "url": "https://apply.workable.com/twgai/j/772CD136FF/apply",
+  "posted": "2026-09-01",
+  "company": "TWG Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://apply.workable.com/twgai/j/263B34D737/apply": {
+  "title": "Data Science Intern - SOLT",
+  "location": "Santa Monica, CA",
+  "url": "https://apply.workable.com/twgai/j/263B34D737/apply",
+  "posted": "2026-09-01",
+  "company": "TWG Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027": {
+  "title": "Data Engineering Intern",
+  "location": "North Richland Hills, TX",
+  "url": "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027",
+  "posted": "2026-09-01",
+  "company": "Ragle Inc",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.tesla.com/careers/search/job/281940": {
+  "title": "Machine Learning Engineer Intern - Charging Data Modeling",
+  "location": "Palo Alto, CA",
+  "url": "https://www.tesla.com/careers/search/job/281940",
+  "posted": "2026-09-02",
+  "company": "Tesla",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713": {
+  "title": "Data Engineering Intern",
+  "location": "Pittsburgh, PA / Hermitage, PA",
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
+  "posted": "2026-09-01",
+  "company": "First National Bank",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false": {
+  "title": "Artificial Intelligence Engineer Intern",
+  "location": "Niles, IL",
+  "url": "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-03",
+  "company": "Shure",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false": {
+  "title": "Applied Research Science Intern",
+  "location": "Niles, IL",
+  "url": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-03",
+  "company": "Shure",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false": {
+  "title": "Data Engineer Intern",
+  "location": "Niles, IL",
+  "url": "https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-03",
+  "company": "Shure",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false": {
+  "title": "Audio Applied Research Science Intern",
+  "location": "Niles, IL",
+  "url": "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-03",
+  "company": "Shure",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false": {
+  "title": "Global Product Management Data Intern",
+  "location": "Niles, IL",
+  "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-03",
+  "company": "Shure",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814": {
+  "title": "Finance Analytics Intern - Analytics & Modeling Program",
+  "location": "Washington, DC",
+  "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814",
+  "posted": "2026-09-02",
+  "company": "Fannie Mae",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://lifeattiktok.com/search/7677493272788683013": {
+  "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7677493272788683013",
+  "posted": "2026-09-03",
+  "company": "TikTok",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true": {
+  "title": "Data Science/Data Engineer Intern",
+  "location": "Torrance, CA",
+  "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
+  "posted": "2026-09-03",
+  "company": "Hadrian",
+  "terms": [
+   "Fall 2026",
+   "Spring 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1": {
+  "title": "Data Science Intern - Enterprise Reporting & Analytics",
+  "location": "Niskayuna, NY",
+  "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+  "posted": "2026-09-03",
+  "company": "Momentive",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265": {
+  "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
+  "location": "NYC",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
+  "posted": "2026-09-03",
+  "company": "American Express",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true": {
+  "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
+  "location": "San Mateo, CA",
+  "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true",
+  "posted": "2026-09-04",
+  "company": "Skydio",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295": {
+  "title": "Analytics Intern - Summer 2027",
+  "location": "Dallas, TX / Tempe, AZ",
+  "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295",
+  "posted": "2026-09-03",
+  "company": "DriveTime",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301": {
+  "title": "Data Science Intern - Summer 2027",
+  "location": "Dallas, TX / Tempe, AZ",
+  "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301",
+  "posted": "2026-09-03",
+  "company": "DriveTime",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
+  "title": "Data and Technology Intern - Multiple Teams",
+  "location": "Miami, FL / Dallas, TX / Chicago, IL / NYC",
+  "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "posted": "2026-09-04",
+  "company": "Ernst & Young",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027": {
+  "title": "Data Analytics Intern",
+  "location": "North Richland Hills, TX",
+  "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027",
+  "posted": "2026-09-04",
+  "company": "Ragle Inc",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282": {
+  "title": "Operational Analytics Intern",
+  "location": "Remote in USA",
+  "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282",
+  "posted": "2026-09-04",
+  "company": "DIRECTV",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
+  "title": "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
+  "location": "Dallas, TX / NYC",
+  "url": "https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "posted": "2026-09-04",
+  "company": "Ernst & Young",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978": {
+  "title": "AI Agent Development Co-op",
+  "location": "San Jose, CA",
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978",
+  "posted": "2026-09-04",
+  "company": "Nokia",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027",
+   "Fall 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146": {
+  "title": "Data Analytics Intern",
+  "location": "West Des Moines, IA",
+  "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146",
+  "posted": "2026-09-04",
+  "company": "Hy-Vee",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/kodiak/jobs/4396622009": {
+  "title": "Data Engineering Intern",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/kodiak/jobs/4396622009",
+  "posted": "2026-09-04",
+  "company": "Kodiak Robotics",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/Solidigm/744000147613769": {
+  "title": "Software Engineering Intern - Firmware & AI Engineering",
+  "location": "Rancho Cordova, CA",
+  "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613769",
+  "posted": "2026-09-05",
+  "company": "Solidigm",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
+  "title": "Data and Intelligence Delivery Intern - Assurance",
+  "location": "Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Moines, IA + more",
+  "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "posted": "2026-09-07",
+  "company": "Ernst & Young",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164": {
+  "title": "Data Scientist Intern",
+  "location": "Atlanta, GA",
+  "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
+  "posted": "2026-09-08",
+  "company": "Cox",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1": {
+  "title": "AI Engineer Intern",
+  "location": "San Jose, CA / McLean, VA / NYC",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+  "posted": "2026-09-08",
+  "company": "Capital One",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://aramcoservices.applytojob.com/apply/MdhantU1bV/Information-Technology-2027-Summer-Student-Program": {
+  "title": "AI/ML Engineering Intern - Summer Student Program",
+  "location": "Houston, TX",
+  "url": "https://aramcoservices.applytojob.com/apply/MdhantU1bV/Information-Technology-2027-Summer-Student-Program",
+  "posted": "2026-09-08",
+  "company": "Aramco Americas",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687": {
+  "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
+  "location": "Tukwila, WA",
+  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
+  "posted": "2026-09-08",
+  "company": "Boeing",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478": {
+  "title": "IT Intern - Enterprise Data & AI Administration",
+  "location": "Austin, TX / Taylor, TX",
+  "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478",
+  "posted": "2026-09-08",
+  "company": "Ercot",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579": {
+  "title": "Data Science Intern",
+  "location": "Grand Rapids, MI",
+  "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
+  "posted": "2026-09-08",
+  "company": "Meijer",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107": {
+  "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
+  "location": "Winchester, VA / Pensacola, FL / Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400": {
+  "title": "Payments AI Engineer Intern",
+  "location": "Pensacola, FL / Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081": {
+  "title": "Data Scientist Intern",
+  "location": "Winchester, VA / Pensacola, FL / Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079": {
+  "title": "Data Scientist Intern",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291": {
+  "title": "Data Scientist Intern",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310": {
+  "title": "Summer Associate Internship - Fraud Data Governance",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "MBA"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288": {
+  "title": "Data Scientist Intern",
+  "location": "Pensacola, FL / Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292": {
+  "title": "Associate Data Engineer Intern",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337": {
+  "title": "Data Scientist Intern",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265": {
+  "title": "Data Engineer Intern",
+  "location": "Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620": {
+  "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics",
+  "location": "United States",
+  "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620",
+  "posted": "2026-09-09",
+  "company": "Zions Bank",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/BoschGroup/744000148575999": {
+  "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
+  "location": "Farmington Hills, MI",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999",
+  "posted": "2026-09-09",
+  "company": "Robert Bosch Venture Capital",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/PilotCompany/744000148572871": {
+  "title": "Data Governance Intern",
+  "location": "Knoxville, TN",
+  "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572871",
+  "posted": "2026-09-09",
+  "company": "Pilot Company",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005": {
+  "title": "AI Engineer Intern",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+  "posted": "2026-09-09",
+  "company": "DV Trading",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460": {
+  "title": "Data Scientist Intern",
+  "location": "Pensacola, FL / Vienna, VA",
+  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460",
+  "posted": "2026-09-09",
+  "company": "Navy Federal",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.constellationenergy.com/jobs/138770?icims=1": {
+  "title": "Business Performance & Analytics Intern",
+  "location": "Houston, TX",
+  "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1",
+  "posted": "2026-09-10",
+  "company": "Constellation Energy",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030": {
+  "title": "Data Science Intern 3",
+  "location": "Bentonville, AR",
+  "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
+  "posted": "2026-09-10",
+  "company": "Walmart",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032": {
+  "title": "Senior Data Scientist Intern",
+  "location": "Bentonville, AR",
+  "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032",
+  "posted": "2026-09-10",
+  "company": "Walmart",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596": {
+  "title": "Systematic Data Strategy Intern",
+  "location": "NYC",
+  "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596",
+  "posted": "2026-09-10",
+  "company": "Brevan Howard",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718": {
+  "title": "Data Analytics & Governance Internship",
+  "location": "Des Moines, IA",
+  "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718",
+  "posted": "2026-09-11",
+  "company": "Wellmark",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187": {
+  "title": "Spatial Data R&D Intern",
+  "location": "Bloomington, MN",
+  "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187",
+  "posted": "2026-09-11",
+  "company": "The Toro Company",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281": {
+  "title": "Data Management Intern - Enterprise Data and Analytics",
+  "location": "Boston, MA / Johnston, RI / Columbus, OH",
+  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281",
+  "posted": "2026-09-11",
+  "company": "Citizens Financial Group",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280": {
+  "title": "Data Science Intern - Multiple Teams",
+  "location": "Boston, MA / Johnston, RI / Columbus, OH",
+  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
+  "posted": "2026-09-11",
+  "company": "Citizens Financial Group",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265": {
+  "title": "AI Engineer Intern",
+  "location": "Oshkosh, WI",
+  "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
+  "posted": "2026-09-11",
+  "company": "Oshkosh",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101": {
+  "title": "Machine Learning Intern - AI",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101",
+  "posted": "2026-09-11",
+  "company": "Veeam Software",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/perpay/jobs/4076978007": {
+  "title": "Data Science Intern",
+  "location": "Philadelphia, PA",
+  "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+  "posted": "2026-09-11",
+  "company": "Perpay",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/perpay/jobs/4076965007": {
+  "title": "Data Engineering Intern",
+  "location": "Philadelphia, PA",
+  "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
+  "posted": "2026-09-11",
+  "company": "Perpay",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743": {
+  "title": "Machine Learning Engineer Intern",
+  "location": "Remote in USA",
+  "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+  "posted": "2026-09-11",
+  "company": "Amgen",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "MBA",
+   "PharmD",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722": {
+  "title": "Data Scientist Intern - Amgen’s Technology & Medical Organizations",
+  "location": "Remote in USA",
+  "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+  "posted": "2026-09-11",
+  "company": "Amgen",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.constellationenergy.com/jobs/138716?icims=1": {
+  "title": "IT Data Engineering Intern",
+  "location": "Baltimore, MD",
+  "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1",
+  "posted": "2026-09-12",
+  "company": "Constellation Energy",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202": {
+  "title": "Data Engineering Intern - Digital & Technology",
+  "location": "Holmdel, NJ / NYC / Bethlehem, PA",
+  "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+  "posted": "2026-09-14",
+  "company": "Guardian Life",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205": {
+  "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
+  "location": "Holmdel, NJ / NYC / Bethlehem, PA",
+  "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
+  "posted": "2026-09-14",
+  "company": "Guardian Life",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false": {
+  "title": "Data Science Intern",
+  "location": "Philadelphia, PA",
+  "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-14",
+  "company": "URBN",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837": {
+  "title": "Data Strategist Intern - Global Data Strategists Team",
+  "location": "NYC",
+  "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837",
+  "posted": "2026-09-14",
+  "company": "BP",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602": {
+  "title": "Quantitative Analyst Intern - AI",
+  "location": "NYC",
+  "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+  "posted": "2026-09-14",
+  "company": "Brevan Howard",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.withwaymo.com/jobs?gh_jid=8197899": {
+  "title": "Human Behavior Analytics Intern - Safety Research",
+  "location": "Mountain View, CA",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+  "posted": "2026-09-14",
+  "company": "Waymo",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002": {
+  "title": "AI Automation Engineering Co-op",
+  "location": "Cambridge, MA",
+  "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002",
+  "posted": "2026-09-14",
+  "company": "Flagship Pioneering",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536": {
+  "title": "AI Scientist Intern",
+  "location": "NYC / Mountain View, CA / Atlanta, GA / San Diego, CA",
+  "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+  "posted": "2026-09-14",
+  "company": "Intuit",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547": {
+  "title": "Backend Software Engineer Intern - Java & AI - Master's",
+  "location": "Remote in USA",
+  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+  "posted": "2026-09-14",
+  "company": "Wex",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546": {
+  "title": "Software Engineer Intern - AI & Cloud",
+  "location": "Remote in USA",
+  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+  "posted": "2026-09-14",
+  "company": "Wex",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false": {
+  "title": "Data Services Intern - Summer 2027",
+  "location": "Irving, TX",
+  "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false",
+  "posted": "2026-09-14",
+  "company": "Highgate",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/WesternDigital/744000149367234": {
+  "title": "Systems Architecture Co-op - AI Systems Strategy",
+  "location": "Rochester, MN",
+  "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234",
+  "posted": "2026-09-14",
+  "company": "Western Digital",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
+  "title": "Data Engineer Intern - Multiple Teams",
+  "location": "Chicago, IL / NYC",
+  "url": "https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "posted": "2026-09-14",
+  "company": "Ernst & Young",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477": {
+  "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
+  "location": "NYC",
+  "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+  "posted": "2026-09-15",
+  "company": "BlackRock",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors": {
+  "title": "IT Data Analytics Intern",
+  "location": "Dallas, TX",
+  "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors",
+  "posted": "2026-09-15",
+  "company": "HF Sinclair",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090": {
+  "title": "Tableau Analytics and Business Intelligence Intern",
+  "location": "Overland Park, KS",
+  "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090",
+  "posted": "2026-09-15",
+  "company": "QTS",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53": {
+  "title": "Data Science Intern",
+  "location": "Greensboro, NC",
+  "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
+  "posted": "2026-09-15",
+  "company": "APEX Analytix",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9": {
+  "title": "Data Engineering Intern - Summer 2027",
+  "location": "Greensboro, NC",
+  "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
+  "posted": "2026-09-15",
+  "company": "APEX Analytix",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459": {
+  "title": "Data Science Intern",
+  "location": "Bedford, MA",
+  "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
+  "posted": "2026-09-15",
+  "company": "AspenTech",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true": {
+  "title": "AI/Machine Learning Engineer Intern",
+  "location": "NYC",
+  "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true",
+  "posted": "2026-09-16",
+  "company": "Gecko Robotics",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.gov2x.com/jobs/62843?icims=1": {
+  "title": "Artificial Intelligence Intern",
+  "location": "Indianapolis, IN",
+  "url": "https://careers.gov2x.com/jobs/62843?icims=1",
+  "posted": "2026-09-16",
+  "company": "V2X",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839": {
+  "title": "Data Science Intern",
+  "location": "Fort Worth, TX",
+  "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839",
+  "posted": "2026-09-16",
+  "company": "GM financial",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/covar/jobs/5240360007": {
+  "title": "Machine Learning Intern",
+  "location": "Durham, NC",
+  "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
+  "posted": "2026-09-16",
+  "company": "CoVar",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001": {
+  "title": "Data Science Intern - Summer 2027",
+  "location": "Pewaukee, WI / Waukesha, WI",
+  "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001",
+  "posted": "2026-09-17",
+  "company": "Generac",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114": {
+  "title": "Data Science Intern - Summer 2027",
+  "location": "Chicago, IL / Charlotte, NC / Hartford, CT",
+  "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
+  "posted": "2026-09-17",
+  "company": "The Hartford",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844": {
+  "title": "Data Intern - Data",
+  "location": "Chicago, IL",
+  "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844",
+  "posted": "2026-09-17",
+  "company": "OCC",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false": {
+  "title": "AI & Analytics Intern",
+  "location": "Richardson, TX",
+  "url": "https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-17",
+  "company": "Lennox International",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false": {
+  "title": "AI Engineering Intern - Summer 2027",
+  "location": "Richardson, TX",
+  "url": "https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-17",
+  "company": "Lennox International",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833": {
+  "title": "AI Research & Engineering Intern",
+  "location": "Chicago, IL",
+  "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833",
+  "posted": "2026-09-17",
+  "company": "OCC",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027",
+   "Summer 2027",
+   "Fall 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686": {
+  "title": "AI Developer Co-op - Graduate Program",
+  "location": "Ewing Township, NJ",
+  "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
+  "posted": "2026-09-17",
+  "company": "Church & Dwight",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.rivian.com/jobs/33800?icims=1": {
+  "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
+  "location": "Normal, IL",
+  "url": "https://careers.rivian.com/jobs/33800?icims=1",
+  "posted": "2026-09-18",
+  "company": "Rivian",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535": {
+  "title": "Software Development Co-op - AI Assisted",
+  "location": "Sunnyvale, CA",
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535",
+  "posted": "2026-09-18",
+  "company": "Nokia",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/botauto/jobs/5429357008": {
+  "title": "Software Engineer Intern - AI Agents",
+  "location": "Houston, TX",
+  "url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
+  "posted": "2026-09-19",
+  "company": "Bot Auto",
+  "terms": [
+   "Fall 2026",
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605": {
+  "title": "Data Engineer Intern",
+  "location": "NYC",
+  "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605",
+  "posted": "2026-09-21",
+  "company": "Lazard",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job": {
+  "title": "Machine Learning Intern",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
+  "posted": "2026-09-21",
+  "company": "Atlassian",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false": {
+  "title": "Data Science Intern - Machine Learning & AI",
+  "location": "Dallas, TX",
+  "url": "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-21",
+  "company": "American Heart Association",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004": {
+  "title": "Data Science Intern",
+  "location": "NYC",
+  "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
+  "posted": "2026-09-21",
+  "company": "Viking Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "finance",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.zimmerbiomet.com/us/en/job/12745": {
+  "title": "Product Management Intern - Artificial Intelligence Product Management",
+  "location": "Remote in USA",
+  "url": "https://careers.zimmerbiomet.com/us/en/job/12745",
+  "posted": "2026-09-21",
+  "company": "Zimmer Biomet Holdings",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.zimmerbiomet.com/us/en/job/12688": {
+  "title": "Summer Intern - Data Mesh Platform",
+  "location": "Remote in USA",
+  "url": "https://careers.zimmerbiomet.com/us/en/job/12688",
+  "posted": "2026-09-21",
+  "company": "Zimmer Biomet Holdings",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true": {
+  "title": "AI Research Intern",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true",
+  "posted": "2026-09-22",
+  "company": "ONE Finance",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252": {
+  "title": "Analytics Intern",
+  "location": "Orlando, FL",
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252",
+  "posted": "2026-09-22",
+  "company": "Electronic Arts",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2": {
+  "title": "Data Science Co-op - Flight Analytics Platform",
+  "location": "Austin, TX",
+  "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
+  "posted": "2026-09-21",
+  "company": "GE Aerospace",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.withwaymo.com/jobs?gh_jid=8221795": {
+  "title": "Software Engineer Intern - Simulation Evaluation ML Model",
+  "location": "Mountain View, CA",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+  "posted": "2026-09-22",
+  "company": "Waymo",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862": {
+  "title": "Machine Learning AI Co-op - Quantitative Pharmacology",
+  "location": "Cambridge, MA",
+  "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
+  "posted": "2026-09-22",
+  "company": "Sanofi",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false": {
+  "title": "IT Data Engineer Intern",
+  "location": "Madison, WI / West Bend, WI",
+  "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-22",
+  "company": "West Bend Insurance",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Coral-Gables-FL/Student-Data-Specialist---University-of-Miami_R100125647": {
+  "title": "Student Data Specialist",
+  "location": "Coral Gables, FL",
+  "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Coral-Gables-FL/Student-Data-Specialist---University-of-Miami_R100125647",
+  "posted": "2026-09-22",
+  "company": "ASM Global",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901": {
+  "title": "Data Analytics Intern",
+  "location": "Fort Wayne, IN",
+  "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
+  "posted": "2026-09-22",
+  "company": "Stryker",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371": {
+  "title": "R&D Intern - AI Research Engineer",
+  "location": "Mason, OH",
+  "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371",
+  "posted": "2026-09-22",
+  "company": "Procter & Gamble",
+  "terms": [
+   "Summer 2027",
+   "Summer 2026"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2": {
+  "title": "College Intern - Digital Analytics",
+  "location": "Rochester, NY / De Witt, NY / Utica, NY / Albany, NY + more",
+  "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+  "posted": "2026-09-23",
+  "company": "Excellus BCBS",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false": {
+  "title": "Data Solution Engineer Intern",
+  "location": "Madison, WI / West Bend, WI",
+  "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false",
+  "posted": "2026-09-23",
+  "company": "West Bend Insurance",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://eyglobal.yello.co/jobs/b62Iqxo_xKj_eGnRD4WuOw?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
+  "title": "Assurance Intern - Data and Intelligence Delivery",
+  "location": "Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Moines, IA + more",
+  "url": "https://eyglobal.yello.co/jobs/b62Iqxo_xKj_eGnRD4WuOw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "posted": "2026-09-23",
+  "company": "Ernst & Young",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.withwaymo.com/jobs?gh_jid=8224746": {
+  "title": "Machine Learning Engineer Intern - Road Understanding",
+  "location": "Mountain View, CA",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+  "posted": "2026-09-23",
+  "company": "Waymo",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2": {
+  "title": "AI Network Engineering Intern",
+  "location": "Bossier City, LA",
+  "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+  "posted": "2026-09-23",
+  "company": "General Dynamics Information Technology",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1": {
+  "title": "Generative AI Software Development Intern",
+  "location": "Bossier City, LA",
+  "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
+  "posted": "2026-09-23",
+  "company": "General Dynamics Information Technology",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.statefarm.com/jobs/46353?icims=1": {
+  "title": "Data Science Intern - Magnet Program",
+  "location": "Tempe, AZ",
+  "url": "https://jobs.statefarm.com/jobs/46353?icims=1",
+  "posted": "2026-09-24",
+  "company": "State Farm",
+  "terms": [
+   "Summer 2027",
+   "Spring 2028",
+   "Summer 2028",
+   "Fall 2028",
+   "Spring 2029"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650": {
+  "title": "AI and Data Transformation Intern",
+  "location": "NYC",
+  "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650",
+  "posted": "2026-09-24",
+  "company": "Lazard",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/Intuitive/744000151714759": {
+  "title": "AI Research Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+  "posted": "2026-09-25",
+  "company": "Intuitive Surgical",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982": {
+  "title": "AI Software Engineering Co-op - 6 months - 8 months",
+  "location": "Mayfield Heights, OH / Milwaukee, WI",
+  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982",
+  "posted": "2026-09-25",
+  "company": "Rockwell Automation",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job": {
+  "title": "Data Scientist Intern",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+  "posted": "2026-09-25",
+  "company": "Atlassian",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.redventures.com/careers/positions/open?gh_jid=8233284": {
+  "title": "Data Science Intern - Launch Program",
+  "location": "Charlotte, NC",
+  "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284",
+  "posted": "2026-09-25",
+  "company": "Red Ventures",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252": {
+  "title": "Data Scientist Intern",
+  "location": "Remote in USA / Reston, VA / Denver, CO",
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
+  "posted": "2026-09-25",
+  "company": "ICF International",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.jhuapl.edu/jobs/60084?icims=1": {
+  "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+  "location": "Laurel, MD",
+  "url": "https://careers.jhuapl.edu/jobs/60084?icims=1",
+  "posted": "2026-09-25",
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828": {
+  "title": "Data Engineering Intern",
+  "location": "Newport Beach, CA",
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828",
+  "posted": "2026-09-25",
+  "company": "Pacific Life",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": {
+  "title": "AI Software Engineering Co-op - 6 months - 8 months",
+  "location": "Mayfield Heights, OH / Milwaukee, WI",
+  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1",
+  "posted": "2026-09-25",
+  "company": "Rockwell Automation",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1": {
+  "title": "AI-Native Development Platform Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+  "posted": "2026-09-29",
+  "company": "Marvell",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848": {
+  "title": "AI-Native Development Platform Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+  "posted": "2026-09-29",
+  "company": "Marvell",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355": {
+  "title": "Analytics Engineering Co-op",
+  "location": "Remote in USA",
+  "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355",
+  "posted": "2026-09-29",
+  "company": "Risepoint",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354": {
+  "title": "Analytics Solutions Co-op",
+  "location": "Remote in USA",
+  "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354",
+  "posted": "2026-09-29",
+  "company": "Risepoint",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958": {
+  "title": "Artificial Intelligence/Machine Learning Co-op",
+  "location": "United States",
+  "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958",
+  "posted": "2026-09-29",
+  "company": "Honeywell",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "MBA",
+   "PharmD",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors": {
+  "title": "Finance AI Engineering Intern",
+  "location": "Atlanta, GA",
+  "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors",
+  "posted": "2026-09-29",
+  "company": "Acuity",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors": {
+  "title": "Finance AI Product Management Intern",
+  "location": "Atlanta, GA",
+  "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors",
+  "posted": "2026-09-29",
+  "company": "Acuity",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942": {
+  "title": "Data Science Intern - Distributed Intelligence",
+  "location": "Liberty Lake, WA",
+  "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+  "posted": "2026-09-28",
+  "company": "Itron",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2": {
+  "title": "Data Science Intern - Distributed Intelligence",
+  "location": "Liberty Lake, WA",
+  "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+  "posted": "2026-09-28",
+  "company": "Itron",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.rivian.com/jobs/33820?icims=1": {
+  "title": "Engineering Intern Co-op - Machine Learning Hardware",
+  "location": "Palo Alto, CA",
+  "url": "https://careers.rivian.com/jobs/33820?icims=1",
+  "posted": "2026-09-30",
+  "company": "Rivian",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792": {
+  "title": "Data Engineer / Data Platform Engineer Intern",
+  "location": "Champaign, IL",
+  "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792",
+  "posted": "2026-09-30",
+  "company": "Dow Chemical Company",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025": {
+  "title": "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML",
+  "location": "St Paul, MN",
+  "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025",
+  "posted": "2026-09-30",
+  "company": "Abbott",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.rivian.com/jobs/33984?icims=1": {
+  "title": "Software Engineer Intern Co-op - Applied AI",
+  "location": "Palo Alto, CA",
+  "url": "https://careers.rivian.com/jobs/33984?icims=1",
+  "posted": "2026-10-01",
+  "company": "Rivian",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.rivian.com/jobs/33829?icims=1": {
+  "title": "Engineer Intern Co-op - ML Compilers",
+  "location": "Palo Alto, CA",
+  "url": "https://careers.rivian.com/jobs/33829?icims=1",
+  "posted": "2026-10-01",
+  "company": "Rivian",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622": {
+  "title": "Advanced Analytics Intern",
+  "location": "Cleveland, OH",
+  "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
+  "posted": "2026-10-01",
+  "company": "The Federal Reserve System",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634": {
+  "title": "Data Science Intern",
+  "location": "Chicago, IL",
+  "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
+  "posted": "2026-10-01",
+  "company": "The Federal Reserve System",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/datacor/jobs/5242412007": {
+  "title": "Data Science Intern - Summer 2027 - Program",
+  "location": "Remote in USA",
+  "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+  "posted": "2026-10-01",
+  "company": "Datacor",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply": {
+  "title": "Analytics Intern",
+  "location": "Chicago, IL",
+  "url": "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply",
+  "posted": "2026-10-01",
+  "company": "Stand Together",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1": {
+  "title": "AI Prompt Engineer Intern",
+  "location": "Ashburn, VA",
+  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+  "posted": "2026-10-01",
+  "company": "CACI",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702": {
+  "title": "AI R&D Engineer Co-op",
+  "location": "Sunnyvale, CA",
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702",
+  "posted": "2026-10-01",
+  "company": "Nokia",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508": {
+  "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+  "location": "Sunnyvale, CA",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+  "posted": "2026-10-01",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1": {
+  "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+  "location": "Tarrytown, NY",
+  "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
+  "posted": "2026-10-02",
+  "company": "Regeneron Pharmaceuticals",
+  "terms": [
+   "Spring 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987": {
+  "title": "Enterprise Data Management Intern",
+  "location": "Boston, MA",
+  "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987",
+  "posted": "2026-10-02",
+  "company": "MFS",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650": {
+  "title": "Enterprise Analytics Intern",
+  "location": "Cincinnati, OH",
+  "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
+  "posted": "2026-10-02",
+  "company": "Great American Insurance Company",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251": {
+  "title": "Data Science Co-op - NLP & GenAI",
+  "location": "Framingham, MA / Atlanta, GA",
+  "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251",
+  "posted": "2026-10-02",
+  "company": "Bose",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696": {
+  "title": "Software Engineer Intern - AV/AI Platform",
+  "location": "Sunnyvale, CA / Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+  "posted": "2026-10-02",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695": {
+  "title": "Machine Learning Engineer Intern - AV/AI Platform",
+  "location": "Sunnyvale, CA",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+  "posted": "2026-10-02",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514": {
+  "title": "GenAI/ML Intern",
+  "location": "Madison, WI / Boston, MA",
+  "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
+  "posted": "2026-10-02",
+  "company": "American Family Insurance Group",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184": {
+  "title": "Finance Transformation & Analytics Intern",
+  "location": "Mountain View, CA",
+  "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
+  "posted": "2026-10-02",
+  "company": "Intuit",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://vaynermedia.com/careers?gh_jid=8126062": {
+  "title": "Data Analytics Resident",
+  "location": "NYC",
+  "url": "https://vaynermedia.com/careers?gh_jid=8126062",
+  "posted": "2026-09-10",
+  "company": "VaynerMedia",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.keysight.com/jobs/54570?icims=1": {
+  "title": "Data Scientist Intern",
+  "location": "Santa Rosa, CA",
+  "url": "https://jobs.keysight.com/jobs/54570?icims=1",
+  "posted": "2026-10-04",
+  "company": "Keysight Technologies",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510": {
+  "title": "Graduate Geospatial Data Science Modeling and Analysis Intern",
+  "location": "Golden, CO",
+  "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510",
+  "posted": "2026-09-11",
+  "company": "National Laboratory of the Rockies",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true": {
+  "title": "AI Research Intern",
+  "location": "NYC / Brooklyn, NY",
+  "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
+  "posted": "2026-10-04",
+  "company": "Pangram Labs",
+  "terms": [
+   "Spring 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220": {
+  "title": "Data Analytics Intern",
+  "location": "Wake County, NC",
+  "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220",
+  "posted": "2026-10-05",
+  "company": "State of North Carolina",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224": {
+  "title": "Data Engineer Intern",
+  "location": "Raleigh, NC",
+  "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224",
+  "posted": "2026-10-05",
+  "company": "State of North Carolina",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379": {
+  "title": "Applied Science Intern",
+  "location": "Seattle, WA / Austin, TX / San Jose, CA",
+  "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379",
+  "posted": "2026-10-05",
+  "company": "Expedia Group",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530": {
+  "title": "AI Solution Architect Graduate Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+  "posted": "2026-10-05",
+  "company": "Intel",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1": {
+  "title": "Data Engineer Intern",
+  "location": "NYC",
+  "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+  "posted": "2026-10-05",
+  "company": "Jain Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.jobvite.com/biofiredx/job/ooxSAfw7?nl=1&nl=1&fr=false": {
+  "title": "Data Science Co-op",
+  "location": "Hazelwood, MO",
+  "url": "https://jobs.jobvite.com/biofiredx/job/ooxSAfw7?nl=1&nl=1&fr=false",
+  "posted": "2026-10-05",
+  "company": "bioMérieux",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756": {
+  "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+  "location": "Milford, MI / Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+  "posted": "2026-10-05",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778": {
+  "title": "AI/ML Engineer Intern - Mapping",
+  "location": "Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+  "posted": "2026-10-05",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": {
+  "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
+  "location": "Boise, ID",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+  "posted": "2026-10-05",
+  "company": "Micron Technology",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064": {
+  "title": "Applied and Research Scientist/Engineer Intern",
+  "location": "Cambridge, MA / Seattle, WA / College Park, MD / San Jose, CA + more",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
+  "posted": "2026-10-05",
+  "company": "Adobe",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477": {
+  "title": "AI Intern",
+  "location": "Chicago, IL",
+  "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
+  "posted": "2026-10-05",
+  "company": "FHLBank Chicago",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005": {
+  "title": "Packaging Automation & Data Engineering Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005",
+  "posted": "2026-10-06",
+  "company": "Astera Labs",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005": {
+  "title": "Applied AI Intern - Non-Silicon",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005",
+  "posted": "2026-10-06",
+  "company": "Astera Labs",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/iex-interns/jobs/8210998": {
+  "title": "Data Engineer Intern",
+  "location": "NYC",
+  "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998",
+  "posted": "2026-10-06",
+  "company": "IEX",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false": {
+  "title": "Data Science Co-op",
+  "location": "Boston, MA",
+  "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
+  "posted": "2026-10-06",
+  "company": "Liberty Mutual",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false": {
+  "title": "Data Science Intern",
+  "location": "Boston, MA",
+  "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false",
+  "posted": "2026-10-06",
+  "company": "Liberty Mutual",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": {
+  "title": "Data Science Intern",
+  "location": "Andover, MA / Bloomington, MN / San Jose, CA / Spring, TX + more",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632",
+  "posted": "2026-08-30",
+  "company": "Hewlett Packard Enterprise",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://bostonscientific.eightfold.ai/careers/job/563602813584308": {
+  "title": "Equipment Engineering AI Vision Engineer Intern",
+  "location": "Maple Grove, MN",
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308",
+  "posted": "2026-10-06",
+  "company": "Boston Scientific",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004": {
+  "title": "Summer Analyst Intern - Insurance Risk - Data Science",
+  "location": "NYC",
+  "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004",
+  "posted": "2026-10-06",
+  "company": "KKR",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.rivian.com/jobs/34059?icims=1": {
+  "title": "Engineering Intern Co-op - AI/ML ASIC CAD",
+  "location": "Palo Alto, CA",
+  "url": "https://careers.rivian.com/jobs/34059?icims=1",
+  "posted": "2026-10-06",
+  "company": "Rivian",
+  "terms": [
+   "Spring 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/1633096478817942": {
+  "title": "Data Scientist Intern - Product Analytics",
+  "location": "Menlo Park, CA / NYC",
+  "url": "https://www.metacareers.com/jobs/1633096478817942",
+  "posted": "2026-10-06",
+  "company": "Meta",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566": {
+  "title": "AI Engineer Co-op",
+  "location": "Sunnyvale, CA",
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
+  "posted": "2026-10-06",
+  "company": "Nokia",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711": {
+  "title": "AI Engineering ERP Intern",
+  "location": "Cary, NC",
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
+  "posted": "2026-10-06",
+  "company": "ABB",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171": {
+  "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
+  "location": "Milwaukee, WI",
+  "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171",
+  "posted": "2026-10-06",
+  "company": "Northwestern Mutual",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714": {
+  "title": "AI Engineering Intern - Business Systems",
+  "location": "Cary, NC",
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
+  "posted": "2026-10-06",
+  "company": "ABB",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/929757023499411": {
+  "title": "Data Scientist Intern - Product Analytics",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/929757023499411",
+  "posted": "2026-10-07",
+  "company": "Meta",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007": {
+  "title": "AI Software Intern",
+  "location": "Austin, TX / Santa Clara, CA",
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
+  "posted": "2026-10-07",
+  "company": "Tenstorrent",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://bostonscientific.eightfold.ai/careers/job/563602813667382": {
+  "title": "R&D Research Data Science Intern",
+  "location": "United States",
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382",
+  "posted": "2026-09-28",
+  "company": "Boston Scientific",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270": {
+  "title": "Data Engineer Co-op",
+  "location": "Bloomfield Hills, MI / Framingham, MA / Atlanta, GA",
+  "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270",
+  "posted": "2026-10-07",
+  "company": "Bose",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277": {
+  "title": "Audio Machine Learning Intern Co-op",
+  "location": "Bloomfield Hills, MI / Framingham, MA / Atlanta, GA",
+  "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277",
+  "posted": "2026-10-07",
+  "company": "Bose",
+  "terms": [
+   "Winter 2027",
+   "Spring 2027",
+   "Summer 2027",
+   "Fall 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271": {
+  "title": "Data Analytics Engineer Co-op",
+  "location": "Bloomfield Hills, MI / Framingham, MA / Atlanta, GA",
+  "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271",
+  "posted": "2026-10-07",
+  "company": "Bose",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us": {
+  "title": "Data Engineer Intern",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+  "posted": "2026-10-08",
+  "company": "Amazon",
+  "terms": [
+   "Winter 2027",
+   "Summer 2027",
+   "Fall 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://apply.careers.microsoft.com/careers/job/1970393556986141": {
+  "title": "Applied Scientist Intern",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
+  "posted": "2026-10-07",
+  "company": "Microsoft",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://koch.avature.net/en_US/careers/JobDetail/195341": {
+  "title": "Data Science Intern",
+  "location": "Atlanta, GA",
+  "url": "https://koch.avature.net/en_US/careers/JobDetail/195341",
+  "posted": "2026-10-08",
+  "company": "Koch Industries",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041": {
+  "title": "International Pricing Analytics Intern - International Pricing Analytics",
+  "location": "Upper Gwynedd Township, PA / Rahway, NJ",
+  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041",
+  "posted": "2026-10-08",
+  "company": "Merck",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply": {
+  "title": "Research Scientist Intern - AI Molecular Design",
+  "location": "Palo Alto, CA",
+  "url": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply",
+  "posted": "2026-10-08",
+  "company": "GenBio AI",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881": {
+  "title": "Manufacturing Digital Data Intern",
+  "location": "Decherd, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+  "posted": "2026-10-08",
+  "company": "Nissan Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218": {
+  "title": "AI Agent Architect Intern",
+  "location": "Farmington Hills, MI",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218",
+  "posted": "2026-10-08",
+  "company": "Nissan Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314": {
+  "title": "Applied AI Software Development Intern",
+  "location": "McLean, VA",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
+  "posted": "2026-10-08",
+  "company": "Booz Allen",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/2211974449401350": {
+  "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+  "location": "Burlingame, CA / Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2211974449401350",
+  "posted": "2026-10-09",
+  "company": "Meta",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157": {
+  "title": "Data Science Intern",
+  "location": "Atlanta, GA",
+  "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
+  "posted": "2026-10-09",
+  "company": "Papa John's",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/1674394627579563": {
+  "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/1674394627579563",
+  "posted": "2026-10-09",
+  "company": "Meta",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/BoschGroup/744000154759734": {
+  "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
+  "posted": "2026-10-09",
+  "company": "Bosch Home Comfort",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006": {
+  "title": "Data Operations Engineer Intern",
+  "location": "Jersey City, NJ / Cheshire, CT",
+  "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006",
+  "posted": "2026-10-09",
+  "company": "SageSure",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1": {
+  "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+  "posted": "2026-10-09",
+  "company": "NVIDIA",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/Loram1/3743990016031492": {
+  "title": "Machine Learning / Artificial Intelligence Intern - AI",
+  "location": "Hamel, Medina, MN",
+  "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
+  "posted": "2026-10-09",
+  "company": "Loram",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors": {
+  "title": "Enterprise Content Analytics & Solutions Intern",
+  "location": "Inver Grove Heights, MN",
+  "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors",
+  "posted": "2026-10-09",
+  "company": "CHS",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580": {
+  "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
+  "location": "Spring House, PA",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
+  "posted": "2026-10-09",
+  "company": "Johnson & Johnson",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135": {
+  "title": "Summer Intern - Onboard Autonomy - Embodied AI",
+  "location": "Sunnyvale, CA",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+  "posted": "2026-10-09",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132": {
+  "title": "Data Scaling Intern - Data Scaling - Embodied AI",
+  "location": "Sunnyvale, CA",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+  "posted": "2026-10-09",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143": {
+  "title": "Seam Intern - Embodied AI",
+  "location": "Sunnyvale, CA",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+  "posted": "2026-10-09",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812": {
+  "title": "Machine Learning Engineer Intern",
+  "location": "Pleasanton, CA",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+  "posted": "2026-10-09",
+  "company": "Workday",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213": {
+  "title": "Data Science Intern",
+  "location": "Palo Alto, CA",
+  "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+  "posted": "2026-10-11",
+  "company": "Tencent",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169": {
+  "title": "Data Analysis/Data Engineering Intern",
+  "location": "Richmond, VA",
+  "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+  "posted": "2026-10-12",
+  "company": "CapTech Consulting",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2": {
+  "title": "Enterprise Analytics Intern",
+  "location": "Dallas, TX / Charlotte, NC",
+  "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2",
+  "posted": "2026-10-12",
+  "company": "TIAA",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150": {
+  "title": "Population Health Analytics Graduate Intern",
+  "location": "California / Washington, DC / Texas / NYC",
+  "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150",
+  "posted": "2026-10-12",
+  "company": "Highmark Health",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://koch.avature.net/en_US/careers/JobDetail/195465": {
+  "title": "Digital Technology & Data Intern",
+  "location": "Auburn Hills, MI",
+  "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
+  "posted": "2026-10-12",
+  "company": "Koch Industries",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223": {
+  "title": "AI & Data Analytics Intern",
+  "location": "Franklin, TN / Irving, TX",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
+  "posted": "2026-10-12",
+  "company": "Nissan",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true": {
+  "title": "Data Intern - Product Analytics",
+  "location": "Remote in USA",
+  "url": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true",
+  "posted": "2026-10-12",
+  "company": "1Password",
+  "terms": [
+   "Winter 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ascension.org/us/en/job/2026-465186": {
+  "title": "Data Science Intern",
+  "location": "St. Louis, MO",
+  "url": "https://jobs.ascension.org/us/en/job/2026-465186",
+  "posted": "2026-10-12",
+  "company": "Ascension",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379-1": {
+  "title": "Applied Science Intern",
+  "location": "Seattle, WA / Austin, TX / San Jose, CA",
+  "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379-1",
+  "posted": "2026-10-12",
+  "company": "Expedia Group",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241": {
+  "title": "Financial AI Engineer Intern",
+  "location": "Franklin, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+  "posted": "2026-10-12",
+  "company": "Nissan Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1": {
+  "title": "AI/ML Software Engineer Intern",
+  "location": "Ann Arbor, MI",
+  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+  "posted": "2026-10-12",
+  "company": "KLA",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ascension.org/us/en/job/2026-465180": {
+  "title": "Master Data Management Intern",
+  "location": "St. Louis, MO",
+  "url": "https://jobs.ascension.org/us/en/job/2026-465180",
+  "posted": "2026-10-12",
+  "company": "Ascension",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701": {
+  "title": "AI/ML Software Engineer Intern",
+  "location": "Ann Arbor, MI",
+  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701",
+  "posted": "2026-10-12",
+  "company": "KLA",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331": {
+  "title": "Data Science Intern",
+  "location": "Smyrna, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
+  "posted": "2026-10-12",
+  "company": "Nissan Global",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238": {
+  "title": "Data and AI Engineer Intern",
+  "location": "Austin, TX",
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238",
+  "posted": "2026-10-12",
+  "company": "Electronic Arts",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724": {
+  "title": "Summer Intern - Research and Development - Machine Learning for Automation",
+  "location": "Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+  "posted": "2026-10-12",
+  "company": "General Motors",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275": {
+  "title": "Defense Agencies Intern - AI/ML",
+  "location": "Falls Church, VA",
+  "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
+  "posted": "2026-10-12",
+  "company": "General Dynamics Information Technology",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "Associate's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/2586686598441521": {
+  "title": "Research Scientist Intern - Robotics",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2586686598441521",
+  "posted": "2026-10-12",
+  "company": "Meta",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13"
+ },
+ "https://www.metacareers.com/jobs/2168438160696161": {
+  "title": "Research Scientist Intern - Language and Agents",
+  "location": "Menlo Park, CA / Bellevue, WA",
+  "url": "https://www.metacareers.com/jobs/2168438160696161",
+  "posted": "2026-10-13",
+  "company": "Meta",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-10-13",
   "last_seen": "2026-10-13"
  }
 }

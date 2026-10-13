@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-13T19:19+00:00",
- "feeds_ok": 87,
- "feeds_total": 87,
+ "generated": "2026-10-13T21:18+00:00",
+ "feeds_ok": 88,
+ "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
@@ -26,7 +26,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 723,
+   "open_jobs": 724,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -47,7 +47,7 @@
   },
   "DoorDash": {
    "status": "ok",
-   "open_jobs": 461,
+   "open_jobs": 462,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "doordashusa"
@@ -75,14 +75,14 @@
   },
   "Reddit": {
    "status": "ok",
-   "open_jobs": 145,
+   "open_jobs": 144,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "reddit"
   },
   "Coinbase": {
    "status": "ok",
-   "open_jobs": 227,
+   "open_jobs": 225,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "coinbase"
@@ -103,21 +103,21 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 436,
+   "open_jobs": 437,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 239,
+   "open_jobs": 234,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
    "status": "ok",
-   "open_jobs": 393,
+   "open_jobs": 392,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "mongodb"
@@ -145,14 +145,14 @@
   },
   "Affirm": {
    "status": "ok",
-   "open_jobs": 201,
+   "open_jobs": 202,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "affirm"
   },
   "SoFi": {
    "status": "ok",
-   "open_jobs": 50,
+   "open_jobs": 47,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sofi"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 311,
+   "open_jobs": 309,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -187,7 +187,7 @@
   },
   "Dropbox": {
    "status": "ok",
-   "open_jobs": 30,
+   "open_jobs": 32,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "dropbox"
@@ -201,7 +201,7 @@
   },
   "Faire": {
    "status": "ok",
-   "open_jobs": 81,
+   "open_jobs": 79,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "faire"
@@ -215,21 +215,21 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 368,
+   "open_jobs": 369,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2493,
+   "open_jobs": 2491,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
   "Nuro": {
    "status": "ok",
-   "open_jobs": 108,
+   "open_jobs": 109,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "nuro"
@@ -243,7 +243,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 801,
+   "open_jobs": 805,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -285,7 +285,7 @@
   },
   "Cohere": {
    "status": "ok",
-   "open_jobs": 118,
+   "open_jobs": 117,
    "matches": 1,
    "ats": "ashby",
    "slug": "cohere"
@@ -327,7 +327,7 @@
   },
   "Plaid": {
    "status": "ok",
-   "open_jobs": 121,
+   "open_jobs": 122,
    "matches": 0,
    "ats": "ashby",
    "slug": "plaid"
@@ -341,14 +341,14 @@
   },
   "Zoox": {
    "status": "ok",
-   "open_jobs": 236,
+   "open_jobs": 235,
    "matches": 0,
    "ats": "lever",
    "slug": "zoox"
   },
   "Shield AI": {
    "status": "ok",
-   "open_jobs": 612,
+   "open_jobs": 613,
    "matches": 0,
    "ats": "lever",
    "slug": "shieldai"
@@ -369,7 +369,7 @@
   },
   "Jump Trading": {
    "status": "ok",
-   "open_jobs": 106,
+   "open_jobs": 105,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "jumptrading"
@@ -383,7 +383,7 @@
   },
   "DRW": {
    "status": "ok",
-   "open_jobs": 171,
+   "open_jobs": 170,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "drweng"
@@ -418,14 +418,14 @@
   },
   "Schonfeld": {
    "status": "ok",
-   "open_jobs": 66,
+   "open_jobs": 65,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "schonfeld"
   },
   "Old Mission": {
    "status": "ok",
-   "open_jobs": 39,
+   "open_jobs": 41,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "oldmissioncapital"
@@ -488,14 +488,14 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 258,
+   "open_jobs": 259,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
   },
   "Discord": {
    "status": "ok",
-   "open_jobs": 47,
+   "open_jobs": 46,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "discord"
@@ -607,10 +607,17 @@
   },
   "Oura": {
    "status": "ok",
-   "open_jobs": 76,
+   "open_jobs": 77,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "oura"
+  },
+  "Simplify internship list": {
+   "status": "ok",
+   "open_jobs": 255,
+   "matches": 255,
+   "ats": "simplify",
+   "slug": "SimplifyJobs/Summer2027-Internships"
   }
  }
 }
