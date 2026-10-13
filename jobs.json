@@ -2,7 +2,7 @@
   "lastRun": {
     "date": "2026-10-13",
     "found": 5,
-    "note": "5 new roles (picked by hand; the 7 AM scan failed, being fixed)"
+    "note": "5 new roles · reports already handled · no new closures · discovery searches skipped"
   },
   "jobs": [
     {
@@ -160,6 +160,71 @@
       "found": "2026-10-13",
       "posted": "2026-09-08",
       "category": "finance"
+    },
+    {
+      "id": "doordash-ml-intern-masters-2027",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "fit": "strong",
+      "why": "Master's-only ML internship for grads between Fall 2027 and Summer 2028, which fits his Dec 2027 date. Recommender, ranking and causal-inference work builds on his retrieval pipeline and XGBoost experience.",
+      "found": "2026-10-13",
+      "posted": "2026-09-23",
+      "category": "tech"
+    },
+    {
+      "id": "figma-ds-intern-2027",
+      "company": "Figma",
+      "title": "Data Science Intern (2027)",
+      "location": "San Francisco, CA; New York, NY",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+      "fit": "good",
+      "why": "Scoped analytics/experimentation project; no master's requirement or grad window is stated, so confirm the term dates. His SQL, Python and Tableau cover it, but it is less ML-heavy than his research.",
+      "found": "2026-10-13",
+      "posted": "2026-09-14",
+      "category": "tech"
+    },
+    {
+      "id": "lyft-ds-intern-algorithms-nyc-2027",
+      "company": "Lyft",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - NYC)",
+      "location": "New York, NY",
+      "source": "Greenhouse",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+      "fit": "good",
+      "why": "Algorithms-focused DS internship in NYC. His RL navigation project and large-scale XGBoost work fit; the page showed little detail, so check master's eligibility.",
+      "found": "2026-10-13",
+      "posted": "2026-09-11",
+      "category": "tech"
+    },
+    {
+      "id": "faire-applied-ml-scientist-intern-2027",
+      "company": "Faire",
+      "title": "Applied AI/ML Scientist, Intern",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+      "fit": "good",
+      "why": "Open to Master's/PhD students; applied ML on shipping and delivery estimates matches his modeling work. It is a Winter 2027 term starting January, so it overlaps the Columbia school term.",
+      "found": "2026-10-13",
+      "posted": "2026-10-06",
+      "category": "tech"
+    },
+    {
+      "id": "gecko-robotics-ai-ml-intern-2027",
+      "company": "Gecko Robotics",
+      "title": "AI/Machine Learning Engineering Intern",
+      "location": "New York, NY",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8",
+      "fit": "good",
+      "why": "NYC ML internship at an inspection-robotics company; his bridge damage modeling and PyFlyt/LiDAR RL work are close matches. Page details were thin, so check eligibility and term.",
+      "found": "2026-10-13",
+      "posted": "2026-09-16",
+      "category": "tech"
     }
   ],
   "browse": [
