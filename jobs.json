@@ -2,7 +2,7 @@
   "lastRun": {
     "date": "2026-10-13",
     "found": 5,
-    "note": "Moved older postings to Browse; daily list is now new postings only"
+    "note": "5 new roles · 0 more to browse · reports already handled · 4 listings re-checked, all open · Problem: Workday/Meta pages didn't load, so picks rest on feed data"
   },
   "jobs": [
     {
@@ -108,6 +108,71 @@
       "found": "2026-10-13",
       "posted": "2026-10-06",
       "category": "tech"
+    },
+    {
+      "id": "electronic-arts-data-ai-engineer-intern-2027",
+      "company": "Electronic Arts",
+      "title": "Data and AI Engineer Intern (Summer 2027)",
+      "location": "Austin, TX",
+      "source": "Company site",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238",
+      "fit": "good",
+      "why": "Master's-level role building LLM/RAG agent workflows with Python and SQL, close to his LLaMA 3.2 retrieval pipeline and embeddings work. Needs Dec 2027 or later graduation (he fits); more data-engineering than modeling, and no visa sponsorship.",
+      "found": "2026-10-13",
+      "category": "gaming",
+      "posted": "2026-10-12"
+    },
+    {
+      "id": "general-motors-ml-automation-intern-2027",
+      "company": "General Motors",
+      "title": "Summer Intern - Research and Development - Machine Learning for Automation",
+      "location": "Warren, MI",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+      "fit": "good",
+      "why": "R&D ML internship open to master's students; his PPO quadcopter RL work and PyTorch background map well. Page didn't load, so check the description for specifics.",
+      "found": "2026-10-13",
+      "category": "tech",
+      "posted": "2026-10-12"
+    },
+    {
+      "id": "tencent-data-science-intern-palo-alto-2027",
+      "company": "Tencent",
+      "title": "Data Science Intern",
+      "location": "Palo Alto, CA",
+      "source": "Workday",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+      "fit": "good",
+      "why": "California data science internship open to master's students; fits his XGBoost and Python/SQL work. Term not listed, so confirm dates.",
+      "found": "2026-10-13",
+      "category": "tech",
+      "posted": "2026-10-11"
+    },
+    {
+      "id": "kla-ai-ml-software-engineer-intern-ann-arbor",
+      "company": "KLA",
+      "title": "AI/ML Software Engineer Intern",
+      "location": "Ann Arbor, MI",
+      "source": "Workday",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+      "fit": "stretch",
+      "why": "Master's-targeted AI/ML internship using PyTorch and applied ML. Leans software engineering, and the term isn't listed, so confirm timing.",
+      "found": "2026-10-13",
+      "category": "tech",
+      "posted": "2026-10-12"
+    },
+    {
+      "id": "nissan-data-science-intern-smyrna-2027",
+      "company": "Nissan Global",
+      "title": "Data Science Intern - Summer 2027",
+      "location": "Smyrna, TN",
+      "source": "Workday",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
+      "fit": "stretch",
+      "why": "Summer 2027 data science internship open to bachelor's and master's students; his XGBoost and IoT-scale modeling fits. Manufacturing location in Tennessee; page didn't load, so eligibility rests on the feed.",
+      "found": "2026-10-13",
+      "category": "tech",
+      "posted": "2026-10-12"
     }
   ],
   "browse": [
