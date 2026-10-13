@@ -77,12 +77,13 @@ h2 { font-family: var(--f-display); font-weight: 500; font-size: 22px; margin: 0
 .btn:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* Backlog: same entries, a touch tighter, actions on the right on wide screens */
-.row { grid-template-columns: 1fr auto; gap: 4px 16px; align-items: center; padding: 14px 0; }
+.row { grid-template-columns: 1fr; gap: 4px; padding: 14px 0; }
 .row .main { min-width: 0; display: grid; gap: 3px; }
 .row .title { font-size: 15.5px; }
 .row .why { font-size: 13.5px; color: var(--muted); opacity: 1; }
-.row .actions { margin: 0; }
-@media (max-width: 560px) { .row { grid-template-columns: 1fr; } .row .actions { margin-top: 6px; } }
+.row .actions { margin-top: 6px; }
+/* In the folded lists (Applied, Skipped, …) keep each entry short */
+details .row .why { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
 .folds { display: grid; gap: 4px; border-top: 1px solid var(--line); padding-top: 12px; }
 summary { cursor: pointer; font-size: 14px; color: var(--muted); list-style: none; display: flex; gap: 8px; align-items: baseline; padding: 6px 0; }
@@ -90,7 +91,7 @@ summary:hover { color: var(--ink); }
 summary::-webkit-details-marker { display: none; }
 summary::before { content: "›"; font-size: 15px; transition: transform .15s; display: inline-block; }
 details[open] summary::before { transform: rotate(90deg); }
-details .rows, details .empty { margin: 4px 0 12px 16px; }
+details .rows, details .empty { margin: 4px 0 12px 20px; }
 .stamp { font-size: 12.5px; color: var(--accent); background: var(--accent-soft); padding: 2px 9px; border-radius: 99px; }
 
 .empty { color: var(--muted); font-size: 14px; padding: 6px 0 4px; }
