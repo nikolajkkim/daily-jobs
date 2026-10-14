@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T13:16+00:00",
- "feeds_ok": 88,
+ "generated": "2026-10-14T14:00+00:00",
+ "feeds_ok": 86,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
@@ -19,7 +19,7 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 894,
+   "open_jobs": 895,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "databricks"
@@ -47,7 +47,7 @@
   },
   "DoorDash": {
    "status": "ok",
-   "open_jobs": 460,
+   "open_jobs": 461,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "doordashusa"
@@ -68,7 +68,7 @@
   },
   "Pinterest": {
    "status": "ok",
-   "open_jobs": 156,
+   "open_jobs": 154,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "pinterest"
@@ -96,7 +96,7 @@
   },
   "Datadog": {
    "status": "ok",
-   "open_jobs": 439,
+   "open_jobs": 440,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "datadog"
@@ -159,7 +159,7 @@
   },
   "Chime": {
    "status": "ok",
-   "open_jobs": 69,
+   "open_jobs": 70,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "chime"
@@ -221,9 +221,7 @@
    "slug": "waymo"
   },
   "Anduril": {
-   "status": "ok",
-   "open_jobs": 2490,
-   "matches": 0,
+   "status": "error: TimeoutError: The read operation timed out",
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
@@ -243,7 +241,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 806,
+   "open_jobs": 805,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -278,7 +276,7 @@
   },
   "Harvey": {
    "status": "ok",
-   "open_jobs": 346,
+   "open_jobs": 343,
    "matches": 0,
    "ats": "ashby",
    "slug": "harvey"
@@ -334,7 +332,7 @@
   },
   "Spotify": {
    "status": "ok",
-   "open_jobs": 81,
+   "open_jobs": 80,
    "matches": 0,
    "ats": "lever",
    "slug": "spotify"
@@ -362,7 +360,7 @@
   },
   "Point72": {
    "status": "ok",
-   "open_jobs": 222,
+   "open_jobs": 221,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "point72"
@@ -390,7 +388,7 @@
   },
   "Hudson River Trading": {
    "status": "ok",
-   "open_jobs": 90,
+   "open_jobs": 89,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "wehrtyou"
@@ -431,9 +429,7 @@
    "slug": "oldmissioncapital"
   },
   "Clear Street": {
-   "status": "ok",
-   "open_jobs": 46,
-   "matches": 0,
+   "status": "error: TimeoutError: The read operation timed out",
    "ats": "greenhouse",
    "slug": "clearstreet"
   },
@@ -516,14 +512,14 @@
   },
   "PlayStation": {
    "status": "ok",
-   "open_jobs": 206,
+   "open_jobs": 207,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal"
   },
   "2K": {
    "status": "ok",
-   "open_jobs": 118,
+   "open_jobs": 117,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "2k"

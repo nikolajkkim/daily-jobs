@@ -1,42 +1,7 @@
 {
- "generated": "2026-10-14T13:16+00:00",
+ "generated": "2026-10-14T14:00+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
-  {
-   "title": "Research Scientist Intern - Robot Learning & Manipulation",
-   "location": "Irvine, CA",
-   "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply",
-   "posted": "2026-10-14",
-   "company": "Field AI",
-   "terms": [
-    "Spring 2027",
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Research Scientist Intern - Language and Agents",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2168438160696161",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-14"
-  },
   {
    "title": "HPC AI Networking Intern - Network Transport",
    "location": "Chippewa Falls, WI / Fort Collins, CO",
@@ -48,24 +13,6 @@
    ],
    "degrees": [
     "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
-   "posted": "2026-10-13",
-   "company": "KLA",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
     "Master's",
     "PhD"
    ],
@@ -141,24 +88,6 @@
    "degrees": [
     "Bachelor's",
     "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Machine Learning Intern - Planning/Prediction",
-   "location": "Mountain View, CA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
-   "posted": "2026-10-13",
-   "company": "Waymo",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
    ],
    "category": "tech",
    "ats": "simplify",
@@ -355,39 +284,6 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Computer Vision/Machine Learning Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
-   "posted": "2026-10-13",
-   "company": "KLA",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Data Analysis/Data Engineering Intern",
-   "location": "Richmond, VA",
-   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
-   "posted": "2026-10-12",
-   "company": "CapTech Consulting",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-13",
    "last_seen": "2026-10-14"
   },
   {

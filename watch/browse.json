@@ -1,45 +1,12 @@
 {
- "generated": "2026-10-14T13:16+00:00",
+ "generated": "2026-10-14T14:00+00:00",
  "jobs": [
-  {
-   "id": "w-3855e61005f8",
-   "company": "Field AI",
-   "title": "Research Scientist Intern - Robot Learning & Manipulation",
-   "location": "Irvine, CA",
-   "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-d32705c01d9a",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Language and Agents",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2168438160696161",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-13"
-  },
   {
    "id": "w-b728a2f1e9f7",
    "company": "Hewlett Packard Enterprise",
    "title": "HPC AI Networking Intern - Network Transport",
    "location": "Chippewa Falls, WI / Fort Collins, CO",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-3ded097959da",
-   "company": "KLA",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-13",
@@ -84,17 +51,6 @@
    "title": "AI Analyst / AI Automation Specialist Intern",
    "location": "Irving, TX",
    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-16ef68566854",
-   "company": "Waymo",
-   "title": "Machine Learning Intern - Planning/Prediction",
-   "location": "Mountain View, CA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-13",
@@ -231,28 +187,6 @@
    "category": "tech",
    "posted": "2026-10-13",
    "found": "2026-10-14"
-  },
-  {
-   "id": "w-90e52c71e2df",
-   "company": "KLA",
-   "title": "Computer Vision/Machine Learning Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-39d07412cdb4",
-   "company": "CapTech Consulting",
-   "title": "Data Analysis/Data Engineering Intern",
-   "location": "Richmond, VA",
-   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
   },
   {
    "id": "w-6bdfb50ea51b",
