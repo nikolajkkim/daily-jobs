@@ -5,8 +5,14 @@ create extension if not exists pg_cron;
 create extension if not exists pg_net;
 
 -- 1) Store the GitHub token in Supabase Vault (encrypted).
---    To replace it later: select vault.update_secret((select id from vault.secrets where name = 'github_dispatch_token'), 'NEW_TOKEN');
-select vault.create_secret('PASTE_GITHUB_TOKEN_HERE', 'github_dispatch_token', 'Starts the Daily Jobs morning scan');
+--    Safe to run again: it updates the saved token if one exists.
+do $$
+declare sid uuid := (select id from vault.secrets where name = 'github_dispatch_token');
+begin
+  if sid is null then perform vault.create_secret('PASTE_GITHUB_TOKEN_HERE', 'github_dispatch_token');
+  else perform vault.update_secret(sid, 'PASTE_GITHUB_TOKEN_HERE');
+  end if;
+end $$;
 
 -- 2) Function that asks GitHub to run the "Morning scan" workflow.
 create or replace function public.dispatch_morning_scan()
