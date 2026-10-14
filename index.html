@@ -257,7 +257,7 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
   $("today").textContent = new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: tz });
 
   // ---------- state
-  let jobs = [], meta = null, toastTimer = null;
+  let jobs = [], meta = null, toastTimer = null, scanStarted = false;
   let browse = [];         // extra open roles: watcher feeds + search finds that didn't make the daily list
   let browseCat = "all", browseShown = 15;
   const CATS = [["all", "All"], ["tech", "Tech & AI"], ["finance", "Finance"], ["fun", "Gaming & entertainment"], ["golf", "Golf"]];
@@ -480,6 +480,10 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
       if (meta && typeof meta.found === "number") { const s2 = el("span"); s2.append(el("b", null, String(meta.found)), " new"); scan.append(s2); }
       const s3 = el("span"); s3.append(el("b", null, String(todo.length)), " to apply"); scan.append(s3);
       const s4 = el("span"); s4.append(el("b", null, String(applied.length)), " applied"); scan.append(s4);
+      if (latest !== todayISO && sb && session) {
+        const s5 = el("span"); const b = el("button", "link", scanStarted ? "Scan running…" : "Run today's scan");
+        b.type = "button"; b.disabled = scanStarted; b.onclick = runScan; s5.append(b); scan.append(s5);
+      }
     } else {
       scan.append(el("span", null, "No scans yet. The first one runs tomorrow at 7 AM ET."));
     }
@@ -541,6 +545,14 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     act.disabled = !!waitingSince;
     act.onclick = requestSync;
     $("signOut").hidden = false;
+  }
+
+  // ---------- fallback: start the morning scan from the site if it hasn't run today
+  async function runScan() {
+    const { error } = await sb.rpc("run_morning_scan");
+    if (error) { showToast("Couldn't start the scan: " + error.message, null); return; }
+    scanStarted = true; render();
+    showToast("Scan started. New jobs and the brief show up here in about 10–15 minutes.", null);
   }
 
   // ---------- sync button: ask the Mac to sync, then watch for it to finish
