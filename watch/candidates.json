@@ -1,7 +1,27 @@
 {
- "generated": "2026-10-13T21:24+00:00",
+ "generated": "2026-10-14T13:16+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Research Scientist Intern - Robot Learning & Manipulation",
+   "location": "Irvine, CA",
+   "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply",
+   "posted": "2026-10-14",
+   "company": "Field AI",
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
   {
    "title": "Research Scientist Intern - Language and Agents",
    "location": "Menlo Park, CA / Bellevue, WA",
@@ -15,7 +35,345 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "HPC AI Networking Intern - Network Transport",
+   "location": "Chippewa Falls, WI / Fort Collins, CO",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
+   "posted": "2026-10-13",
+   "company": "Hewlett Packard Enterprise",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Milpitas, CA",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
+   "posted": "2026-10-13",
+   "company": "KLA",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Forward Deployed AI Engineer Intern",
+   "location": "Boston, MA / Chicago, IL / NYC",
+   "url": "https://careers.bcg.com/global/en/job/59702",
+   "posted": "2026-10-13",
+   "company": "Boston Consulting Group",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "AI Engineer Intern",
+   "location": "Ann Arbor, MI",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+   "posted": "2026-10-13",
+   "company": "KLA",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "AI and Data Analytics Intern",
+   "location": "Sterling, VA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269",
+   "posted": "2026-10-13",
+   "company": "General Dynamics Information Technology",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "Associate's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "AI Analyst / AI Automation Specialist Intern",
+   "location": "Irving, TX",
+   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
+   "posted": "2026-10-13",
+   "company": "7-Eleven",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Machine Learning Intern - Planning/Prediction",
+   "location": "Mountain View, CA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+   "posted": "2026-10-13",
+   "company": "Waymo",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2988199118196184",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+   "location": "Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1139865145249047",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+   "location": "Burlingame, CA / Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1839680137188723",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/3364701000388712",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - AI & System Co-Design",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1062032900196411",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - Egocentric Vision-Language Models",
+   "location": "Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2067000203934229",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - Multiple Teams",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2192664358300823",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Research Scientist Intern - AI & Compute Foundation",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1866761794487684",
+   "posted": "2026-10-13",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Embedded Audio Machine Learning Engineer Co-op",
+   "location": "Framingham, MA",
+   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
+   "posted": "2026-10-13",
+   "company": "Bose",
+   "terms": [
+    "Spring 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Data Engineer Intern",
+   "location": "Chicago, IL",
+   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379",
+   "posted": "2026-10-13",
+   "company": "STV",
+   "terms": [
+    "Spring 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Data Analytics Intern",
+   "location": "Dallas, TX / Tempe, AZ",
+   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
+   "posted": "2026-10-13",
+   "company": "DriveTime",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Forward Deployed AI Scientist Intern",
+   "location": "Boston, MA / Chicago, IL / NYC",
+   "url": "https://careers.bcg.com/global/en/job/59703",
+   "posted": "2026-10-13",
+   "company": "Boston Consulting Group",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Computer Vision/Machine Learning Intern",
+   "location": "Milpitas, CA",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
+   "posted": "2026-10-13",
+   "company": "KLA",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Data Analysis/Data Engineering Intern",
@@ -30,7 +388,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Enterprise Analytics Intern",
@@ -45,7 +403,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Population Health Analytics Graduate Intern",
@@ -63,7 +421,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Digital Technology & Data Intern",
@@ -78,22 +436,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "AI & Data Analytics Intern",
-   "location": "Franklin, TN / Irving, TX",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
-   "posted": "2026-10-12",
-   "company": "Nissan",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Data Intern - Product Analytics",
@@ -108,7 +451,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Data Science Intern",
@@ -123,25 +466,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "title": "Financial AI Engineer Intern",
-   "location": "Franklin, TN",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
-   "posted": "2026-10-12",
-   "company": "Nissan Global",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Master Data Management Intern",
@@ -156,7 +481,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Defense Agencies Intern - AI/ML",
@@ -175,7 +500,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Research Scientist Intern - Robotics",
@@ -190,7 +515,22 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
+  },
+  {
+   "title": "Integrated Participant Solutions Analytics Intern",
+   "location": "St. Louis, MO",
+   "url": "https://jobs.ascension.org/us/en/job/2026-465198",
+   "posted": "2026-10-12",
+   "company": "Ascension",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
   }
  ]
 }

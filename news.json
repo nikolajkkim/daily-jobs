@@ -1,54 +1,47 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks ended flat as earnings season kicked off",
-      "note": "S&P 500 −0.02%, Nasdaq −0.15%, Dow −0.35%. JPMorgan missed profit estimates while Goldman Sachs beat them on strong trading, so the big banks sent mixed signals.",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026",
-      "source": "TheStreet"
+      "headline": "Stocks ended nearly flat as bank earnings gave mixed signals",
+      "note": "S&P 500 −0.02%, Nasdaq about −0.15%, Dow −0.35% on Tuesday. Goldman Sachs beat profit estimates (EPS $17.01 vs. about $13 expected) while JPMorgan missed ($5.57 vs. $5.90), and Wells Fargo fell about 3%.",
+      "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+      "source": "CNBC"
     },
     {
       "tag": "Chips",
-      "headline": "Memory-chip stocks fell on a Chinese rival's progress",
-      "note": "Micron, Samsung and SK Hynix dropped after reports that China's CXMT advanced a new memory design. High-bandwidth memory is a bottleneck for AI hardware, so this is an AI supply-chain story.",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026",
-      "source": "TheStreet"
-    },
-    {
-      "tag": "AI",
-      "headline": "OpenAI cancelled its GPT-6.1 Astra launch after failed safety tests",
-      "note": "The model was meant to power ChatGPT and Codex but didn't pass internal alignment checks. A rare case of a lab pulling a model publicly; AI evals and safety keep coming up in ML interviews.",
-      "url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
-      "source": "The Next Web"
-    },
-    {
-      "tag": "AI",
-      "headline": "New frontier models from Anthropic, OpenAI and Google landed in late September",
-      "note": "Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon (limited to vetted security teams for now). Worth knowing the names and what each is good at before interviews.",
-      "url": "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html",
-      "source": "Model roundup"
-    },
-    {
-      "tag": "AI",
-      "headline": "Microsoft's Maia 300 AI chip reportedly packs 288 GB of HBM4",
-      "note": "Big tech keeps building its own AI chips to rely less on Nvidia. Same memory theme as today's chip-stock story.",
-      "url": "https://aiweekly.co/alerts/microsoft-maia-300-packs-288-gb-hbm4-7x-maia-200-throughput",
-      "source": "AI Weekly"
+      "headline": "Memory-chip stocks dragged on the Nasdaq",
+      "note": "Memory makers sold off, helping pull the Nasdaq lower. High-bandwidth memory is a key part of AI hardware, so chip swings are worth watching for AI-related jobs.",
+      "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+      "source": "CNBC"
     },
     {
       "tag": "Economy",
-      "headline": "Wall Street is split on whether the Fed raises rates later this month",
-      "note": "Some banks, including Goldman Sachs, expect an October hike; prediction markets put it near 50/50. Higher rates make borrowing pricier, which tends to weigh on tech stocks and startup hiring.",
-      "url": "https://www.thestandard.com.hk/finance/article/343083/Goldman-Sachs-sees-October-Fed-hike-after-hawkish-signal",
-      "source": "The Standard"
+      "headline": "September inflation (CPI) report is due today, with the Fed meeting Oct 27–28",
+      "note": "Previews expect core inflation to keep slowing, and markets mostly expect the Fed to hold at its late-October meeting. A hot number could revive talk of another hike, which would pressure tech stocks and startup hiring.",
+      "url": "https://www.kitco.com/news/article/2026-10-09/september-cpi-should-be-line-and-last-months-fed-rate-hike-may-be-only-one",
+      "source": "Kitco (Natixis preview)"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic reportedly meets institutional investors today as it moves toward an IPO",
+      "note": "Bloomberg reportedly said investors were invited to Anthropic's San Francisco HQ on Oct 14. This is a secondhand report, but a possible AI-lab IPO would be a big event for the AI job market.",
+      "url": "https://toolnavs.com/fr/article/2257-ai-briefing-oct-2-anthropic-pushes-toward-an-ipo-as-california-subpoenas-openai",
+      "source": "ToolNavs (citing Bloomberg)"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Data science hiring looks steady, not booming",
+      "note": "One analysis of US postings finds a steady flow, mostly mid-level or senior roles, with New York holding about 14% of postings. Python (82%) and SQL (55%) lead the skills; this is a recruiting-firm analysis, so treat it as indicative.",
+      "url": "https://axialsearch.com/insights/data-science-jobs",
+      "source": "Axial Search"
     }
   ],
   "learn": {
-    "n": 1,
-    "term": "Earnings season and \"beating estimates\"",
-    "explain": "Four times a year, public companies report their quarterly results. Beforehand, analysts publish a forecast for earnings per share (EPS: profit divided by the number of shares). The stock usually moves on whether the company beats or misses that forecast, not on whether the profit is big. That's how JPMorgan can earn billions and still disappoint. Big banks report first, so they kick off each season.",
-    "try": "Search \"JPM\" on Yahoo Finance and compare the EPS estimate with the reported EPS for the latest quarter."
+    "n": 2,
+    "term": "Inflation and the CPI",
+    "explain": "Inflation is the rate at which prices rise over time, so each dollar buys a little less. The Consumer Price Index (CPI) tracks it by pricing a fixed basket of everyday things (food, rent, gas, clothes) each month and comparing with a year earlier. \"Core\" CPI leaves out food and energy because they swing a lot, so it shows the underlying trend. The Fed watches inflation closely: if it stays too high, the Fed can raise interest rates to cool spending. That is why a CPI release can move stocks the same day.",
+    "try": "Look up the latest CPI release on bls.gov and find the difference between the headline and core numbers."
   },
-  "learned": ["Earnings season and EPS"]
+  "learned": ["Earnings season and EPS", "Inflation and the CPI"]
 }

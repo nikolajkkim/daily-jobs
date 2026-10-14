@@ -1,6 +1,17 @@
 {
- "generated": "2026-10-13T21:24+00:00",
+ "generated": "2026-10-14T13:16+00:00",
  "jobs": [
+  {
+   "id": "w-3855e61005f8",
+   "company": "Field AI",
+   "title": "Research Scientist Intern - Robot Learning & Manipulation",
+   "location": "Irvine, CA",
+   "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-14",
+   "found": "2026-10-14"
+  },
   {
    "id": "w-d32705c01d9a",
    "company": "Meta",
@@ -11,6 +22,226 @@
    "category": "tech",
    "posted": "2026-10-13",
    "found": "2026-10-13"
+  },
+  {
+   "id": "w-b728a2f1e9f7",
+   "company": "Hewlett Packard Enterprise",
+   "title": "HPC AI Networking Intern - Network Transport",
+   "location": "Chippewa Falls, WI / Fort Collins, CO",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-3ded097959da",
+   "company": "KLA",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Milpitas, CA",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-abb4a61b6dce",
+   "company": "Boston Consulting Group",
+   "title": "Forward Deployed AI Engineer Intern",
+   "location": "Boston, MA / Chicago, IL / NYC",
+   "url": "https://careers.bcg.com/global/en/job/59702",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-f751f1210958",
+   "company": "KLA",
+   "title": "AI Engineer Intern",
+   "location": "Ann Arbor, MI",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-42f084d08b38",
+   "company": "General Dynamics Information Technology",
+   "title": "AI and Data Analytics Intern",
+   "location": "Sterling, VA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-e45ec56df46e",
+   "company": "7-Eleven",
+   "title": "AI Analyst / AI Automation Specialist Intern",
+   "location": "Irving, TX",
+   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-16ef68566854",
+   "company": "Waymo",
+   "title": "Machine Learning Intern - Planning/Prediction",
+   "location": "Mountain View, CA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-49e39c540a5c",
+   "company": "Meta",
+   "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2988199118196184",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-8dc7f640142b",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+   "location": "Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1139865145249047",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-613ab2901d43",
+   "company": "Meta",
+   "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+   "location": "Burlingame, CA / Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1839680137188723",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-7f240bb63d16",
+   "company": "Meta",
+   "title": "Research Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/3364701000388712",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-57b1bbbed322",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI & System Co-Design",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1062032900196411",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-709a2994a1aa",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Egocentric Vision-Language Models",
+   "location": "Redmond, WA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2067000203934229",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-0e314e747296",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Multiple Teams",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2192664358300823",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-6e96ef153f42",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI & Compute Foundation",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1866761794487684",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-ed81372296f1",
+   "company": "Bose",
+   "title": "Embedded Audio Machine Learning Engineer Co-op",
+   "location": "Framingham, MA",
+   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-ac9c9cd8faf5",
+   "company": "STV",
+   "title": "Data Engineer Intern",
+   "location": "Chicago, IL",
+   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-90b6d3faf15b",
+   "company": "DriveTime",
+   "title": "Data Analytics Intern",
+   "location": "Dallas, TX / Tempe, AZ",
+   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-fce494ce6488",
+   "company": "Boston Consulting Group",
+   "title": "Forward Deployed AI Scientist Intern",
+   "location": "Boston, MA / Chicago, IL / NYC",
+   "url": "https://careers.bcg.com/global/en/job/59703",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
+  },
+  {
+   "id": "w-90e52c71e2df",
+   "company": "KLA",
+   "title": "Computer Vision/Machine Learning Intern",
+   "location": "Milpitas, CA",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-13",
+   "found": "2026-10-14"
   },
   {
    "id": "w-39d07412cdb4",
@@ -57,17 +288,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-f50dcd062994",
-   "company": "Nissan",
-   "title": "AI & Data Analytics Intern",
-   "location": "Franklin, TN / Irving, TX",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-518659c8e2c3",
    "company": "1Password",
    "title": "Data Intern - Product Analytics",
@@ -84,17 +304,6 @@
    "title": "Data Science Intern",
    "location": "St. Louis, MO",
    "url": "https://jobs.ascension.org/us/en/job/2026-465186",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ca10c921e856",
-   "company": "Nissan Global",
-   "title": "Financial AI Engineer Intern",
-   "location": "Franklin, TN",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-12",
@@ -132,6 +341,17 @@
    "category": "tech",
    "posted": "2026-10-12",
    "found": "2026-10-13"
+  },
+  {
+   "id": "w-87737aef804a",
+   "company": "Ascension",
+   "title": "Integrated Participant Solutions Analytics Intern",
+   "location": "St. Louis, MO",
+   "url": "https://jobs.ascension.org/us/en/job/2026-465198",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-12",
+   "found": "2026-10-14"
   },
   {
    "id": "w-12700f968374",
@@ -728,17 +948,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-4f222b680f1b",
-   "company": "MFS",
-   "title": "Enterprise Data Management Intern",
-   "location": "Boston, MA",
-   "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-31bd6dd0784b",
    "company": "Great American Insurance Company",
    "title": "Enterprise Analytics Intern",
@@ -1003,17 +1212,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-57000ee41d84",
-   "company": "Itron",
-   "title": "Data Science Intern - Distributed Intelligence",
-   "location": "Liberty Lake, WA",
-   "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-6f7c7b7d1356",
    "company": "Boston Scientific",
    "title": "R&D Research Data Science Intern",
@@ -1023,6 +1221,17 @@
    "category": "tech",
    "posted": "2026-09-28",
    "found": "2026-10-13"
+  },
+  {
+   "id": "w-cd06d4f967b8",
+   "company": "DataRobot",
+   "title": "Deep Learning Research Engineer Intern",
+   "location": "Boston, MA",
+   "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-28",
+   "found": "2026-10-14"
   },
   {
    "id": "w-84e438a1ded6",
@@ -1074,17 +1283,6 @@
    "title": "Data Scientist Intern",
    "location": "Remote in USA / Reston, VA / Denver, CO",
    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-68cc01846222",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60084?icims=1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-25",
@@ -1679,28 +1877,6 @@
    "title": "AI Scientist Intern",
    "location": "NYC / Mountain View, CA / Atlanta, GA / San Diego, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-741f6be5a7df",
-   "company": "Wex",
-   "title": "Backend Software Engineer Intern - Java & AI - Master's",
-   "location": "Remote in USA",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7375086deea1",
-   "company": "Wex",
-   "title": "Software Engineer Intern - AI & Cloud",
-   "location": "Remote in USA",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-14",
@@ -2334,17 +2510,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-ca9223322a31",
-   "company": "DriveTime",
-   "title": "Analytics Intern - Summer 2027",
-   "location": "Dallas, TX / Tempe, AZ",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-67c66abb6d5e",
    "company": "DriveTime",
    "title": "Data Science Intern - Summer 2027",
@@ -2584,17 +2749,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-08-31",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-904073ab5c3e",
-   "company": "Hewlett Packard Enterprise",
-   "title": "Data Science Intern",
-   "location": "Andover, MA / Bloomington, MN / San Jose, CA / Spring, TX + more",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-08-30",
    "found": "2026-10-13"
   }
  ]

@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-13",
-    "found": 2,
-    "note": "2 new roles; quiet day · 0 more to browse · reports already handled · 4 listings re-checked, all open · Problem: Nissan/GDIT Workday pages didn't load, so picks rest on feed data; Ascension DS Intern was already closed"
+    "date": "2026-10-14",
+    "found": 4,
+    "note": "4 new roles; BCG AI roles already filled · 0 more to browse · removed 2 reported roles · 6 listings re-checked, 4 open (IMC, Faire, TikTok, Adobe) · Problem: Kensho and Milwaukee Tool pages not checkable; KLA Workday and Meta pages didn't load; discovery searches found nothing new"
   },
   "jobs": [
     {
@@ -199,6 +199,58 @@
       "found": "2026-10-13",
       "posted": "2026-10-12",
       "category": "tech"
+    },
+    {
+      "id": "waymo-ml-intern-planning-prediction-2027",
+      "company": "Waymo",
+      "title": "Machine Learning Intern - Planning/Prediction",
+      "location": "Mountain View, CA",
+      "source": "Company site",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+      "fit": "strong",
+      "why": "Open to MS students for Summer 2027, and your PPO quadcopter navigation work lines up with planning/prediction for driving. Gap: they prefer top-venue publications and production ML experience.",
+      "found": "2026-10-14",
+      "category": "tech",
+      "posted": "2026-10-13"
+    },
+    {
+      "id": "field-ai-research-scientist-intern-robot-learning-2027",
+      "company": "Field AI",
+      "title": "Research Scientist Intern - Robot Learning & Manipulation",
+      "location": "Irvine, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
+      "fit": "strong",
+      "why": "Takes master's students for Spring, Summer or Fall 2027, and your RL navigation project in PyFlyt is close to robot learning. It asks for robotics research and a publication/open-source record, and it's on-site in Irvine, near your old campus.",
+      "found": "2026-10-14",
+      "category": "tech",
+      "posted": "2026-10-14"
+    },
+    {
+      "id": "kla-ml-engineer-intern-milpitas-2027",
+      "company": "KLA",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Milpitas, CA",
+      "source": "Workday",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
+      "fit": "good",
+      "why": "The feed lists it for master's and PhD students, and it fits your PyTorch and applied ML skills. I couldn't open the Workday page, so confirm the term and details when you apply.",
+      "found": "2026-10-14",
+      "category": "tech",
+      "posted": "2026-10-13"
+    },
+    {
+      "id": "kla-cv-ml-intern-milpitas-2027",
+      "company": "KLA",
+      "title": "Computer Vision/Machine Learning Intern",
+      "location": "Milpitas, CA",
+      "source": "Workday",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
+      "fit": "good",
+      "why": "The feed lists it for master's and PhD students, and your simulated-LiDAR and DistilBERT work give you some CV/deep-learning footing, though no dedicated CV project. The Workday page didn't load, so check the term when you apply.",
+      "found": "2026-10-14",
+      "category": "tech",
+      "posted": "2026-10-13"
     }
   ],
   "browse": [
@@ -338,6 +390,52 @@
       "found": "2026-10-13",
       "posted": "2026-09-16",
       "category": "tech"
+    },
+    {
+      "id": "w-d32705c01d9a",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Language and Agents",
+      "location": "Menlo Park, CA / Bellevue, WA",
+      "url": "https://www.metacareers.com/jobs/2168438160696161",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-13",
+      "fit": "stretch",
+      "why": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise.",
+      "removed": {
+        "date": "2026-10-14",
+        "reason": "Not eligible: You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      },
+      "review": {
+        "reportId": "ce80e928-157e-4d64-8171-07f6cb77a701",
+        "date": "2026-10-14",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-39d07412cdb4",
+      "company": "CapTech Consulting",
+      "title": "Data Analysis/Data Engineering Intern",
+      "location": "Richmond, VA",
+      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-12",
+      "found": "2026-10-13",
+      "fit": "stretch",
+      "why": "You were right: the posting is for current undergraduates only.",
+      "removed": {
+        "date": "2026-10-14",
+        "reason": "Not eligible: You were right: the posting is for current undergraduates only."
+      },
+      "review": {
+        "reportId": "34ac0702-e00d-4b4c-831f-17a950b6be81",
+        "date": "2026-10-14",
+        "outcome": "removed",
+        "note": "You were right: the posting is for current undergraduates only."
+      }
     }
   ]
 }
