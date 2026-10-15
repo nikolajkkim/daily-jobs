@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-14",
-    "found": 4,
-    "note": "4 new roles; BCG AI roles already filled · 0 more to browse · removed 2 reported roles · 6 listings re-checked, 4 open (IMC, Faire, TikTok, Adobe) · Problem: Kensho and Milwaukee Tool pages not checkable; KLA Workday and Meta pages didn't load; discovery searches found nothing new"
+    "date": "2026-10-15",
+    "found": 5,
+    "note": "5 new roles · 1 more to browse · handled 13 reports: removed 12 (11 Meta research scientist roles, PhD-oriented; Ascension closed), kept 1 (GDIT page didn't load) · Problem: Workday pages (Nissan, Hitachi, J&J, GM, Tencent, KLA, GDIT) wouldn't load, so 4 picks are unverified; EA still open; discovery searches found nothing new"
   },
   "jobs": [
     {
@@ -251,6 +251,71 @@
       "found": "2026-10-14",
       "category": "tech",
       "posted": "2026-10-13"
+    },
+    {
+      "id": "point72-data-scientist-intern-2027",
+      "company": "Point72",
+      "title": "Data Scientist Intern",
+      "location": "New York, NY",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8885299002",
+      "fit": "strong",
+      "why": "Open to master's students, in NYC, and the work is ML and statistical modeling on large alternative datasets, which lines up with your XGBoost leak model on 14M+ readings and your GAMs/LASSO work. A hedge fund is new to you, so lean on the class-imbalance and F1-threshold story.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "finance"
+    },
+    {
+      "id": "nissan-ai-robotics-research-intern-2027",
+      "company": "Nissan Global",
+      "title": "AI Robotics Research Intern",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267",
+      "fit": "strong",
+      "why": "Master's-only Summer 2027 role in California, and your PPO quadcopter work in PyFlyt (83% vs 15% baseline) is directly relevant. The page wouldn't load, so details come from the Simplify listing.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "tech"
+    },
+    {
+      "id": "hitachi-research-intern-knowledge-engineering-genai-2027",
+      "company": "Hitachi",
+      "title": "Research Intern - Knowledge Engineering & Generative AI",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396",
+      "fit": "good",
+      "why": "Master's/PhD research internship (Winter 2027) in California on knowledge engineering and generative AI, close to your LLaMA 3.2 + embeddings retrieval pipeline. Research-lab roles often prefer publications, which you lack; the page wouldn't load, so details come from Simplify.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "tech"
+    },
+    {
+      "id": "johnson-and-johnson-ai-ml-data-science-intern-2027",
+      "company": "Johnson & Johnson",
+      "title": "AI/ML/Data Science Intern",
+      "location": "NYC / Boston, MA / Spring House, PA / New Brunswick, NJ",
+      "source": "Workday",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
+      "fit": "good",
+      "why": "Winter 2027 internship open to master's students with an NYC option; fits your applied ML and Python/SQL skills. The link points to a Zug page, so confirm the US posting when you apply; the page wouldn't load.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "tech"
+    },
+    {
+      "id": "nissan-ml-research-prediction-planning-intern-2027",
+      "company": "Nissan Global",
+      "title": "Machine Learning Research Prediction and Planning Intern",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262",
+      "fit": "good",
+      "why": "Spring 2027 co-op for master's/PhD students in California; planning and prediction ties to your RL navigation project. It runs during the school term, which clashes with your Columbia classes; the page wouldn't load.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "tech"
     }
   ],
   "browse": [
@@ -436,6 +501,314 @@
         "outcome": "removed",
         "note": "You were right: the posting is for current undergraduates only."
       }
+    },
+    {
+      "id": "w-8dc7f640142b",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+      "location": "Redmond, WA / Sunnyvale, CA",
+      "url": "https://www.metacareers.com/jobs/1139865145249047",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "7be6e13c-1167-4e07-b32a-512dd75470df",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-49e39c540a5c",
+      "company": "Meta",
+      "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.metacareers.com/jobs/2988199118196184",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "4a8aa556-dfa6-4d24-8b62-cb85ce9112c4",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-613ab2901d43",
+      "company": "Meta",
+      "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+      "location": "Burlingame, CA / Redmond, WA / Sunnyvale, CA",
+      "url": "https://www.metacareers.com/jobs/1839680137188723",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "0f096d23-c319-4a3d-ac36-85470192ecdc",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-7f240bb63d16",
+      "company": "Meta",
+      "title": "Research Scientist Intern",
+      "location": "Redmond, WA",
+      "url": "https://www.metacareers.com/jobs/3364701000388712",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "4a93ab43-59a6-4a91-a7ac-a959bc4ad890",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-57b1bbbed322",
+      "company": "Meta",
+      "title": "Research Scientist Intern - AI & System Co-Design",
+      "location": "Menlo Park, CA",
+      "url": "https://www.metacareers.com/jobs/1062032900196411",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "0e8e16c6-1e59-4187-b351-5f57e6c125b4",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-709a2994a1aa",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Egocentric Vision-Language Models",
+      "location": "Redmond, WA / Sunnyvale, CA",
+      "url": "https://www.metacareers.com/jobs/2067000203934229",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "8cff0d18-8acd-48e6-8610-f86cccaf9402",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-0e314e747296",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Multiple Teams",
+      "location": "Menlo Park, CA",
+      "url": "https://www.metacareers.com/jobs/2192664358300823",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "693fcab4-ce71-4b2d-a6e5-508bf843cddf",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-6e96ef153f42",
+      "company": "Meta",
+      "title": "Research Scientist Intern - AI & Compute Foundation",
+      "location": "Menlo Park, CA",
+      "url": "https://www.metacareers.com/jobs/1866761794487684",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-13",
+      "found": "2026-10-14",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "b5554c6b-d32f-4964-b323-d9835b7c30d9",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-83442d1c7cdf",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Robotics",
+      "location": "Redmond, WA",
+      "url": "https://www.metacareers.com/jobs/2586686598441521",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-12",
+      "found": "2026-10-13",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "56e10c32-d72f-4316-8564-7378f4e22cd7",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-12700f968374",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+      "location": "Burlingame, CA / Redmond, WA",
+      "url": "https://www.metacareers.com/jobs/2211974449401350",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-09",
+      "found": "2026-10-13",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "6a90a4bf-216d-4e79-8d76-a23e31c0e11e",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-082f403ff2cd",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+      "location": "Redmond, WA",
+      "url": "https://www.metacareers.com/jobs/1674394627579563",
+      "source": "Simplify list",
+      "category": "tech",
+      "posted": "2026-10-09",
+      "found": "2026-10-13",
+      "fit": "stretch",
+      "why": "Meta research scientist internship, copied here after your report.",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Not eligible: Meta research scientist internships are PhD-oriented, and the page couldn't be loaded to confirm otherwise."
+      },
+      "review": {
+        "reportId": "aae27b31-ed62-4a0b-ae94-ba99daf53ed9",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "You were right to flag it: Meta research scientist internships are PhD-oriented, and I couldn't load the page to confirm otherwise."
+      }
+    },
+    {
+      "id": "w-b13e28e11e03",
+      "company": "Ascension",
+      "title": "Data Science Intern",
+      "location": "St. Louis, MO",
+      "source": "Simplify",
+      "url": "https://jobs.ascension.org/us/en/job/2026-465186",
+      "fit": "stretch",
+      "why": "Copied after your report.",
+      "found": "2026-10-15",
+      "posted": "2026-10-12",
+      "category": "tech",
+      "removed": {
+        "date": "2026-10-15",
+        "reason": "Posting closed: the page returns HTTP 410 Gone."
+      },
+      "review": {
+        "reportId": "f6192199-baa5-482b-97af-db9f63bc57e9",
+        "date": "2026-10-15",
+        "outcome": "removed",
+        "note": "Checked after your report: the posting page is gone (HTTP 410)."
+      }
+    },
+    {
+      "id": "w-69033565c81d",
+      "company": "General Dynamics Information Technology",
+      "title": "Defense Agencies Intern - AI/ML",
+      "location": "Falls Church, VA",
+      "source": "Simplify",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
+      "fit": "stretch",
+      "why": "Copied after your report; accepts master's students but likely needs US citizenship or a clearance.",
+      "found": "2026-10-15",
+      "posted": "2026-10-12",
+      "category": "tech",
+      "review": {
+        "reportId": "9382c24f-c510-4702-859b-0608986edbf6",
+        "date": "2026-10-15",
+        "outcome": "ok",
+        "note": "The Workday page wouldn't load, so I couldn't confirm it is closed; left it up."
+      }
+    },
+    {
+      "id": "national-life-data-science-intern-2027",
+      "company": "National Life",
+      "title": "Data Science Intern",
+      "location": "Montpelier, VT / Addison, TX",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
+      "fit": "good",
+      "why": "Open to master's students; Python/pandas/scikit-learn plus gen-AI prototyping, which you cover. Paid $19-28/hr, June 1 to Aug 6, onsite in VT or TX, no visa sponsorship, and insurance isn't your focus.",
+      "found": "2026-10-15",
+      "posted": "2026-10-14",
+      "category": "tech"
     }
   ]
 }

@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks ended nearly flat as bank earnings gave mixed signals",
-      "note": "S&P 500 −0.02%, Nasdaq about −0.15%, Dow −0.35% on Tuesday. Goldman Sachs beat profit estimates (EPS $17.01 vs. about $13 expected) while JPMorgan missed ($5.57 vs. $5.90), and Wells Fargo fell about 3%.",
-      "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Memory-chip stocks dragged on the Nasdaq",
-      "note": "Memory makers sold off, helping pull the Nasdaq lower. High-bandwidth memory is a key part of AI hardware, so chip swings are worth watching for AI-related jobs.",
-      "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "headline": "Stocks had their worst day since July after a hot inflation report",
+      "note": "On Wednesday the S&P 500 fell 1.1% to 7,718.94, the Nasdaq fell 1.9% and the Dow slipped 0.1%. AI-related stocks were the heaviest drag, and rate-hike worries added to it.",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-10142026-137270020",
+      "source": "AP via ABC News"
     },
     {
       "tag": "Economy",
-      "headline": "September inflation (CPI) report is due today, with the Fed meeting Oct 27–28",
-      "note": "Previews expect core inflation to keep slowing, and markets mostly expect the Fed to hold at its late-October meeting. A hot number could revive talk of another hike, which would pressure tech stocks and startup hiring.",
-      "url": "https://www.kitco.com/news/article/2026-10-09/september-cpi-should-be-line-and-last-months-fed-rate-hike-may-be-only-one",
-      "source": "Kitco (Natixis preview)"
+      "headline": "September inflation rose to 3.7%, above the 3.6% expected",
+      "note": "Consumer prices rose 0.6% from August, with gasoline up 9.1% on the month. Core CPI (excluding food and energy) was 2.6% from a year earlier, up from 2.4% in August.",
+      "url": "https://cbsnews.com/news/september-cpi-report-inflation-energy-costs",
+      "source": "CBS News"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed could raise rates again at its Oct 27–28 meeting",
+      "note": "The Fed raised rates by a quarter point to 3.75%–4.00% on Sept 16, and economists say the hotter data puts another hike in play. Higher rates tend to hit tech valuations and startup funding, which affects hiring.",
+      "url": "https://thehill.com/business/6146675-bls-september-cpi-data-inflation/",
+      "source": "The Hill"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic reportedly meets institutional investors today as it moves toward an IPO",
-      "note": "Bloomberg reportedly said investors were invited to Anthropic's San Francisco HQ on Oct 14. This is a secondhand report, but a possible AI-lab IPO would be a big event for the AI job market.",
-      "url": "https://toolnavs.com/fr/article/2257-ai-briefing-oct-2-anthropic-pushes-toward-an-ipo-as-california-subpoenas-openai",
-      "source": "ToolNavs (citing Bloomberg)"
+      "headline": "AI-infrastructure stocks sold off on debt worries",
+      "note": "Reports of the Wednesday sell-off cited concerns about companies using heavy debt to fund the AI buildout. CoreWeave fell more than 15% and Oracle almost 9%, so the AI spending boom is facing more scrutiny.",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026",
+      "source": "TheStreet"
     },
     {
       "tag": "Jobs",
-      "headline": "Data science hiring looks steady, not booming",
-      "note": "One analysis of US postings finds a steady flow, mostly mid-level or senior roles, with New York holding about 14% of postings. Python (82%) and SQL (55%) lead the skills; this is a recruiting-firm analysis, so treat it as indicative.",
-      "url": "https://axialsearch.com/insights/data-science-jobs",
+      "headline": "Data science hiring is steady, tilted toward experienced hires",
+      "note": "An analysis of 12,148 US postings since January found about 828 new data science postings a week, with roughly 62% aimed at mid-to-senior roles. That is a recruiting-firm analysis, so treat it as indicative; for an intern search, Python and SQL still lead the skills listed.",
+      "url": "https://axialsearch.com/insights/data-science-hiring",
       "source": "Axial Search"
     }
   ],
   "learn": {
-    "n": 2,
-    "term": "Inflation and the CPI",
-    "explain": "Inflation is the rate at which prices rise over time, so each dollar buys a little less. The Consumer Price Index (CPI) tracks it by pricing a fixed basket of everyday things (food, rent, gas, clothes) each month and comparing with a year earlier. \"Core\" CPI leaves out food and energy because they swing a lot, so it shows the underlying trend. The Fed watches inflation closely: if it stays too high, the Fed can raise interest rates to cool spending. That is why a CPI release can move stocks the same day.",
-    "try": "Look up the latest CPI release on bls.gov and find the difference between the headline and core numbers."
+    "n": 3,
+    "term": "The Fed and interest rates",
+    "explain": "The Federal Reserve is the US central bank, and its main tool is the federal funds rate, the rate banks charge each other for overnight loans. When the Fed raises it, borrowing costs rise for mortgages, car loans and companies, which slows spending and cools inflation. When it cuts, borrowing gets cheaper and the economy tends to speed up. Stocks, especially growth and tech stocks, often fall on hike fears because future profits are worth less when rates are higher. Today's example: after hot inflation data, traders bet the Fed may hike again, and the Nasdaq fell 1.9%.",
+    "try": "Look up the Fed's current federal funds target range and the date of its next meeting on federalreserve.gov."
   },
-  "learned": ["Earnings season and EPS", "Inflation and the CPI"]
+  "learned": ["Earnings season and EPS", "Inflation and the CPI", "The Fed and interest rates"]
 }
