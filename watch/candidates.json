@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T10:20+00:00",
+ "generated": "2026-10-15T13:41+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -60,42 +60,6 @@
    "last_seen": "2026-10-15"
   },
   {
-   "title": "Data Scientist Intern",
-   "location": "NYC",
-   "url": "https://boards.greenhouse.io/point72/jobs/8885299002",
-   "posted": "2026-10-14",
-   "company": "Point72",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "finance",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "AI/ML/Data Science Intern",
-   "location": "Boston, MA / Spring House, PA / New Brunswick, NJ / NYC",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
-   "posted": "2026-10-14",
-   "company": "Johnson & Johnson",
-   "terms": [
-    "Winter 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
    "title": "Manufacturing AI Engineering Intern",
    "location": "Hopewell Junction, NY",
    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
@@ -141,24 +105,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Intern - Knowledge Engineering & Generative AI",
-   "location": "Santa Clara, CA",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396",
-   "posted": "2026-10-14",
-   "company": "Hitachi",
-   "terms": [
-    "Winter 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
@@ -219,25 +165,6 @@
    "last_seen": "2026-10-15"
   },
   {
-   "title": "Machine Learning Research Prediction and Planning Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262",
-   "posted": "2026-10-14",
-   "company": "Nissan Global",
-   "terms": [
-    "Spring 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
    "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
    "location": "Golden, CO",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14561",
@@ -275,23 +202,6 @@
    "last_seen": "2026-10-15"
   },
   {
-   "title": "AI Robotics Research Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267",
-   "posted": "2026-10-14",
-   "company": "Nissan Global",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
    "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
    "location": "Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/1758435721926913",
@@ -316,24 +226,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Montpelier, VT / Addison, TX",
-   "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
-   "posted": "2026-10-14",
-   "company": "National Life",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
@@ -444,126 +336,6 @@
     "Bachelor's",
     "Master's"
    ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/2988199118196184",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
-   "location": "Redmond, WA / Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1139865145249047",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
-   "location": "Burlingame, CA / Redmond, WA / Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1839680137188723",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/3364701000388712",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - AI & System Co-Design",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1062032900196411",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - Egocentric Vision-Language Models",
-   "location": "Redmond, WA / Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/2067000203934229",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - Multiple Teams",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/2192664358300823",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Research Scientist Intern - AI & Compute Foundation",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1866761794487684",
-   "posted": "2026-10-13",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-14",
