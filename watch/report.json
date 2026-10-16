@@ -1,621 +1,447 @@
 {
- "generated": "2026-10-15T13:41+00:00",
- "feeds_ok": 88,
+ "generated": "2026-10-16T05:27+00:00",
+ "feeds_ok": 1,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
-   "status": "ok",
-   "open_jobs": 647,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "anthropic"
   },
   "Scale AI": {
-   "status": "ok",
-   "open_jobs": 180,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "scaleai"
   },
   "Databricks": {
-   "status": "ok",
-   "open_jobs": 895,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
-   "status": "ok",
-   "open_jobs": 727,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "stripe"
   },
   "Airbnb": {
-   "status": "ok",
-   "open_jobs": 163,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "airbnb"
   },
   "Figma": {
-   "status": "ok",
-   "open_jobs": 142,
-   "matches": 2,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "figma"
   },
   "DoorDash": {
-   "status": "ok",
-   "open_jobs": 458,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "doordashusa"
   },
   "Lyft": {
-   "status": "ok",
-   "open_jobs": 176,
-   "matches": 2,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "lyft"
   },
   "Instacart": {
-   "status": "ok",
-   "open_jobs": 124,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "instacart"
   },
   "Pinterest": {
-   "status": "ok",
-   "open_jobs": 158,
-   "matches": 2,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "pinterest"
   },
   "Reddit": {
-   "status": "ok",
-   "open_jobs": 147,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "reddit"
   },
   "Coinbase": {
-   "status": "ok",
-   "open_jobs": 224,
-   "matches": 4,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "coinbase"
   },
   "Robinhood": {
-   "status": "ok",
-   "open_jobs": 152,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "robinhood"
   },
   "Datadog": {
-   "status": "ok",
-   "open_jobs": 437,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "datadog"
   },
   "Cloudflare": {
-   "status": "ok",
-   "open_jobs": 442,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
-   "status": "ok",
-   "open_jobs": 259,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
-   "status": "ok",
-   "open_jobs": 402,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "mongodb"
   },
   "Duolingo": {
-   "status": "ok",
-   "open_jobs": 59,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "duolingo"
   },
   "Airtable": {
-   "status": "ok",
-   "open_jobs": 5,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "airtable"
   },
   "Brex": {
-   "status": "ok",
-   "open_jobs": 261,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "brex"
   },
   "Affirm": {
-   "status": "ok",
-   "open_jobs": 204,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "affirm"
   },
   "SoFi": {
-   "status": "ok",
-   "open_jobs": 51,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "sofi"
   },
   "Chime": {
-   "status": "ok",
-   "open_jobs": 69,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "chime"
   },
   "Toast": {
-   "status": "ok",
-   "open_jobs": 314,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "toast"
   },
   "Klaviyo": {
-   "status": "ok",
-   "open_jobs": 147,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "klaviyo"
   },
   "Squarespace": {
-   "status": "ok",
-   "open_jobs": 34,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "squarespace"
   },
   "Dropbox": {
-   "status": "ok",
-   "open_jobs": 27,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "dropbox"
   },
   "Asana": {
-   "status": "ok",
-   "open_jobs": 106,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "asana"
   },
   "Faire": {
-   "status": "ok",
-   "open_jobs": 79,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "faire"
   },
   "Gecko Robotics": {
-   "status": "ok",
-   "open_jobs": 21,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "gecko-robotics"
   },
   "Waymo": {
-   "status": "ok",
-   "open_jobs": 364,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
-   "status": "ok",
-   "open_jobs": 2528,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
   "Nuro": {
-   "status": "ok",
-   "open_jobs": 109,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "nuro"
   },
   "Ramp": {
-   "status": "ok",
-   "open_jobs": 164,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "ramp"
   },
   "OpenAI": {
-   "status": "ok",
-   "open_jobs": 802,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "openai"
   },
   "Notion": {
-   "status": "ok",
-   "open_jobs": 129,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "notion"
   },
   "Perplexity": {
-   "status": "ok",
-   "open_jobs": 130,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "perplexity"
   },
   "Cursor (Anysphere)": {
-   "status": "ok",
-   "open_jobs": 134,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "cursor"
   },
   "Linear": {
-   "status": "ok",
-   "open_jobs": 30,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "linear"
   },
   "Harvey": {
-   "status": "ok",
-   "open_jobs": 343,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "harvey"
   },
   "Cohere": {
-   "status": "ok",
-   "open_jobs": 116,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "cohere"
   },
   "ElevenLabs": {
-   "status": "ok",
-   "open_jobs": 152,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "elevenlabs"
   },
   "Runway": {
-   "status": "ok",
-   "open_jobs": 3,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "runway"
   },
   "Replit": {
-   "status": "ok",
-   "open_jobs": 66,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "replit"
   },
   "Mercury": {
-   "status": "ok",
-   "open_jobs": 0,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "mercury"
   },
   "Palantir": {
-   "status": "ok",
-   "open_jobs": 313,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "lever",
    "slug": "palantir"
   },
   "Plaid": {
-   "status": "ok",
-   "open_jobs": 126,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "plaid"
   },
   "Spotify": {
-   "status": "ok",
-   "open_jobs": 84,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "lever",
    "slug": "spotify"
   },
   "Zoox": {
-   "status": "ok",
-   "open_jobs": 239,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "lever",
    "slug": "zoox"
   },
   "Shield AI": {
-   "status": "ok",
-   "open_jobs": 611,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "lever",
    "slug": "shieldai"
   },
   "IMC Trading": {
-   "status": "ok",
-   "open_jobs": 175,
-   "matches": 2,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "imc"
   },
   "Point72": {
-   "status": "ok",
-   "open_jobs": 221,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "point72"
   },
   "Jump Trading": {
-   "status": "ok",
-   "open_jobs": 101,
-   "matches": 4,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "jumptrading"
   },
   "Akuna Capital": {
-   "status": "ok",
-   "open_jobs": 40,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "akunacapital"
   },
   "DRW": {
-   "status": "ok",
-   "open_jobs": 167,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "drweng"
   },
   "Hudson River Trading": {
-   "status": "ok",
-   "open_jobs": 89,
-   "matches": 1,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "wehrtyou"
   },
   "Tower Research Capital": {
-   "status": "ok",
-   "open_jobs": 94,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "towerresearchcapital"
   },
   "Bridgewater": {
-   "status": "ok",
-   "open_jobs": 17,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "bridgewater89"
   },
   "AQR": {
-   "status": "ok",
-   "open_jobs": 54,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "aqr"
   },
   "Schonfeld": {
-   "status": "ok",
-   "open_jobs": 68,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "schonfeld"
   },
   "Old Mission": {
-   "status": "ok",
-   "open_jobs": 41,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "oldmissioncapital"
   },
   "Clear Street": {
-   "status": "ok",
-   "open_jobs": 46,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "clearstreet"
   },
   "Wealthfront": {
-   "status": "ok",
-   "open_jobs": 23,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "lever",
    "slug": "wealthfront"
   },
   "Betterment": {
-   "status": "ok",
-   "open_jobs": 24,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "betterment"
   },
   "Capital One": {
-   "status": "ok",
-   "open_jobs": 60,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "workday",
    "slug": "capitalone"
   },
   "BlackRock": {
-   "status": "ok",
-   "open_jobs": 52,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "workday",
    "slug": "blackrock"
   },
   "Morgan Stanley": {
-   "status": "ok",
-   "open_jobs": 60,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "workday",
    "slug": "ms"
   },
   "Riot Games": {
-   "status": "ok",
-   "open_jobs": 171,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "riotgames"
   },
   "Epic Games": {
-   "status": "ok",
-   "open_jobs": 137,
-   "matches": 2,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "epicgames"
   },
   "Roblox": {
-   "status": "ok",
-   "open_jobs": 260,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "roblox"
   },
   "Discord": {
-   "status": "ok",
-   "open_jobs": 48,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "discord"
   },
   "Scopely": {
-   "status": "ok",
-   "open_jobs": 174,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "scopely"
   },
   "Niantic": {
-   "status": "ok",
-   "open_jobs": 0,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "ashby",
    "slug": "niantic"
   },
   "PlayStation": {
-   "status": "ok",
-   "open_jobs": 204,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal"
   },
   "2K": {
-   "status": "ok",
-   "open_jobs": 116,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "2k"
   },
   "FanDuel": {
-   "status": "ok",
-   "open_jobs": 79,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "fanduel"
   },
   "Twitch": {
-   "status": "ok",
-   "open_jobs": 50,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "twitch"
   },
   "Warner Bros. Discovery": {
-   "status": "ok",
-   "open_jobs": 54,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "workday",
    "slug": "warnerbros"
   },
   "Disney": {
-   "status": "ok",
-   "open_jobs": 60,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "workday",
    "slug": "disney"
   },
   "TrackMan": {
-   "status": "ok",
-   "open_jobs": 0,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "smartrecruiters",
    "slug": "TrackMan"
   },
   "TaylorMade": {
-   "status": "ok",
-   "open_jobs": 0,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "smartrecruiters",
    "slug": "TaylorMadeGolf"
   },
   "Jane Street": {
-   "status": "ok",
-   "open_jobs": 227,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "janestreet"
   },
   "Bungie": {
-   "status": "ok",
-   "open_jobs": 2,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "bungie"
   },
   "SeatGeek": {
-   "status": "ok",
-   "open_jobs": 36,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "seatgeek"
   },
   "Genius Sports": {
-   "status": "ok",
-   "open_jobs": 38,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "geniussports"
   },
   "Peloton": {
-   "status": "ok",
-   "open_jobs": 53,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "peloton"
   },
   "Oura": {
-   "status": "ok",
-   "open_jobs": 78,
-   "matches": 0,
+   "status": "error: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
    "ats": "greenhouse",
    "slug": "oura"
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 285,
-   "matches": 285,
+   "open_jobs": 230,
+   "matches": 230,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

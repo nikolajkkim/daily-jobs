@@ -30,7 +30,7 @@ https://xsrmswbbakfqfvpdxtjo.supabase.co/rest/v1/job_reports?select=id,job_id,re
 - Live at a better URL → update "url"; "review": {"reportId", "date", "outcome": "fixed", "note": short plain description}.
 - Closed or not found → "removed": {"date", "reason"}; "review": {..., "outcome": "removed", "note": reason}.
 - Nothing wrong → "review": {..., "outcome": "ok", "note": what you checked}.
-- "Not eligible" reports: re-check eligibility against his profile; if he's right, set "removed" with the reason.
+- "Not eligible" reports: re-check eligibility against his profile (including Summer 2027 term); if he's right, set "removed" with the reason.
 
 ## B. Drop closed listings
 WebFetch the url of up to 6 entries (from "jobs" and "browse") without "removed", oldest "found" first, skipping ones checked in A. If a page clearly says closed / no longer available / removed / inactive, set "removed": {"date", "reason": "Posting closed: <what it said>"}. A fetch error is not proof; leave those.
@@ -40,8 +40,9 @@ WebFetch the url of up to 6 entries (from "jobs" and "browse") without "removed"
    - watch/candidates.json first: these are the new postings. Read its eligibility fields (degrees, terms) and open the posting with WebFetch when eligibility or fit is unclear.
    - DISCOVERY, 3–5 WebSearch calls (always run these) for companies the feeds can't cover: 1–2 ATS searches (e.g. site:job-boards.greenhouse.io "Data Science Intern" 2027, site:jobs.ashbyhq.com machine learning intern 2027); 1 golf search (e.g. golf "data science" OR "machine learning" intern 2027: TrackMan, Toptracer, Full Swing, Arccos, Topgolf, PGA TOUR, Titleist/Acushnet, TaylorMade, Callaway, Garmin…); 1–2 searches for a few "search_only" names (rotate by day of month). Verify each discovery find with one WebFetch (must be open; reject closed/removed/inactive pages or redirects to a generic careers page). Prefer direct company/ATS URLs. Never invent a URL.
 2. Rules:
-   - Roles: Data Science, Machine Learning / AI / Applied Science internships (Summer 2027, or Spring/Fall/Winter 2027 co-ops). Skip SWE-only, PM, analyst-only, pure quant-trading/quant-research, PhD-only, bachelor's-only, and data engineering unless clearly ML-heavy.
-   - Eligibility: must accept master's students; graduation window must include Dec 2027; skip school/region-restricted roles. Note in "why" if an internship runs during the school term.
+   - Roles: Data Science, Machine Learning / AI / Applied Science internships for SUMMER 2027 ONLY. Skip SWE-only, PM, analyst-only, pure quant-trading/quant-research, PhD-only, bachelor's-only, and data engineering unless clearly ML-heavy.
+   - Term: SUMMER 2027 ONLY. He is in classes the rest of the year. Skip any role for Spring, Fall or Winter 2026/2027, any co-op that runs during the school year, and any off-cycle role. Simplify entries list "terms": skip unless they include "Summer 2027"; for "N/A" or a feed posting with no term, open the posting and only keep it if it says summer (or May–August); if you can't tell, leave it out. A posting offering several terms is fine only if Summer 2027 is one of them. Say "Summer 2027" in "why".
+   - Eligibility: must accept master's students; graduation window must include Dec 2027; skip school/region-restricted roles.
    - Location: US or US-remote. NYC and California rank higher.
    - Skip anything whose company+title already exists in "jobs" or "browse" (including removed), anything in scan/applied.json, and same-role-different-city duplicates.
 3. Daily list (highest priority) → append up to 5 to "jobs". ONLY roles that are new: "posted" within the last 2 days (today or yesterday or the day before), or, when no posting date is known, first seen today in candidates.json or confirmed newly posted by a discovery search. Never pick older postings for the daily list, even to reach 5; if fewer than 5 new eligible roles exist, add fewer and say so in lastRun.note (e.g. "3 new roles today; quiet day"). Rank the new ones by fit (strong first), then NYC/California, then golf/gaming/entertainment. Always include "posted" on daily picks.

@@ -35,6 +35,11 @@ ROLE = re.compile(r"\b(data|machine learning|ml|ai|artificial intelligence|appli
                   r"analytics|deep learning|computer vision|nlp|llm|decision scien\w*|applied ai)\b", re.I)
 INTERN = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
 SKIP_TITLE = re.compile(r"\b(ph\.?d\.?(?! or)|data cent(er|re)|data entry|legal|marketing|sales|recruit\w*|hr\b|audit|people\w*|ux|business analytics|data analyst|quantitative (research|trad)\w*|quant (research|trad)\w*|toronto)", re.I)
+# Summer internships only: drop titles that name another term (or a co-op) without saying summer.
+OFF_TERM = re.compile(r"\b(spring|fall|autumn|winter|co-?op)\b|\b20(26|28)\b", re.I)
+SUMMER = re.compile(r"\bsummer\b", re.I)
+def off_term(title):
+    return bool(OFF_TERM.search(title)) and not SUMMER.search(title)
 BACHELORS = re.compile(r"\b(bs|b\.s\.?|ba|bachelor'?s?|undergrad\w*|freshman|sophomore|rising (junior|senior)s?)\b", re.I)
 MASTERS = re.compile(r"\b(ms|m\.s\.?|master'?s?|graduate|grad|mba|bs/ms|ba/ms)\b", re.I)
 NON_US = re.compile(r"\b(london|uk|united kingdom|ireland|dublin|india|bangalore|bengaluru|hyderabad|toronto|canada|"
@@ -164,13 +169,13 @@ def simplify_listings():
         if posted_dt < cutoff:
             continue
         terms = x.get("terms") or []
-        if terms and not any("2027" in t or t == "N/A" for t in terms):
+        if terms and not any(t == "Summer 2027" or t == "N/A" for t in terms):   # summer roles only
             continue
         degrees = x.get("degrees") or []
         if degrees and "Master's" not in degrees:          # bachelor's-only, PhD-only, etc.
             continue
         title = x.get("title", "")
-        if not ROLE.search(title) or SKIP_TITLE.search(title) or (BACHELORS.search(title) and not MASTERS.search(title)):
+        if not ROLE.search(title) or SKIP_TITLE.search(title) or off_term(title) or (BACHELORS.search(title) and not MASTERS.search(title)):
             continue
         locs = [l for l in (x.get("locations") or []) if us_location(l)]
         if not locs:
@@ -189,7 +194,7 @@ FEEDS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
 
 def wanted(job):
     t, loc = job["title"], job.get("location") or ""
-    if not (INTERN.search(t) and ROLE.search(t)) or SKIP_TITLE.search(t):
+    if not (INTERN.search(t) and ROLE.search(t)) or SKIP_TITLE.search(t) or off_term(t):
         return False
     if BACHELORS.search(t) and not MASTERS.search(t):   # bachelor's-only postings
         return False

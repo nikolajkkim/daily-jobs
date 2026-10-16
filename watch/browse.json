@@ -1,6 +1,105 @@
 {
- "generated": "2026-10-15T13:41+00:00",
+ "generated": "2026-10-16T05:27+00:00",
  "jobs": [
+  {
+   "id": "w-77397c586e47",
+   "company": "Apple",
+   "title": "SoC Machine Learning Software Engineer Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.apple.com/en-us/details/200689488",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-16",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-f989adfd819a",
+   "company": "National Laboratory of the Rockies",
+   "title": "AI/ML for Cybersecurity Intern",
+   "location": "Golden, CO",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-04c26ea84aaa",
+   "company": "General Motors",
+   "title": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-46b9435dc94c",
+   "company": "General Motors",
+   "title": "AI/ML Engineer Intern - Mapping - Masters",
+   "location": "Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-2677a1bb78f4",
+   "company": "General Motors",
+   "title": "Embodied AI Research Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-cade4f24252a",
+   "company": "General Motors",
+   "title": "Onboard Autonomy Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-3bc880847c38",
+   "company": "General Motors",
+   "title": "Seam Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-fd13fad097d1",
+   "company": "Duolingo",
+   "title": "Data Scientist Intern",
+   "location": "Pittsburgh, PA / NYC",
+   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
+   "id": "w-41fbb1490fb3",
+   "company": "American Family Insurance Group",
+   "title": "Enterprise Data Intern - Enablement, Service & Support",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
   {
    "id": "w-719984df7d94",
    "company": "GE Vernova",
@@ -79,44 +178,11 @@
    "found": "2026-10-15"
   },
   {
-   "id": "w-9a71b5b6651a",
-   "company": "Nissan Global",
-   "title": "Machine Learning Research Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-602e8c021d4e",
-   "company": "Nissan Global",
-   "title": "Machine Learning Research Perception Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00215332",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
    "id": "w-6dc2a26859d3",
    "company": "National Laboratory of the Rockies",
    "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
    "location": "Golden, CO",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14561",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-6d7d8b4d6111",
-   "company": "AGCO",
-   "title": "AI & Data Science Intern",
-   "location": "Champaign, IL",
-   "url": "https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-14",
@@ -211,17 +277,6 @@
    "found": "2026-10-14"
   },
   {
-   "id": "w-ed81372296f1",
-   "company": "Bose",
-   "title": "Embedded Audio Machine Learning Engineer Co-op",
-   "location": "Framingham, MA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
    "id": "w-90b6d3faf15b",
    "company": "DriveTime",
    "title": "Data Analytics Intern",
@@ -271,17 +326,6 @@
    "title": "Digital Technology & Data Intern",
    "location": "Auburn Hills, MI",
    "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-518659c8e2c3",
-   "company": "1Password",
-   "title": "Data Intern - Product Analytics",
-   "location": "Remote in USA",
-   "url": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-12",
@@ -343,33 +387,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-727108d3d515",
-   "company": "Loram",
-   "title": "Machine Learning / Artificial Intelligence Intern - AI",
-   "location": "Hamel, Medina, MN",
-   "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-9d4f7a569d9d",
    "company": "CHS",
    "title": "Enterprise Content Analytics & Solutions Intern",
    "location": "Inver Grove Heights, MN",
    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b4727f504ca0",
-   "company": "Johnson & Johnson",
-   "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
-   "location": "Spring House, PA",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-09",
@@ -392,17 +414,6 @@
    "title": "Data Scaling Intern - Data Scaling - Embodied AI",
    "location": "Sunnyvale, CA",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-67e148572054",
-   "company": "General Motors",
-   "title": "Seam Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-09",
@@ -508,28 +519,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-e97308a090a4",
-   "company": "Bose",
-   "title": "Audio Machine Learning Intern Co-op",
-   "location": "Bloomfield Hills, MI / Framingham, MA / Atlanta, GA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-148ac21e9b2b",
-   "company": "Bose",
-   "title": "Data Analytics Engineer Co-op",
-   "location": "Bloomfield Hills, MI / Framingham, MA / Atlanta, GA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-5476499cacb6",
    "company": "Microsoft",
    "title": "Applied Scientist Intern",
@@ -538,17 +527,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-5c5b12b75ddc",
-   "company": "Astera Labs",
-   "title": "Packaging Automation & Data Engineering Intern",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
    "found": "2026-10-13"
   },
   {
@@ -568,17 +546,6 @@
    "title": "Data Engineer Intern",
    "location": "NYC",
    "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7947e59ee753",
-   "company": "Liberty Mutual",
-   "title": "Data Science Co-op",
-   "location": "Boston, MA",
-   "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-06",
@@ -618,33 +585,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-e8276e8492b8",
-   "company": "Rivian",
-   "title": "Engineering Intern Co-op - AI/ML ASIC CAD",
-   "location": "Palo Alto, CA",
-   "url": "https://careers.rivian.com/jobs/34059?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-748e3385b2b7",
    "company": "Meta",
    "title": "Data Scientist Intern - Product Analytics",
    "location": "Menlo Park, CA / NYC",
    "url": "https://www.metacareers.com/jobs/1633096478817942",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-2433b7d8efbf",
-   "company": "Nokia",
-   "title": "AI Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-06",
@@ -681,39 +626,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-02048ae01da8",
-   "company": "Hudson River Trading",
-   "title": "Data Scientist Intern - 2027",
-   "location": "London, United Kingdom; New York, NY, United States",
-   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
-   "source": "Greenhouse",
-   "category": "finance",
-   "posted": "2026-10-05",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-18218299d29c",
-   "company": "State of North Carolina",
-   "title": "Data Analytics Intern",
-   "location": "Wake County, NC",
-   "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8e7a14782c5c",
-   "company": "State of North Carolina",
-   "title": "Data Engineer Intern",
-   "location": "Raleigh, NC",
-   "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
    "found": "2026-10-13"
   },
   {
@@ -827,44 +739,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-23e1b5678d29",
-   "company": "Affirm",
-   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-   "location": "San Francisco, California, United States",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-   "source": "Greenhouse",
-   "category": "finance",
-   "posted": "2026-10-02",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-f3bf66eadaf7",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
-   "location": "Tarrytown, NY",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-31bd6dd0784b",
    "company": "Great American Insurance Company",
    "title": "Enterprise Analytics Intern",
    "location": "Cincinnati, OH",
    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-bb45f2fe1525",
-   "company": "Bose",
-   "title": "Data Science Co-op - NLP & GenAI",
-   "location": "Framingham, MA / Atlanta, GA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-02",
@@ -915,28 +794,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-808c00d79873",
-   "company": "Rivian",
-   "title": "Software Engineer Intern Co-op - Applied AI",
-   "location": "Palo Alto, CA",
-   "url": "https://careers.rivian.com/jobs/33984?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8512fbc18b94",
-   "company": "Rivian",
-   "title": "Engineer Intern Co-op - ML Compilers",
-   "location": "Palo Alto, CA",
-   "url": "https://careers.rivian.com/jobs/33829?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-3b9ebffa9d0e",
    "company": "The Federal Reserve System",
    "title": "Advanced Analytics Intern",
@@ -970,33 +827,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-2f4eb9833bd7",
-   "company": "Stand Together",
-   "title": "Analytics Intern",
-   "location": "Chicago, IL",
-   "url": "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-973ad497c93e",
    "company": "CACI",
    "title": "AI Prompt Engineer Intern",
    "location": "Ashburn, VA",
    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ebaa0444f129",
-   "company": "Nokia",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-01",
@@ -1014,77 +849,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-58f18c456769",
-   "company": "Rivian",
-   "title": "Engineering Intern Co-op - Machine Learning Hardware",
-   "location": "Palo Alto, CA",
-   "url": "https://careers.rivian.com/jobs/33820?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-30",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-13324e5e3be2",
-   "company": "Dow Chemical Company",
-   "title": "Data Engineer / Data Platform Engineer Intern",
-   "location": "Champaign, IL",
-   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-30",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-1c53e849d547",
-   "company": "Abbott",
-   "title": "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML",
-   "location": "St Paul, MN",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-30",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-9fd2a7dae4bc",
    "company": "Marvell",
    "title": "AI-Native Development Platform Engineer Intern",
    "location": "Santa Clara, CA",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e9c211643256",
-   "company": "Risepoint",
-   "title": "Analytics Engineering Co-op",
-   "location": "Remote in USA",
-   "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7d2ae66e675e",
-   "company": "Risepoint",
-   "title": "Analytics Solutions Co-op",
-   "location": "Remote in USA",
-   "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-a123d692164d",
-   "company": "Honeywell",
-   "title": "Artificial Intelligence/Machine Learning Co-op",
-   "location": "United States",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-29",
@@ -1133,28 +902,6 @@
    "category": "tech",
    "posted": "2026-09-28",
    "found": "2026-10-14"
-  },
-  {
-   "id": "w-84e438a1ded6",
-   "company": "Intuitive Surgical",
-   "title": "AI Research Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9819925101ee",
-   "company": "Rockwell Automation",
-   "title": "AI Software Engineering Co-op - 6 months - 8 months",
-   "location": "Mayfield Heights, OH / Milwaukee, WI",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
   },
   {
    "id": "w-010d2696cf6c",
@@ -1223,33 +970,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-4b587b8da547",
-   "company": "Figma",
-   "title": "Data Engineer Intern (2027)",
-   "location": "San Francisco, CA • New York, NY",
-   "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-23",
-   "found": "2026-10-12"
-  },
-  {
    "id": "w-a76ae530037e",
    "company": "West Bend Insurance",
    "title": "Data Solution Engineer Intern",
    "location": "Madison, WI / West Bend, WI",
    "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-23",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-88cc35c4c0f6",
-   "company": "Ernst & Young",
-   "title": "Assurance Intern - Data and Intelligence Delivery",
-   "location": "Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Moines, IA + more",
-   "url": "https://eyglobal.yello.co/jobs/b62Iqxo_xKj_eGnRD4WuOw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-23",
@@ -1333,17 +1058,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-b0cd47d5d3ce",
-   "company": "Sanofi",
-   "title": "Machine Learning AI Co-op - Quantitative Pharmacology",
-   "location": "Cambridge, MA",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-4c81723c5ef9",
    "company": "West Bend Insurance",
    "title": "IT Data Engineer Intern",
@@ -1410,17 +1124,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-a70ea25cac7f",
-   "company": "American Heart Association",
-   "title": "Data Science Intern - Machine Learning & AI",
-   "location": "Dallas, TX",
-   "url": "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-21",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-63c63abd15a1",
    "company": "Viking Global",
    "title": "Data Science Intern",
@@ -1452,61 +1155,6 @@
    "category": "tech",
    "posted": "2026-09-21",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-a5030bf5c0f6",
-   "company": "GE Aerospace",
-   "title": "Data Science Co-op - Flight Analytics Platform",
-   "location": "Austin, TX",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-21",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-2c86b04022ef",
-   "company": "Bot Auto",
-   "title": "Software Engineer Intern - AI Agents",
-   "location": "Houston, TX",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-19",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-22f7b01abe0c",
-   "company": "Rivian",
-   "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
-   "location": "Normal, IL",
-   "url": "https://careers.rivian.com/jobs/33800?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-18",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-0b3bd1cee1f2",
-   "company": "Nokia",
-   "title": "Software Development Co-op - AI Assisted",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-18",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-70d27c5f584c",
-   "company": "MetOx International",
-   "title": "Data Science Intern - Spring 2027",
-   "location": "Houston, TX",
-   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-18",
-   "found": "2026-10-15"
   },
   {
    "id": "w-02f8ac839ead",
@@ -1569,17 +1217,6 @@
    "title": "AI Research & Engineering Intern",
    "location": "Chicago, IL",
    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-17",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9a04fca7abb8",
-   "company": "Church & Dwight",
-   "title": "AI Developer Co-op - Graduate Program",
-   "location": "Ewing Township, NJ",
-   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-17",
@@ -1762,17 +1399,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-dca757967564",
-   "company": "Flagship Pioneering",
-   "title": "AI Automation Engineering Co-op",
-   "location": "Cambridge, MA",
-   "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-8793d37672e1",
    "company": "Intuit",
    "title": "AI Scientist Intern",
@@ -1789,17 +1415,6 @@
    "title": "Data Services Intern - Summer 2027",
    "location": "Irving, TX",
    "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-604d2d01caa2",
-   "company": "Western Digital",
-   "title": "Systems Architecture Co-op - AI Systems Strategy",
-   "location": "Rochester, MN",
-   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-14",
@@ -1826,17 +1441,6 @@
    "category": "tech",
    "posted": "2026-09-12",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-7df7a88d08a1",
-   "company": "Lyft",
-   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-12"
   },
   {
    "id": "w-5b7e15504410",
@@ -2004,17 +1608,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-6821ce44f859",
-   "company": "VaynerMedia",
-   "title": "Data Analytics Resident",
-   "location": "NYC",
-   "url": "https://vaynermedia.com/careers?gh_jid=8126062",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-10",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-8f770408eaf5",
    "company": "Navy Federal",
    "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
@@ -2123,28 +1716,6 @@
    "category": "tech",
    "posted": "2026-09-09",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-7d76ec1ea944",
-   "company": "Coinbase",
-   "title": "Analytics Engineer Intern",
-   "location": "Hybrid - New York, NY",
-   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-08",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-077340644209",
-   "company": "Coinbase",
-   "title": "Data Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-08",
-   "found": "2026-10-12"
   },
   {
    "id": "w-126395e7d552",
@@ -2279,33 +1850,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-17fa50e5280d",
-   "company": "Nokia",
-   "title": "AI Agent Development Co-op",
-   "location": "San Jose, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-3cf141346d67",
    "company": "Hy-Vee",
    "title": "Data Analytics Intern",
    "location": "West Des Moines, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-bfc602bd0533",
-   "company": "Kodiak Robotics",
-   "title": "Data Engineering Intern",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4396622009",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-04",
@@ -2411,17 +1960,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-d1496389be0a",
-   "company": "Tesla",
-   "title": "Machine Learning Engineer Intern - Charging Data Modeling",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281940",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-4a194efae3b0",
    "company": "Fannie Mae",
    "title": "Finance Analytics Intern - Analytics & Modeling Program",
@@ -2430,72 +1968,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-02",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-a00b76b607ae",
-   "company": "Travelers",
-   "title": "Business Insights & Analytics Intern - BI&A LDP",
-   "location": "Hartford, CT / St Paul, MN",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-1851722167ec",
-   "company": "American Express",
-   "title": "Data Analytics Intern - Enterprise Technology Services",
-   "location": "Charlotte, NC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-0c8ea289c011",
-   "company": "American Express",
-   "title": "Data Analytics Intern - US Consumer Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-a2e6b97ae45c",
-   "company": "American Express",
-   "title": "Data Engineer Intern - Enterprise Technology Services",
-   "location": "Sunrise, FL",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-451e43a316b9",
-   "company": "American Express",
-   "title": "Data Management Intern - Global Merchant & Network Services",
-   "location": "Phoenix, AZ",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-24a6a00fb643",
-   "company": "American Express",
-   "title": "Data Science Intern - Finance",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
    "found": "2026-10-13"
   },
   {
@@ -2515,17 +1987,6 @@
    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
    "location": "NYC",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9a9a46e2979d",
-   "company": "Johnson & Johnson",
-   "title": "Data Science Co-op - Summer 2027",
-   "location": "Cincinnati, OH",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-01",
@@ -2573,39 +2034,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7196b749f083",
-   "company": "First National Bank",
-   "title": "Data Engineering Intern",
-   "location": "Pittsburgh, PA / Hermitage, PA",
-   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-2e5132cc6ebe",
-   "company": "C3.ai",
-   "title": "Data Scientist Intern - Summer 2027",
-   "location": "Redwood City, CA",
-   "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-08-31",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-85502e36aa4d",
-   "company": "Robert Bosch Venture Capital",
-   "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
-   "location": "Farmington Hills, MI",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-08-31",
    "found": "2026-10-13"
   }
  ]

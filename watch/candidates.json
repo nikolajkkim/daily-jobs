@@ -1,7 +1,167 @@
 {
- "generated": "2026-10-15T13:41+00:00",
+ "generated": "2026-10-16T05:27+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "SoC Machine Learning Software Engineer Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.apple.com/en-us/details/200689488",
+   "posted": "2026-10-16",
+   "company": "Apple",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "AI/ML for Cybersecurity Intern",
+   "location": "Golden, CO",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
+   "posted": "2026-10-15",
+   "company": "National Laboratory of the Rockies",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+   "posted": "2026-10-15",
+   "company": "General Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "AI/ML Engineer Intern - Mapping - Masters",
+   "location": "Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+   "posted": "2026-10-15",
+   "company": "General Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Embodied AI Research Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+   "posted": "2026-10-15",
+   "company": "General Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Onboard Autonomy Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+   "posted": "2026-10-15",
+   "company": "General Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Seam Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
+   "posted": "2026-10-15",
+   "company": "General Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Pittsburgh, PA / NYC",
+   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+   "posted": "2026-10-15",
+   "company": "Duolingo",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Enterprise Data Intern - Enablement, Service & Support",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
+   "posted": "2026-10-15",
+   "company": "American Family Insurance Group",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
   {
    "title": "AI Post-Training and Model Alignment Intern",
    "location": "Bellevue, WA",
@@ -19,7 +179,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "AI Evaluation & Benchmarking Intern - AGI",
@@ -38,7 +198,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "AI Evaluation & Benchmarking Intern",
@@ -57,7 +217,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Manufacturing AI Engineering Intern",
@@ -75,7 +235,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Semiconductor AI Specialist Intern",
@@ -93,7 +253,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Data Quality Assistant Intern",
@@ -108,7 +268,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
@@ -126,43 +286,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Machine Learning Research Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268",
-   "posted": "2026-10-14",
-   "company": "Nissan Global",
-   "terms": [
-    "Spring 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Machine Learning Research Perception Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00215332",
-   "posted": "2026-10-14",
-   "company": "Nissan Global",
-   "terms": [
-    "Spring 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
@@ -181,25 +305,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "AI & Data Science Intern",
-   "location": "Champaign, IL",
-   "url": "https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors",
-   "posted": "2026-10-14",
-   "company": "AGCO",
-   "terms": [
-    "Spring 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
@@ -214,7 +320,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Manufacturing Test Engineer Intern - AI",
@@ -229,7 +335,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
@@ -247,153 +353,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "HPC AI Networking Intern - Network Transport",
-   "location": "Chippewa Falls, WI / Fort Collins, CO",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
-   "posted": "2026-10-13",
-   "company": "Hewlett Packard Enterprise",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Forward Deployed AI Engineer Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59702",
-   "posted": "2026-10-13",
-   "company": "Boston Consulting Group",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "AI Engineer Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
-   "posted": "2026-10-13",
-   "company": "KLA",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "AI and Data Analytics Intern",
-   "location": "Sterling, VA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269",
-   "posted": "2026-10-13",
-   "company": "General Dynamics Information Technology",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "Associate's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "AI Analyst / AI Automation Specialist Intern",
-   "location": "Irving, TX",
-   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
-   "posted": "2026-10-13",
-   "company": "7-Eleven",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Embedded Audio Machine Learning Engineer Co-op",
-   "location": "Framingham, MA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
-   "posted": "2026-10-13",
-   "company": "Bose",
-   "terms": [
-    "Spring 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Data Analytics Intern",
-   "location": "Dallas, TX / Tempe, AZ",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
-   "posted": "2026-10-13",
-   "company": "DriveTime",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
-  },
-  {
-   "title": "Forward Deployed AI Scientist Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59703",
-   "posted": "2026-10-13",
-   "company": "Boston Consulting Group",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   }
  ]
 }

@@ -107,7 +107,11 @@
       "why": "Open to Master's/PhD students; applied ML on shipping and delivery estimates matches his modeling work. It is a Winter 2027 term starting January, so it overlaps the Columbia school term.",
       "found": "2026-10-13",
       "posted": "2026-10-06",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-10-16",
+        "reason": "Not a summer internship (Winter 2027)"
+      }
     },
     {
       "id": "electronic-arts-data-ai-engineer-intern-2027",
@@ -289,7 +293,11 @@
       "why": "Master's/PhD research internship (Winter 2027) in California on knowledge engineering and generative AI, close to your LLaMA 3.2 + embeddings retrieval pipeline. Research-lab roles often prefer publications, which you lack; the page wouldn't load, so details come from Simplify.",
       "found": "2026-10-15",
       "posted": "2026-10-14",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-10-16",
+        "reason": "Not a summer internship (Winter 2027)"
+      }
     },
     {
       "id": "johnson-and-johnson-ai-ml-data-science-intern-2027",
@@ -302,7 +310,11 @@
       "why": "Winter 2027 internship open to master's students with an NYC option; fits your applied ML and Python/SQL skills. The link points to a Zug page, so confirm the US posting when you apply; the page wouldn't load.",
       "found": "2026-10-15",
       "posted": "2026-10-14",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-10-16",
+        "reason": "Not a summer internship (Winter 2027)"
+      }
     },
     {
       "id": "nissan-ml-research-prediction-planning-intern-2027",
@@ -315,7 +327,11 @@
       "why": "Spring 2027 co-op for master's/PhD students in California; planning and prediction ties to your RL navigation project. It runs during the school term, which clashes with your Columbia classes; the page wouldn't load.",
       "found": "2026-10-15",
       "posted": "2026-10-14",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-10-16",
+        "reason": "Not a summer internship (Spring 2027 co-op)"
+      }
     }
   ],
   "browse": [
