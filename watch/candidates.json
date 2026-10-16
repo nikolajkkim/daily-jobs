@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T05:27+00:00",
+ "generated": "2026-10-16T05:28+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -18,6 +18,28 @@
    ],
    "category": "tech",
    "ats": "simplify",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Strategic Finance & Analytics Intern",
+   "location": "United States",
+   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+   "posted": "2026-10-15",
+   "company": "Airbnb",
+   "category": "tech",
+   "ats": "greenhouse",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "title": "Data Scientist, Intern",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+   "posted": "2026-10-15",
+   "company": "Duolingo",
+   "category": "tech",
+   "ats": "greenhouse",
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-16"
   },
@@ -118,24 +140,6 @@
     "Summer 2027"
    ],
    "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16"
-  },
-  {
-   "title": "Data Scientist Intern",
-   "location": "Pittsburgh, PA / NYC",
-   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
-   "posted": "2026-10-15",
-   "company": "Duolingo",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
     "Master's"
    ],
    "category": "tech",
