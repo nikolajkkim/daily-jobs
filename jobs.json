@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "found": 5,
-    "note": "5 new roles · 1 more to browse · handled 13 reports: removed 12 (11 Meta research scientist roles, PhD-oriented; Ascension closed), kept 1 (GDIT page didn't load) · Problem: Workday pages (Nissan, Hitachi, J&J, GM, Tencent, KLA, GDIT) wouldn't load, so 4 picks are unverified; EA still open; discovery searches found nothing new"
+    "note": "5 new roles · 0 more to browse · no new reports (all 17 already reviewed) · SRC posting confirmed gone · Problem: Workday/Oracle pages wouldn't load, so all 5 picks are unverified; Duolingo DS Intern (NYC) skipped because its term isn't stated; Capital One master's DS intern is closed; discovery searches found nothing new"
   },
   "jobs": [
     {
@@ -332,6 +332,71 @@
         "date": "2026-10-16",
         "reason": "Not a summer internship (Spring 2027 co-op)"
       }
+    },
+    {
+      "id": "gevernova-ai-post-training-alignment-intern-2027",
+      "company": "GE Vernova",
+      "title": "AI Post-Training and Model Alignment Intern",
+      "location": "Bellevue, WA",
+      "source": "Workday",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1",
+      "fit": "strong",
+      "why": "Summer 2027, open to master's students. Post-training and alignment lines up with your fine-tuned DistilBERT and the few-shot prompting in your LLaMA 3.2 retrieval pipeline. The page wouldn't load for me, so eligibility comes from the Simplify listing.",
+      "found": "2026-10-16",
+      "category": "tech",
+      "posted": "2026-10-14"
+    },
+    {
+      "id": "gevernova-ai-evaluation-benchmarking-intern-2027",
+      "company": "GE Vernova",
+      "title": "AI Evaluation & Benchmarking Intern - AGI",
+      "location": "Bellevue, WA",
+      "source": "Workday",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1",
+      "fit": "good",
+      "why": "Summer 2027, master's accepted. Your 84% top-k evaluation of the retrieval pipeline and F1 threshold work are relevant to benchmarking models. The page wouldn't load for me, so check the details when you apply.",
+      "found": "2026-10-16",
+      "category": "tech",
+      "posted": "2026-10-14"
+    },
+    {
+      "id": "gm-ai-ml-engineer-mapping-masters-2027",
+      "company": "General Motors",
+      "title": "AI/ML Engineer Intern - Mapping - Masters",
+      "location": "Warren, MI",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+      "fit": "good",
+      "why": "Summer 2027 role aimed at master's students. Your PyTorch work and the simulated LiDAR navigation project suit mapping and autonomy, though you haven't done mapping directly. The page wouldn't load for me, so eligibility comes from the Simplify listing.",
+      "found": "2026-10-16",
+      "category": "tech",
+      "posted": "2026-10-15"
+    },
+    {
+      "id": "onsemi-manufacturing-ai-engineering-intern-2027",
+      "company": "onsemi",
+      "title": "Manufacturing AI Engineering Intern",
+      "location": "Hopewell Junction, NY",
+      "source": "Company site",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
+      "fit": "good",
+      "why": "Summer 2027, bachelor's or master's. Your XGBoost model on 14M+ IoT readings maps well to manufacturing yield and defect prediction. The page wouldn't load for me, so eligibility comes from the Simplify listing.",
+      "found": "2026-10-16",
+      "category": "tech",
+      "posted": "2026-10-14"
+    },
+    {
+      "id": "onsemi-semiconductor-ai-specialist-intern-2027",
+      "company": "onsemi",
+      "title": "Semiconductor AI Specialist Intern",
+      "location": "Gresham, OR",
+      "source": "Company site",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918",
+      "fit": "stretch",
+      "why": "Summer 2027, master's or PhD. Your bridge-damage modeling and IoT work are the closest match, but the semiconductor domain is new to you. Oregon is outside your preferred NYC/California areas, and the page wouldn't load for me.",
+      "found": "2026-10-16",
+      "category": "tech",
+      "posted": "2026-10-14"
     }
   ],
   "browse": [
