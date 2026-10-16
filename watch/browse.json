@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:20+00:00",
+ "generated": "2026-10-16T13:30+00:00",
  "jobs": [
   {
    "id": "w-77397c586e47",
@@ -57,17 +57,6 @@
    "found": "2026-10-16"
   },
   {
-   "id": "w-46b9435dc94c",
-   "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Mapping - Masters",
-   "location": "Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
    "id": "w-2677a1bb78f4",
    "company": "General Motors",
    "title": "Embodied AI Research Intern",
@@ -112,55 +101,11 @@
    "found": "2026-10-16"
   },
   {
-   "id": "w-719984df7d94",
-   "company": "GE Vernova",
-   "title": "AI Post-Training and Model Alignment Intern",
-   "location": "Bellevue, WA",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-f028eab05e4f",
-   "company": "GE Vernova",
-   "title": "AI Evaluation & Benchmarking Intern - AGI",
-   "location": "Bellevue, WA",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
    "id": "w-7b9788c5c5cb",
    "company": "GE Vernova",
    "title": "AI Evaluation & Benchmarking Intern",
    "location": "Bellevue, WA",
    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-ffeac81b8a6b",
-   "company": "onsemi",
-   "title": "Manufacturing AI Engineering Intern",
-   "location": "Hopewell Junction, NY",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-eb6a666505db",
-   "company": "onsemi",
-   "title": "Semiconductor AI Specialist Intern",
-   "location": "Gresham, OR",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-14",
