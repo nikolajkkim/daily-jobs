@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T10:20+00:00",
+ "generated": "2026-10-17T12:23+00:00",
  "feeds_ok": 88,
  "feeds_total": 88,
  "companies": {
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 261,
+   "open_jobs": 260,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -390,7 +390,7 @@
   },
   "Hudson River Trading": {
    "status": "ok",
-   "open_jobs": 89,
+   "open_jobs": 88,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "wehrtyou"
@@ -614,8 +614,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 225,
-   "matches": 225,
+   "open_jobs": 223,
+   "matches": 223,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

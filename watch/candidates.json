@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T10:20+00:00",
+ "generated": "2026-10-17T12:23+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -55,24 +55,6 @@
    "last_seen": "2026-10-17"
   },
   {
-   "title": "AI/Data Science Intern",
-   "location": "Maple Grove, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
-   "posted": "2026-10-16",
-   "company": "Boston Scientific",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17"
-  },
-  {
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1141752241867684",
@@ -107,17 +89,6 @@
    "last_seen": "2026-10-17"
   },
   {
-   "title": "Strategic Finance & Analytics Intern (MBA)",
-   "location": "United States",
-   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
-   "posted": "2026-10-15",
-   "company": "Airbnb",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
    "title": "Data Scientist, Intern",
    "location": "New York, NY; Pittsburgh, PA",
    "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
@@ -141,57 +112,6 @@
     "Bachelor's",
     "Master's",
     "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
-   "posted": "2026-10-15",
-   "company": "General Motors",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Embodied AI Research Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
-   "posted": "2026-10-15",
-   "company": "General Motors",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Onboard Autonomy Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
-   "posted": "2026-10-15",
-   "company": "General Motors",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
    ],
    "category": "tech",
    "ats": "simplify",

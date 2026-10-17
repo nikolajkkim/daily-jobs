@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T10:20+00:00",
+ "generated": "2026-10-17T12:23+00:00",
  "jobs": [
   {
    "id": "w-77397c586e47",
@@ -35,17 +35,6 @@
    "found": "2026-10-17"
   },
   {
-   "id": "w-7e60dcdc660d",
-   "company": "Boston Scientific",
-   "title": "AI/Data Science Intern",
-   "location": "Maple Grove, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-10-17"
-  },
-  {
    "id": "w-af13afa2a5f5",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
@@ -68,17 +57,6 @@
    "found": "2026-10-17"
   },
   {
-   "id": "w-3f819d131139",
-   "company": "Airbnb",
-   "title": "Strategic Finance & Analytics Intern (MBA)",
-   "location": "United States",
-   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
    "id": "w-16d613f701b1",
    "company": "Duolingo",
    "title": "Data Scientist, Intern",
@@ -95,39 +73,6 @@
    "title": "AI/ML for Cybersecurity Intern",
    "location": "Golden, CO",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
-   "id": "w-04c26ea84aaa",
-   "company": "General Motors",
-   "title": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
-   "id": "w-2677a1bb78f4",
-   "company": "General Motors",
-   "title": "Embodied AI Research Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
-   "id": "w-cade4f24252a",
-   "company": "General Motors",
-   "title": "Onboard Autonomy Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-15",
