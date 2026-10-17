@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-16",
-    "found": 5,
-    "note": "5 new roles · 0 more to browse · no new reports (all 17 already reviewed) · SRC posting confirmed gone · Problem: Workday/Oracle pages wouldn't load, so all 5 picks are unverified; Duolingo DS Intern (NYC) skipped because its term isn't stated; Capital One master's DS intern is closed; discovery searches found nothing new"
+    "date": "2026-10-17",
+    "found": 4,
+    "note": "4 new roles · 0 more to browse · 1 report handled (Airbnb MBA role removed) · 5 older links checked, all open · Problem: GM and Boston Scientific pages wouldn't load, so those 4 picks are unverified; Duolingo DS Intern skipped (term not stated, page wouldn't load); CenturyLink skipped (rising seniors); discovery searches found nothing new"
   },
   "jobs": [
     {
@@ -397,6 +397,58 @@
       "found": "2026-10-16",
       "category": "tech",
       "posted": "2026-10-14"
+    },
+    {
+      "id": "general-motors-embodied-ai-research-intern-2027",
+      "company": "General Motors",
+      "title": "Embodied AI Research Intern (Master's)",
+      "location": "Sunnyvale, CA",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+      "fit": "strong",
+      "why": "Summer 2027, master's-specific role. Your PPO quadcopter navigation work and LLaMA retrieval research line up with embodied AI research; the Workday page wouldn't load, so confirm it is still open.",
+      "found": "2026-10-17",
+      "category": "tech",
+      "posted": "2026-10-15"
+    },
+    {
+      "id": "general-motors-onboard-autonomy-intern-2027",
+      "company": "General Motors",
+      "title": "Onboard Autonomy Intern - Embodied AI (Master's)",
+      "location": "Sunnyvale, CA",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+      "fit": "good",
+      "why": "Summer 2027, master's role. Your PyFlyt RL navigation with simulated LiDAR is a direct fit for autonomy; expect more robotics systems depth than you show. Page unverified (Workday wouldn't load).",
+      "found": "2026-10-17",
+      "category": "tech",
+      "posted": "2026-10-15"
+    },
+    {
+      "id": "general-motors-data-scaling-embodied-ai-intern-2027",
+      "company": "General Motors",
+      "title": "Embodied AI Data Scaling Intern (Master's)",
+      "location": "Sunnyvale, CA",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+      "fit": "good",
+      "why": "Summer 2027, master's role. Your 14M-reading IoT pipeline and dataset work suit data scaling for embodied AI. Page unverified (Workday wouldn't load).",
+      "found": "2026-10-17",
+      "category": "tech",
+      "posted": "2026-10-15"
+    },
+    {
+      "id": "boston-scientific-ai-data-science-intern-2027",
+      "company": "Boston Scientific",
+      "title": "AI/Data Science Intern",
+      "location": "Maple Grove, MN",
+      "source": "Company site",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
+      "fit": "good",
+      "why": "Summer 2027, bachelor's and master's accepted per the feed. Your XGBoost and GAM modeling fit; it is a medical-device company and not remote. Page text didn't load, so unverified.",
+      "found": "2026-10-17",
+      "category": "tech",
+      "posted": "2026-10-16"
     }
   ],
   "browse": [
@@ -890,6 +942,29 @@
       "found": "2026-10-15",
       "posted": "2026-10-14",
       "category": "tech"
+    },
+    {
+      "id": "w-3f819d131139",
+      "company": "Airbnb",
+      "title": "Strategic Finance & Analytics Intern (MBA)",
+      "location": "United States",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+      "fit": "stretch",
+      "why": "MBA-only finance and analytics internship.",
+      "found": "2026-10-16",
+      "posted": "2026-10-15",
+      "category": "finance",
+      "removed": {
+        "date": "2026-10-17",
+        "reason": "Not eligible: role is for MBA students"
+      },
+      "review": {
+        "reportId": "4a256ed3-eb16-4066-b21a-3602e9bc0155",
+        "date": "2026-10-17",
+        "outcome": "removed",
+        "note": "Title is an MBA internship; not open to a master's in data science"
+      }
     }
   ]
 }

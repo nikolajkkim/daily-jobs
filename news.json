@@ -1,52 +1,60 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks bounced back as money rotated out of AI and chip names",
-      "note": "On Thursday the Dow rose about 1.1% to 52,177.69 and the S&P 500 gained about 0.3%, while the Nasdaq finished roughly flat. Investors moved into cheaper, less rate-sensitive stocks as Treasury yields fell and bank earnings helped.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+      "headline": "Nasdaq sinks 2.1% Friday and posts its worst week since June",
+      "note": "The S&P 500 fell 1.1% to 7,659.44 and the Dow slipped 0.3% to 52,002.41, but the Dow still rose 0.7% on the week while the Nasdaq lost about 4.5%. Selling in chip and software stocks and a jump in oil prices drove it.",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951",
+      "source": "AP via ABC News"
+    },
+    {
+      "tag": "AI",
+      "headline": "CoreWeave falls again on worries about its heavy debt",
+      "note": "The AI data-center company is under pressure over its debt-heavy balance sheet, and a BofA analyst called the selling \"more sentiment driven\" than about fundamentals. It shows how AI-buildout financing is now what moves the stocks of the companies you may want to work for.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
       "source": "Yahoo Finance"
     },
     {
-      "tag": "Chips",
-      "headline": "TSMC posts record profit, but its stock still fell",
-      "note": "Net profit rose 69% to T$763.1 billion, its sixth straight record quarter, and Q4 revenue guidance is $52.3-54.3 billion. The stock slipped because the CEO sounded more cautious about 2027 and said the cycle \"won't go forever\", a read-through for AI demand.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-profit-jumps-69-record-122354016.html",
+      "tag": "Economy",
+      "headline": "Oil hits $110 a barrel and Treasury yields stay high",
+      "note": "Brent touched $110 for the first time since May as Iran escalated attacks in the Strait of Hormuz, and the 10-year yield was near 5.1%. Futures still point to roughly one more Fed quarter-point hike by December.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Chip stocks extend their losing streak despite strong AI demand",
-      "note": "The Philadelphia semiconductor index fell 0.9%, its seventh straight losing session, and Nvidia dropped 1.8%. Worries about how the AI buildout is financed are weighing on the sector you want to work in.",
-      "url": "https://lufkindailynews.com/news_reuters/business/s-p-500-near-flat-as-traders-shift-out-of-risky-ai-bets/article_278bb84e-f104-5c53-8913-6f5cfd77cb9d.html",
-      "source": "Reuters via Lufkin Daily News"
+      "headline": "Google opens Gemini 4 Argon to developers and consumers",
+      "note": "Its latest frontier model is now in AI Studio, the Gemini app and Search AI Mode, with API pricing of $2 per million input tokens and $10 per million output tokens during a promotional period. Good one to try for projects.",
+      "url": "https://blog.google/intl/en-in/products/introducing-gemini-4-argon/",
+      "source": "Google Blog"
     },
     {
-      "tag": "Economy",
-      "headline": "Hot inflation data keeps more Fed rate hikes in play",
-      "note": "Wednesday's hotter-than-expected consumer inflation was followed by a hot producer price report, and one bank (UBS) now expects a third Fed hike. Higher rates raise borrowing costs for AI companies and startups.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-15-123000001.html",
-      "source": "Yahoo Finance"
+      "tag": "Chips",
+      "headline": "ASML reports record quarterly revenue",
+      "note": "Third-quarter sales were €11.7 billion with €5 billion net income, and customers are already discussing equipment needs for 2029 and 2030. Chip demand looks strong even as chip stocks fall.",
+      "url": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+      "source": "ASML"
     },
     {
-      "tag": "Jobs",
-      "headline": "September jobs report was weak: only 29,000 jobs added",
-      "note": "Economists expected 90,000, and unemployment rose to 4.2%. A soft labor market makes the entry-level search more competitive, though it also lowered the odds of a Fed hike in October.",
-      "url": "https://www.benzinga.com/node/62137258",
-      "source": "Benzinga"
+      "tag": "NYC",
+      "headline": "Japan to fund two GlobalFoundries chip factories in New York",
+      "note": "Japan will invest up to $21 billion in two New York state semiconductor plants, part of a larger U.S.-Japan investment deal. It could mean more chip jobs in the region.",
+      "url": "https://www.reuters.com/business/retail-consumer/japan-invest-up-21-billion-two-us-chip-factories-be-run-by-globalfoundries-2026-10-14/",
+      "source": "Reuters"
     }
   ],
   "learn": {
-    "n": 4,
-    "term": "Bonds and yields",
-    "explain": "A bond is a loan you make to a government or company: they pay you regular interest and return your money at the end. The yield is the return you earn as a percentage of the bond's current price. When a bond's price goes up, its yield goes down, and the other way around. Investors buy safer bonds when they want shelter from stock swings, which pushes prices up and yields down. Today's example: on Thursday Treasury yields fell as investors moved out of AI stocks, and that helped the market bounce back.",
-    "try": "Look up the current 10-year Treasury yield and see how it has moved this month."
+    "n": 5,
+    "term": "Volatility and the VIX",
+    "explain": "Volatility is how much and how fast prices swing up and down. The VIX is a number, often called the market's fear gauge, that estimates how much traders expect the S&P 500 to swing over the next 30 days, based on prices of options on the index. A reading around 12-15 means calm, and the VIX rises when investors get nervous. Today's example: after Friday's tech sell-off the VIX rose to roughly 20, a sign traders are bracing for bigger swings.",
+    "try": "Search for the VIX chart and see how it behaved during past sell-offs."
   },
   "learned": [
     "Earnings season and EPS",
     "Inflation and the CPI",
     "The Fed and interest rates",
-    "Bonds and yields"
+    "Bonds and yields",
+    "Volatility and the VIX"
   ]
 }
