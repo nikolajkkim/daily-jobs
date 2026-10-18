@@ -282,7 +282,10 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     const a = titleTokens(ta), b = titleTokens(tb); if (!a.size || !b.size) return false;
     let inter = 0; a.forEach((w) => { if (b.has(w)) inter++; });
     const union = a.size + b.size - inter;
-    return inter / union >= 0.6 || inter === a.size || inter === b.size;
+    // Jaccard on the meaningful words. A short title fully inside a longer one only counts
+    // when it has 3+ words, so "AI Research" in your tracker doesn't swallow every AI role at that company.
+    const small = Math.min(a.size, b.size);
+    return inter / union >= 0.6 || (small >= 3 && inter === small);
   }
   const trackerMatch = (j) => tracker.find((r) => sameJob(r.company, r.role, j.company, j.title)) || null;
 
@@ -396,7 +399,9 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     }
     if (st.status === "applied") {
       if (st.tracker) {
-        a.append(el("span", "tstatus s-" + slug(st.tracker.status || "applied"), "Tracker: " + (st.tracker.status || "Applied")));
+        const ts = el("span", "tstatus s-" + slug(st.tracker.status || "applied"), "Tracker: " + (st.tracker.status || "Applied"));
+        if (st.fromTracker) ts.title = "Matched your tracker row: " + st.tracker.company + " · " + st.tracker.role;
+        a.append(ts);
       } else if (st.on) {
         a.append(el("span", "stamp", "Applied " + fmt(st.on)));
       }
