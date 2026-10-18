@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-17",
-    "found": 4,
-    "note": "4 new roles · 0 more to browse · 1 report handled (Airbnb MBA role removed) · 5 older links checked, all open · Problem: GM and Boston Scientific pages wouldn't load, so those 4 picks are unverified; Duolingo DS Intern skipped (term not stated, page wouldn't load); CenturyLink skipped (rising seniors); discovery searches found nothing new"
+    "date": "2026-10-18",
+    "found": 0,
+    "note": "0 new roles · 1 report handled (GDIT intern re-reported closed, stays removed) · 6 older links checked, all open · Problem: Duolingo DS Intern skipped again (term not stated); no eligible unapplied roles today: feed candidates are applied, non-ML or PhD-leaning, BCG AI Scientist posting is filled, discovery searches found nothing new"
   },
   "jobs": [
     {
@@ -924,14 +924,14 @@
       "posted": "2026-10-12",
       "category": "tech",
       "review": {
-        "reportId": "9382c24f-c510-4702-859b-0608986edbf6",
-        "date": "2026-10-15",
-        "outcome": "ok",
-        "note": "The Workday page wouldn't load, so I couldn't confirm it is closed; left it up."
+        "reportId": "69e57ee3-3db2-4226-b25a-a55df7e7730c",
+        "date": "2026-10-18",
+        "outcome": "removed",
+        "note": "Posting closed"
       },
       "removed": {
-        "date": "2026-10-17",
-        "reason": "You reported it: Posting closed"
+        "date": "2026-10-18",
+        "reason": "Posting closed"
       }
     },
     {

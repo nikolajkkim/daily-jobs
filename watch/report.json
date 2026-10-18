@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-17T12:23+00:00",
+ "generated": "2026-10-18T10:20+00:00",
  "feeds_ok": 88,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 656,
+   "open_jobs": 655,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
@@ -33,7 +33,7 @@
   },
   "Airbnb": {
    "status": "ok",
-   "open_jobs": 173,
+   "open_jobs": 174,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "airbnb"
@@ -89,7 +89,7 @@
   },
   "Robinhood": {
    "status": "ok",
-   "open_jobs": 153,
+   "open_jobs": 152,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "robinhood"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 318,
+   "open_jobs": 317,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -187,7 +187,7 @@
   },
   "Dropbox": {
    "status": "ok",
-   "open_jobs": 20,
+   "open_jobs": 18,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "dropbox"
@@ -243,7 +243,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 815,
+   "open_jobs": 813,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -348,7 +348,7 @@
   },
   "Shield AI": {
    "status": "ok",
-   "open_jobs": 629,
+   "open_jobs": 641,
    "matches": 0,
    "ats": "lever",
    "slug": "shieldai"
@@ -432,7 +432,7 @@
   },
   "Clear Street": {
    "status": "ok",
-   "open_jobs": 43,
+   "open_jobs": 42,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "clearstreet"
@@ -488,7 +488,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 262,
+   "open_jobs": 263,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -614,8 +614,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 223,
-   "matches": 223,
+   "open_jobs": 214,
+   "matches": 214,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

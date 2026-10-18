@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T12:23+00:00",
+ "generated": "2026-10-18T10:20+00:00",
  "jobs": [
   {
    "id": "w-77397c586e47",
@@ -755,17 +755,6 @@
    "title": "Advanced Analytics Intern",
    "location": "Cleveland, OH",
    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-c3e2e064a99a",
-   "company": "The Federal Reserve System",
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-01",
@@ -1718,17 +1707,6 @@
    "found": "2026-10-12"
   },
   {
-   "id": "w-da7c51c49d5a",
-   "company": "Cox",
-   "title": "Data Scientist Intern",
-   "location": "Atlanta, GA",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-08",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-126395e7d552",
    "company": "Capital One",
    "title": "AI Engineer Intern",
@@ -1861,110 +1839,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-bd110ba28bec",
-   "company": "Shure",
-   "title": "Artificial Intelligence Engineer Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b8c7618394ab",
-   "company": "Shure",
-   "title": "Applied Research Science Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-812e796f426e",
-   "company": "Shure",
-   "title": "Data Engineer Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e21c54eaee6d",
-   "company": "Shure",
-   "title": "Audio Applied Research Science Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-56bbd019a691",
-   "company": "Shure",
-   "title": "Global Product Management Data Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-39b2a28d258d",
-   "company": "TikTok",
-   "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7677493272788683013",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ce5126fb8bb1",
-   "company": "Hadrian",
-   "title": "Data Science/Data Engineer Intern",
-   "location": "Torrance, CA",
-   "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b7b3bc9d0e8d",
-   "company": "Momentive",
-   "title": "Data Science Intern - Enterprise Reporting & Analytics",
-   "location": "Niskayuna, NY",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-5ec4c5892d45",
    "company": "American Express",
    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
    "location": "NYC",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-67c66abb6d5e",
-   "company": "DriveTime",
-   "title": "Data Science Intern - Summer 2027",
-   "location": "Dallas, TX / Tempe, AZ",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-03",

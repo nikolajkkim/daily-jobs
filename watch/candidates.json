@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T12:23+00:00",
+ "generated": "2026-10-18T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -19,7 +19,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Benefits Analytics Intern",
@@ -37,7 +37,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Data Internship - Analytics & Decision Science",
@@ -52,7 +52,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
@@ -67,7 +67,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Process Automation Student Intern - Process Automation - Data and Analytics",
@@ -86,73 +86,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Data Scientist, Intern",
-   "location": "New York, NY; Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-   "posted": "2026-10-15",
-   "company": "Duolingo",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "AI/ML for Cybersecurity Intern",
-   "location": "Golden, CO",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
-   "posted": "2026-10-15",
-   "company": "National Laboratory of the Rockies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Seam Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
-   "posted": "2026-10-15",
-   "company": "General Motors",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
-  },
-  {
-   "title": "Enterprise Data Intern - Enablement, Service & Support",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
-   "posted": "2026-10-15",
-   "company": "American Family Insurance Group",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   }
  ]
 }
