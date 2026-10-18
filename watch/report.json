@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T10:20+00:00",
+ "generated": "2026-10-18T12:47+00:00",
  "feeds_ok": 88,
  "feeds_total": 88,
  "companies": {
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 260,
+   "open_jobs": 261,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
