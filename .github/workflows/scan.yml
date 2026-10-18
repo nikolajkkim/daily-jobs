@@ -107,7 +107,7 @@ jobs:
             Today is ${{ steps.check.outputs.today }} (America/New_York).
             Read scan/NEWS.md and follow it exactly.
           claude_args: |
-            --max-turns 40
+            --max-turns 60
             --allowedTools "Read,Write,Edit,WebSearch,WebFetch,Bash(python3:*)"
 
       - name: Check and save

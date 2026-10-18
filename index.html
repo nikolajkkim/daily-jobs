@@ -305,7 +305,8 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
   // A report is settled once the morning scan has reviewed it and fixed the job (or found it fine).
   function openReport(j) {
     const r = reports[j.id]; if (!r) return null;
-    if (j.review && j.review.reportId === r.id && j.review.outcome !== "removed") return null;
+    // Your report is final. The only exception: a "Link broken" report the scan fixed with a working link.
+    if (r.reason === "Link broken" && j.review && j.review.reportId === r.id && j.review.outcome === "fixed") return null;
     return r;
   }
 

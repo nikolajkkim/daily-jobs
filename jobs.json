@@ -928,6 +928,10 @@
         "date": "2026-10-15",
         "outcome": "ok",
         "note": "The Workday page wouldn't load, so I couldn't confirm it is closed; left it up."
+      },
+      "removed": {
+        "date": "2026-10-17",
+        "reason": "You reported it: Posting closed"
       }
     },
     {

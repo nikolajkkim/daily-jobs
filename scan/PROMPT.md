@@ -26,11 +26,10 @@ WebFetch (prompt: "Return the raw JSON body exactly"):
 https://xsrmswbbakfqfvpdxtjo.supabase.co/rest/v1/job_reports?select=id,job_id,reason,note,created_at&order=created_at.asc&apikey=sb_publishable_jsqmDm4_wYTTXIM23qHvLA_24VHXfCH
 (Public read-only key.) Use the LATEST report per job_id. Skip a report if the matching entry already has review.reportId equal to its id.
 - Find the entry in jobs.json "jobs" or "browse" by id. If the job_id starts with "w-" and isn't there, find it in watch/browse.json by id (or in watch/seen.json, where the id is "w-" + the first 12 hex chars of sha1 of the entry's key, its url). Copy it into jobs.json "browse" with the same id, adding "category" and a short "fit"/"why" if you can judge them. If it can't be found anywhere, skip the report.
-- Investigate: WebFetch the url and look for the same role on the company's careers site / Greenhouse / Lever / Ashby / Workday.
-- Live at a better URL → update "url"; "review": {"reportId", "date", "outcome": "fixed", "note": short plain description}.
-- Closed or not found → "removed": {"date", "reason"}; "review": {..., "outcome": "removed", "note": reason}.
-- Nothing wrong → "review": {..., "outcome": "ok", "note": what you checked}.
-- "Not eligible" reports: re-check eligibility against his profile (including Summer 2027 term); if he's right, set "removed" with the reason.
+- His reports are final. Never second-guess them or mark them "ok".
+  - "Posting closed", "Not eligible" or "Something else" → set "removed": {"date", "reason": his reason plus his note if any}; "review": {"reportId", "date", "outcome": "removed", "note": same}. No fetching or checking.
+  - "Link broken" → look for the same role on the company's careers site / Greenhouse / Lever / Ashby / Workday. Found and open at a working URL → update "url"; "review": {..., "outcome": "fixed", "note": short plain description}. Otherwise → "removed" with "review" outcome "removed".
+- Never pick or add a reported job (or the same company+title) again.
 
 ## B. Drop closed listings
 WebFetch the url of up to 6 entries (from "jobs" and "browse") without "removed", oldest "found" first, skipping ones checked in A. If a page clearly says closed / no longer available / removed / inactive, set "removed": {"date", "reason": "Posting closed: <what it said>"}. A fetch error is not proof; leave those.
