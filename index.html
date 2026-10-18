@@ -192,6 +192,7 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
 
   <section id="newSec">
     <div class="sec-head"><h2><span class="sun" aria-hidden="true"></span><span id="newLabel">New today</span> <span class="count" id="newCount"></span></h2></div>
+    <p class="secnote" id="newNote" hidden></p>
     <div class="cards" id="newList"><div class="empty">This morning's matches will appear here. Each scan adds up to five new roles from Greenhouse, Lever, Ashby and company career pages.</div></div>
   </section>
 
@@ -258,6 +259,8 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
 
   // ---------- state
   let jobs = [], meta = null, toastTimer = null, scanStarted = false;
+  const DAILY = 5;
+  const CORE_ROLE = /data scien|machine learning|\bml\b|\bai\b|artificial intelligence|applied scien|deep learning|computer vision|\bnlp\b|\bllm|generative/i;          // the daily list always tries to show this many roles
   let browse = [];         // extra open roles: watcher feeds + search finds that didn't make the daily list
   let browseCat = "all", browseShown = 15;
   const CATS = [["all", "All"], ["tech", "Tech & AI"], ["finance", "Finance"], ["fun", "Gaming & entertainment"], ["golf", "Golf"]];
@@ -473,11 +476,25 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     // Applied / skipped / reported lists include anything you acted on from Browse too.
     const acted = withState.concat(browseWithState.filter(([, s]) => s.status !== "todo"));
     const fresh = todo.filter((j) => j.found === latest).sort((a, b) => (fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3));
-    const backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
+    let backlog = todo.filter((j) => j.found !== latest).sort((a, b) => ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)) || String(b.found).localeCompare(String(a.found)));
+    let browseTodo = browseWithState.filter(([, s]) => s.status === "todo").map(([j]) => j);
+    // Keep the daily list at 5: if you've cleared some of today's picks (or the scan found fewer than 5),
+    // fill the gap with the newest roles you haven't acted on, posted within the last 10 days.
+    const when = (j) => String(j.posted || j.found || "");
+    const ageDays = (j) => (Date.parse(todayISO) - Date.parse(when(j))) / 864e5;
+    const freshIds = new Set(fresh.map((j) => j.id));
+    const fill = backlog.concat(browseTodo)
+      .filter((j) => !freshIds.has(j.id) && when(j) && ageDays(j) <= 10 && (j.fit || CORE_ROLE.test(j.title)))
+      // roles the morning scan already vetted (they have a fit level) first, then newest first
+      .sort((a, b) => ((a.fit ? 0 : 1) - (b.fit ? 0 : 1)) || when(b).localeCompare(when(a)) || ((fitRank[a.fit] ?? 3) - (fitRank[b.fit] ?? 3)))
+      .slice(0, Math.max(0, DAILY - fresh.length));
+    const fillIds = new Set(fill.map((j) => j.id));
+    backlog = backlog.filter((j) => !fillIds.has(j.id));
+    browseTodo = browseTodo.filter((j) => !fillIds.has(j.id));
     const applied = acted.filter(([, s]) => s.status === "applied").sort((a, b) => String(b[1].on).localeCompare(String(a[1].on))).map(([j]) => j);
     const skipped = acted.filter(([, s]) => s.status === "skipped").map(([j]) => j);
     const flagged = acted.filter(([, s]) => s.status === "reported" || s.status === "removed").map(([j]) => j);
-    renderBrowse(browseWithState.filter(([, s]) => s.status === "todo").map(([j]) => j));
+    renderBrowse(browseTodo);
 
     const scan = $("scan"); scan.replaceChildren();
     if (latest) {
@@ -494,10 +511,15 @@ details .rows, details .empty { margin: 4px 0 12px 20px; }
     }
 
     $("newLabel").textContent = latest && latest !== todayISO ? "New on " + fmt(latest) : "New today";
-    $("newCount").textContent = fresh.length ? fresh.length + (fresh.length === 1 ? " role" : " roles") : "";
+    const daily = fresh.concat(fill);
+    $("newCount").textContent = daily.length ? daily.length + (daily.length === 1 ? " role" : " roles") : "";
+    $("newNote").hidden = !fill.length;
+    $("newNote").textContent = fresh.length
+      ? `${fresh.length} from this morning's scan, plus the ${fill.length === 1 ? "newest role" : fill.length + " newest roles"} you haven't acted on yet.`
+      : `You've cleared this morning's picks, so here are the newest roles you haven't acted on yet.`;
     const nl = $("newList"); nl.replaceChildren();
-    if (!fresh.length) nl.append(el("div", "empty", latest ? "Nothing new left from the latest scan. Work through the list below." : "This morning's matches will appear here."));
-    fresh.forEach((j) => { const c = el("article", "card new"); c.append(jobBody(j, false), actionBar(j)); if (reportingId === j.id) c.append(reportPanel(j)); nl.append(c); });
+    if (!daily.length) nl.append(el("div", "empty", latest ? "Nothing new left. Work through the list below." : "This morning's matches will appear here."));
+    daily.forEach((j) => { const c = el("article", "card new"); c.append(jobBody(j, false), actionBar(j)); if (reportingId === j.id) c.append(reportPanel(j)); nl.append(c); });
 
     $("backCount").textContent = backlog.length ? backlog.length + " roles" : "";
     $("backList").replaceChildren(rowList(backlog, "Nothing older waiting. Roles you don't get to on their first day move here."));
