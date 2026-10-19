@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T12:47+00:00",
+ "generated": "2026-10-19T10:20+00:00",
  "jobs": [
   {
    "id": "w-77397c586e47",
@@ -1784,17 +1784,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-65fe06275269",
-   "company": "Skydio",
-   "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-0abd1edd21f7",
    "company": "Ernst & Young",
    "title": "Data and Technology Intern - Multiple Teams",
@@ -1817,17 +1806,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-b6b93936b605",
-   "company": "DIRECTV",
-   "title": "Operational Analytics Intern",
-   "location": "Remote in USA",
-   "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-d3d5812345c7",
    "company": "Ernst & Young",
    "title": "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
@@ -1836,28 +1814,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3cf141346d67",
-   "company": "Hy-Vee",
-   "title": "Data Analytics Intern",
-   "location": "West Des Moines, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-5ec4c5892d45",
-   "company": "American Express",
-   "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-03",
    "found": "2026-10-13"
   }
  ]

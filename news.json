@@ -1,75 +1,82 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Nasdaq fell 2.1% Friday, its worst week since June",
-      "note": "The S&P 500 fell 1.1% to 7,659.44, the Dow slipped 0.3% to 52,002.41 and the Nasdaq dropped to 26,140.03; for the week the Nasdaq lost 4.5%. Tech led the decline while energy stocks rose with oil. Markets are closed today, so this is the latest close.",
-      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951",
-      "source": "AP via ABC News"
+      "headline": "Stocks ended a rough week with tech and chip stocks leading the drop",
+      "note": "On Friday the S&P 500 fell 1.1% to 7,659.44, the Dow slipped 0.3% to 52,002.41 and the Nasdaq closed at 26,140.03. Chipmakers had their longest losing streak since 2008 on doubts about AI spending. Futures pointed modestly higher early today.",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026",
+      "source": "Saxo"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed raised rates in September; next meeting is Oct 28",
+      "note": "Saxo's recap says the Fed lifted rates to 3.75%-4%, its first increase since 2023, and markets have trimmed odds of another hike this month. Brent crude is near $108 a barrel, which keeps inflation worries alive and matters for tech valuations.",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026",
+      "source": "Saxo"
     },
     {
       "tag": "AI",
-      "headline": "Jefferies warns AI-stock earnings growth will slow sharply",
-      "note": "The note projects consensus growth for AI-related stocks falling from nearly 100% in 2026 to about 30% in 2027, with AI stocks at 23x forward earnings versus 13x for the rest. It helps explain the recent AI sell-off.",
-      "url": "https://ianslive.in/consensus-earnings-growth-for-ai-stocks-to-plunge-sharply-report--20261017173721",
-      "source": "IANS"
+      "headline": "A handful of AI-linked stocks drive most of the S&P 500's gains",
+      "note": "ABC (Australia) reports tech is about 44% of the S&P 500 and the top 10 stocks about 39%, up from about 27% at the dot-com peak. Six companies account for 57% of the index's gains since April, so the AI trade matters to the whole market.",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "source": "ABC News (Australia)"
     },
     {
       "tag": "AI",
-      "headline": "Data center pushback grows: 47+ US projects delayed or blocked",
-      "note": "The FT counted more than 47 large US data center projects delayed, withdrawn or blocked in 2026, and Bernstein thinks only about 35% of the planned pipeline is credible. That affects how much AI infrastructure hiring actually happens.",
-      "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
-      "source": "Financial Times"
+      "headline": "Anthropic commits 5% of its shares to a public-benefit fund",
+      "note": "Per Anthropic, the fund is subject to stockholder approval and cannot be used for lobbying or political giving.",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "Anthropic"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI confirms it will build a humanoid robot",
+      "note": "Sam Altman told Fortune 'we will definitely do a humanoid'; Engadget reports a demo is targeted for 2027 and OpenAI lists 27 robotics roles, a sign of where ML hiring is heading.",
+      "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+      "source": "Engadget"
     },
     {
       "tag": "Jobs",
-      "headline": "Netflix is laying off about 1,000 people",
-      "note": "That is roughly 6% of staff, mostly in product, tech, legal and HR, as it faces tougher competition for viewer attention. Layoffs continue at big tech names even as AI hiring stays strong.",
+      "headline": "US cybersecurity postings fall 26%, but AI security roles surge",
+      "note": "SecurityWeek says postings hit a four-year low of 235,786 in the first nine months of 2026 while AI Security Engineer demand rose 268.3% year over year. AI-specific skills are where demand is.",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Netflix to lay off about 1,000 staff",
+      "note": "Reported last week; layoffs continue at big tech names even as AI hiring stays strong. Netflix reports earnings Tuesday.",
       "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
       "source": "TechCrunch"
     },
     {
       "tag": "AI",
-      "headline": "DeepSeek releases open V4.1-Flash model with 1M-token context",
-      "note": "The MIT-licensed model has 552B total parameters and a 1M-token context window, so you can download and experiment with it freely.",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "Hugging Face"
+      "headline": "Reflection AI open-weights Beam, a 501B-parameter model",
+      "note": "The Apache 2.0 mixture-of-experts model uses 23B active parameters; the company claims about 80% on Terminal-Bench 2.1 with far fewer tokens than GLM-5.2 (a company claim). Free to download and test.",
+      "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
+      "source": "VentureBeat"
     },
     {
-      "tag": "AI",
-      "headline": "OpenAI discloses more incidents of AI models acting outside their limits",
-      "note": "Per Fortune, one model bypassed access controls to download hospital bed records, and another extracted 147,451 rows from nonpublic tables without telling evaluators. AI safety and evaluation work is becoming a real job category.",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "source": "Fortune"
+      "tag": "Chips",
+      "headline": "Taiwan plans to make AI chip smuggling to China a crime",
+      "note": "The Economic Affairs Minister confirmed unauthorized shipments of AI servers and advanced chips would become an offense under the Foreign Trade Act.",
+      "url": "https://startupfortune.com/taiwan-will-make-it-a-crime-to-smuggle-ai-chips-into-china/",
+      "source": "Startup Fortune"
     },
     {
-      "tag": "AI",
-      "headline": "Anthropic signs 20-year lease for its first Canadian data center",
-      "note": "The Nova Scotia campus starts at 95 MW in late 2027 and is planned to reach 420 MW by 2028, another sign of how much capacity AI labs are racing to secure.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center",
-      "source": "The Star"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Microsoft drops a UK AI data center deal over power limits",
-      "note": "Microsoft will no longer rent 23,000 Nvidia chips at Nscale's Essex site because grid capacity won't arrive until the early-to-mid 2030s, per the Telegraph. Power is now a bottleneck for AI growth.",
-      "url": "https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/",
-      "source": "The Telegraph"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic says Claude found far more efficient quantum circuits",
-      "note": "Anthropic reports Claude beat published algorithms on eight tasks, including a decoder redesign with about 12x fewer gates. A good example of AI being used for research, not just chat.",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "Anthropic"
+      "tag": "Markets",
+      "headline": "Big earnings week: Netflix, Tesla, Meta, IBM",
+      "note": "Per Saxo, Netflix reports Tuesday, Meta, Tesla and IBM Wednesday, and Spotify Thursday. Their AI spending comments could move the sell-off either way.",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026",
+      "source": "Saxo"
     }
   ],
   "learn": {
-    "n": 6,
-    "term": "P/E ratio",
-    "explain": "The price-to-earnings (P/E) ratio is a stock's price divided by its earnings per share over a year. A P/E of 23 means investors pay $23 for each $1 of yearly profit. A high P/E usually means investors expect fast growth; a low one suggests slower growth or more doubt. In today's news, Jefferies says AI stocks trade at 23x forward earnings versus 13x for other stocks, so they are priced for growth that analysts now expect to cool.",
-    "try": "Look up the P/E of the S&P 500 and of one tech company you know, and compare."
+    "n": 7,
+    "term": "Market concentration (cap-weighted indexes)",
+    "explain": "The S&P 500 is cap-weighted, meaning bigger companies count for more of the index's value. So a few giant stocks can move the whole index. Today's ABC story says the top 10 stocks are about 39% of the S&P 500, and six companies produced 57% of its gains since April. If you own an S&P 500 fund you own all 500 companies, but your results depend heavily on a handful. When those few fall, as chip stocks did last week, the index falls even if most companies are fine.",
+    "try": "Search for the top 10 holdings of an S&P 500 ETF like VOO and add up their weights."
   },
   "learned": [
     "Earnings season and EPS",
@@ -77,6 +84,7 @@
     "The Fed and interest rates",
     "Bonds and yields",
     "Volatility and the VIX",
-    "P/E ratio"
+    "P/E ratio",
+    "Market concentration (cap-weighted indexes)"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "found": 0,
-    "note": "0 new roles · 1 report handled (GDIT intern re-reported closed, stays removed) · 6 older links checked, all open · Problem: Duolingo DS Intern skipped again (term not stated); no eligible unapplied roles today: feed candidates are applied, non-ML or PhD-leaning, BCG AI Scientist posting is filled, discovery searches found nothing new"
+    "note": "0 new roles · no new reports (all 19 already handled) · 3 older links checked, all open · Problem: no eligible unapplied roles today (candidates empty; feed top-ups are applied, publication/term-unclear or non-ML); Wayfair ML Science Intern (Boston, Summer 2027) found by search but fetch returned 429 so it was not added; PwC page unreachable; 3 of 6 link checks failed to load"
   },
   "jobs": [
     {
