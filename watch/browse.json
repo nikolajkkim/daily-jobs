@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-19T15:51+00:00",
+ "generated": "2026-10-20T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-a56ddb6727b2",
+   "company": "JP Morgan Chase",
+   "title": "Machine Learning Summer Associate Intern - NLP",
+   "location": "Palo Alto, CA / Seattle, WA / NYC",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-20",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-cbb5b5330f58",
+   "company": "The New York Times",
+   "title": "AI Initiatives Fellow",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-20",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-eb9e563b63f8",
+   "company": "Scale AI",
+   "title": "Machine Learning Research Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+   "source": "Greenhouse",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
   {
    "id": "w-8b29d8721033",
    "company": "Marvell",
@@ -33,6 +66,116 @@
    "category": "tech",
    "posted": "2026-10-19",
    "found": "2026-10-19"
+  },
+  {
+   "id": "w-85b0199fb274",
+   "company": "Highmark Health",
+   "title": "Data Science Research and Development Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-27280f4b6bb4",
+   "company": "Legend Biotech",
+   "title": "Data Intern",
+   "location": "Bridgewater, NJ",
+   "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745118005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-dee5df688f7b",
+   "company": "NVIDIA",
+   "title": "Product Manager MBA Intern - Enterprise AI",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-31064ffd6f8a",
+   "company": "GlobalFoundries",
+   "title": "AI/ML Systems Engineering Intern",
+   "location": "Richardson, TX",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-0e0359ff71d1",
+   "company": "Amplify",
+   "title": "Data Analytics Intern",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-8852323503a0",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Smart Glasses in Wearables AI",
+   "location": "Burlingame, CA / Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1584033410435097",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-935ef0c8493f",
+   "company": "Inversion Space",
+   "title": "AI & Internal Tools Software Engineer Intern",
+   "location": "Playa Vista, LA",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-16ed552bda9b",
+   "company": "Meta",
+   "title": "Optical Engineering AI and Data Analytics Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1851348099357899",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-e2730b5b81e6",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Robotics Hardware",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2105411693413958",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
+  },
+  {
+   "id": "w-7935486c9e1c",
+   "company": "Meta",
+   "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2267351860492630",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-19",
+   "found": "2026-10-20"
   },
   {
    "id": "w-77397c586e47",
@@ -106,17 +249,6 @@
    "title": "AI/ML for Cybersecurity Intern",
    "location": "Golden, CO",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
-   "id": "w-3bc880847c38",
-   "company": "General Motors",
-   "title": "Seam Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-15",
@@ -403,6 +535,17 @@
    "title": "Data Scaling Intern - Data Scaling - Embodied AI",
    "location": "Sunnyvale, CA",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-09",
+   "found": "2026-10-13"
+  },
+  {
+   "id": "w-67e148572054",
+   "company": "General Motors",
+   "title": "Seam Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-09",
@@ -1803,50 +1946,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-07",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-c1251b5b0663",
-   "company": "Solidigm",
-   "title": "Software Engineering Intern - Firmware & AI Engineering",
-   "location": "Rancho Cordova, CA",
-   "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613769",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-0abd1edd21f7",
-   "company": "Ernst & Young",
-   "title": "Data and Technology Intern - Multiple Teams",
-   "location": "Miami, FL / Dallas, TX / Chicago, IL / NYC",
-   "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f115bc930851",
-   "company": "Ragle Inc",
-   "title": "Data Analytics Intern",
-   "location": "North Richland Hills, TX",
-   "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-d3d5812345c7",
-   "company": "Ernst & Young",
-   "title": "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
-   "location": "Dallas, TX / NYC",
-   "url": "https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-04",
    "found": "2026-10-13"
   }
  ]

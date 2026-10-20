@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-19",
-    "found": 0,
-    "note": "0 new roles · no new reports (all 19 already handled) · 3 older links checked, all open · Problem: no eligible unapplied roles today (candidates empty; feed top-ups are applied, publication/term-unclear or non-ML); Wayfair ML Science Intern (Boston, Summer 2027) found by search but fetch returned 429 so it was not added; PwC page unreachable; 3 of 6 link checks failed to load"
+    "date": "2026-10-20",
+    "found": 5,
+    "note": "5 new roles (posted Oct 19-20) · no new reports (all 19 already handled) · 3 older links checked, all open · Problem: JPMorgan, Marvell, Highmark and GlobalFoundries pages did not load so openness is unconfirmed; discovery searches found nothing new (golf: none)"
   },
   "jobs": [
     {
@@ -449,6 +449,71 @@
       "found": "2026-10-17",
       "category": "tech",
       "posted": "2026-10-16"
+    },
+    {
+      "id": "scaleai-ml-research-intern-2027",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern",
+      "location": "New York, NY / San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "fit": "strong",
+      "why": "Summer 2027, MS students welcome, graduation Fall 2027 or Spring 2028 fits your Dec 2027 date. Post-training, evals and synthetic data line up with your LLaMA retrieval pipeline and few-shot prompting; they prefer research experience, which your NSF fellowship covers.",
+      "found": "2026-10-20",
+      "posted": "2026-10-19",
+      "category": "tech"
+    },
+    {
+      "id": "jpmorgan-ml-summer-associate-nlp-2027",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Summer Associate Intern - NLP",
+      "location": "Palo Alto, CA / Seattle, WA / NYC",
+      "source": "Simplify",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+      "fit": "strong",
+      "why": "Summer 2027, open to Master's students, with an NYC option. NLP is a direct match for your LLaMA 3.2 + embeddings retrieval work and your fine-tuned DistilBERT. The page wouldn't load for me, so confirm it's open when you apply.",
+      "found": "2026-10-20",
+      "posted": "2026-10-20",
+      "category": "finance"
+    },
+    {
+      "id": "marvell-ai-data-science-intern-ms-2027",
+      "company": "Marvell",
+      "title": "AI Data Science Intern (MS)",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
+      "fit": "good",
+      "why": "Summer 2027 and aimed at Master's students in California. Your XGBoost work on 14M+ IoT readings and your PyTorch skills fit; the semiconductor domain is new to you. The page wouldn't load for me, so confirm it's open.",
+      "found": "2026-10-20",
+      "posted": "2026-10-19",
+      "category": "tech"
+    },
+    {
+      "id": "highmark-health-ds-rd-graduate-intern-2027",
+      "company": "Highmark Health",
+      "title": "Data Science Research and Development Graduate Intern",
+      "location": "NYC / California / Washington, DC / Texas",
+      "source": "Workday",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175",
+      "fit": "good",
+      "why": "Summer 2027 graduate intern, Master's accepted, with an NYC location option. Research-style modeling matches your GAMs/LASSO/neural net fellowship work; no health data experience yet. The page wouldn't load for me, so confirm it's open.",
+      "found": "2026-10-20",
+      "posted": "2026-10-19",
+      "category": "tech"
+    },
+    {
+      "id": "globalfoundries-ai-ml-systems-intern-2027",
+      "company": "GlobalFoundries",
+      "title": "AI/ML Systems Engineering Intern",
+      "location": "Richardson, TX",
+      "source": "Workday",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
+      "fit": "stretch",
+      "why": "Summer 2027, Master's accepted. Uses your PyTorch and ML skills, but the systems-engineering emphasis and Texas location make it a stretch. I didn't open the page directly.",
+      "found": "2026-10-20",
+      "posted": "2026-10-19",
+      "category": "tech"
     }
   ],
   "browse": [
