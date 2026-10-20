@@ -1,17 +1,6 @@
 {
- "generated": "2026-10-20T10:20+00:00",
+ "generated": "2026-10-20T13:50+00:00",
  "jobs": [
-  {
-   "id": "w-a56ddb6727b2",
-   "company": "JP Morgan Chase",
-   "title": "Machine Learning Summer Associate Intern - NLP",
-   "location": "Palo Alto, CA / Seattle, WA / NYC",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-20"
-  },
   {
    "id": "w-cbb5b5330f58",
    "company": "The New York Times",
@@ -22,28 +11,6 @@
    "category": "tech",
    "posted": "2026-10-20",
    "found": "2026-10-20"
-  },
-  {
-   "id": "w-eb9e563b63f8",
-   "company": "Scale AI",
-   "title": "Machine Learning Research Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-20"
-  },
-  {
-   "id": "w-8b29d8721033",
-   "company": "Marvell",
-   "title": "AI Data Science Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-19"
   },
   {
    "id": "w-0d2962a4d6ae",
@@ -68,17 +35,6 @@
    "found": "2026-10-19"
   },
   {
-   "id": "w-85b0199fb274",
-   "company": "Highmark Health",
-   "title": "Data Science Research and Development Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-20"
-  },
-  {
    "id": "w-27280f4b6bb4",
    "company": "Legend Biotech",
    "title": "Data Intern",
@@ -95,17 +51,6 @@
    "title": "Product Manager MBA Intern - Enterprise AI",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-20"
-  },
-  {
-   "id": "w-31064ffd6f8a",
-   "company": "GlobalFoundries",
-   "title": "AI/ML Systems Engineering Intern",
-   "location": "Richardson, TX",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-19",
