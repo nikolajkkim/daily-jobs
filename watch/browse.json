@@ -1,17 +1,6 @@
 {
- "generated": "2026-10-21T10:20+00:00",
+ "generated": "2026-10-21T14:06+00:00",
  "jobs": [
-  {
-   "id": "w-5dec8462fd41",
-   "company": "Shield AI",
-   "title": "Summer 2027 - Data Science Intern (R6324)",
-   "location": "San Diego, California",
-   "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797",
-   "source": "Lever",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-21"
-  },
   {
    "id": "w-ef44fb2170f3",
    "company": "Shield AI",
@@ -57,17 +46,6 @@
    "found": "2026-10-21"
   },
   {
-   "id": "w-0127e32d1239",
-   "company": "Zillow",
-   "title": "Applied Scientist Intern - Economics",
-   "location": "Seattle, WA",
-   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-ba49940fd56a",
    "company": "Meta",
    "title": "Research Scientist Intern - Computational Imaging and Robotics",
@@ -101,17 +79,6 @@
    "found": "2026-10-21"
   },
   {
-   "id": "w-ec47d106c84d",
-   "company": "Salesforce",
-   "title": "AI Research Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-4eccf937ec24",
    "company": "K1",
    "title": "AI Intern",
@@ -134,17 +101,6 @@
    "found": "2026-10-21"
   },
   {
-   "id": "w-d8ee1efc145a",
-   "company": "DriveWealth",
-   "title": "AI Consulting Associate Program – AI Engineer Intern",
-   "location": "Chicago, IL / NYC",
-   "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-04af360bbac8",
    "company": "National Laboratory of the Rockies",
    "title": "Graduate Intern - Marine Hydrokinetic Data Curation",
@@ -161,17 +117,6 @@
    "title": "Product Analyst Intern - AI & Incubation",
    "location": "San Diego, CA",
    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
-   "id": "w-367dfbcf5509",
-   "company": "Toyota",
-   "title": "Data Science Intern",
-   "location": "Plano, TX",
-   "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-20",
@@ -436,6 +381,17 @@
    "title": "Manufacturing Test Engineer Intern - AI",
    "location": "Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/954380870617862",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-14",
+   "found": "2026-10-15"
+  },
+  {
+   "id": "w-197a2cbcde2e",
+   "company": "General Motors",
+   "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-14",
@@ -975,6 +931,17 @@
    "title": "Enterprise Analytics Intern",
    "location": "Cincinnati, OH",
    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-02",
+   "found": "2026-10-13"
+  },
+  {
+   "id": "w-a54322fe0846",
+   "company": "General Motors",
+   "title": "Software Engineer Intern - AV/AI Platform",
+   "location": "Sunnyvale, CA / Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-02",
