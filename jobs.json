@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "found": 5,
-    "note": "5 new roles (posted Oct 19-20) · no new reports (all 19 already handled) · 3 older links checked, all open · Problem: JPMorgan, Marvell, Highmark and GlobalFoundries pages did not load so openness is unconfirmed; discovery searches found nothing new (golf: none)"
+    "note": "5 new roles (posted Oct 20-21) · no new reports (all 19 already handled) · 5 older links checked, all open · discovery searches found nothing new (golf: none)"
   },
   "jobs": [
     {
@@ -514,6 +514,71 @@
       "found": "2026-10-20",
       "posted": "2026-10-19",
       "category": "tech"
+    },
+    {
+      "id": "zillow-applied-scientist-economics-intern-2027",
+      "company": "Zillow",
+      "title": "Applied Scientist Intern - Economics",
+      "location": "Seattle, WA (hybrid, remote-eligible)",
+      "source": "Workday",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
+      "fit": "strong",
+      "why": "Summer 2027 (Jun 14–Aug 13), open to master's students graduating Dec 2027–Summer 2028, which is your exact window. Forecasting, causal models and experiment design line up with your GAMs/LASSO work and XGBoost risk modeling. Closes Nov 5.",
+      "found": "2026-10-21",
+      "category": "tech",
+      "posted": "2026-10-20"
+    },
+    {
+      "id": "shieldai-data-science-intern-2027",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Data Science Intern",
+      "location": "San Diego, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797",
+      "fit": "good",
+      "why": "Summer 2027, accepts bachelor's or master's. You'd build and backtest ML forecasts on finance data, which matches your XGBoost and imbalance-handling experience; on-site in San Diego, and the Anaplan integration piece is new to you.",
+      "found": "2026-10-21",
+      "category": "tech",
+      "posted": "2026-10-21"
+    },
+    {
+      "id": "toyota-tfs-data-science-intern-2027",
+      "company": "Toyota",
+      "title": "Data Science Intern (TFS)",
+      "location": "Plano, TX",
+      "source": "Workday",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
+      "fit": "good",
+      "why": "Summer 2027 (May–Aug), graduate students only and requires finishing a master's within a year, which fits your Dec 2027 date. SQL/Python/R modeling such as credit risk fits your skills; it's more business analytics than research. Closes Nov 20.",
+      "found": "2026-10-21",
+      "category": "tech",
+      "posted": "2026-10-20"
+    },
+    {
+      "id": "drivewealth-ai-engineer-intern-2027",
+      "company": "DriveWealth",
+      "title": "AI Consulting Associate Program – AI Engineer Intern",
+      "location": "New York, NY / Chicago, IL",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/drivewealth/jobs/8039350003",
+      "fit": "good",
+      "why": "Summer 2027 (May–Aug), grad students welcome with a 2027 or 2028 graduation. Building agentic LLM workflows draws on your LLaMA retrieval pipeline; NYC in-office. They require U.S. work authorization without sponsorship, and a project link is due Nov 30.",
+      "found": "2026-10-21",
+      "category": "tech",
+      "posted": "2026-10-20"
+    },
+    {
+      "id": "salesforce-ai-research-intern-2027",
+      "company": "Salesforce",
+      "title": "AI Research Intern",
+      "location": "Palo Alto, CA",
+      "source": "Workday",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111",
+      "fit": "stretch",
+      "why": "Summer 2027 (12+ weeks); MS or PhD in CS/AI/ML preferred. Prototyping models and agents lines up with your LLM retrieval and RL work, but it's a research role and you have no publications yet.",
+      "found": "2026-10-21",
+      "category": "tech",
+      "posted": "2026-10-20"
     }
   ],
   "browse": [
