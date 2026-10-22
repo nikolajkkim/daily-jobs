@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T10:20+00:00",
+ "generated": "2026-10-22T14:04+00:00",
  "jobs": [
   {
    "id": "w-141ca6418bfb",
@@ -29,17 +29,6 @@
    "title": "Data and Analytics Engineer Intern",
    "location": "Irvine, CA",
    "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
-   "id": "w-3c986700f3d6",
-   "company": "Parsons",
-   "title": "Computer Vision/Robotics Intern",
-   "location": "Westminster, CO",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-21",
@@ -90,33 +79,11 @@
    "found": "2026-10-22"
   },
   {
-   "id": "w-3544caaf6359",
-   "company": "General Dynamics Information Technology",
-   "title": "AI and Estimation Intern",
-   "location": "Falls Church, VA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
    "id": "w-b7362ff8aa6c",
    "company": "ManTech",
    "title": "AI Workflow Intern",
    "location": "Remote in USA / Stafford, VA",
    "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
-   "id": "w-9dd7b1f70401",
-   "company": "GlobalFoundries",
-   "title": "AI Software Intern",
-   "location": "Santa Clara, CA / Richardson, TX",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-21",
@@ -1811,6 +1778,17 @@
    "title": "Data Science Intern 3",
    "location": "Bentonville, AR",
    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-10",
+   "found": "2026-10-13"
+  },
+  {
+   "id": "w-f8bef21c40c4",
+   "company": "Walmart",
+   "title": "Senior Data Scientist Intern",
+   "location": "Bentonville, AR",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-10",
