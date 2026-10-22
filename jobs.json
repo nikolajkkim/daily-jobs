@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-21",
-    "found": 5,
-    "note": "5 new roles (posted Oct 20-21) · no new reports (all 19 already handled) · 5 older links checked, all open · discovery searches found nothing new (golf: none)"
+    "date": "2026-10-22",
+    "found": 3,
+    "note": "3 new roles (posted Oct 21; only 3 confirmed Summer 2027 + master's eligible) · no new reports (all 19 already handled) · 6 older links checked, all open · discovery found nothing new (golf: none) · Problem: many posting pages don't state a term, so Duolingo DS Intern (NYC) and GM AV ML Infra Intern were left out as unconfirmed Summer 2027"
   },
   "jobs": [
     {
@@ -579,6 +579,45 @@
       "found": "2026-10-21",
       "category": "tech",
       "posted": "2026-10-20"
+    },
+    {
+      "id": "globalfoundries-ai-software-intern-2027",
+      "company": "GlobalFoundries",
+      "title": "AI Software Intern",
+      "location": "Santa Clara, CA / Richardson, TX",
+      "source": "Workday",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+      "fit": "good",
+      "why": "Summer 2027 role deploying and optimizing LLM, vision and predictive models in production pipelines; your PyTorch and Hugging Face work and the LLaMA retrieval deployment line up. Master's is accepted, but it leans toward software/inference engineering.",
+      "found": "2026-10-22",
+      "category": "tech",
+      "posted": "2026-10-21"
+    },
+    {
+      "id": "parsons-cv-robotics-intern-2027",
+      "company": "Parsons",
+      "title": "Computer Vision/Robotics Intern",
+      "location": "Westminster, CO",
+      "source": "Workday",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402",
+      "fit": "good",
+      "why": "Summer 2027 role on an AI-enabled bridge and structure inspection tool (SLAM, crack and defect detection), which echoes your NSF bridge damage modeling and your simulated-LiDAR quadcopter work. Master's students are accepted; the gap is hands-on SLAM/OpenCV experience.",
+      "found": "2026-10-22",
+      "category": "tech",
+      "posted": "2026-10-21"
+    },
+    {
+      "id": "gdit-ai-estimation-intern-2027",
+      "company": "General Dynamics Information Technology",
+      "title": "AI and Estimation Intern",
+      "location": "Falls Church, VA",
+      "source": "Workday",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
+      "fit": "stretch",
+      "why": "Summer 2027 (10 weeks), bachelor's or master's accepted, no clearance needed. It centers on agentic/generative AI workflows and estimation modeling; your LLM pipeline helps, but it is lighter on ML and asks for agentic workflow experience.",
+      "found": "2026-10-22",
+      "category": "tech",
+      "posted": "2026-10-21"
     }
   ],
   "browse": [

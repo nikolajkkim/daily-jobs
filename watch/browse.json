@@ -1,6 +1,17 @@
 {
- "generated": "2026-10-21T14:06+00:00",
+ "generated": "2026-10-22T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-141ca6418bfb",
+   "company": "OpenArt AI",
+   "title": "Early Adopter & Product Builder Intern - Creative AI",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-22"
+  },
   {
    "id": "w-ef44fb2170f3",
    "company": "Shield AI",
@@ -11,6 +22,105 @@
    "category": "tech",
    "posted": "2026-10-21",
    "found": "2026-10-21"
+  },
+  {
+   "id": "w-ba00e98f7684",
+   "company": "Trace3",
+   "title": "Data and Analytics Engineer Intern",
+   "location": "Irvine, CA",
+   "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-3c986700f3d6",
+   "company": "Parsons",
+   "title": "Computer Vision/Robotics Intern",
+   "location": "Westminster, CO",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-555cefdabd83",
+   "company": "American Family Insurance Group",
+   "title": "Data Engineer Intern",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-f514af902572",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Foundational Models for Robotics Research",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1078644001656413",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-01f891e9d369",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
+   "location": "Burlingame, CA / Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1075160338670575",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-84b0f0461a31",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Robot Foundation Models",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/27730225806654441",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-3544caaf6359",
+   "company": "General Dynamics Information Technology",
+   "title": "AI and Estimation Intern",
+   "location": "Falls Church, VA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-b7362ff8aa6c",
+   "company": "ManTech",
+   "title": "AI Workflow Intern",
+   "location": "Remote in USA / Stafford, VA",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
+  },
+  {
+   "id": "w-9dd7b1f70401",
+   "company": "GlobalFoundries",
+   "title": "AI Software Intern",
+   "location": "Santa Clara, CA / Richardson, TX",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-10-22"
   },
   {
    "id": "w-cbb5b5330f58",
@@ -517,17 +627,6 @@
    "category": "tech",
    "posted": "2026-10-12",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-87737aef804a",
-   "company": "Ascension",
-   "title": "Integrated Participant Solutions Analytics Intern",
-   "location": "St. Louis, MO",
-   "url": "https://jobs.ascension.org/us/en/job/2026-465198",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-14"
   },
   {
    "id": "w-b975e4ad0ff4",
@@ -1377,33 +1476,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-0948fb7f3e67",
-   "company": "OCC",
-   "title": "AI Research & Engineering Intern",
-   "location": "Chicago, IL",
-   "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-17",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-1235b229653b",
    "company": "Gecko Robotics",
    "title": "AI/Machine Learning Engineer Intern",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-16",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e2a88d4d3441",
-   "company": "V2X",
-   "title": "Artificial Intelligence Intern",
-   "location": "Indianapolis, IN",
-   "url": "https://careers.gov2x.com/jobs/62843?icims=1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-16",
@@ -1448,17 +1525,6 @@
    "title": "IT Data Analytics Intern",
    "location": "Dallas, TX",
    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-865c2644e25a",
-   "company": "QTS",
-   "title": "Tableau Analytics and Business Intelligence Intern",
-   "location": "Overland Park, KS",
-   "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-15",
@@ -1652,17 +1718,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-4bfb3e030380",
-   "company": "Citizens Financial Group",
-   "title": "Data Science Intern - Multiple Teams",
-   "location": "Boston, MA / Johnston, RI / Columbus, OH",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-65289c083c0d",
    "company": "Oshkosh",
    "title": "AI Engineer Intern",
@@ -1756,17 +1811,6 @@
    "title": "Data Science Intern 3",
    "location": "Bentonville, AR",
    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-10",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f8bef21c40c4",
-   "company": "Walmart",
-   "title": "Senior Data Scientist Intern",
-   "location": "Bentonville, AR",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-10",
