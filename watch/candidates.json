@@ -1,24 +1,7 @@
 {
- "generated": "2026-10-23T10:20+00:00",
+ "generated": "2026-10-23T13:47+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
-  {
-   "title": "Applied Science Intern - Master's Student Science",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
-   "posted": "2026-10-23",
-   "company": "Amazon",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
   {
    "title": "Data Science Intern",
    "location": "Seattle, WA",
@@ -62,21 +45,6 @@
     "Bachelor's",
     "Master's"
    ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Lehi, UT",
-   "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
-   "posted": "2026-10-22",
-   "company": "Pattern",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-23",
@@ -187,41 +155,6 @@
    "degrees": [
     "Master's",
     "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "title": "Innovation & Technology Internship - Data Science",
-   "location": "NYC",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
-   "posted": "2026-10-22",
-   "company": "CVS Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "title": "AI/ML Intern",
-   "location": "Huntsville, AL",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
-   "posted": "2026-10-22",
-   "company": "Leidos",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
    ],
    "category": "tech",
    "ats": "simplify",
