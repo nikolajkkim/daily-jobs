@@ -1,61 +1,61 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks stay firm into big-tech earnings; I couldn't confirm Wednesday's close",
-      "note": "CNBC's Oct 20 wrap said the S&P 500 notched a three-day win streak and the Nasdaq rose about 1% as SpaceX and Tesla rallied. Tesla and other tech names report this week, so Thursday's open depends on those results. Sources conflicted on Wednesday's exact index levels, so I'm leaving them out.",
-      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "headline": "Nasdaq falls 2.6% as Meta and Tesla slide; Dow flat",
+      "note": "On Thursday the Nasdaq Composite fell 2.60% to 26,008.86 and the S&P 500 fell 1.21% to 7,663.43, while the Dow edged up 0.02% to 52,867.98. Meta dropped nearly 8% after its first cash outflow in over a decade due to AI spending, and Tesla fell 3.1% after cutting its 2026 capital spending plans.",
+      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
+      "source": "MarketScreener (Reuters)"
     },
     {
       "tag": "Economy",
-      "headline": "Boston Fed's Collins says another rate hike is likely before year-end",
-      "note": "The Fed raised rates a quarter point to 3.75%-4.00% in September. Collins backs further increases, and several officials signal the next hike is more likely in December than at the Oct 27-28 meeting. Higher rates matter for stock valuations and for the cost of borrowing.",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-10-13/feds-collins-sees-another-rate-hike-table-end-2026",
-      "source": "Kitco (wire)"
+      "headline": "Traders pare bets on more Fed rate hikes",
+      "note": "After the tech sell-off, a December hike is no longer fully priced in; the implied probability fell to 85%, and traders removed almost a full quarter-point hike expected for next year. Rate expectations drive stock valuations and borrowing costs.",
+      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
+      "source": "MarketScreener (Reuters)"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI's models come to Google Cloud",
-      "note": "GPT models will be in Google Cloud's model garden and, in the coming weeks, its Antigravity coding tool. That puts OpenAI on all three big clouds, so you can use its models inside whichever cloud a company already runs.",
-      "url": "https://www.briefs.co/news/openai-brings-its-models-to-google-cloud-after-years-as-riva/",
-      "source": "Briefs"
+      "headline": "OpenAI's GPT models arrive on Google Cloud",
+      "note": "GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna are in limited preview in Google Cloud's Model Garden, with general availability planned in a few weeks. Microsoft stays OpenAI's primary cloud partner. Companies can now use OpenAI models inside whichever cloud they already run.",
+      "url": "https://gigazine.net/gsc_news/en/20261022-google-cloud-openai-models",
+      "source": "GIGAZINE"
     },
     {
       "tag": "Tech",
-      "headline": "Tesla beats Q3 estimates even as car sales fall",
-      "note": "Per CNBC, adjusted EPS was $0.48 vs. $0.43 expected and revenue $28.05B vs. $27.9B, with automotive revenue down 3%. The stock reportedly dropped more than 3% after hours. I couldn't open the article, so these figures come from the search summary.",
-      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Chips",
-      "headline": "TSMC posts record Q3 on AI demand, yet shares fell",
-      "note": "Forbes reports Q3 revenue of $46.72B with a 66.4% gross margin, and guidance of up to $54.3B for Q4. Strong results can still lead to selling when expectations are very high.",
-      "url": "https://www.forbes.com/sites/jimosman/2026/10/16/ai-chip-earnings-soared-why-micron-tsmc-and-asml-shares-may-fall/",
-      "source": "Forbes"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Intel rebounds on a JPMorgan upgrade despite new chip export limits",
-      "note": "The stock fell from a September high of about $127 to below $90 before the upgrade lifted it. Export restrictions on semiconductor technology are a continuing risk for chipmakers.",
-      "url": "https://fxleaders.com/news/2026/10/20/intc-stock-revives-on-jpmorgan-intel-upgrade-despite-the-bis-chip-restrictions",
-      "source": "FX Leaders"
+      "headline": "Meta's AI spending turns its cash flow negative",
+      "note": "Meta reported its first cash outflow in more than a decade because of AI-related expenditures, and the stock fell nearly 8%. It shows how costly the AI buildout is, even for the biggest companies, and why investors now watch spending closely.",
+      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
+      "source": "MarketScreener (Reuters)"
     },
     {
       "tag": "Jobs",
-      "headline": "Data scientist job growth is still projected to be strong",
-      "note": "Recruiter reports cite a US Bureau of Labor Statistics projection of about 34% growth in data scientist jobs from 2024 to 2034. Postings now often ask for LLM and AI-pipeline skills. These are vendor summaries, not new data.",
-      "url": "https://axialsearch.com/insights/data-science-jobs",
-      "source": "Axial Search"
+      "headline": "More AI-linked layoffs: Cloudflare, Coinbase, Upwork",
+      "note": "Fast Company's tracker says these firms cited AI as they cut jobs this week. For an intern hunter, it signals a cautious market, so polish your portfolio and apply early.",
+      "url": "https://www.fastcompany.com/section/tech-layoffs",
+      "source": "Fast Company"
+    },
+    {
+      "tag": "NYC",
+      "headline": "Mamdani proposes rule forcing chatbots to hand off to humans",
+      "note": "The city proposed requiring businesses to connect customers to a human quickly when a chatbot can't help. It's only a proposal so far, but it shows NYC moving to regulate AI products locally.",
+      "url": "https://www.semafor.com/article/10/20/2026/mamdani-takes-on-ai-chatbot-doom-loops-in-new-york",
+      "source": "Semafor"
+    },
+    {
+      "tag": "NYC",
+      "headline": "Mamdani says feds have abdicated on AI, backs data center moratorium",
+      "note": "At an Oct 19 event he urged New Yorkers to push back on AI and said he will ask Gov. Hochul to sign a broader data center moratorium bill. State and city rules could shape where AI companies build and hire.",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch"
     }
   ],
   "learn": {
-    "n": 10,
-    "term": "Market capitalization (market cap)",
-    "explain": "Market cap is the total value the stock market puts on a company: share price times the number of shares outstanding. A company with 1 billion shares at $50 each has a $50 billion market cap. It measures size, not how much cash the company has. When Intel's stock fell from about $127 to under $90, its market cap shrank by roughly the same percentage, even though the business itself didn't change overnight. Market cap is also how indexes like the S&P 500 weight companies, so bigger companies move the index more.",
-    "try": "Look up Intel's current share count and multiply it by its price to estimate its market cap."
+    "n": 11,
+    "term": "Capital spending (capex) and free cash flow",
+    "explain": "Capital expenditure, or capex, is money a company spends on long-lasting things like data centers, chips and equipment. Free cash flow is the cash left after paying for operations and capex. If capex is bigger than the cash the business brings in, free cash flow goes negative, meaning the company must use savings or borrow. That is what Reuters reported for Meta this week: AI spending pushed it into a cash outflow, and the stock fell nearly 8%. Investors like growth, but they want to see the spending eventually pay off.",
+    "try": "Look up the capex line in a big tech company's latest quarterly report."
   },
   "learned": [
     "Earnings season and EPS",
@@ -67,6 +67,7 @@
     "Market concentration (cap-weighted indexes)",
     "IPO (initial public offering)",
     "Revenue vs. profit vs. margin",
-    "Market capitalization (market cap)"
+    "Market capitalization (market cap)",
+    "Capital spending (capex) and free cash flow"
   ]
 }

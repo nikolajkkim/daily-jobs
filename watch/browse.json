@@ -1,49 +1,159 @@
 {
- "generated": "2026-10-22T14:04+00:00",
+ "generated": "2026-10-23T10:20+00:00",
  "jobs": [
   {
-   "id": "w-141ca6418bfb",
-   "company": "OpenArt AI",
-   "title": "Early Adopter & Product Builder Intern - Creative AI",
-   "location": "San Carlos, CA",
-   "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
+   "id": "w-0a1860c84caf",
+   "company": "Amazon",
+   "title": "Applied Science Intern - Master's Student Science",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-23",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-708aece8fcb9",
+   "company": "Amazon",
+   "title": "Data Science Intern",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-23",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-fd4e569b7bd9",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Central Applied Science",
+   "location": "Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/1582569213186235",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-22",
-   "found": "2026-10-22"
+   "found": "2026-10-23"
   },
   {
-   "id": "w-ef44fb2170f3",
-   "company": "Shield AI",
+   "id": "w-337685515fba",
+   "company": "FedEx Freight",
+   "title": "Data Scientist Intern",
+   "location": "Memphis, TN",
+   "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-b7a7c28f5adf",
+   "company": "Pattern",
    "title": "Data Science Intern",
-   "location": "San Diego, CA",
-   "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply",
+   "location": "Lehi, UT",
+   "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-21"
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
   },
   {
-   "id": "w-ba00e98f7684",
-   "company": "Trace3",
-   "title": "Data and Analytics Engineer Intern",
-   "location": "Irvine, CA",
-   "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+   "id": "w-8b04cb9ba1a7",
+   "company": "OpenSesame",
+   "title": "AI Product Builder Intern",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
   },
   {
-   "id": "w-555cefdabd83",
-   "company": "American Family Insurance Group",
-   "title": "Data Engineer Intern",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+   "id": "w-c6e6267b3cb1",
+   "company": "Northrop Grumman",
+   "title": "Systems Engineering Intern - AI Experience",
+   "location": "Dulles, VA",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-c097cd9a0277",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Feed Recommendations",
+   "location": "Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/29044546168568671",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-d60c298c4bdc",
+   "company": "Meta",
+   "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1097992326377524",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-cbc35b19900f",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Physical Engineering AI",
+   "location": "Seattle, WA / NYC",
+   "url": "https://www.metacareers.com/jobs/1081255008061721",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-0ad5436df018",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI Alignment",
+   "location": "Boston, MA / Seattle, WA / Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/2356892281747003",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-d6837b1c9468",
+   "company": "Databricks",
+   "title": "Data Science Intern",
+   "location": "Mountain View, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=6866538002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-1bf655f2f5ec",
+   "company": "CVS Health",
+   "title": "Innovation & Technology Internship - Data Science",
+   "location": "NYC",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
+  },
+  {
+   "id": "w-063f604388e2",
+   "company": "Leidos",
+   "title": "AI/ML Intern",
+   "location": "Huntsville, AL",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-22",
+   "found": "2026-10-23"
   },
   {
    "id": "w-f514af902572",
@@ -145,33 +255,11 @@
    "found": "2026-10-21"
   },
   {
-   "id": "w-93f3f0fcc523",
-   "company": "Inmar Intelligence",
-   "title": "Data Science Intern",
-   "location": "Raleigh, NC / Winston-Salem, NC",
-   "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-4eccf937ec24",
    "company": "K1",
    "title": "AI Intern",
    "location": "Manhattan Beach, CA",
    "url": "https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
-   "id": "w-d75827a603f6",
-   "company": "DriveWealth",
-   "title": "AI Consulting Associate Program Product Owner Intern",
-   "location": "Chicago, IL / NYC",
-   "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-20",
@@ -233,17 +321,6 @@
    "found": "2026-10-19"
   },
   {
-   "id": "w-27280f4b6bb4",
-   "company": "Legend Biotech",
-   "title": "Data Intern",
-   "location": "Bridgewater, NJ",
-   "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745118005",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-20"
-  },
-  {
    "id": "w-dee5df688f7b",
    "company": "NVIDIA",
    "title": "Product Manager MBA Intern - Enterprise AI",
@@ -271,17 +348,6 @@
    "title": "Research Scientist Intern - Smart Glasses in Wearables AI",
    "location": "Burlingame, CA / Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1584033410435097",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-20"
-  },
-  {
-   "id": "w-935ef0c8493f",
-   "company": "Inversion Space",
-   "title": "AI & Internal Tools Software Engineer Intern",
-   "location": "Playa Vista, LA",
-   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-19",
@@ -332,17 +398,6 @@
    "found": "2026-10-17"
   },
   {
-   "id": "w-f5c1bdc77781",
-   "company": "CenturyLink",
-   "title": "Data Internship - Analytics & Decision Science",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-10-17"
-  },
-  {
    "id": "w-af13afa2a5f5",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
@@ -387,11 +442,11 @@
    "found": "2026-10-16"
   },
   {
-   "id": "w-41fbb1490fb3",
+   "id": "w-c33c36c6e72d",
    "company": "American Family Insurance Group",
    "title": "Enterprise Data Intern - Enablement, Service & Support",
    "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
+   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-15",
@@ -403,17 +458,6 @@
    "title": "AI Evaluation & Benchmarking Intern",
    "location": "Bellevue, WA",
    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-97c3d199ce16",
-   "company": "American University",
-   "title": "Data Quality Assistant Intern",
-   "location": "Washington, DC",
-   "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Quality-Assistant--Student-_R5103",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-14",
@@ -486,28 +530,6 @@
    "found": "2026-10-21"
   },
   {
-   "id": "w-b728a2f1e9f7",
-   "company": "Hewlett Packard Enterprise",
-   "title": "HPC AI Networking Intern - Network Transport",
-   "location": "Chippewa Falls, WI / Fort Collins, CO",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-abb4a61b6dce",
-   "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Engineer Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59702",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
    "id": "w-f751f1210958",
    "company": "KLA",
    "title": "AI Engineer Intern",
@@ -541,55 +563,11 @@
    "found": "2026-10-14"
   },
   {
-   "id": "w-fce494ce6488",
-   "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Scientist Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59703",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-6bdfb50ea51b",
-   "company": "TIAA",
-   "title": "Enterprise Analytics Intern",
-   "location": "Dallas, TX / Charlotte, NC",
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-20f08ac781b5",
    "company": "Highmark Health",
    "title": "Population Health Analytics Graduate Intern",
    "location": "California / Washington, DC / Texas / NYC",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-cbb52cad8c3e",
-   "company": "Koch Industries",
-   "title": "Digital Technology & Data Intern",
-   "location": "Auburn Hills, MI",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-90e023680b4c",
-   "company": "Ascension",
-   "title": "Master Data Management Intern",
-   "location": "St. Louis, MO",
-   "url": "https://jobs.ascension.org/us/en/job/2026-465180",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-12",
@@ -612,17 +590,6 @@
    "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9ef489c8b3c3",
-   "company": "SageSure",
-   "title": "Data Operations Engineer Intern",
-   "location": "Jersey City, NJ / Cheshire, CT",
-   "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-09",
@@ -750,17 +717,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-170846a890fb",
-   "company": "Tenstorrent",
-   "title": "AI Software Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-5476499cacb6",
    "company": "Microsoft",
    "title": "Applied Scientist Intern",
@@ -799,17 +755,6 @@
    "title": "Data Science Intern",
    "location": "Boston, MA",
    "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7b0c21e9839a",
-   "company": "KKR",
-   "title": "Summer Analyst Intern - Insurance Risk - Data Science",
-   "location": "NYC",
-   "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-06",
@@ -893,17 +838,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-6564c6921760",
-   "company": "Jain Global",
-   "title": "Data Engineer Intern",
-   "location": "NYC",
-   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-186579165e1c",
    "company": "General Motors",
    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
@@ -945,39 +879,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e8fb719c24c6",
-   "company": "FHLBank Chicago",
-   "title": "AI Intern",
-   "location": "Chicago, IL",
-   "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b5029c9e31ad",
-   "company": "Keysight Technologies",
-   "title": "Data Scientist Intern",
-   "location": "Santa Rosa, CA",
-   "url": "https://jobs.keysight.com/jobs/54570?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-dc2eeda4acab",
-   "company": "Pangram Labs",
-   "title": "AI Research Intern",
-   "location": "NYC / Brooklyn, NY",
-   "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-04",
    "found": "2026-10-13"
   },
   {
@@ -1025,17 +926,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-e2224987f418",
-   "company": "Intuit",
-   "title": "Finance Transformation & Analytics Intern",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-3b9ebffa9d0e",
    "company": "The Federal Reserve System",
    "title": "Advanced Analytics Intern",
@@ -1052,17 +942,6 @@
    "title": "Data Science Intern",
    "location": "Chicago, IL",
    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8dc822b8b5bf",
-   "company": "Datacor",
-   "title": "Data Science Intern - Summer 2027 - Program",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-01",
@@ -1102,25 +981,14 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-bda1afcdef73",
-   "company": "Acuity",
-   "title": "Finance AI Engineering Intern",
-   "location": "Atlanta, GA",
-   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors",
+   "id": "w-57000ee41d84",
+   "company": "Itron",
+   "title": "Data Science Intern - Distributed Intelligence",
+   "location": "Liberty Lake, WA",
+   "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e7eeb10048d7",
-   "company": "Acuity",
-   "title": "Finance AI Product Management Intern",
-   "location": "Atlanta, GA",
-   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
+   "posted": "2026-09-28",
    "found": "2026-10-13"
   },
   {
@@ -1133,6 +1001,17 @@
    "category": "tech",
    "posted": "2026-09-28",
    "found": "2026-10-14"
+  },
+  {
+   "id": "w-705761ab4263",
+   "company": "General Motors",
+   "title": "Data Governance Engineer Intern",
+   "location": "Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-28",
+   "found": "2026-10-23"
   },
   {
    "id": "w-010d2696cf6c",
@@ -1168,44 +1047,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-68cc01846222",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60084?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-29205c6c6252",
-   "company": "Pacific Life",
-   "title": "Data Engineering Intern",
-   "location": "Newport Beach, CA",
-   "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-afcc4989b480",
    "company": "State Farm",
    "title": "Data Science Intern - Magnet Program",
    "location": "Tempe, AZ",
    "url": "https://jobs.statefarm.com/jobs/46353?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-24",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ff9e7bbf62f5",
-   "company": "Lazard",
-   "title": "AI and Data Transformation Intern",
-   "location": "NYC",
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-24",
@@ -1289,17 +1135,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-00ebeba28b70",
-   "company": "Electronic Arts",
-   "title": "Analytics Intern",
-   "location": "Orlando, FL",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-77491dfe3bee",
    "company": "Waymo",
    "title": "Software Engineer Intern - Simulation Evaluation ML Model",
@@ -1316,17 +1151,6 @@
    "title": "IT Data Engineer Intern",
    "location": "Madison, WI / West Bend, WI",
    "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-cad6c4ee1a47",
-   "company": "ASM Global",
-   "title": "Student Data Specialist",
-   "location": "Coral Gables, FL",
-   "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Coral-Gables-FL/Student-Data-Specialist---University-of-Miami_R100125647",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-22",
@@ -1355,17 +1179,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-c5459db5384e",
-   "company": "Lazard",
-   "title": "Data Engineer Intern",
-   "location": "NYC",
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-21",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-650f26247f61",
    "company": "Atlassian",
    "title": "Machine Learning Intern",
@@ -1385,28 +1198,6 @@
    "source": "Simplify list",
    "category": "finance",
    "posted": "2026-09-21",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-02f8ac839ead",
-   "company": "Generac",
-   "title": "Data Science Intern - Summer 2027",
-   "location": "Pewaukee, WI / Waukesha, WI",
-   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-17",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ad5075787ee3",
-   "company": "The Hartford",
-   "title": "Data Science Intern - Summer 2027",
-   "location": "Chicago, IL / Charlotte, NC / Hartford, CT",
-   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-17",
    "found": "2026-10-13"
   },
   {
@@ -1465,17 +1256,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-a2f2f8b7ce3f",
-   "company": "CoVar",
-   "title": "Machine Learning Intern",
-   "location": "Durham, NC",
-   "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-16",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-2e613e7716fa",
    "company": "BlackRock",
    "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
@@ -1492,28 +1272,6 @@
    "title": "IT Data Analytics Intern",
    "location": "Dallas, TX",
    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-4f88044e19fb",
-   "company": "APEX Analytix",
-   "title": "Data Science Intern",
-   "location": "Greensboro, NC",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7d91fd6aa00a",
-   "company": "APEX Analytix",
-   "title": "Data Engineering Intern - Summer 2027",
-   "location": "Greensboro, NC",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-15",
@@ -1619,17 +1377,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-2057b1e84e58",
-   "company": "Ernst & Young",
-   "title": "Data Engineer Intern - Multiple Teams",
-   "location": "Chicago, IL / NYC",
-   "url": "https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-b582c4ee2cad",
    "company": "Constellation Energy",
    "title": "IT Data Engineering Intern",
@@ -1639,17 +1386,6 @@
    "category": "tech",
    "posted": "2026-09-12",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-7df7a88d08a1",
-   "company": "Lyft",
-   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-12"
   },
   {
    "id": "w-5b7e15504410",
@@ -1674,33 +1410,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-93d98d5ffd95",
-   "company": "Citizens Financial Group",
-   "title": "Data Management Intern - Enterprise Data and Analytics",
-   "location": "Boston, MA / Johnston, RI / Columbus, OH",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-65289c083c0d",
    "company": "Oshkosh",
    "title": "AI Engineer Intern",
    "location": "Oshkosh, WI",
    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-1460ff3388bf",
-   "company": "Veeam Software",
-   "title": "Machine Learning Intern - AI",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-11",
@@ -1762,17 +1476,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-66cfb5367867",
-   "company": "Constellation Energy",
-   "title": "Business Performance & Analytics Intern",
-   "location": "Houston, TX",
-   "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-10",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-b11aa8deda84",
    "company": "Walmart",
    "title": "Data Science Intern 3",
@@ -1806,66 +1509,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-8f770408eaf5",
-   "company": "Navy Federal",
-   "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
-   "location": "Winchester, VA / Pensacola, FL / Vienna, VA",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-72aaabca7a8b",
    "company": "Navy Federal",
    "title": "Payments AI Engineer Intern",
    "location": "Pensacola, FL / Vienna, VA",
    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e720db2225fc",
-   "company": "Navy Federal",
-   "title": "Data Scientist Intern",
-   "location": "Winchester, VA / Pensacola, FL / Vienna, VA",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8bfc60f3af71",
-   "company": "Navy Federal",
-   "title": "Summer Associate Internship - Fraud Data Governance",
-   "location": "Vienna, VA",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-c589d6731cd7",
-   "company": "Navy Federal",
-   "title": "Associate Data Engineer Intern",
-   "location": "Vienna, VA",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-a099f455bde9",
-   "company": "Navy Federal",
-   "title": "Data Engineer Intern",
-   "location": "Vienna, VA",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-09",
@@ -1894,28 +1542,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-da3fbc0cb705",
-   "company": "Pilot Company",
-   "title": "Data Governance Intern",
-   "location": "Knoxville, TN",
-   "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572871",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-a143766fb3e3",
-   "company": "DV Trading",
-   "title": "AI Engineer Intern",
-   "location": "Chicago, IL",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-09",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-7d76ec1ea944",
    "company": "Coinbase",
    "title": "Analytics Engineer Intern",
@@ -1938,17 +1564,6 @@
    "found": "2026-10-12"
   },
   {
-   "id": "w-126395e7d552",
-   "company": "Capital One",
-   "title": "AI Engineer Intern",
-   "location": "San Jose, CA / McLean, VA / NYC",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-09-08",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-80cabeef7615",
    "company": "Aramco Americas",
    "title": "AI/ML Engineering Intern - Summer Student Program",
@@ -1957,39 +1572,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7bb35f1333f9",
-   "company": "Boeing",
-   "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
-   "location": "Tukwila, WA",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-365ae4842d0d",
-   "company": "Ercot",
-   "title": "IT Intern - Enterprise Data & AI Administration",
-   "location": "Austin, TX / Taylor, TX",
-   "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ccdae4d9884d",
-   "company": "Ernst & Young",
-   "title": "Data and Intelligence Delivery Intern - Assurance",
-   "location": "Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Moines, IA + more",
-   "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-07",
    "found": "2026-10-13"
   }
  ]
