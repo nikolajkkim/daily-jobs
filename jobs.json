@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-23",
-    "found": 4,
-    "note": "4 new roles (posted Oct 22–23; only 4 confirmed Summer 2027 + master's eligible, no top-up qualified) · no new reports (all 19 already handled) · 6 older links checked, none confirmed closed · discovery found nothing new (golf: none) · Problem: many postings don't state a term (Databricks DS, Duolingo DS, Meta RS interns left out) and CVS/Leidos pages didn't load"
+    "date": "2026-10-24",
+    "found": 2,
+    "note": "2 new roles (Simbe Robotics, posted Oct 23) · no top-up qualified: most postings state no term or pages didn't load · reports: all 19 already handled · 5 older links checked, none closed (Kensho not listed on careers page, left) · discovery found nothing new (golf: none) · Problem: Sun Life, Duolingo, Micron, Meta pages didn't load, so left out"
   },
   "jobs": [
     {
@@ -670,6 +670,32 @@
       "found": "2026-10-23",
       "category": "tech",
       "posted": "2026-10-22"
+    },
+    {
+      "id": "simbe-robotics-cv-applied-ai-intern-2027",
+      "company": "Simbe Robotics",
+      "title": "Computer Vision / Applied AI Intern (Summer 2027)",
+      "location": "Burlingame, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8",
+      "fit": "good",
+      "why": "Summer 2027 role open to MS students; your PyTorch work and the PPO quadcopter project with simulated LiDAR line up with their perception/ML stack. Gap: it asks for computer vision experience (OpenCV, detection), which you haven't shown, and it is fully on-site in California.",
+      "found": "2026-10-24",
+      "posted": "2026-10-23",
+      "category": "tech"
+    },
+    {
+      "id": "simbe-robotics-data-analytics-ds-intern-2027",
+      "company": "Simbe Robotics",
+      "title": "Data Analytics & Data Science Intern (Spring/Summer 2027)",
+      "location": "Burlingame, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f",
+      "fit": "good",
+      "why": "Summer 2027 is one of the offered terms and MS students are eligible; it asks for SQL, Python, pandas and Git, which you have, and your 14M-reading IoT pipeline is relevant. It leans toward analytics/BI (dbt, Looker) rather than ML, and is based in Burlingame, CA.",
+      "found": "2026-10-24",
+      "posted": "2026-10-23",
+      "category": "tech"
     }
   ],
   "browse": [

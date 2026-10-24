@@ -1,61 +1,68 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Nasdaq falls 2.6% as Meta and Tesla slide; Dow flat",
-      "note": "On Thursday the Nasdaq Composite fell 2.60% to 26,008.86 and the S&P 500 fell 1.21% to 7,663.43, while the Dow edged up 0.02% to 52,867.98. Meta dropped nearly 8% after its first cash outflow in over a decade due to AI spending, and Tesla fell 3.1% after cutting its 2026 capital spending plans.",
-      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
-      "source": "MarketScreener (Reuters)"
+      "headline": "Dow drops 1.2% as tech steadies after Thursday's rout",
+      "note": "On Friday the Dow fell 1.18% to 52,241.55, the S&P 500 lost 0.43% to 7,629.92 and the Nasdaq slipped 0.08% to 25,986.95. Worries about the cost of financing heavy AI spending lingered, telecom stocks fell and energy hit a record high.",
+      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
+      "source": "The Spokesman-Review (Reuters)"
     },
     {
       "tag": "Economy",
-      "headline": "Traders pare bets on more Fed rate hikes",
-      "note": "After the tech sell-off, a December hike is no longer fully priced in; the implied probability fell to 85%, and traders removed almost a full quarter-point hike expected for next year. Rate expectations drive stock valuations and borrowing costs.",
-      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
-      "source": "MarketScreener (Reuters)"
+      "headline": "Oil jumps, consumer mood near a record low, Fed meets Wednesday",
+      "note": "Brent crude hit its highest level since late April after Houthi attacks in Saudi Arabia, and consumer sentiment edged down to near a record low in October. The Fed is expected to hold rates steady Wednesday, and Alphabet, Microsoft and Amazon report earnings next week.",
+      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
+      "source": "The Spokesman-Review (Reuters)"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI's GPT models arrive on Google Cloud",
-      "note": "GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna are in limited preview in Google Cloud's Model Garden, with general availability planned in a few weeks. Microsoft stays OpenAI's primary cloud partner. Companies can now use OpenAI models inside whichever cloud they already run.",
-      "url": "https://gigazine.net/gsc_news/en/20261022-google-cloud-openai-models",
-      "source": "GIGAZINE"
+      "headline": "Anthropic IPO draft shows $16.3B in half-year revenue",
+      "note": "Per WSJ and Reuters reports on its draft prospectus, Anthropic had $16.3B of first-half 2026 revenue versus $1.1B a year earlier, and an $80.7B net loss, of which about $72B was accounting charges tied to convertible notes. Share count and price aren't set. It's a look at how fast AI labs are growing.",
+      "url": "https://econotimes.com/WSJ-Reuters-Report-Anthropic-IPO-Draft-Shows-16-3-Billion-Revenue-80-7-Billion-Loss-1760322",
+      "source": "EconoTimes (WSJ/Reuters)"
     },
     {
       "tag": "Tech",
-      "headline": "Meta's AI spending turns its cash flow negative",
-      "note": "Meta reported its first cash outflow in more than a decade because of AI-related expenditures, and the stock fell nearly 8%. It shows how costly the AI buildout is, even for the biggest companies, and why investors now watch spending closely.",
-      "url": "https://www.marketscreener.com/news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-ce785cdede8df127",
-      "source": "MarketScreener (Reuters)"
+      "headline": "AI finds two decades-old PHP flaws; NSA says patch now",
+      "note": "Two critical bugs present since PHP 5 (2004) were found with help from GPT-5.6 Sol and Google's Wiz agents. No in-the-wild exploits had been reported, but the NSA says to patch or take unpatched sites offline. AI-driven security work is a growing area for ML people.",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "source": "TechCrunch"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI's Decisions API goes generally available",
+      "note": "Per an AI news digest summarizing OpenAI's announcement, the endpoint, powered by GPT-6 Luna, returns a probability, choice or score instead of text, and is up to 10x faster than using Luna through the Responses API. It points to LLMs being used as fast classifiers inside products.",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+      "source": "DEV Community (AI Daily Digest)"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Modal raises $750M at a $16B valuation",
+      "note": "Per the same digest, the serverless GPU platform passed a $1B run rate and says usage has tripled since its last round five months ago. Demand for AI infrastructure startups is still strong, a useful place to look for ML engineering roles.",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+      "source": "DEV Community (AI Daily Digest)"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Telecom stocks sink on report SpaceX wants a fourth carrier",
+      "note": "AT&T and T-Mobile fell more than 6% and Verizon 1.6% Friday after a report that SpaceX is seeking cell sites for a fourth wireless carrier. Cell tower operators gained.",
+      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
+      "source": "The Spokesman-Review (Reuters)"
     },
     {
       "tag": "Jobs",
-      "headline": "More AI-linked layoffs: Cloudflare, Coinbase, Upwork",
-      "note": "Fast Company's tracker says these firms cited AI as they cut jobs this week. For an intern hunter, it signals a cautious market, so polish your portfolio and apply early.",
-      "url": "https://www.fastcompany.com/section/tech-layoffs",
-      "source": "Fast Company"
-    },
-    {
-      "tag": "NYC",
-      "headline": "Mamdani proposes rule forcing chatbots to hand off to humans",
-      "note": "The city proposed requiring businesses to connect customers to a human quickly when a chatbot can't help. It's only a proposal so far, but it shows NYC moving to regulate AI products locally.",
-      "url": "https://www.semafor.com/article/10/20/2026/mamdani-takes-on-ai-chatbot-doom-loops-in-new-york",
-      "source": "Semafor"
-    },
-    {
-      "tag": "NYC",
-      "headline": "Mamdani says feds have abdicated on AI, backs data center moratorium",
-      "note": "At an Oct 19 event he urged New Yorkers to push back on AI and said he will ask Gov. Hochul to sign a broader data center moratorium bill. State and city rules could shape where AI companies build and hire.",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch"
+      "headline": "American Express to cut 5% of its workforce",
+      "note": "The company announced the cuts even as it raised its profit forecast, and its stock fell 3.9%. Finance firms are trimming staff while still earning well, which matters when you target finance-adjacent data roles.",
+      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
+      "source": "The Spokesman-Review (Reuters)"
     }
   ],
   "learn": {
-    "n": 11,
-    "term": "Capital spending (capex) and free cash flow",
-    "explain": "Capital expenditure, or capex, is money a company spends on long-lasting things like data centers, chips and equipment. Free cash flow is the cash left after paying for operations and capex. If capex is bigger than the cash the business brings in, free cash flow goes negative, meaning the company must use savings or borrow. That is what Reuters reported for Meta this week: AI spending pushed it into a cash outflow, and the stock fell nearly 8%. Investors like growth, but they want to see the spending eventually pay off.",
-    "try": "Look up the capex line in a big tech company's latest quarterly report."
+    "n": 12,
+    "term": "Market sectors",
+    "explain": "The stock market is split into sectors, groups of companies in the same kind of business, like technology, energy, financials and telecom. Stocks in a sector often move together because the same news hits them all. On Friday, energy stocks rose 2.4% to a record as Brent crude climbed, while AT&T, T-Mobile and Verizon fell on the SpaceX report. Index funds spread you across sectors, and seeing which sector leads or lags helps explain why an index moved.",
+    "try": "Look up the 11 S&P 500 sectors and which one has the biggest weight today."
   },
   "learned": [
     "Earnings season and EPS",
@@ -68,6 +75,7 @@
     "IPO (initial public offering)",
     "Revenue vs. profit vs. margin",
     "Market capitalization (market cap)",
-    "Capital spending (capex) and free cash flow"
+    "Capital spending (capex) and free cash flow",
+    "Market sectors"
   ]
 }
