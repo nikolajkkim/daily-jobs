@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T10:20+00:00",
+ "generated": "2026-10-24T12:54+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -26,7 +26,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 720,
+   "open_jobs": 719,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 322,
+   "open_jobs": 321,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 269,
-   "matches": 269,
+   "open_jobs": 267,
+   "matches": 267,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }
