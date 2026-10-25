@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Dow drops 1.2% as tech steadies after Thursday's rout",
-      "note": "On Friday the Dow fell 1.18% to 52,241.55, the S&P 500 lost 0.43% to 7,629.92 and the Nasdaq slipped 0.08% to 25,986.95. Worries about the cost of financing heavy AI spending lingered, telecom stocks fell and energy hit a record high.",
+      "headline": "Dow fell 1.2% Friday; markets closed for the weekend",
+      "note": "Friday's close (the latest trading day): the Dow fell 1.18% to 52,241.55, the S&P 500 lost 0.43% to 7,629.92 and the Nasdaq slipped 0.08% to 25,986.95. Worries about the cost of financing heavy AI spending lingered, telecom stocks fell and energy hit a record high.",
       "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
       "source": "The Spokesman-Review (Reuters)"
     },
@@ -17,10 +17,17 @@
     },
     {
       "tag": "AI",
-      "headline": "Anthropic IPO draft shows $16.3B in half-year revenue",
-      "note": "Per WSJ and Reuters reports on its draft prospectus, Anthropic had $16.3B of first-half 2026 revenue versus $1.1B a year earlier, and an $80.7B net loss, of which about $72B was accounting charges tied to convertible notes. Share count and price aren't set. It's a look at how fast AI labs are growing.",
-      "url": "https://econotimes.com/WSJ-Reuters-Report-Anthropic-IPO-Draft-Shows-16-3-Billion-Revenue-80-7-Billion-Loss-1760322",
-      "source": "EconoTimes (WSJ/Reuters)"
+      "headline": "Anthropic reportedly told investors Q3 revenue hit $16.8B, growth slowing",
+      "note": "Reuters, citing an investor at a pre-IPO meeting, reports Q3 revenue of about $16.8B, up about 45% from Q2, a slower pace than earlier quarters. The figures are unaudited and unpublished, and the IPO is reportedly aimed at November. They differ from the draft-prospectus numbers reported yesterday, so treat all as unconfirmed until a filing appears.",
+      "url": "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation",
+      "source": "Euronews (Reuters)"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "AI/ML job postings up 88% year over year, Dice says",
+      "note": "Dice's September report says overall tech postings rose 9% from August and 17% from a year earlier, while AI and machine learning postings grew about 88% year over year. Good news for ML internship hunting, though postings are not the same as hires.",
+      "url": "https://www.dice.com/salary-calculator/dba-in-us",
+      "source": "Dice"
     },
     {
       "tag": "Tech",
@@ -59,10 +66,10 @@
     }
   ],
   "learn": {
-    "n": 12,
-    "term": "Market sectors",
-    "explain": "The stock market is split into sectors, groups of companies in the same kind of business, like technology, energy, financials and telecom. Stocks in a sector often move together because the same news hits them all. On Friday, energy stocks rose 2.4% to a record as Brent crude climbed, while AT&T, T-Mobile and Verizon fell on the SpaceX report. Index funds spread you across sectors, and seeing which sector leads or lags helps explain why an index moved.",
-    "try": "Look up the 11 S&P 500 sectors and which one has the biggest weight today."
+    "n": 13,
+    "term": "Valuation (private vs. public)",
+    "explain": "A company's valuation is what investors collectively think the whole business is worth. For a public company that is its market cap, updated every second as the stock trades. For a private startup it is set in funding rounds: if investors put in $750M and get a slice of the company, the price they agree on implies a valuation, like Modal's reported $16B. Private valuations are negotiated, not tested daily by the market, so they can shift a lot at an IPO, when the public votes with real trades.",
+    "try": "Divide Modal's $16B valuation by its reported $1B run rate to get a rough price-to-sales multiple."
   },
   "learned": [
     "Earnings season and EPS",
@@ -76,6 +83,7 @@
     "Revenue vs. profit vs. margin",
     "Market capitalization (market cap)",
     "Capital spending (capex) and free cash flow",
-    "Market sectors"
+    "Market sectors",
+    "Valuation (private vs. public)"
   ]
 }

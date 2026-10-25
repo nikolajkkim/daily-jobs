@@ -1,7 +1,25 @@
 {
- "generated": "2026-10-24T12:54+00:00",
+ "generated": "2026-10-25T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Data Science Intern",
+   "location": "Round Rock, TX",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
+   "posted": "2026-10-25",
+   "company": "Dell Technologies",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25"
+  },
   {
    "title": "Data Science Intern",
    "location": "Seattle, WA",
@@ -15,7 +33,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Agentic AI Intern",
@@ -33,7 +51,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "AI/ML Engineer Intern",
@@ -51,7 +69,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Data Science Intern",
@@ -66,7 +84,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Computer Vision / Applied AI Intern",
@@ -85,7 +103,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Data Analytics & Data Science Intern",
@@ -105,7 +123,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "AI Platform Engineering Intern",
@@ -124,7 +142,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Data Science Intern",
@@ -142,7 +160,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Software Engineer Intern - AI/ML for Diagnostics & Calibration",
@@ -161,7 +179,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Research Scientist Intern - AI Core Machine Learning",
@@ -176,7 +194,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Research Scientist Intern - Meta Recommendation Systems - Core ML",
@@ -191,7 +209,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   },
   {
    "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
@@ -206,263 +224,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Early Adopter & Product Builder Intern - Creative AI",
-   "location": "San Carlos, CA",
-   "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
-   "posted": "2026-10-22",
-   "company": "OpenArt AI",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - Central Applied Science",
-   "location": "Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/1582569213186235",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Data Scientist Intern",
-   "location": "Memphis, TN",
-   "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
-   "posted": "2026-10-22",
-   "company": "FedEx Freight",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "AI Product Builder Intern",
-   "location": "Austin, TX",
-   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424",
-   "posted": "2026-10-22",
-   "company": "OpenSesame",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Systems Engineering Intern - AI Experience",
-   "location": "Dulles, VA",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
-   "posted": "2026-10-22",
-   "company": "Northrop Grumman",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - Feed Recommendations",
-   "location": "Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/29044546168568671",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1097992326377524",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - Physical Engineering AI",
-   "location": "Seattle, WA / NYC",
-   "url": "https://www.metacareers.com/jobs/1081255008061721",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - AI Alignment",
-   "location": "Boston, MA / Seattle, WA / Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/2356892281747003",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Mountain View, CA",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=6866538002",
-   "posted": "2026-10-22",
-   "company": "Databricks",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "AI Automation Engineer Intern",
-   "location": "Lehi, UT",
-   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply",
-   "posted": "2026-10-22",
-   "company": "Pattern",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - Fair - Video Generation",
-   "location": "Seattle, WA / Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/3549654831867862",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
-   "location": "Boston, MA / Menlo Park, CA / NYC / Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2322361288548512",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
-   "location": "Seattle, WA / NYC / Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2615214025585454",
-   "posted": "2026-10-22",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Innovation & Technology Software Engineering: Data & Intelligence Intern",
-   "location": "NYC",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128",
-   "posted": "2026-10-22",
-   "company": "CVS Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "title": "Innovation & Technology Internship - Data Engineering",
-   "location": "NYC",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
-   "posted": "2026-10-22",
-   "company": "CVS Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-25"
   }
  ]
 }
