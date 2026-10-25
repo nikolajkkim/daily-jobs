@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T10:20+00:00",
+ "generated": "2026-10-25T13:20+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 284,
+   "open_jobs": 285,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -362,7 +362,7 @@
   },
   "Point72": {
    "status": "ok",
-   "open_jobs": 211,
+   "open_jobs": 215,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "point72"
