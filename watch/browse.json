@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T13:20+00:00",
+ "generated": "2026-10-26T10:20+00:00",
  "jobs": [
   {
    "id": "w-778b6fd3ca9e",
@@ -11,6 +11,28 @@
    "category": "tech",
    "posted": "2026-10-25",
    "found": "2026-10-25"
+  },
+  {
+   "id": "w-0743fd139444",
+   "company": "Skydio",
+   "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-25",
+   "found": "2026-10-26"
+  },
+  {
+   "id": "w-a0df101e850e",
+   "company": "Hewlett Packard Enterprise",
+   "title": "AI/ML Developer Intern",
+   "location": "San Jose, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-25",
+   "found": "2026-10-26"
   },
   {
    "id": "w-708aece8fcb9",
@@ -161,17 +183,6 @@
    "title": "Research Scientist Intern - Central Applied Science",
    "location": "Menlo Park, CA / NYC",
    "url": "https://www.metacareers.com/jobs/1582569213186235",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-23"
-  },
-  {
-   "id": "w-337685515fba",
-   "company": "FedEx Freight",
-   "title": "Data Scientist Intern",
-   "location": "Memphis, TN",
-   "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-22",
@@ -759,17 +770,6 @@
    "category": "tech",
    "posted": "2026-10-14",
    "found": "2026-10-15"
-  },
-  {
-   "id": "w-a5e81839e66e",
-   "company": "Rakuten International",
-   "title": "AI Engineer Intern",
-   "location": "Bellevue, WA",
-   "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-21"
   },
   {
    "id": "w-b728a2f1e9f7",
@@ -1850,44 +1850,11 @@
    "found": "2026-10-12"
   },
   {
-   "id": "w-5b7e15504410",
-   "company": "Wellmark",
-   "title": "Data Analytics & Governance Internship",
-   "location": "Des Moines, IA",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-da7f6e5feda9",
-   "company": "The Toro Company",
-   "title": "Spatial Data R&D Intern",
-   "location": "Bloomington, MN",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-93d98d5ffd95",
    "company": "Citizens Financial Group",
    "title": "Data Management Intern - Enterprise Data and Analytics",
    "location": "Boston, MA / Johnston, RI / Columbus, OH",
    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-65289c083c0d",
-   "company": "Oshkosh",
-   "title": "AI Engineer Intern",
-   "location": "Oshkosh, WI",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-11",
@@ -1921,39 +1888,6 @@
    "title": "Data Engineering Intern",
    "location": "Philadelphia, PA",
    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-ad1b2818bc13",
-   "company": "Amgen",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-25c46c114095",
-   "company": "Amgen",
-   "title": "Data Scientist Intern - Amgen’s Technology & Medical Organizations",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-1223b4106af9",
-   "company": "National Laboratory of the Rockies",
-   "title": "Graduate Geospatial Data Science Modeling and Analysis Intern",
-   "location": "Golden, CO",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-11",

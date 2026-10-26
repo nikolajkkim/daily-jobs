@@ -1,75 +1,75 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Dow fell 1.2% Friday; markets closed for the weekend",
-      "note": "Friday's close (the latest trading day): the Dow fell 1.18% to 52,241.55, the S&P 500 lost 0.43% to 7,629.92 and the Nasdaq slipped 0.08% to 25,986.95. Worries about the cost of financing heavy AI spending lingered, telecom stocks fell and energy hit a record high.",
-      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
-      "source": "The Spokesman-Review (Reuters)"
+      "headline": "Wall Street heads into a heavy week with a shaky AI rally",
+      "note": "Stocks ended last week lower, with worries about financing heavy AI spending in the background. This week brings the Fed, earnings from 542 large companies, and Alphabet, Microsoft and Amazon reports. Those results will show whether AI spending is paying off.",
+      "url": "https://tribune.com.pk/story/2636875/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally",
+      "source": "The Express Tribune (Reuters)"
     },
     {
       "tag": "Economy",
-      "headline": "Oil jumps, consumer mood near a record low, Fed meets Wednesday",
-      "note": "Brent crude hit its highest level since late April after Houthi attacks in Saudi Arabia, and consumer sentiment edged down to near a record low in October. The Fed is expected to hold rates steady Wednesday, and Alphabet, Microsoft and Amazon report earnings next week.",
-      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
-      "source": "The Spokesman-Review (Reuters)"
+      "headline": "Fed decides Wednesday; a hold at 3.75%-4.00% is expected",
+      "note": "Futures price about a 91% chance the Fed holds rates, with Chair Kevin Warsh speaking at 2 p.m. ET. Thursday adds the first Q3 GDP estimate and core PCE inflation. Rates affect both the stock market and how much companies hire.",
+      "url": "https://cryptobriefing.com/microsoft-alphabet-amazon-earnings-fed-decision/",
+      "source": "Crypto Briefing"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic reportedly told investors Q3 revenue hit $16.8B, growth slowing",
-      "note": "Reuters, citing an investor at a pre-IPO meeting, reports Q3 revenue of about $16.8B, up about 45% from Q2, a slower pace than earlier quarters. The figures are unaudited and unpublished, and the IPO is reportedly aimed at November. They differ from the draft-prospectus numbers reported yesterday, so treat all as unconfirmed until a filing appears.",
-      "url": "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation",
-      "source": "Euronews (Reuters)"
+      "headline": "Anthropic's draft IPO filing reportedly shows an $80.7B loss, mostly non-cash",
+      "note": "Per WSJ/Reuters recaps, first-half 2026 revenue was $16.3B, up from $1.1B a year earlier. About $72B of the loss is non-cash accounting charges, and the filing reportedly lists about $450B in cloud commitments. These are secondhand reports of a draft, not a public filing.",
+      "url": "https://econotimes.com/WSJ-Reuters-Report-Anthropic-IPO-Draft-Shows-16-3-Billion-Revenue-80-7-Billion-Loss-1760322",
+      "source": "EconoTimes (WSJ/Reuters)"
     },
     {
-      "tag": "Jobs",
-      "headline": "AI/ML job postings up 88% year over year, Dice says",
-      "note": "Dice's September report says overall tech postings rose 9% from August and 17% from a year earlier, while AI and machine learning postings grew about 88% year over year. Good news for ML internship hunting, though postings are not the same as hires.",
-      "url": "https://www.dice.com/salary-calculator/dba-in-us",
-      "source": "Dice"
+      "tag": "AI",
+      "headline": "OpenAI's Decisions API is generally available",
+      "note": "It returns probabilities, choices or scores instead of generated text, and OpenAI says it is up to 10x faster than using Luna through the Responses API. Cheap classification-style calls like this are a practical way to use LLMs in data pipelines.",
+      "url": "https://openai.com/index/decisions-api/",
+      "source": "OpenAI"
     },
     {
       "tag": "Tech",
-      "headline": "AI finds two decades-old PHP flaws; NSA says patch now",
-      "note": "Two critical bugs present since PHP 5 (2004) were found with help from GPT-5.6 Sol and Google's Wiz agents. No in-the-wild exploits had been reported, but the NSA says to patch or take unpatched sites offline. AI-driven security work is a growing area for ML people.",
+      "headline": "AI found two decades-old PHP flaws; NSA says patch now",
+      "note": "The bugs date to PHP 5 (2004) and were found with AI tools including GPT-5.6 Sol. Details leaked before the fix, and several European and Australian government sites went offline. Fixes are out in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
       "source": "TechCrunch"
     },
     {
-      "tag": "AI",
-      "headline": "OpenAI's Decisions API goes generally available",
-      "note": "Per an AI news digest summarizing OpenAI's announcement, the endpoint, powered by GPT-6 Luna, returns a probability, choice or score instead of text, and is up to 10x faster than using Luna through the Responses API. It points to LLMs being used as fast classifiers inside products.",
-      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
-      "source": "DEV Community (AI Daily Digest)"
+      "tag": "Chips",
+      "headline": "Report: Nvidia B300 chips seen on China Telecom-linked network",
+      "note": "Israeli firm Lava reportedly spotted 32 B300 GPUs, which are barred from China, on monitoring endpoints tied to China Telecom. The data does not show where the chips physically are. Export-control enforcement shapes Nvidia's China business.",
+      "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
+      "source": "Digitimes"
     },
     {
       "tag": "Tech",
       "headline": "Modal raises $750M at a $16B valuation",
-      "note": "Per the same digest, the serverless GPU platform passed a $1B run rate and says usage has tripled since its last round five months ago. Demand for AI infrastructure startups is still strong, a useful place to look for ML engineering roles.",
-      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
-      "source": "DEV Community (AI Daily Digest)"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Telecom stocks sink on report SpaceX wants a fourth carrier",
-      "note": "AT&T and T-Mobile fell more than 6% and Verizon 1.6% Friday after a report that SpaceX is seeking cell sites for a fourth wireless carrier. Cell tower operators gained.",
-      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
-      "source": "The Spokesman-Review (Reuters)"
+      "note": "The serverless GPU platform passed a $1B run rate, per an AI news digest. It raised this Series D five months after a $5B Series C. Demand for AI infrastructure is still creating jobs.",
+      "url": "https://www.aibreakingwire.com/news/modal-reports-1b-run-rate-after-750m-series-d-at-16b",
+      "source": "AI Breaking Wire"
     },
     {
       "tag": "Jobs",
-      "headline": "American Express to cut 5% of its workforce",
-      "note": "The company announced the cuts even as it raised its profit forecast, and its stock fell 3.9%. Finance firms are trimming staff while still earning well, which matters when you target finance-adjacent data roles.",
-      "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/",
-      "source": "The Spokesman-Review (Reuters)"
+      "headline": "Data science hiring looks steady, and New York is a top market",
+      "note": "One analysis of 12,148 US data science postings (updated July 2026) finds about 828 new postings a week, with New York at 14% of postings, behind California at 19%. Most are mid-level or senior, so internships are a harder niche to find.",
+      "url": "https://axialsearch.com/insights/data-science-jobs",
+      "source": "Axial Search"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Canva releases Craft, its first in-house image model",
+      "note": "Canva says it ranks second among AI labs for image generation on DesignArena's leaderboard. It is available through Dream Lab and the API. A sign that application companies are now training their own models.",
+      "url": "https://www.thetechoutlook.com/new-release/software-apps/canva-introduces-its-first-state-of-the-art-image-generation-model-canva-craft",
+      "source": "The Tech Outlook"
     }
   ],
   "learn": {
-    "n": 13,
-    "term": "Valuation (private vs. public)",
-    "explain": "A company's valuation is what investors collectively think the whole business is worth. For a public company that is its market cap, updated every second as the stock trades. For a private startup it is set in funding rounds: if investors put in $750M and get a slice of the company, the price they agree on implies a valuation, like Modal's reported $16B. Private valuations are negotiated, not tested daily by the market, so they can shift a lot at an IPO, when the public votes with real trades.",
-    "try": "Divide Modal's $16B valuation by its reported $1B run rate to get a rough price-to-sales multiple."
+    "n": 14,
+    "term": "Basis points and rate odds",
+    "explain": "A basis point (bp) is one hundredth of a percentage point, so 25 bp is 0.25%. Traders use it because rate changes are small and 'up a quarter point' is ambiguous. Fed funds futures are contracts whose prices move with what traders expect the Fed's rate to be, so people turn them into odds. This week, futures put about a 91% chance on the Fed holding at 3.75%-4.00%. A hold that is fully expected usually moves markets little; the surprise is more likely to come from the Fed chair's tone.",
+    "try": "Search for CME FedWatch and see how the odds change before Wednesday."
   },
   "learned": [
     "Earnings season and EPS",
@@ -84,6 +84,7 @@
     "Market capitalization (market cap)",
     "Capital spending (capex) and free cash flow",
     "Market sectors",
-    "Valuation (private vs. public)"
+    "Valuation (private vs. public)",
+    "Basis points and rate odds"
   ]
 }

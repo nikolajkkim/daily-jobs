@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-25",
-    "found": 0,
-    "note": "0 new roles: no candidate stated Summer 2027 and met master's/location rules (Bertelsmann DS is part-time with no term, Bosch is PhD-leaning/no term, Amperesand full-time/no term, Dell/Sun Life pages didn't load) · no top-up qualified · reports: all 19 already handled · 6 older links checked, none closed · discovery found nothing verifiable (golf: none; Mets DS intern could not be verified) · Problem: Dell, Sun Life, Tencent pages didn't load"
+    "date": "2026-10-26",
+    "found": 1,
+    "note": "1 new role (Skydio, posted Oct 25) · no top-up qualified (Databricks 2027 Start, Amazon, HPE, Dell, Micron lack a confirmed Summer 2027 term; DraftKings is bachelor's-only) · reports: all 19 already handled · 6 older links checked, none closed · discovery found nothing else verifiable (golf: none) · Problem: HPE and Dell pages didn't load; reports fetch returned only a summary"
   },
   "jobs": [
     {
@@ -695,6 +695,19 @@
       "why": "Summer 2027 is one of the offered terms and MS students are eligible; it asks for SQL, Python, pandas and Git, which you have, and your 14M-reading IoT pipeline is relevant. It leans toward analytics/BI (dbt, Looker) rather than ML, and is based in Burlingame, CA.",
       "found": "2026-10-24",
       "posted": "2026-10-23",
+      "category": "tech"
+    },
+    {
+      "id": "skydio-autonomy-dl-cv-intern-2027",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+      "location": "San Mateo, CA",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f",
+      "fit": "strong",
+      "why": "Summer 2027 per Simplify. Drone autonomy with deep learning and vision lines up with your PPO quadcopter navigation in PyFlyt with simulated LiDAR; the posting lists no degree restriction, so confirm master's eligibility when you apply.",
+      "found": "2026-10-26",
+      "posted": "2026-10-25",
       "category": "tech"
     }
   ],
