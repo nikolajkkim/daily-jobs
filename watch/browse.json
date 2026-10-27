@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:20+00:00",
+ "generated": "2026-10-27T14:54+00:00",
  "jobs": [
   {
    "id": "w-8901d9d89b60",
@@ -35,22 +35,44 @@
    "found": "2026-10-27"
   },
   {
+   "id": "w-90a11db7afb8",
+   "company": "Visa",
+   "title": "Data Science Intern - Data and AI Team",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-16122ae54a2d",
+   "company": "Visa",
+   "title": "Product Management Intern - Data and AI Team",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-9052be388e0b",
+   "company": "EQT Corporation",
+   "title": "AI Intern",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
    "id": "w-275bc59cddcd",
    "company": "Highmark Health",
    "title": "Enterprise Data Governance Intern",
    "location": "Pittsburgh, PA",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-26",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-9c87368d96fa",
-   "company": "Highmark Health",
-   "title": "Applied Gen AI/Data Scientist Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-26",
@@ -90,39 +112,6 @@
    "found": "2026-10-27"
   },
   {
-   "id": "w-ab3b66f79b52",
-   "company": "onsemi",
-   "title": "AI & Data Science Intern",
-   "location": "San Jose, CA",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-26",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-af8b2fbed550",
-   "company": "JP Morgan Chase",
-   "title": "Quant AI Associate Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-26",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-9dc3bb29e83d",
-   "company": "Highmark Health",
-   "title": "Predictive Modeling & Data Science Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-26",
-   "found": "2026-10-27"
-  },
-  {
    "id": "w-d2e4e5816b07",
    "company": "Highmark Health",
    "title": "Enterprise Master Data Management Analyst Graduate Intern",
@@ -139,17 +128,6 @@
    "title": "AI Engineering Intern",
    "location": "Waukesha, WI",
    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-26",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-e43fc946ca92",
-   "company": "Zillow",
-   "title": "Data Science Intern",
-   "location": "Seattle, WA",
-   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-26",

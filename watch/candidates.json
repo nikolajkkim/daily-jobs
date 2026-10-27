@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:20+00:00",
+ "generated": "2026-10-27T14:54+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -51,6 +51,60 @@
    "last_seen": "2026-10-27"
   },
   {
+   "title": "Data Science Intern - Data and AI Team",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+   "posted": "2026-10-27",
+   "company": "Visa",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Product Management Intern - Data and AI Team",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W",
+   "posted": "2026-10-27",
+   "company": "Visa",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "AI Intern",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
+   "posted": "2026-10-27",
+   "company": "EQT Corporation",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
    "title": "Enterprise Data Governance Intern",
    "location": "Pittsburgh, PA",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807",
@@ -60,25 +114,6 @@
     "Summer 2027"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "Applied Gen AI/Data Scientist Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
-   "posted": "2026-10-26",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
@@ -133,59 +168,6 @@
    "last_seen": "2026-10-27"
   },
   {
-   "title": "AI & Data Science Intern",
-   "location": "San Jose, CA",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
-   "posted": "2026-10-26",
-   "company": "onsemi",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "Quant AI Associate Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
-   "posted": "2026-10-26",
-   "company": "JP Morgan Chase",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "Predictive Modeling & Data Science Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
-   "posted": "2026-10-26",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
    "title": "Enterprise Master Data Management Analyst Graduate Intern",
    "location": "California / Washington, DC / Texas / NYC",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
@@ -213,24 +195,6 @@
     "N/A"
    ],
    "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Seattle, WA",
-   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
-   "posted": "2026-10-26",
-   "company": "Zillow",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
     "Master's"
    ],
    "category": "tech",
