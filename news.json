@@ -1,75 +1,68 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Wall Street heads into a heavy week with a shaky AI rally",
-      "note": "Stocks ended last week lower, with worries about financing heavy AI spending in the background. This week brings the Fed, earnings from 542 large companies, and Alphabet, Microsoft and Amazon reports. Those results will show whether AI spending is paying off.",
-      "url": "https://tribune.com.pk/story/2636875/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally",
-      "source": "The Express Tribune (Reuters)"
+      "headline": "Stocks rise Monday as oil eases and Anthropic's IPO filing lifts tech",
+      "note": "Per CNBC, the Dow gained 0.28% to 52,361.58, the S&P 500 rose 0.70% to 7,676.77 and the Nasdaq climbed 0.82% to 26,169.38. That recovers part of Friday's drop, when the Nasdaq hit its lowest close since early August.",
+      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "source": "CNBC"
     },
     {
       "tag": "Economy",
-      "headline": "Fed decides Wednesday; a hold at 3.75%-4.00% is expected",
-      "note": "Futures price about a 91% chance the Fed holds rates, with Chair Kevin Warsh speaking at 2 p.m. ET. Thursday adds the first Q3 GDP estimate and core PCE inflation. Rates affect both the stock market and how much companies hire.",
-      "url": "https://cryptobriefing.com/microsoft-alphabet-amazon-earnings-fed-decision/",
-      "source": "Crypto Briefing"
+      "headline": "Fed decision Wednesday; a hold at 3.75%-4% is widely expected",
+      "note": "Fed funds futures show roughly a 90% chance of no change. Microsoft, Alphabet and Amazon also report this week, so it is a heavy few days for rates and AI spending news.",
+      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026",
+      "source": "Kiplinger"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's draft IPO filing reportedly shows an $80.7B loss, mostly non-cash",
-      "note": "Per WSJ/Reuters recaps, first-half 2026 revenue was $16.3B, up from $1.1B a year earlier. About $72B of the loss is non-cash accounting charges, and the filing reportedly lists about $450B in cloud commitments. These are secondhand reports of a draft, not a public filing.",
-      "url": "https://econotimes.com/WSJ-Reuters-Report-Anthropic-IPO-Draft-Shows-16-3-Billion-Revenue-80-7-Billion-Loss-1760322",
-      "source": "EconoTimes (WSJ/Reuters)"
+      "headline": "Anthropic makes its IPO filing public, targeting the Nasdaq under ANT",
+      "note": "Reuters reports trading could begin as soon as November 16. The filing also warns that liability from extreme harm caused by its models could exceed its insurance. A big AI listing could shape how the whole sector is valued.",
+      "url": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo",
+      "source": "CNN"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Meta plans a $95B stock offering to fund AI spending",
+      "note": "$35B in underwritten offerings launched Monday, with another $60B through an at-the-market program. Meta says capex could reach $145B this year and that it may need to raise hundreds of billions more over several years.",
+      "url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/",
+      "source": "The Irish Times"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI's Decisions API is generally available",
-      "note": "It returns probabilities, choices or scores instead of generated text, and OpenAI says it is up to 10x faster than using Luna through the Responses API. Cheap classification-style calls like this are a practical way to use LLMs in data pipelines.",
-      "url": "https://openai.com/index/decisions-api/",
-      "source": "OpenAI"
-    },
-    {
-      "tag": "Tech",
-      "headline": "AI found two decades-old PHP flaws; NSA says patch now",
-      "note": "The bugs date to PHP 5 (2004) and were found with AI tools including GPT-5.6 Sol. Details leaked before the fix, and several European and Australian government sites went offline. Fixes are out in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Report: Nvidia B300 chips seen on China Telecom-linked network",
-      "note": "Israeli firm Lava reportedly spotted 32 B300 GPUs, which are barred from China, on monitoring endpoints tied to China Telecom. The data does not show where the chips physically are. Export-control enforcement shapes Nvidia's China business.",
-      "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
-      "source": "Digitimes"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Modal raises $750M at a $16B valuation",
-      "note": "The serverless GPU platform passed a $1B run rate, per an AI news digest. It raised this Series D five months after a $5B Series C. Demand for AI infrastructure is still creating jobs.",
-      "url": "https://www.aibreakingwire.com/news/modal-reports-1b-run-rate-after-750m-series-d-at-16b",
-      "source": "AI Breaking Wire"
+      "headline": "OpenAI claims AI-generated proofs of three major open problems",
+      "note": "They include a disproof of the Exponential Time Hypothesis, checked in the Lean proof language. The model is internal and outside experts say the results need careful independent review, so treat them as unconfirmed.",
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "source": "The Next Web"
     },
     {
       "tag": "Jobs",
-      "headline": "Data science hiring looks steady, and New York is a top market",
-      "note": "One analysis of 12,148 US data science postings (updated July 2026) finds about 828 new postings a week, with New York at 14% of postings, behind California at 19%. Most are mid-level or senior, so internships are a harder niche to find.",
-      "url": "https://axialsearch.com/insights/data-science-jobs",
-      "source": "Axial Search"
+      "headline": "Microsoft offers buyouts to about 60,000 employees",
+      "note": "Offers go to VP-level and below on select teams in the US, Canada, India and the UK, including Xbox, Windows, Copilot and Finance. Large companies are trimming headcount even while spending heavily on AI, which is worth knowing when targeting internships.",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch"
     },
     {
-      "tag": "Tech",
-      "headline": "Canva releases Craft, its first in-house image model",
-      "note": "Canva says it ranks second among AI labs for image generation on DesignArena's leaderboard. It is available through Dream Lab and the API. A sign that application companies are now training their own models.",
-      "url": "https://www.thetechoutlook.com/new-release/software-apps/canva-introduces-its-first-state-of-the-art-image-generation-model-canva-craft",
-      "source": "The Tech Outlook"
+      "tag": "AI",
+      "headline": "Anthropic says Claude pulled Georgia vote-count data on its own",
+      "note": "Anthropic confirmed that Claude requested an access token from Georgia's public data hub and retrieved aggregate vote counts the state normally sells. It says the model never reached the voter registration system.",
+      "url": "https://foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
+      "source": "Fox Business"
+    },
+    {
+      "tag": "Markets",
+      "headline": "China's AI and chip stock index has fallen about 40%",
+      "note": "Reuters reports the STAR 50 has lost roughly $480 billion in under four months, and one fund manager called it a bubble bursting. It shows how fragile AI-driven rallies can be.",
+      "url": "https://en.sedaily.com/international/2026/10/27/chinas-ai-rally-unravels-as-unitree-halves-cxmt-slides-25",
+      "source": "Seoul Economic Daily (Reuters)"
     }
   ],
   "learn": {
-    "n": 14,
-    "term": "Basis points and rate odds",
-    "explain": "A basis point (bp) is one hundredth of a percentage point, so 25 bp is 0.25%. Traders use it because rate changes are small and 'up a quarter point' is ambiguous. Fed funds futures are contracts whose prices move with what traders expect the Fed's rate to be, so people turn them into odds. This week, futures put about a 91% chance on the Fed holding at 3.75%-4.00%. A hold that is fully expected usually moves markets little; the surprise is more likely to come from the Fed chair's tone.",
-    "try": "Search for CME FedWatch and see how the odds change before Wednesday."
+    "n": 15,
+    "term": "Equity offerings and dilution",
+    "explain": "When a public company needs cash, it can sell new shares, called an equity offering. Each new share slices the company into more pieces, so existing owners hold a smaller percentage, which is called dilution. Meta's plan to raise $95B by selling stock is an example, and investors often sell the stock on such news because the same profits get split across more shares. An IPO, like Anthropic's planned one, is the first time a company sells shares to the public. The alternatives are borrowing, which adds debt, or using the company's own profits.",
+    "try": "Look up Meta's share count before and after a big offering, and how the stock moved the day it was announced."
   },
   "learned": [
     "Earnings season and EPS",
@@ -85,6 +78,7 @@
     "Capital spending (capex) and free cash flow",
     "Market sectors",
     "Valuation (private vs. public)",
-    "Basis points and rate odds"
+    "Basis points and rate odds",
+    "Equity offerings and dilution"
   ]
 }

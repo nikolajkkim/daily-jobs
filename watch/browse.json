@@ -1,6 +1,160 @@
 {
- "generated": "2026-10-26T15:27+00:00",
+ "generated": "2026-10-27T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-8901d9d89b60",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Search",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2171476533578976",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-88062970bd0f",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Foundation Model Optimization",
+   "location": "Burlingame, CA / Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1435245618154892",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-4d07829b4838",
+   "company": "Normal Computing",
+   "title": "AI Research Resident - Algorithms Codesign",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-275bc59cddcd",
+   "company": "Highmark Health",
+   "title": "Enterprise Data Governance Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-9c87368d96fa",
+   "company": "Highmark Health",
+   "title": "Applied Gen AI/Data Scientist Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-f833929f9a33",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Generative Recommendation Systems",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/3265378000517806",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-63e5c2d68824",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Audio AI",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1160814043168431",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-0008a083a353",
+   "company": "Arizona State University",
+   "title": "Student Assistant Intern - Data Science",
+   "location": "Scottsdale, AZ",
+   "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-ab3b66f79b52",
+   "company": "onsemi",
+   "title": "AI & Data Science Intern",
+   "location": "San Jose, CA",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-af8b2fbed550",
+   "company": "JP Morgan Chase",
+   "title": "Quant AI Associate Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-9dc3bb29e83d",
+   "company": "Highmark Health",
+   "title": "Predictive Modeling & Data Science Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-d2e4e5816b07",
+   "company": "Highmark Health",
+   "title": "Enterprise Master Data Management Analyst Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-b861c2b5fe52",
+   "company": "Generac",
+   "title": "AI Engineering Intern",
+   "location": "Waukesha, WI",
+   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-e43fc946ca92",
+   "company": "Zillow",
+   "title": "Data Science Intern",
+   "location": "Seattle, WA",
+   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-26",
+   "found": "2026-10-27"
+  },
   {
    "id": "w-778b6fd3ca9e",
    "company": "Dell Technologies",
@@ -40,17 +194,6 @@
    "title": "Agentic AI Intern",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-23",
-   "found": "2026-10-24"
-  },
-  {
-   "id": "w-260b88593101",
-   "company": "Amperesand",
-   "title": "AI/ML Engineer Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-23",
@@ -189,17 +332,6 @@
    "found": "2026-10-23"
   },
   {
-   "id": "w-c6e6267b3cb1",
-   "company": "Northrop Grumman",
-   "title": "Systems Engineering Intern - AI Experience",
-   "location": "Dulles, VA",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-23"
-  },
-  {
    "id": "w-c097cd9a0277",
    "company": "Meta",
    "title": "Research Scientist Intern - Feed Recommendations",
@@ -253,17 +385,6 @@
    "category": "tech",
    "posted": "2026-10-22",
    "found": "2026-10-23"
-  },
-  {
-   "id": "w-f88346c59633",
-   "company": "Pattern",
-   "title": "AI Automation Engineer Intern",
-   "location": "Lehi, UT",
-   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-24"
   },
   {
    "id": "w-100c91b24a28",
@@ -376,17 +497,6 @@
    "found": "2026-10-22"
   },
   {
-   "id": "w-b7362ff8aa6c",
-   "company": "ManTech",
-   "title": "AI Workflow Intern",
-   "location": "Remote in USA / Stafford, VA",
-   "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
    "id": "w-cbb5b5330f58",
    "company": "The New York Times",
    "title": "AI Initiatives Fellow",
@@ -403,17 +513,6 @@
    "title": "AI Enablement Intern",
    "location": "Rochester, NY",
    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
-   "id": "w-ae084a9ca91c",
-   "company": "Space Dynamics Laboratory",
-   "title": "AI-Enabled Requirements Engineering Intern",
-   "location": "North Logan, UT",
-   "url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-20",
@@ -495,17 +594,6 @@
    "category": "tech",
    "posted": "2026-10-20",
    "found": "2026-10-21"
-  },
-  {
-   "id": "w-0d2962a4d6ae",
-   "company": "GM financial",
-   "title": "Portfolio Analytics Intern",
-   "location": "Fort Worth, TX",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-19",
-   "found": "2026-10-19"
   },
   {
    "id": "w-321f446a76f9",
@@ -953,6 +1041,17 @@
    "title": "Data Engineer Intern",
    "location": "Seattle, WA",
    "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-08",
+   "found": "2026-10-13"
+  },
+  {
+   "id": "w-f4c0b3c0a5f1",
+   "company": "Koch Industries",
+   "title": "Data Science Intern",
+   "location": "Atlanta, GA",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/195341",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-08",
@@ -1498,6 +1597,28 @@
    "found": "2026-10-13"
   },
   {
+   "id": "w-2a5d38ca849a",
+   "company": "Aurora Innovation",
+   "title": "Behavior and Planning Intern - ML Research",
+   "location": "Pittsburgh, PA / Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-24",
+   "found": "2026-10-27"
+  },
+  {
+   "id": "w-0973c448344d",
+   "company": "Aurora Innovation",
+   "title": "Data & ML Platform Engineer Intern",
+   "location": "Pittsburgh, PA / Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-24",
+   "found": "2026-10-27"
+  },
+  {
    "id": "w-4b587b8da547",
    "company": "Figma",
    "title": "Data Engineer Intern (2027)",
@@ -1814,72 +1935,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b582c4ee2cad",
-   "company": "Constellation Energy",
-   "title": "IT Data Engineering Intern",
-   "location": "Baltimore, MD",
-   "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7df7a88d08a1",
-   "company": "Lyft",
-   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-93d98d5ffd95",
-   "company": "Citizens Financial Group",
-   "title": "Data Management Intern - Enterprise Data and Analytics",
-   "location": "Boston, MA / Johnston, RI / Columbus, OH",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-1460ff3388bf",
-   "company": "Veeam Software",
-   "title": "Machine Learning Intern - AI",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-51e06144b468",
-   "company": "Perpay",
-   "title": "Data Science Intern",
-   "location": "Philadelphia, PA",
-   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f72ce7114e88",
-   "company": "Perpay",
-   "title": "Data Engineering Intern",
-   "location": "Philadelphia, PA",
-   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-11",
    "found": "2026-10-13"
   }
  ]

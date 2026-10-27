@@ -1,74 +1,74 @@
 {
- "generated": "2026-10-26T15:27+00:00",
+ "generated": "2026-10-27T10:20+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 683,
+   "open_jobs": 679,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
   },
   "Scale AI": {
    "status": "ok",
-   "open_jobs": 170,
+   "open_jobs": 166,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "scaleai"
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 892,
+   "open_jobs": 896,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 717,
+   "open_jobs": 714,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "stripe"
   },
   "Airbnb": {
    "status": "ok",
-   "open_jobs": 191,
+   "open_jobs": 189,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "airbnb"
   },
   "Figma": {
    "status": "ok",
-   "open_jobs": 139,
+   "open_jobs": 141,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "figma"
   },
   "DoorDash": {
    "status": "ok",
-   "open_jobs": 456,
+   "open_jobs": 447,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "doordashusa"
   },
   "Lyft": {
    "status": "ok",
-   "open_jobs": 181,
+   "open_jobs": 179,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "lyft"
   },
   "Instacart": {
    "status": "ok",
-   "open_jobs": 111,
+   "open_jobs": 100,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "instacart"
   },
   "Pinterest": {
    "status": "ok",
-   "open_jobs": 163,
+   "open_jobs": 158,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "pinterest"
@@ -82,63 +82,63 @@
   },
   "Coinbase": {
    "status": "ok",
-   "open_jobs": 226,
+   "open_jobs": 224,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "coinbase"
   },
   "Robinhood": {
    "status": "ok",
-   "open_jobs": 157,
+   "open_jobs": 155,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "robinhood"
   },
   "Datadog": {
    "status": "ok",
-   "open_jobs": 426,
+   "open_jobs": 429,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "datadog"
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 451,
+   "open_jobs": 461,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 288,
+   "open_jobs": 321,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
    "status": "ok",
-   "open_jobs": 367,
+   "open_jobs": 365,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "mongodb"
   },
   "Duolingo": {
    "status": "ok",
-   "open_jobs": 59,
+   "open_jobs": 60,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "duolingo"
   },
   "Airtable": {
    "status": "ok",
-   "open_jobs": 6,
+   "open_jobs": 4,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "airtable"
   },
   "Brex": {
    "status": "ok",
-   "open_jobs": 259,
+   "open_jobs": 266,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "brex"
@@ -152,28 +152,28 @@
   },
   "SoFi": {
    "status": "ok",
-   "open_jobs": 56,
+   "open_jobs": 59,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sofi"
   },
   "Chime": {
    "status": "ok",
-   "open_jobs": 73,
+   "open_jobs": 75,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "chime"
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 334,
+   "open_jobs": 331,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
   },
   "Klaviyo": {
    "status": "ok",
-   "open_jobs": 160,
+   "open_jobs": 163,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "klaviyo"
@@ -187,21 +187,21 @@
   },
   "Dropbox": {
    "status": "ok",
-   "open_jobs": 19,
+   "open_jobs": 20,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "dropbox"
   },
   "Asana": {
    "status": "ok",
-   "open_jobs": 108,
+   "open_jobs": 111,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "asana"
   },
   "Faire": {
    "status": "ok",
-   "open_jobs": 70,
+   "open_jobs": 69,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "faire"
@@ -215,84 +215,84 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 366,
+   "open_jobs": 367,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2506,
+   "open_jobs": 2505,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
   "Nuro": {
    "status": "ok",
-   "open_jobs": 98,
+   "open_jobs": 97,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "nuro"
   },
   "Ramp": {
    "status": "ok",
-   "open_jobs": 168,
+   "open_jobs": 173,
    "matches": 1,
    "ats": "ashby",
    "slug": "ramp"
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 790,
+   "open_jobs": 796,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
   },
   "Notion": {
    "status": "ok",
-   "open_jobs": 141,
+   "open_jobs": 140,
    "matches": 0,
    "ats": "ashby",
    "slug": "notion"
   },
   "Perplexity": {
    "status": "ok",
-   "open_jobs": 131,
+   "open_jobs": 132,
    "matches": 0,
    "ats": "ashby",
    "slug": "perplexity"
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "open_jobs": 126,
+   "open_jobs": 124,
    "matches": 0,
    "ats": "ashby",
    "slug": "cursor"
   },
   "Linear": {
    "status": "ok",
-   "open_jobs": 34,
+   "open_jobs": 32,
    "matches": 0,
    "ats": "ashby",
    "slug": "linear"
   },
   "Harvey": {
    "status": "ok",
-   "open_jobs": 359,
+   "open_jobs": 364,
    "matches": 0,
    "ats": "ashby",
    "slug": "harvey"
   },
   "Cohere": {
    "status": "ok",
-   "open_jobs": 115,
+   "open_jobs": 116,
    "matches": 0,
    "ats": "ashby",
    "slug": "cohere"
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 155,
+   "open_jobs": 147,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -306,7 +306,7 @@
   },
   "Replit": {
    "status": "ok",
-   "open_jobs": 37,
+   "open_jobs": 36,
    "matches": 0,
    "ats": "ashby",
    "slug": "replit"
@@ -327,7 +327,7 @@
   },
   "Plaid": {
    "status": "ok",
-   "open_jobs": 133,
+   "open_jobs": 130,
    "matches": 0,
    "ats": "ashby",
    "slug": "plaid"
@@ -341,35 +341,35 @@
   },
   "Zoox": {
    "status": "ok",
-   "open_jobs": 236,
+   "open_jobs": 232,
    "matches": 0,
    "ats": "lever",
    "slug": "zoox"
   },
   "Shield AI": {
    "status": "ok",
-   "open_jobs": 668,
+   "open_jobs": 664,
    "matches": 0,
    "ats": "lever",
    "slug": "shieldai"
   },
   "IMC Trading": {
    "status": "ok",
-   "open_jobs": 170,
+   "open_jobs": 169,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "imc"
   },
   "Point72": {
    "status": "ok",
-   "open_jobs": 213,
+   "open_jobs": 209,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "point72"
   },
   "Jump Trading": {
    "status": "ok",
-   "open_jobs": 93,
+   "open_jobs": 94,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "jumptrading"
@@ -411,15 +411,15 @@
   },
   "AQR": {
    "status": "ok",
-   "open_jobs": 56,
+   "open_jobs": 55,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "aqr"
   },
   "Schonfeld": {
    "status": "ok",
-   "open_jobs": 67,
-   "matches": 0,
+   "open_jobs": 66,
+   "matches": 1,
    "ats": "greenhouse",
    "slug": "schonfeld"
   },
@@ -444,7 +444,7 @@
   },
   "Betterment": {
    "status": "ok",
-   "open_jobs": 25,
+   "open_jobs": 26,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "betterment"
@@ -465,35 +465,35 @@
   },
   "Morgan Stanley": {
    "status": "ok",
-   "open_jobs": 56,
+   "open_jobs": 57,
    "matches": 0,
    "ats": "workday",
    "slug": "ms"
   },
   "Riot Games": {
    "status": "ok",
-   "open_jobs": 180,
+   "open_jobs": 184,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "riotgames"
   },
   "Epic Games": {
    "status": "ok",
-   "open_jobs": 151,
+   "open_jobs": 148,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "epicgames"
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 268,
+   "open_jobs": 267,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
   },
   "Discord": {
    "status": "ok",
-   "open_jobs": 47,
+   "open_jobs": 46,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "discord"
@@ -514,7 +514,7 @@
   },
   "PlayStation": {
    "status": "ok",
-   "open_jobs": 196,
+   "open_jobs": 197,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal"
@@ -528,14 +528,14 @@
   },
   "FanDuel": {
    "status": "ok",
-   "open_jobs": 88,
+   "open_jobs": 87,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "fanduel"
   },
   "Twitch": {
    "status": "ok",
-   "open_jobs": 58,
+   "open_jobs": 59,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "twitch"
@@ -598,7 +598,7 @@
   },
   "Peloton": {
    "status": "ok",
-   "open_jobs": 59,
+   "open_jobs": 57,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "peloton"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 233,
-   "matches": 233,
+   "open_jobs": 240,
+   "matches": 240,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

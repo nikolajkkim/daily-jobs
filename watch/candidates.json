@@ -1,7 +1,243 @@
 {
- "generated": "2026-10-26T15:27+00:00",
+ "generated": "2026-10-27T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Research Scientist Intern - Search",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2171476533578976",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Research Scientist Intern - Foundation Model Optimization",
+   "location": "Burlingame, CA / Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1435245618154892",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "AI Research Resident - Algorithms Codesign",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
+   "posted": "2026-10-27",
+   "company": "Normal Computing",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Enterprise Data Governance Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807",
+   "posted": "2026-10-26",
+   "company": "Highmark Health",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Applied Gen AI/Data Scientist Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
+   "posted": "2026-10-26",
+   "company": "Highmark Health",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Research Scientist Intern - Generative Recommendation Systems",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/3265378000517806",
+   "posted": "2026-10-26",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Research Scientist Intern - Audio AI",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1160814043168431",
+   "posted": "2026-10-26",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Student Assistant Intern - Data Science",
+   "location": "Scottsdale, AZ",
+   "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568",
+   "posted": "2026-10-26",
+   "company": "Arizona State University",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "AI & Data Science Intern",
+   "location": "San Jose, CA",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
+   "posted": "2026-10-26",
+   "company": "onsemi",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Quant AI Associate Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
+   "posted": "2026-10-26",
+   "company": "JP Morgan Chase",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Predictive Modeling & Data Science Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
+   "posted": "2026-10-26",
+   "company": "Highmark Health",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Enterprise Master Data Management Analyst Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
+   "posted": "2026-10-26",
+   "company": "Highmark Health",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "AI Engineering Intern",
+   "location": "Waukesha, WI",
+   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+   "posted": "2026-10-26",
+   "company": "Generac",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Seattle, WA",
+   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+   "posted": "2026-10-26",
+   "company": "Zillow",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27"
+  },
   {
    "title": "Data Science Intern",
    "location": "Round Rock, TX",
@@ -18,7 +254,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-10-27"
   },
   {
    "title": "AI/ML Developer Intern",
@@ -37,7 +273,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-10-27"
   }
  ]
 }

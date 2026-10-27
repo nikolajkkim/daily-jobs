@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-26",
-    "found": 1,
-    "note": "1 new role (Skydio, posted Oct 25) · no top-up qualified (Databricks 2027 Start, Amazon, HPE, Dell, Micron lack a confirmed Summer 2027 term; DraftKings is bachelor's-only) · reports: all 19 already handled · 6 older links checked, none closed · discovery found nothing else verifiable (golf: none) · Problem: HPE and Dell pages didn't load; reports fetch returned only a summary"
+    "date": "2026-10-27",
+    "found": 5,
+    "note": "5 new roles (Highmark x2, onsemi, Zillow, JPMorgan; all posted Oct 26) · 0 browse adds · 5 older links checked, none closed · Problem: Workday/Oracle postings and the reports fetch returned empty/summary only, so eligibility came from the feed and no new reports could be confirmed; Wayfair ML Science Intern (Summer 2027, Boston) found but page returned 429"
   },
   "jobs": [
     {
@@ -709,6 +709,71 @@
       "found": "2026-10-26",
       "posted": "2026-10-25",
       "category": "tech"
+    },
+    {
+      "id": "highmark-applied-genai-ds-graduate-intern-2027",
+      "company": "Highmark Health",
+      "title": "Applied Gen AI/Data Scientist Graduate Intern",
+      "location": "California / Washington, DC / Texas / NYC",
+      "source": "Workday",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
+      "fit": "strong",
+      "why": "Summer 2027 graduate internship that accepts master's students, with NYC and California options. Your LLaMA retrieval pipeline and few-shot prompting work is a direct match for the Gen AI focus; the posting page wouldn't load for me, so confirm details when you apply.",
+      "found": "2026-10-27",
+      "posted": "2026-10-26",
+      "category": "tech"
+    },
+    {
+      "id": "onsemi-ai-data-science-intern-san-jose-2027",
+      "company": "onsemi",
+      "title": "AI & Data Science Intern",
+      "location": "San Jose, CA",
+      "source": "Company site",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
+      "fit": "good",
+      "why": "Summer 2027, master's-level role in San Jose. Your XGBoost work on 14M+ IoT readings and the bridge-damage modeling map well to industrial data; you have no semiconductor domain experience. The page wouldn't load for me, so details come from the job feed.",
+      "found": "2026-10-27",
+      "posted": "2026-10-26",
+      "category": "tech"
+    },
+    {
+      "id": "highmark-predictive-modeling-ds-graduate-intern-2027",
+      "company": "Highmark Health",
+      "title": "Predictive Modeling & Data Science Graduate Intern",
+      "location": "California / Washington, DC / Texas / NYC",
+      "source": "Workday",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
+      "fit": "good",
+      "why": "Summer 2027 graduate internship open to master's students, with NYC and California options. Your GAMs/LASSO/XGBoost modeling and F1-threshold tuning on imbalanced data fit; healthcare domain is new for you.",
+      "found": "2026-10-27",
+      "posted": "2026-10-26",
+      "category": "tech"
+    },
+    {
+      "id": "zillow-data-science-intern-seattle-2027",
+      "company": "Zillow",
+      "title": "Data Science Intern",
+      "location": "Seattle, WA",
+      "source": "Workday",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+      "fit": "good",
+      "why": "Summer 2027 data science internship open to master's students, in Seattle. Your SQL/Python/XGBoost and Tableau skills fit, though it is not NYC or California. It is a different role from the Economics applied-scientist one you applied to.",
+      "found": "2026-10-27",
+      "posted": "2026-10-26",
+      "category": "tech"
+    },
+    {
+      "id": "jpmorgan-quant-ai-associate-intern-palo-alto-2027",
+      "company": "JP Morgan Chase",
+      "title": "Quant AI Associate Intern",
+      "location": "Palo Alto, CA",
+      "source": "Company site",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
+      "fit": "stretch",
+      "why": "Summer 2027 role in Palo Alto for master's/PhD students. Your PyTorch, Hugging Face and LLM retrieval work lines up with the AI side, but a quantitative finance background may be expected and you have none yet.",
+      "found": "2026-10-27",
+      "posted": "2026-10-26",
+      "category": "finance"
     }
   ],
   "browse": [
