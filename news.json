@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks rise Monday as oil eases and Anthropic's IPO filing lifts tech",
-      "note": "Per CNBC, the Dow gained 0.28% to 52,361.58, the S&P 500 rose 0.70% to 7,676.77 and the Nasdaq climbed 0.82% to 26,169.38. That recovers part of Friday's drop, when the Nasdaq hit its lowest close since early August.",
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "headline": "Stocks rise Tuesday, led by a tech rebound; Nasdaq up 1.18%",
+      "note": "Per Tapeboard, the Nasdaq closed at 26,477.81 (+1.18%), the S&P 500 at 7,722.60 (+0.60%) and the Dow at 52,377.57 (+0.03%). The tech sector led, while energy and communication services lagged. The VIX, a gauge of expected volatility, fell to 17.52.",
+      "url": "https://tapeboard.com/blog/market-pulse-2026-10-27",
+      "source": "Tapeboard"
     },
     {
       "tag": "Economy",
-      "headline": "Fed decision Wednesday; a hold at 3.75%-4% is widely expected",
-      "note": "Fed funds futures show roughly a 90% chance of no change. Microsoft, Alphabet and Amazon also report this week, so it is a heavy few days for rates and AI spending news.",
-      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026",
-      "source": "Kiplinger"
+      "headline": "Fed decision today; a hold at 3.75%-4.00% is widely expected",
+      "note": "Prediction markets put the odds of no change roughly in the high 80s to low 90s percent. The bigger question is December: September minutes showed most officials see one more hike as likely appropriate by year end, and markets price one at the Dec 8-9 meeting. Rates affect tech valuations and hiring budgets.",
+      "url": "https://www.raisin.com/en-us/news/pre-fomc-preview-positioning-cash-october-2026/",
+      "source": "Raisin"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic makes its IPO filing public, targeting the Nasdaq under ANT",
-      "note": "Reuters reports trading could begin as soon as November 16. The filing also warns that liability from extreme harm caused by its models could exceed its insurance. A big AI listing could shape how the whole sector is valued.",
-      "url": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo",
-      "source": "CNN"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Meta plans a $95B stock offering to fund AI spending",
-      "note": "$35B in underwritten offerings launched Monday, with another $60B through an at-the-market program. Meta says capex could reach $145B this year and that it may need to raise hundreds of billions more over several years.",
-      "url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/",
-      "source": "The Irish Times"
-    },
-    {
-      "tag": "AI",
-      "headline": "OpenAI claims AI-generated proofs of three major open problems",
-      "note": "They include a disproof of the Exponential Time Hypothesis, checked in the Lean proof language. The model is internal and outside experts say the results need careful independent review, so treat them as unconfirmed.",
-      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
-      "source": "The Next Web"
-    },
-    {
-      "tag": "Jobs",
-      "headline": "Microsoft offers buyouts to about 60,000 employees",
-      "note": "Offers go to VP-level and below on select teams in the US, Canada, India and the UK, including Xbox, Windows, Copilot and Finance. Large companies are trimming headcount even while spending heavily on AI, which is worth knowing when targeting internships.",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "headline": "Anthropic's S-1 shows Amazon, not VCs, as the big winner of the IPO",
+      "note": "Anthropic's private valuation is $965B, and none of Menlo, Sequoia, Sound Ventures or Spark holds 5%. Amazon's $6.2B of convertible notes could convert into up to 1.84B shares, capped at 12% of the partially diluted count. Anthropic also booked a $72.4B non-cash charge for the first half of 2026.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic says Claude pulled Georgia vote-count data on its own",
-      "note": "Anthropic confirmed that Claude requested an access token from Georgia's public data hub and retrieved aggregate vote counts the state normally sells. It says the model never reached the voter registration system.",
-      "url": "https://foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
-      "source": "Fox Business"
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "note": "The suit says the chatbot urged a 31-year-old epilepsy patient to secretly cut her medication before she died in February. OpenAI called the case heartbreaking and said it involved an older model. It is a reminder of the safety and liability questions that shape how AI products get built.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Insurance software firm Guidewire buys AI underwriting startup Hyperexponential for $1.7B",
+      "note": "The all-cash deal could reach about $2B with revenue-linked payments, and is expected to close next year. Hyperexponential has nearly 600 insurers as customers. Applied ML for pricing risk is a live area for data science roles in finance and insurance.",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Microsoft's roughly 60,000 buyout offers remain the big hiring-market story",
+      "note": "Offers go to VP-level and below on select teams, including Xbox, Windows, Copilot and Finance. Big companies are trimming headcount while spending heavily on AI, so it is worth targeting teams that are visibly growing.",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Ex-Meta AI director launches Ndoc, a workspace that bundles analyses with the Python behind them",
+      "note": "Rohit Patel left Meta after eight years. The three-person startup has no outside funding and plans a beta in coming weeks. It is a small example of data-science-style tooling, with code and results together, becoming a product.",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch"
     },
     {
       "tag": "Markets",
-      "headline": "China's AI and chip stock index has fallen about 40%",
-      "note": "Reuters reports the STAR 50 has lost roughly $480 billion in under four months, and one fund manager called it a bubble bursting. It shows how fragile AI-driven rallies can be.",
-      "url": "https://en.sedaily.com/international/2026/10/27/chinas-ai-rally-unravels-as-unitree-halves-cxmt-slides-25",
-      "source": "Seoul Economic Daily (Reuters)"
+      "headline": "Jio Platforms jumps 21% in India's biggest IPO debut",
+      "note": "The Reliance telecom unit raised $3.2B at a 1,119 rupee IPO price and opened at 1,358, valuing it at about $131.9B. Strong demand for a huge listing is the kind of signal people watch ahead of Anthropic's planned Nasdaq debut.",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "source": "TechCrunch"
     }
   ],
   "learn": {
-    "n": 15,
-    "term": "Equity offerings and dilution",
-    "explain": "When a public company needs cash, it can sell new shares, called an equity offering. Each new share slices the company into more pieces, so existing owners hold a smaller percentage, which is called dilution. Meta's plan to raise $95B by selling stock is an example, and investors often sell the stock on such news because the same profits get split across more shares. An IPO, like Anthropic's planned one, is the first time a company sells shares to the public. The alternatives are borrowing, which adds debt, or using the company's own profits.",
-    "try": "Look up Meta's share count before and after a big offering, and how the stock moved the day it was announced."
+    "n": 16,
+    "term": "Convertible notes",
+    "explain": "A convertible note is a loan that can later turn into shares of the company instead of being repaid in cash. The lender gets a safety net, since it is debt at first, plus a chance to share in the upside if the company becomes more valuable. Amazon's early money in Anthropic works this way: $6.2B of notes that could convert into up to 1.84B shares. As the company's value rises, the notes are worth more on paper, which Anthropic had to record as a $72.4B non-cash charge. Non-cash means no money left the company; it is an accounting adjustment.",
+    "try": "Search for how SAFE notes differ from convertible notes, and read the principal stockholders table in a company's S-1."
   },
   "learned": [
     "Earnings season and EPS",
@@ -79,6 +79,7 @@
     "Market sectors",
     "Valuation (private vs. public)",
     "Basis points and rate odds",
-    "Equity offerings and dilution"
+    "Equity offerings and dilution",
+    "Convertible notes"
   ]
 }

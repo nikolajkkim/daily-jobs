@@ -1,7 +1,58 @@
 {
- "generated": "2026-10-27T14:54+00:00",
+ "generated": "2026-10-28T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Research Scientist Intern - Ads Recommendations",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1691709792593561",
+   "posted": "2026-10-28",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+   "location": "Houston, TX",
+   "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
+   "posted": "2026-10-28",
+   "company": "CAMS",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "AI Accelerator Design Verification Engineer Intern",
+   "location": "Austin, TX / Santa Clara, CA",
+   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
+   "posted": "2026-10-28",
+   "company": "RosaicLabs",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
   {
    "title": "Research Scientist Intern - Search",
    "location": "Menlo Park, CA",
@@ -15,7 +66,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Research Scientist Intern - Foundation Model Optimization",
@@ -30,7 +81,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "AI Research Resident - Algorithms Codesign",
@@ -48,7 +99,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Data Science Intern - Data and AI Team",
@@ -66,7 +117,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Product Management Intern - Data and AI Team",
@@ -84,7 +135,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "AI Intern",
@@ -102,7 +153,265 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Power Systems Time-Series Analytics Intern",
+   "location": "Glen Allen, VA",
+   "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
+   "posted": "2026-10-27",
+   "company": "Dominion Energy",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - Video Generation Self-Improvement",
+   "location": "Seattle, WA / Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/29358420983776961",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - User Modeling and Reinforcement Learning",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1751935042548465",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - Ranking & Recommendations",
+   "location": "Menlo Park, CA / NYC / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1625515955324134",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - Neural Representations Compression",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2368433610564528",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - AI Research - Speech & Audio",
+   "location": "Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/1567168005156007",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Research Scientist Intern - Computer Vision - Video Intelligence",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1789380188995838",
+   "posted": "2026-10-27",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Analytics Intern",
+   "location": "Atlanta, GA",
+   "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007",
+   "posted": "2026-10-27",
+   "company": "Hive Financial Systems",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "AI Research Intern",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8919606002",
+   "posted": "2026-10-27",
+   "company": "Atoms",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Phoenix, AZ",
+   "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+   "posted": "2026-10-27",
+   "company": "CSAA Insurance Group",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl",
+   "location": "NYC",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
+   "posted": "2026-10-27",
+   "company": "JP Morgan Chase",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
+   "location": "San Jose, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
+   "posted": "2026-10-27",
+   "company": "Micron Technology",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Strategic Analytics Intern",
+   "location": "NYC",
+   "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
+   "posted": "2026-10-27",
+   "company": "David Yurman",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Data Engineer Intern",
+   "location": "Deerfield Beach, FL",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+   "posted": "2026-10-27",
+   "company": "JM Family",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "Power Platform & Analytics Intern",
+   "location": "Mobile, AL",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133",
+   "posted": "2026-10-27",
+   "company": "JM Family",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "title": "AI and Data Science Intern",
+   "location": "Atlanta, GA",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
+   "posted": "2026-10-27",
+   "company": "Assurant",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Enterprise Data Governance Intern",
@@ -117,7 +426,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Research Scientist Intern - Generative Recommendation Systems",
@@ -132,7 +441,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Research Scientist Intern - Audio AI",
@@ -147,7 +456,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Student Assistant Intern - Data Science",
@@ -165,7 +474,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "Enterprise Master Data Management Analyst Graduate Intern",
@@ -183,7 +492,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "title": "AI Engineering Intern",
@@ -200,44 +509,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Round Rock, TX",
-   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
-   "posted": "2026-10-25",
-   "company": "Dell Technologies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "title": "AI/ML Developer Intern",
-   "location": "San Jose, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
-   "posted": "2026-10-25",
-   "company": "Hewlett Packard Enterprise",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   }
  ]
 }

@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-27T14:54+00:00",
+ "generated": "2026-10-28T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-625bb39291c0",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Ads Recommendations",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1691709792593561",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-216d2c5e67b5",
+   "company": "CAMS",
+   "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+   "location": "Houston, TX",
+   "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-c77197e3499b",
+   "company": "RosaicLabs",
+   "title": "AI Accelerator Design Verification Engineer Intern",
+   "location": "Austin, TX / Santa Clara, CA",
+   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-28"
+  },
   {
    "id": "w-8901d9d89b60",
    "company": "Meta",
@@ -66,6 +99,182 @@
    "category": "tech",
    "posted": "2026-10-27",
    "found": "2026-10-27"
+  },
+  {
+   "id": "w-0539aebfc0a3",
+   "company": "Dominion Energy",
+   "title": "Power Systems Time-Series Analytics Intern",
+   "location": "Glen Allen, VA",
+   "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-ba9451d7554f",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Video Generation Self-Improvement",
+   "location": "Seattle, WA / Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/29358420983776961",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-a44a1cc56b27",
+   "company": "Meta",
+   "title": "Research Scientist Intern - User Modeling and Reinforcement Learning",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1751935042548465",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-9847cd0a8b8a",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Ranking & Recommendations",
+   "location": "Menlo Park, CA / NYC / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1625515955324134",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-f243d0f61e56",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Neural Representations Compression",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2368433610564528",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-0abd614eddff",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI Research - Speech & Audio",
+   "location": "Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/1567168005156007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-3d3e6dcc5845",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Computer Vision - Video Intelligence",
+   "location": "Menlo Park, CA / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1789380188995838",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-d5078b5be165",
+   "company": "Hive Financial Systems",
+   "title": "Analytics Intern",
+   "location": "Atlanta, GA",
+   "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-5644a9bf98cc",
+   "company": "Atoms",
+   "title": "AI Research Intern",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8919606002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-e56661ba7ca1",
+   "company": "CSAA Insurance Group",
+   "title": "Data Science Intern",
+   "location": "Phoenix, AZ",
+   "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-e9f39085fc19",
+   "company": "JP Morgan Chase",
+   "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl",
+   "location": "NYC",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-ecc50c205e97",
+   "company": "Micron Technology",
+   "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
+   "location": "San Jose, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-4ac5ea47da7d",
+   "company": "David Yurman",
+   "title": "Strategic Analytics Intern",
+   "location": "NYC",
+   "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-714d94fd0ba3",
+   "company": "JM Family",
+   "title": "Data Engineer Intern",
+   "location": "Deerfield Beach, FL",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-adf690853b4e",
+   "company": "JM Family",
+   "title": "Power Platform & Analytics Intern",
+   "location": "Mobile, AL",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-bbfe7b5d0f97",
+   "company": "Assurant",
+   "title": "AI and Data Science Intern",
+   "location": "Atlanta, GA",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-10-28"
   },
   {
    "id": "w-275bc59cddcd",
@@ -277,6 +486,39 @@
    "found": "2026-10-24"
   },
   {
+   "id": "w-8661fc8291bc",
+   "company": "Scout AI",
+   "title": "AI Engineer Intern - Fury Team",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-23",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-9492671dd55d",
+   "company": "Quadric",
+   "title": "AI Kernel Engineer Intern",
+   "location": "Burlingame, CA",
+   "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-23",
+   "found": "2026-10-28"
+  },
+  {
+   "id": "w-06f1489c8590",
+   "company": "Quadric",
+   "title": "Deep Learning Compiler Intern",
+   "location": "Burlingame, CA",
+   "url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-23",
+   "found": "2026-10-28"
+  },
+  {
    "id": "w-141ca6418bfb",
    "company": "OpenArt AI",
    "title": "Early Adopter & Product Builder Intern - Creative AI",
@@ -365,17 +607,6 @@
    "found": "2026-10-23"
   },
   {
-   "id": "w-100c91b24a28",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Fair - Video Generation",
-   "location": "Seattle, WA / Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/3549654831867862",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-24"
-  },
-  {
    "id": "w-de64ee73d242",
    "company": "Meta",
    "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
@@ -409,17 +640,6 @@
    "found": "2026-10-24"
   },
   {
-   "id": "w-4c490d212c59",
-   "company": "CVS Health",
-   "title": "Innovation & Technology Internship - Data Engineering",
-   "location": "NYC",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-24"
-  },
-  {
    "id": "w-ba00e98f7684",
    "company": "Trace3",
    "title": "Data and Analytics Engineer Intern",
@@ -442,33 +662,11 @@
    "found": "2026-10-22"
   },
   {
-   "id": "w-f514af902572",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Foundational Models for Robotics Research",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1078644001656413",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
    "id": "w-01f891e9d369",
    "company": "Meta",
    "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
    "location": "Burlingame, CA / Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1075160338670575",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-21",
-   "found": "2026-10-22"
-  },
-  {
-   "id": "w-84b0f0461a31",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Robot Foundation Models",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/27730225806654441",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-21",
@@ -502,17 +700,6 @@
    "title": "Research Scientist Intern - Computational Imaging and Robotics",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/2857194467985784",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
-   "id": "w-8ebe0772f7d1",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Multimodal Behavioral AI",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1428978125312655",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-20",
@@ -799,17 +986,6 @@
    "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
    "location": "Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/1758435721926913",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
-   "id": "w-e653aaed2fd8",
-   "company": "Meta",
-   "title": "Manufacturing Test Engineer Intern - AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/954380870617862",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-14",

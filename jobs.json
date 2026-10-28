@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "found": 5,
-    "note": "5 new roles (Highmark x2, onsemi, Zillow, JPMorgan; all posted Oct 26) · 0 browse adds · 5 older links checked, none closed · Problem: Workday/Oracle postings and the reports fetch returned empty/summary only, so eligibility came from the feed and no new reports could be confirmed; Wayfair ML Science Intern (Summer 2027, Boston) found but page returned 429"
+    "note": "5 new roles (JPMorgan TSRL NYC, Visa, Assurant, CSAA posted Oct 27; Sun Life Oct 23 as top-up) · 0 browse adds · 6 older links checked, none closed (Kensho page is a generic careers list, left as is) · Problem: reports fetch returned only a summary (no new reports confirmed), Workday/Oracle pages returned empty so eligibility came from the feed; discovery searches found no new open Summer 2027 roles"
   },
   "jobs": [
     {
@@ -774,6 +774,71 @@
       "found": "2026-10-27",
       "posted": "2026-10-26",
       "category": "finance"
+    },
+    {
+      "id": "jpmorgan-ml-coe-time-series-rl-intern-nyc-2027",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning",
+      "location": "New York, NY",
+      "source": "Company site",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983",
+      "fit": "strong",
+      "why": "Summer 2027 in NYC for master's/PhD students, on time series and reinforcement learning. Your PPO quadcopter work and XGBoost on 14M+ IoT readings line up directly; eligibility comes from the feed because the page would not load.",
+      "found": "2026-10-28",
+      "category": "finance",
+      "posted": "2026-10-27"
+    },
+    {
+      "id": "visa-data-science-intern-data-ai-foster-city-2027",
+      "company": "Visa",
+      "title": "Data Science Intern - Data and AI Team",
+      "location": "Foster City, CA",
+      "source": "Workday",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+      "fit": "good",
+      "why": "Summer 2027 data science internship in California, open to bachelor's and master's students. Your XGBoost class-imbalance work and DistilBERT fine-tuning fit; no industry internship yet is the gap. Eligibility comes from the feed because the page would not load.",
+      "found": "2026-10-28",
+      "category": "finance",
+      "posted": "2026-10-27"
+    },
+    {
+      "id": "assurant-ai-data-science-intern-2027",
+      "company": "Assurant",
+      "title": "Summer 2027 AI and Data Science Internship",
+      "location": "Atlanta, GA (virtual)",
+      "source": "Workday",
+      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
+      "fit": "good",
+      "why": "Summer 2027, accepts master's students, and the listing is virtual. Your LLaMA retrieval pipeline and ML projects fit an AI and data science scope. Eligibility comes from the feed because the page would not load.",
+      "found": "2026-10-28",
+      "category": "finance",
+      "posted": "2026-10-27"
+    },
+    {
+      "id": "csaa-data-science-intern-2027",
+      "company": "CSAA Insurance Group",
+      "title": "Data Science Intern",
+      "location": "Phoenix, AZ (teleworker listing)",
+      "source": "Workday",
+      "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+      "fit": "good",
+      "why": "Summer 2027 data science internship, listed as a teleworker role. Your XGBoost risk modeling and GAM/LASSO work map to insurance risk analytics. The feed lists no degree levels, so check master's eligibility before applying.",
+      "found": "2026-10-28",
+      "category": "finance",
+      "posted": "2026-10-27"
+    },
+    {
+      "id": "sunlife-data-science-intern-2027",
+      "company": "Sun Life",
+      "title": "Data Science Intern - Summer 2027",
+      "location": "Wellesley Hills, MA (multiple US sites)",
+      "source": "Workday",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+      "fit": "good",
+      "why": "Summer 2027 data science internship in the title. Your scikit-learn/XGBoost modeling and SQL fit; the page would not load, so confirm degree level and graduation window on the posting.",
+      "found": "2026-10-28",
+      "category": "finance",
+      "posted": "2026-10-23"
     }
   ],
   "browse": [
