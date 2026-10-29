@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T10:20+00:00",
+ "generated": "2026-10-29T15:31+00:00",
  "jobs": [
   {
    "id": "w-f79466ef2cfc",
@@ -13,14 +13,25 @@
    "found": "2026-10-29"
   },
   {
-   "id": "w-70e941fa9c3f",
-   "company": "Schonfeld",
-   "title": "AI Enablement Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
-   "source": "Greenhouse",
-   "category": "finance",
-   "posted": "2026-10-28",
+   "id": "w-d29e7e403232",
+   "company": "Sallie Mae",
+   "title": "Data Science and Engineering Intern",
+   "location": "Newark, DE / Arlington County, Arlington, VA",
+   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-cdff130dc19a",
+   "company": "Charles River Analytics",
+   "title": "AI Scientist Intern",
+   "location": "Cambridge, MA",
+   "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
    "found": "2026-10-29"
   },
   {
@@ -90,28 +101,6 @@
    "found": "2026-10-29"
   },
   {
-   "id": "w-8d04952a21a4",
-   "company": "Applied Materials",
-   "title": "Data Science Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-4da746055758",
-   "company": "Applied Materials",
-   "title": "Data Scientist Intern - Master's",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
    "id": "w-860a81eb74cf",
    "company": "Leidos",
    "title": "Data Engineer Intern",
@@ -156,33 +145,11 @@
    "found": "2026-10-29"
   },
   {
-   "id": "w-0a3600a30e42",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
-   "location": "Rensselaer, NY",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
    "id": "w-984a3307c2dc",
    "company": "Regeneron Pharmaceuticals",
    "title": "Data Analytics Intern - Dashboards & Business Process Automation",
    "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-2624591c0736",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "AI/ML & Data Engineering Intern",
-   "location": "Cambridge, MA / Armonk, NY / Warren, NJ / Sleepy Hollow, NY + more",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-28",

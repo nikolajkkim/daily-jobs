@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T10:20+00:00",
+ "generated": "2026-10-29T15:31+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -22,13 +22,35 @@
    "last_seen": "2026-10-29"
   },
   {
-   "title": "AI Enablement Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
-   "posted": "2026-10-28",
-   "company": "Schonfeld",
-   "category": "finance",
-   "ats": "greenhouse",
+   "title": "Data Science and Engineering Intern",
+   "location": "Newark, DE / Arlington County, Arlington, VA",
+   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+   "posted": "2026-10-29",
+   "company": "Sallie Mae",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "AI Scientist Intern",
+   "location": "Cambridge, MA",
+   "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895",
+   "posted": "2026-10-29",
+   "company": "Charles River Analytics",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
    "first_seen": "2026-10-29",
    "last_seen": "2026-10-29"
   },
@@ -139,41 +161,6 @@
    "last_seen": "2026-10-29"
   },
   {
-   "title": "Data Science Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
-   "posted": "2026-10-28",
-   "company": "Applied Materials",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "title": "Data Scientist Intern - Master's",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
-   "posted": "2026-10-28",
-   "company": "Applied Materials",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
    "title": "Data Engineer Intern",
    "location": "Fort Belvoir, VA",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
@@ -245,24 +232,6 @@
    "last_seen": "2026-10-29"
   },
   {
-   "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
-   "location": "Rensselaer, NY",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
-   "posted": "2026-10-28",
-   "company": "Regeneron Pharmaceuticals",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
    "title": "Data Analytics Intern - Dashboards & Business Process Automation",
    "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
@@ -272,24 +241,6 @@
     "Summer 2027"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "title": "AI/ML & Data Engineering Intern",
-   "location": "Cambridge, MA / Armonk, NY / Warren, NJ / Sleepy Hollow, NY + more",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
-   "posted": "2026-10-28",
-   "company": "Regeneron Pharmaceuticals",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-29",
