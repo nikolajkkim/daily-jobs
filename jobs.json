@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "found": 5,
-    "note": "5 new roles (JPMorgan TSRL NYC, Visa, Assurant, CSAA posted Oct 27; Sun Life Oct 23 as top-up) · 0 browse adds · 6 older links checked, none closed (Kensho page is a generic careers list, left as is) · Problem: reports fetch returned only a summary (no new reports confirmed), Workday/Oracle pages returned empty so eligibility came from the feed; discovery searches found no new open Summer 2027 roles"
+    "note": "5 new roles (Schonfeld NYC, 2 Applied Materials, 2 Regeneron; all posted Oct 28) · 0 browse adds · no new reports (all 19 already handled) · 6 links checked, none closed · Problem: Workday pages return empty so eligibility came from the Simplify feed; discovery searches found no new open Summer 2027 roles"
   },
   "jobs": [
     {
@@ -839,6 +839,71 @@
       "found": "2026-10-28",
       "category": "finance",
       "posted": "2026-10-23"
+    },
+    {
+      "id": "schonfeld-ai-enablement-intern-2027",
+      "company": "Schonfeld",
+      "title": "AI Enablement Intern",
+      "location": "NYC",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+      "fit": "good",
+      "why": "Summer 2027 in NYC, building LLM use cases (prompting, retrieval, agents) in Python, which matches your LLaMA retrieval pipeline. Catch: it asks for about a year left in the program and graduation Jan–summer 2028, and your Dec 2027 date is just before that window; it is a conversion-track role.",
+      "found": "2026-10-29",
+      "category": "finance",
+      "posted": "2026-10-28"
+    },
+    {
+      "id": "applied-materials-data-scientist-intern-masters-2027",
+      "company": "Applied Materials",
+      "title": "Data Scientist Intern - Master's",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+      "fit": "strong",
+      "why": "Summer 2027 role aimed at master's students in California, so your Columbia M.S. fits directly. Your XGBoost work on 14M+ IoT readings maps well to semiconductor manufacturing data.",
+      "found": "2026-10-29",
+      "category": "tech",
+      "posted": "2026-10-28"
+    },
+    {
+      "id": "applied-materials-data-science-intern-2027",
+      "company": "Applied Materials",
+      "title": "Data Science Intern",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students, in California. Your scikit-learn/XGBoost modeling and the bridge damage modeling fellowship carry over; same company as the master's-specific role, so apply to whichever fits better.",
+      "found": "2026-10-29",
+      "category": "tech",
+      "posted": "2026-10-28"
+    },
+    {
+      "id": "regeneron-ai-ml-data-engineering-intern-2027",
+      "company": "Regeneron Pharmaceuticals",
+      "title": "AI/ML & Data Engineering Intern",
+      "location": "Cambridge, MA / Armonk, NY / Warren, NJ / Sleepy Hollow, NY",
+      "source": "Workday",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+      "fit": "good",
+      "why": "Summer 2027, master's eligible, with New York-area sites. Your PyTorch/Hugging Face and LLaMA retrieval work fits the AI/ML side; the data engineering half is a gap, and biotech domain experience is new.",
+      "found": "2026-10-29",
+      "category": "tech",
+      "posted": "2026-10-28"
+    },
+    {
+      "id": "regeneron-data-science-digital-innovation-intern-2027",
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+      "location": "Rensselaer, NY",
+      "source": "Workday",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+      "fit": "good",
+      "why": "Summer 2027, master's eligible, in upstate New York. Your XGBoost risk modeling with class imbalance suits manufacturing/operations data, though it is more applied analytics than the LLM work you lead with.",
+      "found": "2026-10-29",
+      "category": "tech",
+      "posted": "2026-10-28"
     }
   ],
   "browse": [

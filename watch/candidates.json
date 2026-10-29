@@ -1,7 +1,37 @@
 {
- "generated": "2026-10-28T15:25+00:00",
+ "generated": "2026-10-29T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "AI Solutions Engineering Intern",
+   "location": "Arden Hills, MN",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+   "posted": "2026-10-29",
+   "company": "Boston Scientific",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "AI Enablement Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+   "posted": "2026-10-28",
+   "company": "Schonfeld",
+   "category": "finance",
+   "ats": "greenhouse",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
   {
    "title": "Research Scientist Intern - Ads Recommendations",
    "location": "Menlo Park, CA",
@@ -15,7 +45,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
@@ -33,7 +63,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "AI Accelerator Design Verification Engineer Intern",
@@ -51,7 +81,219 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Analytics Engineer Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
+   "posted": "2026-10-28",
+   "company": "Workday",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Insurance Technology & AI Analytics Intern",
+   "location": "Dallas, TX / Chicago, IL",
+   "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
+   "posted": "2026-10-28",
+   "company": "Revantage Corporate Services",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Electrical Design Automation Intern - AI & EDA Automation",
+   "location": "Livermore, CA",
+   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
+   "posted": "2026-10-28",
+   "company": "FormFactor",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+   "posted": "2026-10-28",
+   "company": "Applied Materials",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Scientist Intern - Master's",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+   "posted": "2026-10-28",
+   "company": "Applied Materials",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Engineer Intern",
+   "location": "Fort Belvoir, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+   "posted": "2026-10-28",
+   "company": "Leidos",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "San Jose, CA / Folsom, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+   "posted": "2026-10-28",
+   "company": "Micron Technology",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Talent Analytics Intern",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
+   "posted": "2026-10-28",
+   "company": "American Family Insurance Group",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Systems Intern",
+   "location": "Bridgeport, WV",
+   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970",
+   "posted": "2026-10-28",
+   "company": "Berkshire Hathaway Energy",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+   "location": "Rensselaer, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+   "posted": "2026-10-28",
+   "company": "Regeneron Pharmaceuticals",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "Data Analytics Intern - Dashboards & Business Process Automation",
+   "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
+   "posted": "2026-10-28",
+   "company": "Regeneron Pharmaceuticals",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
+   "title": "AI/ML & Data Engineering Intern",
+   "location": "Cambridge, MA / Armonk, NY / Warren, NJ / Sleepy Hollow, NY + more",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+   "posted": "2026-10-28",
+   "company": "Regeneron Pharmaceuticals",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Search",
@@ -66,7 +308,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Foundation Model Optimization",
@@ -81,7 +323,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "AI Research Resident - Algorithms Codesign",
@@ -99,7 +341,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Product Management Intern - Data and AI Team",
@@ -117,7 +359,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "AI Intern",
@@ -135,7 +377,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Power Systems Time-Series Analytics Intern",
@@ -152,7 +394,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Video Generation Self-Improvement",
@@ -167,7 +409,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - User Modeling and Reinforcement Learning",
@@ -182,7 +424,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Ranking & Recommendations",
@@ -197,7 +439,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Neural Representations Compression",
@@ -212,7 +454,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - AI Research - Speech & Audio",
@@ -227,7 +469,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Research Scientist Intern - Computer Vision - Video Intelligence",
@@ -242,7 +484,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Analytics Intern",
@@ -257,7 +499,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "AI Research Intern",
@@ -275,7 +517,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
@@ -293,7 +535,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Strategic Analytics Intern",
@@ -308,7 +550,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Data Engineer Intern",
@@ -326,7 +568,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Power Platform & Analytics Intern",
@@ -341,105 +583,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "Enterprise Data Governance Intern",
-   "location": "Pittsburgh, PA",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807",
-   "posted": "2026-10-26",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "Research Scientist Intern - Generative Recommendation Systems",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/3265378000517806",
-   "posted": "2026-10-26",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "Research Scientist Intern - Audio AI",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/1160814043168431",
-   "posted": "2026-10-26",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "Student Assistant Intern - Data Science",
-   "location": "Scottsdale, AZ",
-   "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568",
-   "posted": "2026-10-26",
-   "company": "Arizona State University",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "Enterprise Master Data Management Analyst Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
-   "posted": "2026-10-26",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
-  },
-  {
-   "title": "AI Engineering Intern",
-   "location": "Waukesha, WI",
-   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
-   "posted": "2026-10-26",
-   "company": "Generac",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   }
  ]
 }

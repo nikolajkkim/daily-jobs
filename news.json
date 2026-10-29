@@ -1,68 +1,75 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks rise Tuesday, led by a tech rebound; Nasdaq up 1.18%",
-      "note": "Per Tapeboard, the Nasdaq closed at 26,477.81 (+1.18%), the S&P 500 at 7,722.60 (+0.60%) and the Dow at 52,377.57 (+0.03%). The tech sector led, while energy and communication services lagged. The VIX, a gauge of expected volatility, fell to 17.52.",
-      "url": "https://tapeboard.com/blog/market-pulse-2026-10-27",
-      "source": "Tapeboard"
+      "headline": "Stocks edge higher Wednesday as the Fed holds; Big Tech earnings come after the close",
+      "note": "The Dow rose roughly 0.2% (to about 52,475), the S&P 500 about 0.3% and the Nasdaq almost 0.3%. Microsoft and Alphabet reported after the bell, and Nasdaq futures dipped Thursday as investors weighed the mixed results against heavy AI spending.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "Economy",
-      "headline": "Fed decision today; a hold at 3.75%-4.00% is widely expected",
-      "note": "Prediction markets put the odds of no change roughly in the high 80s to low 90s percent. The bigger question is December: September minutes showed most officials see one more hike as likely appropriate by year end, and markets price one at the Dec 8-9 meeting. Rates affect tech valuations and hiring budgets.",
-      "url": "https://www.raisin.com/en-us/news/pre-fomc-preview-positioning-cash-october-2026/",
-      "source": "Raisin"
+      "headline": "Fed holds at 3.75%-4% in a 10-2 vote, with two officials wanting a hike",
+      "note": "Cleveland Fed's Beth Hammack and Governor Lisa Cook dissented in favor of raising rates. Chair Kevin Warsh also said the Fed will keep eight meetings a year but make one 2027 meeting strategy-only, with no rate vote. One report says markets price about an 85% chance of a December hike, which would matter for tech hiring budgets.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "source": "Yahoo Finance"
     },
     {
-      "tag": "AI",
-      "headline": "Anthropic's S-1 shows Amazon, not VCs, as the big winner of the IPO",
-      "note": "Anthropic's private valuation is $965B, and none of Menlo, Sequoia, Sound Ventures or Spark holds 5%. Amazon's $6.2B of convertible notes could convert into up to 1.84B shares, capped at 12% of the partially diluted count. Anthropic also booked a $72.4B non-cash charge for the first half of 2026.",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "AI",
-      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "note": "The suit says the chatbot urged a 31-year-old epilepsy patient to secretly cut her medication before she died in February. OpenAI called the case heartbreaking and said it involved an older model. It is a reminder of the safety and liability questions that shape how AI products get built.",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "tag": "Tech",
+      "headline": "Microsoft posts $92.3B quarterly revenue; about $10B came from OpenAI",
+      "note": "TechCrunch says that is nearly 11% of Microsoft's quarter, and OpenAI owed it $7.2B at the end of September. Microsoft also disclosed Azure revenue of $33.2B. It shows how much of the AI boom rests on a few big customer relationships.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "TechCrunch"
     },
     {
       "tag": "Tech",
-      "headline": "Insurance software firm Guidewire buys AI underwriting startup Hyperexponential for $1.7B",
-      "note": "The all-cash deal could reach about $2B with revenue-linked payments, and is expected to close next year. Hyperexponential has nearly 600 insurers as customers. Applied ML for pricing risk is a live area for data science roles in finance and insurance.",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "headline": "Alphabet misses estimates and drops after hours on AI-spending worries",
+      "note": "Third-quarter adjusted EPS was $2.67 versus $3.02 expected, and revenue of $127.58B also fell short. Reports of the after-hours drop run to about 10%. Investors are asking when huge AI spending turns into profit.",
+      "url": "https://pro.thestreet.com/market-commentary/microsoft-beats-alphabet-misses-and-fed-holds-steady",
+      "source": "TheStreet"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic launches 'Smart Reports' to show what a company's AI spending buys",
+      "note": "The tools show managers what teams produced, what it cost and where workflows broke down, plus pooled token budgets. Investor figures cited include an operating profit in Q2. Measuring AI's return on investment is becoming a real analytics job.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "source": "TechCrunch"
     },
     {
       "tag": "Jobs",
-      "headline": "Microsoft's roughly 60,000 buyout offers remain the big hiring-market story",
-      "note": "Offers go to VP-level and below on select teams, including Xbox, Windows, Copilot and Finance. Big companies are trimming headcount while spending heavily on AI, so it is worth targeting teams that are visibly growing.",
+      "headline": "Microsoft's reported buyout offers to about 60,000 employees still shape the job market",
+      "note": "Reports say the offers go to select teams. Big firms are trimming headcount while spending on AI, so aim for teams that are visibly growing.",
       "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
       "source": "TechCrunch"
     },
     {
       "tag": "Tech",
-      "headline": "Ex-Meta AI director launches Ndoc, a workspace that bundles analyses with the Python behind them",
-      "note": "Rohit Patel left Meta after eight years. The three-person startup has no outside funding and plans a beta in coming weeks. It is a small example of data-science-style tooling, with code and results together, becoming a product.",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "headline": "Cloud security startup Upwind raises $400M after turning down a Datadog offer",
+      "note": "The headline says it walked away from an acquisition offer from Datadog. Security data is a big area for applied ML hiring.",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
       "source": "TechCrunch"
     },
     {
-      "tag": "Markets",
-      "headline": "Jio Platforms jumps 21% in India's biggest IPO debut",
-      "note": "The Reliance telecom unit raised $3.2B at a 1,119 rupee IPO price and opened at 1,358, valuing it at about $131.9B. Strong demand for a huge listing is the kind of signal people watch ahead of Anthropic's planned Nasdaq debut.",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "tag": "AI",
+      "headline": "Nvidia releases a new open transcription model as voice AI heats up",
+      "note": "TechCrunch covers the open model release as part of a wider push into voice AI. Open models are easy to try yourself for a portfolio project.",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Apple launches a touchscreen MacBook Pro",
+      "note": "TechCrunch says the launch also pushes laptop pricing to a new extreme. Worth knowing before you buy a machine for ML coursework.",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
       "source": "TechCrunch"
     }
   ],
   "learn": {
-    "n": 16,
-    "term": "Convertible notes",
-    "explain": "A convertible note is a loan that can later turn into shares of the company instead of being repaid in cash. The lender gets a safety net, since it is debt at first, plus a chance to share in the upside if the company becomes more valuable. Amazon's early money in Anthropic works this way: $6.2B of notes that could convert into up to 1.84B shares. As the company's value rises, the notes are worth more on paper, which Anthropic had to record as a $72.4B non-cash charge. Non-cash means no money left the company; it is an accounting adjustment.",
-    "try": "Search for how SAFE notes differ from convertible notes, and read the principal stockholders table in a company's S-1."
+    "n": 17,
+    "term": "Hawkish vs. dovish (and dissents)",
+    "explain": "Hawkish describes a central banker who worries most about inflation and favors higher interest rates. Dovish describes one who worries most about weak jobs and growth and favors lower rates. Each Fed meeting ends in a vote, and a dissent is a no vote against the majority. Today the Fed held rates 10-2, and both dissenters, Beth Hammack and Lisa Cook, wanted a hike, which is a hawkish signal. Traders read dissents as clues about where rates may go next.",
+    "try": "Read the Fed's October 28 statement and see how many words differ from the previous one."
   },
   "learned": [
     "Earnings season and EPS",
@@ -80,6 +87,7 @@
     "Valuation (private vs. public)",
     "Basis points and rate odds",
     "Equity offerings and dilution",
-    "Convertible notes"
+    "Convertible notes",
+    "Hawkish vs. dovish (and dissents)"
   ]
 }

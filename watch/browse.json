@@ -1,6 +1,28 @@
 {
- "generated": "2026-10-28T15:25+00:00",
+ "generated": "2026-10-29T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-f79466ef2cfc",
+   "company": "Boston Scientific",
+   "title": "AI Solutions Engineering Intern",
+   "location": "Arden Hills, MN",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-70e941fa9c3f",
+   "company": "Schonfeld",
+   "title": "AI Enablement Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+   "source": "Greenhouse",
+   "category": "finance",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
   {
    "id": "w-625bb39291c0",
    "company": "Meta",
@@ -33,6 +55,138 @@
    "category": "tech",
    "posted": "2026-10-28",
    "found": "2026-10-28"
+  },
+  {
+   "id": "w-4ebed06fee8a",
+   "company": "Workday",
+   "title": "Analytics Engineer Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-bd949a60e7db",
+   "company": "Revantage Corporate Services",
+   "title": "Insurance Technology & AI Analytics Intern",
+   "location": "Dallas, TX / Chicago, IL",
+   "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-e50003ab61ed",
+   "company": "FormFactor",
+   "title": "Electrical Design Automation Intern - AI & EDA Automation",
+   "location": "Livermore, CA",
+   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-8d04952a21a4",
+   "company": "Applied Materials",
+   "title": "Data Science Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-4da746055758",
+   "company": "Applied Materials",
+   "title": "Data Scientist Intern - Master's",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-860a81eb74cf",
+   "company": "Leidos",
+   "title": "Data Engineer Intern",
+   "location": "Fort Belvoir, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-1934d33224d2",
+   "company": "Micron Technology",
+   "title": "Data Scientist Intern",
+   "location": "San Jose, CA / Folsom, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-347be058c10d",
+   "company": "American Family Insurance Group",
+   "title": "Talent Analytics Intern",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-ec404f83c7e9",
+   "company": "Berkshire Hathaway Energy",
+   "title": "Data Systems Intern",
+   "location": "Bridgeport, WV",
+   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-0a3600a30e42",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+   "location": "Rensselaer, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-984a3307c2dc",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Data Analytics Intern - Dashboards & Business Process Automation",
+   "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
+  },
+  {
+   "id": "w-2624591c0736",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "AI/ML & Data Engineering Intern",
+   "location": "Cambridge, MA / Armonk, NY / Warren, NJ / Sleepy Hollow, NY + more",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-10-29"
   },
   {
    "id": "w-8901d9d89b60",
@@ -596,22 +750,22 @@
    "found": "2026-10-22"
   },
   {
-   "id": "w-555cefdabd83",
-   "company": "American Family Insurance Group",
-   "title": "Data Engineer Intern",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+   "id": "w-01f891e9d369",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
+   "location": "Burlingame, CA / Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1075160338670575",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-21",
    "found": "2026-10-22"
   },
   {
-   "id": "w-01f891e9d369",
+   "id": "w-84b0f0461a31",
    "company": "Meta",
-   "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
-   "location": "Burlingame, CA / Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1075160338670575",
+   "title": "Research Scientist Intern - Robot Foundation Models",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/27730225806654441",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-21",
@@ -915,17 +1069,6 @@
    "found": "2026-10-15"
   },
   {
-   "id": "w-6dc2a26859d3",
-   "company": "National Laboratory of the Rockies",
-   "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
-   "location": "Golden, CO",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14561",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
    "id": "w-db462d881f91",
    "company": "Meta",
    "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
@@ -981,17 +1124,6 @@
    "found": "2026-10-14"
   },
   {
-   "id": "w-e45ec56df46e",
-   "company": "7-Eleven",
-   "title": "AI Analyst / AI Automation Specialist Intern",
-   "location": "Irving, TX",
-   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
    "id": "w-90b6d3faf15b",
    "company": "DriveTime",
    "title": "Data Analytics Intern",
@@ -1030,17 +1162,6 @@
    "title": "Digital Technology & Data Intern",
    "location": "Auburn Hills, MI",
    "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-90e023680b4c",
-   "company": "Ascension",
-   "title": "Master Data Management Intern",
-   "location": "St. Louis, MO",
-   "url": "https://jobs.ascension.org/us/en/job/2026-465180",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-12",
@@ -1201,17 +1322,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-37e6a0373662",
-   "company": "Booz Allen",
-   "title": "Applied AI Software Development Intern",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-170846a890fb",
    "company": "Tenstorrent",
    "title": "AI Software Intern",
@@ -1287,6 +1397,17 @@
    "category": "tech",
    "posted": "2026-10-06",
    "found": "2026-10-13"
+  },
+  {
+   "id": "w-f186857f85da",
+   "company": "HPS Investment Partners",
+   "title": "Technology Intern - IT Data & Analytics",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-06",
+   "found": "2026-10-29"
   },
   {
    "id": "w-02048ae01da8",
@@ -1630,6 +1751,17 @@
    "found": "2026-10-24"
   },
   {
+   "id": "w-9535d0c16bb9",
+   "company": "General Dynamics Information Technology",
+   "title": "AI/ML Software Development and Engineering Intern",
+   "location": "Bossier City, LA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-09-26",
+   "found": "2026-10-29"
+  },
+  {
    "id": "w-f654eb7f42db",
    "company": "Red Ventures",
    "title": "Data Science Intern - Launch Program",
@@ -1694,28 +1826,6 @@
    "category": "tech",
    "posted": "2026-09-24",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-2a5d38ca849a",
-   "company": "Aurora Innovation",
-   "title": "Behavior and Planning Intern - ML Research",
-   "location": "Pittsburgh, PA / Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-24",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-0973c448344d",
-   "company": "Aurora Innovation",
-   "title": "Data & ML Platform Engineer Intern",
-   "location": "Pittsburgh, PA / Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-24",
-   "found": "2026-10-27"
   },
   {
    "id": "w-4b587b8da547",
@@ -1828,15 +1938,15 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-c5459db5384e",
-   "company": "Lazard",
-   "title": "Data Engineer Intern",
-   "location": "NYC",
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605",
+   "id": "w-970b26ba2d49",
+   "company": "USAA",
+   "title": "Data Scientist Intern",
+   "location": "Plano, TX",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-09-21",
-   "found": "2026-10-13"
+   "posted": "2026-09-22",
+   "found": "2026-10-29"
   },
   {
    "id": "w-63c63abd15a1",
@@ -1957,50 +2067,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f1e65043da92",
-   "company": "Guardian Life",
-   "title": "Data Engineering Intern - Digital & Technology",
-   "location": "Holmdel, NJ / NYC / Bethlehem, PA",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-26ffb17a1ed0",
-   "company": "Guardian Life",
-   "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
-   "location": "Holmdel, NJ / NYC / Bethlehem, PA",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-fe6cc687f55e",
-   "company": "BP",
-   "title": "Data Strategist Intern - Global Data Strategists Team",
-   "location": "NYC",
-   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-09-14",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3d4e4aeba684",
-   "company": "Brevan Howard",
-   "title": "Quantitative Analyst Intern - AI",
-   "location": "NYC",
-   "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-09-14",
    "found": "2026-10-13"
   },
   {
