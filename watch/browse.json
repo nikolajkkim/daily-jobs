@@ -1,6 +1,28 @@
 {
- "generated": "2026-10-30T10:20+00:00",
+ "generated": "2026-10-30T15:19+00:00",
  "jobs": [
+  {
+   "id": "w-50d52be92ac2",
+   "company": "Astera Labs",
+   "title": "AI Product Management Intern",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-30"
+  },
+  {
+   "id": "w-0e75ac9833fc",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Photorealistic Telepresence",
+   "location": "Redmond, WA / Pittsburgh, PA",
+   "url": "https://www.metacareers.com/jobs/1358944629494375",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-30"
+  },
   {
    "id": "w-f79466ef2cfc",
    "company": "Boston Scientific",
@@ -68,55 +90,11 @@
    "found": "2026-10-30"
   },
   {
-   "id": "w-5eb661c2d1f0",
-   "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Autonomous Vehicles",
-   "location": "Seattle, WA / Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
-   "id": "w-7a1c370a0308",
-   "company": "Path Robotics",
-   "title": "Machine Learning & Robotics Intern",
-   "location": "Columbus, OH",
-   "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
    "id": "w-38c12cda30d6",
    "company": "NVIDIA",
    "title": "AI Systems Software Engineer Intern",
    "location": "Austin, TX",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
-   "id": "w-1a167b650487",
-   "company": "NVIDIA",
-   "title": "VLSI CAD Timing Intern - Applied AI",
-   "location": "Santa Clara, CA / United States",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
-   "id": "w-f5aac76e9d45",
-   "company": "Sanofi",
-   "title": "US Advanced Analytics Intern",
-   "location": "Cambridge, MA / Morristown, NJ",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-29",
@@ -183,17 +161,6 @@
    "title": "Analytics Engineer Intern",
    "location": "Pleasanton, CA",
    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-bd949a60e7db",
-   "company": "Revantage Corporate Services",
-   "title": "Insurance Technology & AI Analytics Intern",
-   "location": "Dallas, TX / Chicago, IL",
-   "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-28",
