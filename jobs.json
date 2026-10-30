@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "found": 5,
-    "note": "5 new roles (Schonfeld NYC, 2 Applied Materials, 2 Regeneron; all posted Oct 28) · 0 browse adds · no new reports (all 19 already handled) · 6 links checked, none closed · Problem: Workday pages return empty so eligibility came from the Simplify feed; discovery searches found no new open Summer 2027 roles"
+    "note": "5 new roles (GM AV, Path Robotics, Sanofi, NVIDIA, Revantage; all posted Oct 28-29) · 0 browse adds · no new reports (19 already handled) · 5 links checked, none closed · Problem: Workday pages return empty so eligibility came from the Simplify feed; report fetch returned only a summary; discovery searches found no open Summer 2027 roles"
   },
   "jobs": [
     {
@@ -904,6 +904,71 @@
       "found": "2026-10-29",
       "category": "tech",
       "posted": "2026-10-28"
+    },
+    {
+      "id": "gm-ai-ml-engineer-autonomous-vehicles-intern-2027",
+      "company": "General Motors",
+      "title": "AI/ML Engineer Intern - Autonomous Vehicles",
+      "location": "Seattle, WA / Sunnyvale, CA",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+      "fit": "strong",
+      "why": "Summer 2027. Autonomy work lines up with your PPO quadcopter navigation and simulated LiDAR project, and the role accepts master's students. Workday page wouldn't load, so eligibility comes from the Simplify listing.",
+      "found": "2026-10-30",
+      "posted": "2026-10-29",
+      "category": "tech"
+    },
+    {
+      "id": "path-robotics-ml-robotics-intern-2027",
+      "company": "Path Robotics",
+      "title": "Machine Learning & Robotics Intern",
+      "location": "Columbus, OH",
+      "source": "Greenhouse",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002",
+      "fit": "good",
+      "why": "Summer 2027 (posting says spring or summer). Your stable-baselines3 and PyFlyt robotics work is relevant; it's in Columbus, OH, so relocation is needed.",
+      "found": "2026-10-30",
+      "posted": "2026-10-29",
+      "category": "tech"
+    },
+    {
+      "id": "sanofi-us-advanced-analytics-intern-2027",
+      "company": "Sanofi",
+      "title": "US Advanced Analytics Intern",
+      "location": "Cambridge, MA / Morristown, NJ",
+      "source": "Workday",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218",
+      "fit": "good",
+      "why": "Summer 2027 in Cambridge, MA. Your XGBoost and GAM modeling on messy real data fits, though it's more analytics than deep ML.",
+      "found": "2026-10-30",
+      "posted": "2026-10-29",
+      "category": "tech"
+    },
+    {
+      "id": "nvidia-vlsi-cad-timing-applied-ai-intern-2027",
+      "company": "NVIDIA",
+      "title": "VLSI CAD Timing Intern - Applied AI",
+      "location": "Santa Clara, CA / United States",
+      "source": "Workday",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+      "fit": "stretch",
+      "why": "Summer 2027, master's/PhD eligible, Santa Clara. Applied ML on timing data suits your modeling background, but chip-design domain knowledge is a gap.",
+      "found": "2026-10-30",
+      "posted": "2026-10-29",
+      "category": "tech"
+    },
+    {
+      "id": "revantage-insurance-tech-ai-analytics-intern-2027",
+      "company": "Revantage Corporate Services",
+      "title": "Insurance Technology & AI Analytics Intern",
+      "location": "Dallas, TX / Chicago, IL",
+      "source": "Workday",
+      "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
+      "fit": "stretch",
+      "why": "Summer 2027, master's eligible, Chicago or Dallas. Your LLaMA retrieval pipeline and predictive modeling apply, but the role leans analytics.",
+      "found": "2026-10-30",
+      "posted": "2026-10-28",
+      "category": "finance"
     }
   ],
   "browse": [

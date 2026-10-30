@@ -1,75 +1,75 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks edge higher Wednesday as the Fed holds; Big Tech earnings come after the close",
-      "note": "The Dow rose roughly 0.2% (to about 52,475), the S&P 500 about 0.3% and the Nasdaq almost 0.3%. Microsoft and Alphabet reported after the bell, and Nasdaq futures dipped Thursday as investors weighed the mixed results against heavy AI spending.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "headline": "Alphabet's record one-day drop pulls the Nasdaq down about 1.4% Thursday",
+      "note": "The S&P 500 and Dow each slipped roughly 0.3%. Alphabet fell about 12% after third-quarter sales missed estimates, the worst day in its history by Yahoo Finance's account, erasing roughly $500 billion in value. Software and AI-linked names sold off in sympathy.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Alphabet's miss revives worries about when AI spending pays off",
+      "note": "Investors focused on weak sales and free cash flow against heavy AI spending. Microsoft beat expectations on sales and profit and held up better than Alphabet. Big Tech's AI budgets set how much these firms hire for ML roles.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Amazon's free cash flow turns to a $42.4B outflow as it holds 2026 capex at $220B",
+      "note": "Amazon fell about 4% on Thursday after reporting; it had dropped about 10% after hours before trimming losses. Trailing-twelve-month free cash flow was an outflow versus a $14.8B inflow a year earlier.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Economy",
-      "headline": "Fed holds at 3.75%-4% in a 10-2 vote, with two officials wanting a hike",
-      "note": "Cleveland Fed's Beth Hammack and Governor Lisa Cook dissented in favor of raising rates. Chair Kevin Warsh also said the Fed will keep eight meetings a year but make one 2027 meeting strategy-only, with no rate vote. One report says markets price about an 85% chance of a December hike, which would matter for tech hiring budgets.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "headline": "Economy grew at a 3.4% pace in Q3, but inflation is still running hot",
+      "note": "Initial GDP beat the 3.1% expected, helping small caps rally. September PCE inflation rose 3.6% from a year earlier (core 3.1%). Strong growth plus high inflation keeps a December Fed hike in play, per reports.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Intel plunges roughly 17-20% on a weak revenue outlook",
+      "note": "Intel guided fourth-quarter revenue to $15-16B versus about $17B expected. It is a reminder that chip stocks are priced on forward guidance, not only past results.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Tech",
-      "headline": "Microsoft posts $92.3B quarterly revenue; about $10B came from OpenAI",
-      "note": "TechCrunch says that is nearly 11% of Microsoft's quarter, and OpenAI owed it $7.2B at the end of September. Microsoft also disclosed Azure revenue of $33.2B. It shows how much of the AI boom rests on a few big customer relationships.",
+      "headline": "DoorDash agrees to buy Instacart for about $17B",
+      "note": "The deal is $65 per share, a 26% premium to Instacart's Oct. 22 close, at least 75% in cash. DoorDash pitches pairing delivery with Instacart's grocery tech plus both firms' advertising and AI tools; both are big data and ML employers.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000114036126041111/ef20084547_ex99-1.htm",
+      "source": "DoorDash (SEC filing)"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Tech layoffs top roughly 196,000 in 2026, but AI and data roles keep hiring",
+      "note": "TrueUp's count was about 196,000 as of Oct. 23; other trackers show lower totals. Reports say employers are cutting generalist and entry-level roles while still hiring for AI/ML and data engineering, so internship applications should stress specific skills.",
+      "url": "https://www.techrepublic.com/article/news-tech-layoffs-2026-companies-cutting-jobs/",
+      "source": "TechRepublic"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Microsoft recorded about $10B of revenue from OpenAI last quarter",
+      "note": "TechCrunch says that is nearly 11% of Microsoft's $92.3B quarter. It shows how much of the AI boom rests on a few big customer relationships.",
       "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "TechCrunch"
     },
     {
-      "tag": "Tech",
-      "headline": "Alphabet misses estimates and drops after hours on AI-spending worries",
-      "note": "Third-quarter adjusted EPS was $2.67 versus $3.02 expected, and revenue of $127.58B also fell short. Reports of the after-hours drop run to about 10%. Investors are asking when huge AI spending turns into profit.",
-      "url": "https://pro.thestreet.com/market-commentary/microsoft-beats-alphabet-misses-and-fed-holds-steady",
-      "source": "TheStreet"
-    },
-    {
       "tag": "AI",
       "headline": "Anthropic launches 'Smart Reports' to show what a company's AI spending buys",
-      "note": "The tools show managers what teams produced, what it cost and where workflows broke down, plus pooled token budgets. Investor figures cited include an operating profit in Q2. Measuring AI's return on investment is becoming a real analytics job.",
+      "note": "The tools show what teams produced, what it cost and where workflows broke down. Measuring AI's return on investment is becoming a real analytics job.",
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "Jobs",
-      "headline": "Microsoft's reported buyout offers to about 60,000 employees still shape the job market",
-      "note": "Reports say the offers go to select teams. Big firms are trimming headcount while spending on AI, so aim for teams that are visibly growing.",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Cloud security startup Upwind raises $400M after turning down a Datadog offer",
-      "note": "The headline says it walked away from an acquisition offer from Datadog. Security data is a big area for applied ML hiring.",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "AI",
-      "headline": "Nvidia releases a new open transcription model as voice AI heats up",
-      "note": "TechCrunch covers the open model release as part of a wider push into voice AI. Open models are easy to try yourself for a portfolio project.",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Apple launches a touchscreen MacBook Pro",
-      "note": "TechCrunch says the launch also pushes laptop pricing to a new extreme. Worth knowing before you buy a machine for ML coursework.",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
       "source": "TechCrunch"
     }
   ],
   "learn": {
-    "n": 17,
-    "term": "Hawkish vs. dovish (and dissents)",
-    "explain": "Hawkish describes a central banker who worries most about inflation and favors higher interest rates. Dovish describes one who worries most about weak jobs and growth and favors lower rates. Each Fed meeting ends in a vote, and a dissent is a no vote against the majority. Today the Fed held rates 10-2, and both dissenters, Beth Hammack and Lisa Cook, wanted a hike, which is a hawkish signal. Traders read dissents as clues about where rates may go next.",
-    "try": "Read the Fed's October 28 statement and see how many words differ from the previous one."
+    "n": 18,
+    "term": "PCE inflation",
+    "explain": "PCE (personal consumption expenditures) is a price index published by the government that tracks what households pay for goods and services. The Fed prefers it to CPI because it adjusts as people switch to cheaper products and covers more spending. Core PCE leaves out food and energy, which swing a lot. The Fed's usual goal is about 2% a year. Today's report showed September PCE up 3.6% from a year earlier, with core at 3.1%, well above that goal.",
+    "try": "Look up the Fed's 2% target and compare it with core PCE over the past year."
   },
   "learned": [
     "Earnings season and EPS",
@@ -88,6 +88,7 @@
     "Basis points and rate odds",
     "Equity offerings and dilution",
     "Convertible notes",
-    "Hawkish vs. dovish (and dissents)"
+    "Hawkish vs. dovish (and dissents)",
+    "PCE inflation"
   ]
 }
