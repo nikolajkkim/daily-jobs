@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T10:20+00:00",
+ "generated": "2026-10-31T14:43+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 325,
+   "open_jobs": 326,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 145,
+   "open_jobs": 144,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 283,
-   "matches": 283,
+   "open_jobs": 282,
+   "matches": 282,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

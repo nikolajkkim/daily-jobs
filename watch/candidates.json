@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T10:20+00:00",
+ "generated": "2026-10-31T14:43+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -32,17 +32,6 @@
    ],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "location": "Seattle, WA / NYC",
-   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-   "posted": "2026-10-30",
-   "company": "Stripe",
-   "category": "tech",
-   "ats": "greenhouse",
    "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
@@ -145,26 +134,11 @@
    "last_seen": "2026-10-31"
   },
   {
-   "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
-   "location": "Remote in USA",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
+   "title": "Data Scientist Intern - Product Support",
+   "location": "San Diego, CA",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
    "posted": "2026-10-30",
-   "company": "VSP Vision",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Summer Intern - AI Innovation",
-   "location": "Raleigh, NC",
-   "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
-   "posted": "2026-10-30",
-   "company": "First Citizens BancShares",
+   "company": "Northrop Grumman",
    "terms": [
     "Summer 2027"
    ],
@@ -191,21 +165,6 @@
     "Master's",
     "PhD"
    ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Data Science and Engineering Intern",
-   "location": "Newark, DE / Arlington County, Arlington, VA",
-   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
-   "posted": "2026-10-29",
-   "company": "Sallie Mae",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-29",
@@ -273,21 +232,6 @@
     "Master's",
     "PhD"
    ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "AI Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123",
-   "posted": "2026-10-29",
-   "company": "CareSource",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
