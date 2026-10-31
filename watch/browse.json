@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-30T15:19+00:00",
+ "generated": "2026-10-31T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-9582d45be189",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Video Recsys",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1553890293163197",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-31",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-fd5568b11be7",
+   "company": "Firework",
+   "title": "Data Engineer Intern",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-31",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-7c2d1c6811f9",
+   "company": "Stripe",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Seattle, WA / NYC",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "source": "Greenhouse",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
   {
    "id": "w-50d52be92ac2",
    "company": "Astera Labs",
@@ -22,6 +55,72 @@
    "category": "tech",
    "posted": "2026-10-30",
    "found": "2026-10-30"
+  },
+  {
+   "id": "w-53b915e9dbb9",
+   "company": "Amazon",
+   "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
+   "location": "Boston, MA / Seattle, WA / Austin, TX / Irvine, CA + more",
+   "url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-c53d8f846963",
+   "company": "Barclays",
+   "title": "Client Data & Engineering Group Summer Intern - Chief Client Office",
+   "location": "NYC",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-d99f53e0f40b",
+   "company": "University of Miami",
+   "title": "Data Science & AI Intern",
+   "location": "Miami, FL",
+   "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-111aa72194be",
+   "company": "Strada Education Foundation",
+   "title": "Clear Outcomes and Data Science Intern",
+   "location": "Washington, DC",
+   "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-528faf7f3bff",
+   "company": "VSP Vision",
+   "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
+   "location": "Remote in USA",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
+  },
+  {
+   "id": "w-7773ed0a674a",
+   "company": "First Citizens BancShares",
+   "title": "Summer Intern - AI Innovation",
+   "location": "Raleigh, NC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-30",
+   "found": "2026-10-31"
   },
   {
    "id": "w-f79466ef2cfc",
@@ -55,17 +154,6 @@
    "category": "tech",
    "posted": "2026-10-29",
    "found": "2026-10-29"
-  },
-  {
-   "id": "w-8e1849117ec2",
-   "company": "RTX",
-   "title": "Sustainment Data and Analytics Intern",
-   "location": "East Hartford, CT",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
   },
   {
    "id": "w-dfa7a50fd567",
@@ -121,6 +209,28 @@
    "category": "tech",
    "posted": "2026-10-29",
    "found": "2026-10-30"
+  },
+  {
+   "id": "w-743d4a6fdcc5",
+   "company": "Microsoft",
+   "title": "Applied Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-30"
+  },
+  {
+   "id": "w-aa3ebcb24e31",
+   "company": "AXA",
+   "title": "Underwriting Data & Analytics Intern",
+   "location": "NYC",
+   "url": "https://careers.axa.com/jobs/25498?icims=1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-31"
   },
   {
    "id": "w-625bb39291c0",
@@ -662,6 +772,17 @@
    "found": "2026-10-28"
   },
   {
+   "id": "w-592c305346a7",
+   "company": "Intercontinental Exchange",
+   "title": "Quantitative Financial Analytics Intern",
+   "location": "Atlanta, GA",
+   "url": "https://ice.jibeapply.com/jobs/14055?icims=1",
+   "source": "Simplify list",
+   "category": "finance",
+   "posted": "2026-10-23",
+   "found": "2026-10-31"
+  },
+  {
    "id": "w-141ca6418bfb",
    "company": "OpenArt AI",
    "title": "Early Adopter & Product Builder Intern - Creative AI",
@@ -1069,6 +1190,17 @@
    "found": "2026-10-17"
   },
   {
+   "id": "w-0bf49d66e841",
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineering & Analytics Tools Intern",
+   "location": "Washington, DC",
+   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-16",
+   "found": "2026-10-31"
+  },
+  {
    "id": "w-16d613f701b1",
    "company": "Duolingo",
    "title": "Data Scientist, Intern",
@@ -1388,17 +1520,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-5476499cacb6",
-   "company": "Microsoft",
-   "title": "Applied Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-0badbc47d1e1",
    "company": "Astera Labs",
    "title": "Applied AI Intern - Non-Silicon",
@@ -1619,6 +1740,17 @@
    "found": "2026-10-13"
   },
   {
+   "id": "w-f8c6e30367c5",
+   "company": "American Family Insurance Group",
+   "title": "GenAI/ML Intern",
+   "location": "Madison, WI / Boston, MA",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-02",
+   "found": "2026-10-13"
+  },
+  {
    "id": "w-e2224987f418",
    "company": "Intuit",
    "title": "Finance Transformation & Analytics Intern",
@@ -1628,6 +1760,17 @@
    "category": "tech",
    "posted": "2026-10-02",
    "found": "2026-10-13"
+  },
+  {
+   "id": "w-4e285159703a",
+   "company": "Farmers Mutual Hail",
+   "title": "Data Architect Intern",
+   "location": "West Des Moines, IA",
+   "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-02",
+   "found": "2026-10-31"
   },
   {
    "id": "w-3b9ebffa9d0e",
@@ -1938,17 +2081,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-970b26ba2d49",
-   "company": "USAA",
-   "title": "Data Scientist Intern",
-   "location": "Plano, TX",
-   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-29"
-  },
-  {
    "id": "w-63c63abd15a1",
    "company": "Viking Global",
    "title": "Data Science Intern",
@@ -2023,39 +2155,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-16",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f41f6f0e8155",
-   "company": "HF Sinclair",
-   "title": "IT Data Analytics Intern",
-   "location": "Dallas, TX",
-   "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-4f88044e19fb",
-   "company": "APEX Analytix",
-   "title": "Data Science Intern",
-   "location": "Greensboro, NC",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-7d91fd6aa00a",
-   "company": "APEX Analytix",
-   "title": "Data Engineering Intern - Summer 2027",
-   "location": "Greensboro, NC",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-15",
    "found": "2026-10-13"
   }
  ]

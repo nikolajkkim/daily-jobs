@@ -1,75 +1,68 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Alphabet's record one-day drop pulls the Nasdaq down about 1.4% Thursday",
-      "note": "The S&P 500 and Dow each slipped roughly 0.3%. Alphabet fell about 12% after third-quarter sales missed estimates, the worst day in its history by Yahoo Finance's account, erasing roughly $500 billion in value. Software and AI-linked names sold off in sympathy.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
+      "headline": "Tech sell-off hits Friday: Nasdaq falls about 2.8%, S&P 500 about 1.8%, Dow about 1.1%",
+      "note": "The Dow closed at 51,770.31. Amazon and Alphabet earnings misses and Intel's weak outlook renewed worries about Big Tech's AI spending. For October, the Nasdaq fell roughly 5%, the S&P 500 about 1.2%, and the Dow gained about 1.5%. Figures vary a little by source.",
+      "url": "https://www.newsbeep.com/790983/",
+      "source": "News Beep (CNBC live updates)"
     },
     {
-      "tag": "Tech",
-      "headline": "Alphabet's miss revives worries about when AI spending pays off",
-      "note": "Investors focused on weak sales and free cash flow against heavy AI spending. Microsoft beat expectations on sales and profit and held up better than Alphabet. Big Tech's AI budgets set how much these firms hire for ML roles.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
+      "tag": "Economy",
+      "headline": "Two Fed officials hint rate hikes may be needed; oil rises on Middle East tensions",
+      "note": "Both added to Friday's pressure on stocks, per the market recap. Higher rates tend to hit richly valued tech shares hardest.",
+      "url": "https://www.newsbeep.com/790983/",
+      "source": "News Beep (CNBC live updates)"
     },
     {
       "tag": "Tech",
       "headline": "Amazon's free cash flow turns to a $42.4B outflow as it holds 2026 capex at $220B",
-      "note": "Amazon fell about 4% on Thursday after reporting; it had dropped about 10% after hours before trimming losses. Trailing-twelve-month free cash flow was an outflow versus a $14.8B inflow a year earlier.",
+      "note": "Amazon fell about 4% on Thursday after reporting and was part of Friday's tech sell-off. Heavy AI spending is now the main thing investors question.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
       "source": "Yahoo Finance"
     },
     {
-      "tag": "Economy",
-      "headline": "Economy grew at a 3.4% pace in Q3, but inflation is still running hot",
-      "note": "Initial GDP beat the 3.1% expected, helping small caps rally. September PCE inflation rose 3.6% from a year earlier (core 3.1%). Strong growth plus high inflation keeps a December Fed hike in play, per reports.",
+      "tag": "Tech",
+      "headline": "Alphabet's record one-day drop (about 12% Thursday) revives worries about when AI spending pays off",
+      "note": "Third-quarter sales missed estimates and about $500 billion in value was erased. Big Tech's AI budgets set how much these firms hire for ML roles.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Chips",
       "headline": "Intel plunges roughly 17-20% on a weak revenue outlook",
-      "note": "Intel guided fourth-quarter revenue to $15-16B versus about $17B expected. It is a reminder that chip stocks are priced on forward guidance, not only past results.",
+      "note": "Intel guided fourth-quarter revenue to $15-16B versus about $17B expected. Chip stocks are priced on forward guidance, not just past results.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
       "source": "Yahoo Finance"
     },
     {
-      "tag": "Tech",
-      "headline": "DoorDash agrees to buy Instacart for about $17B",
-      "note": "The deal is $65 per share, a 26% premium to Instacart's Oct. 22 close, at least 75% in cash. DoorDash pitches pairing delivery with Instacart's grocery tech plus both firms' advertising and AI tools; both are big data and ML employers.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000114036126041111/ef20084547_ex99-1.htm",
-      "source": "DoorDash (SEC filing)"
+      "tag": "AI",
+      "headline": "OpenAI, Google, Microsoft and Anthropic agree to honor one robots.txt token for opting out of AI training",
+      "note": "Websites can use `__usage_ai-training` to opt out across all four companies' crawlers. Anthropic has started; OpenAI says coming months, Microsoft targets Feb 1, 2027, Google 2027. It is an individual IETF draft with no formal standing, and non-compliant scrapers can ignore it.",
+      "url": "https://aiweekly.co/alerts/openai-google-microsoft-anthropic-back-one-ai-opt-out-token",
+      "source": "AI Weekly"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Economy grew at a 3.4% pace in Q3, but inflation is still running hot",
+      "note": "Initial GDP beat the 3.1% expected. September PCE inflation rose 3.6% from a year earlier (core 3.1%). Strong growth plus high inflation keeps Fed hikes in play, per reports.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs top roughly 196,000 in 2026, but AI and data roles keep hiring",
-      "note": "TrueUp's count was about 196,000 as of Oct. 23; other trackers show lower totals. Reports say employers are cutting generalist and entry-level roles while still hiring for AI/ML and data engineering, so internship applications should stress specific skills.",
-      "url": "https://www.techrepublic.com/article/news-tech-layoffs-2026-companies-cutting-jobs/",
-      "source": "TechRepublic"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Microsoft recorded about $10B of revenue from OpenAI last quarter",
-      "note": "TechCrunch says that is nearly 11% of Microsoft's $92.3B quarter. It shows how much of the AI boom rests on a few big customer relationships.",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic launches 'Smart Reports' to show what a company's AI spending buys",
-      "note": "The tools show what teams produced, what it cost and where workflows broke down. Measuring AI's return on investment is becoming a real analytics job.",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch"
+      "headline": "Entry-level tech postings are scarce, though data roles look steadier than most",
+      "note": "A report covered by Careers360 on Oct. 27 found only 4.3% of live tech postings (India-focused data) were entry or junior level, and data engineering's share nearly doubled. Recruiting blogs say US data scientist listings have grown while overall tech listings sit below their pre-pandemic peak; those are vendor sources, so treat them as indicative.",
+      "url": "https://news.careers360.com/tech-hiring-india-2026-entry-senior-level-jobs-data-engineering-share-doubles-freshers-experienced-linkedin-naukri-job-posting",
+      "source": "Careers360"
     }
   ],
   "learn": {
-    "n": 18,
-    "term": "PCE inflation",
-    "explain": "PCE (personal consumption expenditures) is a price index published by the government that tracks what households pay for goods and services. The Fed prefers it to CPI because it adjusts as people switch to cheaper products and covers more spending. Core PCE leaves out food and energy, which swing a lot. The Fed's usual goal is about 2% a year. Today's report showed September PCE up 3.6% from a year earlier, with core at 3.1%, well above that goal.",
-    "try": "Look up the Fed's 2% target and compare it with core PCE over the past year."
+    "n": 19,
+    "term": "Market correction",
+    "explain": "A correction is when a stock or index falls roughly 10% from a recent high. It is milder than a bear market, which is usually a drop of 20% or more. Corrections are common and often follow a period when prices rose faster than earnings. This month the Nasdaq fell about 5% as investors questioned whether huge AI spending will pay off. That is a rough month, but not a correction by this definition.",
+    "try": "Look up the Nasdaq Composite's most recent high and compute how far Friday's close is below it."
   },
   "learned": [
     "Earnings season and EPS",
@@ -89,6 +82,7 @@
     "Equity offerings and dilution",
     "Convertible notes",
     "Hawkish vs. dovish (and dissents)",
-    "PCE inflation"
+    "PCE inflation",
+    "Market correction"
   ]
 }

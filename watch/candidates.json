@@ -1,7 +1,51 @@
 {
- "generated": "2026-10-30T15:19+00:00",
+ "generated": "2026-10-31T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Research Scientist Intern - Video Recsys",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1553890293163197",
+   "posted": "2026-10-31",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Data Engineer Intern",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply",
+   "posted": "2026-10-31",
+   "company": "Firework",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Seattle, WA / NYC",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "posted": "2026-10-30",
+   "company": "Stripe",
+   "category": "tech",
+   "ats": "greenhouse",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
   {
    "title": "AI Product Management Intern",
    "location": "San Jose, CA",
@@ -18,7 +62,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "Research Scientist Intern - Photorealistic Telepresence",
@@ -33,7 +77,105 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
+   "location": "Boston, MA / Seattle, WA / Austin, TX / Irvine, CA + more",
+   "url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+   "posted": "2026-10-30",
+   "company": "Amazon",
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Client Data & Engineering Group Summer Intern - Chief Client Office",
+   "location": "NYC",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731",
+   "posted": "2026-10-30",
+   "company": "Barclays",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Data Science & AI Intern",
+   "location": "Miami, FL",
+   "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+   "posted": "2026-10-30",
+   "company": "University of Miami",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Clear Outcomes and Data Science Intern",
+   "location": "Washington, DC",
+   "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply",
+   "posted": "2026-10-30",
+   "company": "Strada Education Foundation",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
+   "location": "Remote in USA",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
+   "posted": "2026-10-30",
+   "company": "VSP Vision",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "title": "Summer Intern - AI Innovation",
+   "location": "Raleigh, NC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+   "posted": "2026-10-30",
+   "company": "First Citizens BancShares",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
   },
   {
    "title": "AI Solutions Engineering Intern",
@@ -52,7 +194,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "Data Science and Engineering Intern",
@@ -67,7 +209,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "AI Scientist Intern",
@@ -85,25 +227,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Sustainment Data and Analytics Intern",
-   "location": "East Hartford, CT",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110",
-   "posted": "2026-10-29",
-   "company": "RTX",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "Research Scientist Intern - Scam and Trust",
@@ -118,7 +242,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "Research Scientist Intern - AI Infra",
@@ -133,7 +257,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "AI Systems Software Engineer Intern",
@@ -152,7 +276,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "AI Intern",
@@ -167,7 +291,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
    "title": "Full Stack AI Development Intern",
@@ -182,29 +306,14 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30"
+   "last_seen": "2026-10-31"
   },
   {
-   "title": "Research Scientist Intern - Ads Recommendations",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1691709792593561",
-   "posted": "2026-10-28",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
-   "location": "Houston, TX",
-   "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
-   "posted": "2026-10-28",
-   "company": "CAMS",
+   "title": "Applied Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
+   "posted": "2026-10-29",
+   "company": "Microsoft",
    "terms": [
     "N/A"
    ],
@@ -214,149 +323,23 @@
    ],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30"
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31"
   },
   {
-   "title": "AI Accelerator Design Verification Engineer Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
-   "posted": "2026-10-28",
-   "company": "RosaicLabs",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Analytics Engineer Intern",
-   "location": "Pleasanton, CA",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
-   "posted": "2026-10-28",
-   "company": "Workday",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Electrical Design Automation Intern - AI & EDA Automation",
-   "location": "Livermore, CA",
-   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
-   "posted": "2026-10-28",
-   "company": "FormFactor",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Data Engineer Intern",
-   "location": "Fort Belvoir, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-   "posted": "2026-10-28",
-   "company": "Leidos",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Data Scientist Intern",
-   "location": "San Jose, CA / Folsom, CA",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
-   "posted": "2026-10-28",
-   "company": "Micron Technology",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Talent Analytics Intern",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
-   "posted": "2026-10-28",
-   "company": "American Family Insurance Group",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Data Systems Intern",
-   "location": "Bridgeport, WV",
-   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970",
-   "posted": "2026-10-28",
-   "company": "Berkshire Hathaway Energy",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
-  },
-  {
-   "title": "Data Analytics Intern - Dashboards & Business Process Automation",
-   "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
-   "posted": "2026-10-28",
-   "company": "Regeneron Pharmaceuticals",
+   "title": "Underwriting Data & Analytics Intern",
+   "location": "NYC",
+   "url": "https://careers.axa.com/jobs/25498?icims=1",
+   "posted": "2026-10-29",
+   "company": "AXA",
    "terms": [
     "Summer 2027"
    ],
    "degrees": [],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30"
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
   }
  ]
 }
