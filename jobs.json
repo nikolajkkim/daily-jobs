@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-10-31",
-    "found": 5,
-    "note": "5 new roles (Stripe, VSP, First Citizens, Sallie Mae, CareSource; posted Oct 29-30) · 0 browse adds · no new reports · Problem: report fetch returned only a summary (19 records, matches already handled); Workday pages return empty so eligibility came from the Simplify feed; step B closed-listing check skipped; discovery searches found no open Summer 2027 roles"
+    "date": "2026-11-01",
+    "found": 2,
+    "note": "2 new roles (Strada, Northrop Grumman; posted Oct 30) · 0 browse adds · no new reports · Only 2 eligible: other candidates were SWE, PM, data engineering or PhD-only, and top-up options (Microsoft, Micron, Dell, Databricks, Charles River) had no confirmable Summer 2027 term · Problem: Workday/Oracle pages return empty so Northrop eligibility came from the Simplify feed; McKinsey QuantumBlack page timed out and Jackpocket DS intern 404'd, so neither was added; step B checked 5 oldest, none closed"
   },
   "jobs": [
     {
@@ -1033,6 +1033,32 @@
       "why": "Summer 2027 US-remote AI internship in healthcare. Your retrieval pipeline deployed in a school district shows real-world LLM delivery; the page didn't load, so check master's eligibility.",
       "found": "2026-10-31",
       "posted": "2026-10-29",
+      "category": "tech"
+    },
+    {
+      "id": "strada-clear-outcomes-data-science-intern-2027",
+      "company": "Strada Education Foundation",
+      "title": "Clear Outcomes and Data Science Intern",
+      "location": "Washington, DC (hybrid)",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b",
+      "fit": "good",
+      "why": "Summer 2027 (May 18–Aug 13), open to graduate students at $25/hour. You'd use Python and Tableau on education-outcomes data, which fits your Tableau and pandas work. It's an analytics role with less ML, and the application needs a cover letter and a Loom video task.",
+      "found": "2026-11-01",
+      "posted": "2026-10-30",
+      "category": "tech"
+    },
+    {
+      "id": "northrop-grumman-data-scientist-intern-product-support-2027",
+      "company": "Northrop Grumman",
+      "title": "Data Scientist Intern - Product Support",
+      "location": "San Diego, CA",
+      "source": "Workday",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+      "fit": "good",
+      "why": "Summer 2027 data scientist internship that accepts master's students, per the Simplify listing. Your XGBoost and GAM modeling on large sensor and damage data carries over. The Workday page wouldn't load, so check the posting for US-citizenship or clearance requirements before applying.",
+      "found": "2026-11-01",
+      "posted": "2026-10-30",
       "category": "tech"
     }
   ],

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T14:43+00:00",
+ "generated": "2026-11-01T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -15,7 +15,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Data Engineer Intern",
@@ -33,7 +33,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "AI Product Management Intern",
@@ -51,7 +51,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Research Scientist Intern - Photorealistic Telepresence",
@@ -66,7 +66,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
@@ -86,7 +86,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Client Data & Engineering Group Summer Intern - Chief Client Office",
@@ -101,7 +101,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Data Science & AI Intern",
@@ -116,7 +116,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Clear Outcomes and Data Science Intern",
@@ -131,7 +131,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Data Scientist Intern - Product Support",
@@ -149,141 +149,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "AI Solutions Engineering Intern",
-   "location": "Arden Hills, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
-   "posted": "2026-10-29",
-   "company": "Boston Scientific",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "AI Scientist Intern",
-   "location": "Cambridge, MA",
-   "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895",
-   "posted": "2026-10-29",
-   "company": "Charles River Analytics",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Research Scientist Intern - Scam and Trust",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/2355649268510104",
-   "posted": "2026-10-29",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Research Scientist Intern - AI Infra",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/4603165899971826",
-   "posted": "2026-10-29",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "AI Systems Software Engineer Intern",
-   "location": "Austin, TX",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-   "posted": "2026-10-29",
-   "company": "NVIDIA",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Full Stack AI Development Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
-   "posted": "2026-10-29",
-   "company": "CareSource",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Applied Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
-   "posted": "2026-10-29",
-   "company": "Microsoft",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Underwriting Data & Analytics Intern",
-   "location": "NYC",
-   "url": "https://careers.axa.com/jobs/25498?icims=1",
-   "posted": "2026-10-29",
-   "company": "AXA",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   }
  ]
 }

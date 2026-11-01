@@ -1,68 +1,54 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Tech sell-off hits Friday: Nasdaq falls about 2.8%, S&P 500 about 1.8%, Dow about 1.1%",
-      "note": "The Dow closed at 51,770.31. Amazon and Alphabet earnings misses and Intel's weak outlook renewed worries about Big Tech's AI spending. For October, the Nasdaq fell roughly 5%, the S&P 500 about 1.2%, and the Dow gained about 1.5%. Figures vary a little by source.",
-      "url": "https://www.newsbeep.com/790983/",
-      "source": "News Beep (CNBC live updates)"
-    },
-    {
-      "tag": "Economy",
-      "headline": "Two Fed officials hint rate hikes may be needed; oil rises on Middle East tensions",
-      "note": "Both added to Friday's pressure on stocks, per the market recap. Higher rates tend to hit richly valued tech shares hardest.",
-      "url": "https://www.newsbeep.com/790983/",
-      "source": "News Beep (CNBC live updates)"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Amazon's free cash flow turns to a $42.4B outflow as it holds 2026 capex at $220B",
-      "note": "Amazon fell about 4% on Thursday after reporting and was part of Friday's tech sell-off. Heavy AI spending is now the main thing investors question.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Alphabet's record one-day drop (about 12% Thursday) revives worries about when AI spending pays off",
-      "note": "Third-quarter sales missed estimates and about $500 billion in value was erased. Big Tech's AI budgets set how much these firms hire for ML roles.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
+      "headline": "Friday sell-off: Nasdaq falls 2.86%, S&P 500 1.82%, Dow about 1.1%",
+      "note": "Both the Nasdaq and S&P 500 had their worst day since June, and the Nasdaq ended October with its worst monthly fall since March 2025. A chip index dropped 7.2% as worries about AI spending grew. Markets are closed for the weekend, so this is still the latest close.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "source": "Stock Titan"
     },
     {
       "tag": "Chips",
-      "headline": "Intel plunges roughly 17-20% on a weak revenue outlook",
-      "note": "Intel guided fourth-quarter revenue to $15-16B versus about $17B expected. Chip stocks are priced on forward guidance, not just past results.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
+      "headline": "Intel falls 28.58%, its worst day since 1974, after a weak forecast",
+      "note": "Intel guided Q4 revenue to $15-16B and adjusted EPS to $0.25 versus $0.43 expected by analysts. Data center and AI revenue rose 78%, but PC sales fell 5% and the company expects that slowdown to last into next year.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "source": "Stock Titan"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Amazon's AI spending pushes trailing free cash flow to a $42.4B outflow",
+      "note": "Q3 EPS of $1.89 missed the $1.96 estimate, though AWS grew 39% and sales rose 12% to $201.9B. The stock slid as much as about 7% before the open but closed down 1.41%. Investors now watch whether AI spending turns into profit.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "source": "Stock Titan"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI, Google, Microsoft and Anthropic agree to honor one robots.txt token for opting out of AI training",
-      "note": "Websites can use `__usage_ai-training` to opt out across all four companies' crawlers. Anthropic has started; OpenAI says coming months, Microsoft targets Feb 1, 2027, Google 2027. It is an individual IETF draft with no formal standing, and non-compliant scrapers can ignore it.",
-      "url": "https://aiweekly.co/alerts/openai-google-microsoft-anthropic-back-one-ai-opt-out-token",
-      "source": "AI Weekly"
+      "headline": "Anthropic files a public S-1 for an IPO, planning a Nasdaq listing as 'ANT'",
+      "note": "The filing was reported as submitted Oct 26. Share count and price range are not set and it is not yet effective, so timing is open. A wave of AI IPOs could change how AI companies pay and hire. I read this in secondary reports, not the SEC filing.",
+      "url": "https://www.invenglobal.com/articles/27712/anthropic-files-s-1-for-ipo-plans-nasdaq-listing-under-ticker-ant",
+      "source": "Inven Global"
     },
     {
       "tag": "Economy",
-      "headline": "Economy grew at a 3.4% pace in Q3, but inflation is still running hot",
-      "note": "Initial GDP beat the 3.1% expected. September PCE inflation rose 3.6% from a year earlier (core 3.1%). Strong growth plus high inflation keeps Fed hikes in play, per reports.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
-      "source": "Yahoo Finance"
+      "headline": "Fed has already hiked this year; markets are watching for more",
+      "note": "An early-October analysis said Chair Kevin Warsh cited inflation for a September 16 hike, and futures priced a possible second hike. The next jobs report is Dec 4, five days before the Dec 9 Fed decision. This is market pricing, not a Fed decision.",
+      "url": "https://www.fxstreet.com/analysis/the-october-fed-hike-just-died-heres-what-the-29k-jobs-report-really-means-for-rates-202610021806",
+      "source": "FXStreet"
     },
     {
-      "tag": "Jobs",
-      "headline": "Entry-level tech postings are scarce, though data roles look steadier than most",
-      "note": "A report covered by Careers360 on Oct. 27 found only 4.3% of live tech postings (India-focused data) were entry or junior level, and data engineering's share nearly doubled. Recruiting blogs say US data scientist listings have grown while overall tech listings sit below their pre-pandemic peak; those are vendor sources, so treat them as indicative.",
-      "url": "https://news.careers360.com/tech-hiring-india-2026-entry-senior-level-jobs-data-engineering-share-doubles-freshers-experienced-linkedin-naukri-job-posting",
-      "source": "Careers360"
+      "tag": "Markets",
+      "headline": "Okta joins the S&P 500 on November 4, replacing Kenvue",
+      "note": "Index membership is decided by committee and changes a few times a year. Funds that track the index must buy the new stock and sell the removed one.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "source": "Stock Titan"
     }
   ],
   "learn": {
-    "n": 19,
-    "term": "Market correction",
-    "explain": "A correction is when a stock or index falls roughly 10% from a recent high. It is milder than a bear market, which is usually a drop of 20% or more. Corrections are common and often follow a period when prices rose faster than earnings. This month the Nasdaq fell about 5% as investors questioned whether huge AI spending will pay off. That is a rough month, but not a correction by this definition.",
-    "try": "Look up the Nasdaq Composite's most recent high and compute how far Friday's close is below it."
+    "n": 20,
+    "term": "Earnings guidance",
+    "explain": "Guidance is a company's own forecast of its upcoming revenue, profit or margins. Stocks trade on expectations about the future, so guidance often moves a share price more than last quarter's results. Intel's Q3 revenue was $16.5B, but it guided Q4 to $15-16B and EPS of $0.25 versus the $0.43 analysts expected, and the stock fell 28.58%. A gap between guidance and analyst expectations is often what drives a big one-day move.",
+    "try": "Look up another company's latest earnings release and find the guidance section; compare it with analyst consensus."
   },
   "learned": [
     "Earnings season and EPS",
@@ -83,6 +69,7 @@
     "Convertible notes",
     "Hawkish vs. dovish (and dissents)",
     "PCE inflation",
-    "Market correction"
+    "Market correction",
+    "Earnings guidance"
   ]
 }
