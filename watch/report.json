@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T10:20+00:00",
+ "generated": "2026-11-01T15:26+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -19,14 +19,14 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 904,
+   "open_jobs": 908,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 745,
+   "open_jobs": 746,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -103,7 +103,7 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 464,
+   "open_jobs": 463,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 138,
+   "open_jobs": 139,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
