@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-01",
-    "found": 2,
-    "note": "2 new roles (Strada, Northrop Grumman; posted Oct 30) · 0 browse adds · no new reports · Only 2 eligible: other candidates were SWE, PM, data engineering or PhD-only, and top-up options (Microsoft, Micron, Dell, Databricks, Charles River) had no confirmable Summer 2027 term · Problem: Workday/Oracle pages return empty so Northrop eligibility came from the Simplify feed; McKinsey QuantumBlack page timed out and Jackpocket DS intern 404'd, so neither was added; step B checked 5 oldest, none closed"
+    "date": "2026-11-02",
+    "found": 0,
+    "note": "0 new roles · 0 browse adds · no new reports · Only candidates were Meta Video Recsys (research scientist) and Firework (data engineering); top-up options (Bertelsmann part-time DS, EQT AI, Amazon DS already applied, Micron, Dell, HPE, Generac, Microsoft) had no confirmable Summer 2027 term · Problem: Workday/Oracle pages return empty; discovery searches (Greenhouse, Ashby, golf) found no new open Summer 2027 roles; step B checked 5 oldest, none closed"
   },
   "jobs": [
     {

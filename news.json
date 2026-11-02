@@ -1,54 +1,54 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
       "tag": "Markets",
       "headline": "Friday sell-off: Nasdaq falls 2.86%, S&P 500 1.82%, Dow about 1.1%",
-      "note": "Both the Nasdaq and S&P 500 had their worst day since June, and the Nasdaq ended October with its worst monthly fall since March 2025. A chip index dropped 7.2% as worries about AI spending grew. Markets are closed for the weekend, so this is still the latest close.",
+      "note": "Worries that heavy AI spending won't pay off hit tech, and a closely watched chip index fell 7.2%. The Nasdaq ended October with its worst monthly drop since March 2025. This is the latest full close I could confirm; I found no confirmed Monday numbers.",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
       "source": "Stock Titan"
     },
     {
       "tag": "Chips",
-      "headline": "Intel falls 28.58%, its worst day since 1974, after a weak forecast",
-      "note": "Intel guided Q4 revenue to $15-16B and adjusted EPS to $0.25 versus $0.43 expected by analysts. Data center and AI revenue rose 78%, but PC sales fell 5% and the company expects that slowdown to last into next year.",
+      "headline": "Intel falls 28.58%, its worst day since 1974, on a weak forecast",
+      "note": "Intel guided Q4 adjusted EPS to $0.25 versus about $0.43 expected, and its CFO said the PC slowdown should last through at least the first half of 2027. Data center and AI revenue still rose 78%.",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
       "source": "Stock Titan"
     },
     {
       "tag": "Tech",
-      "headline": "Amazon's AI spending pushes trailing free cash flow to a $42.4B outflow",
-      "note": "Q3 EPS of $1.89 missed the $1.96 estimate, though AWS grew 39% and sales rose 12% to $201.9B. The stock slid as much as about 7% before the open but closed down 1.41%. Investors now watch whether AI spending turns into profit.",
+      "headline": "Amazon's AI spending leaves trailing free cash flow at a $42.4B outflow",
+      "note": "Q3 EPS of $1.89 missed the $1.96 estimate, though AWS grew 39%. The stock fell about 7% before the open but closed down 1.41%. Investors now want to see AI spending turn into profit.",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
       "source": "Stock Titan"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic files a public S-1 for an IPO, planning a Nasdaq listing as 'ANT'",
-      "note": "The filing was reported as submitted Oct 26. Share count and price range are not set and it is not yet effective, so timing is open. A wave of AI IPOs could change how AI companies pay and hire. I read this in secondary reports, not the SEC filing.",
-      "url": "https://www.invenglobal.com/articles/27712/anthropic-files-s-1-for-ipo-plans-nasdaq-listing-under-ticker-ant",
-      "source": "Inven Global"
+      "headline": "Anthropic's public IPO filing is out; marketing could start the week of Nov 9",
+      "note": "The public S-1 came on Oct 26, and Bloomberg reported (via IPOScoop) that marketing could begin as soon as the week of Nov 9. Timing and price are not set, and I haven't read the SEC filing myself. A giant AI listing could shape pay and hiring across the field.",
+      "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/",
+      "source": "IPOScoop"
     },
     {
-      "tag": "Economy",
-      "headline": "Fed has already hiked this year; markets are watching for more",
-      "note": "An early-October analysis said Chair Kevin Warsh cited inflation for a September 16 hike, and futures priced a possible second hike. The next jobs report is Dec 4, five days before the Dec 9 Fed decision. This is market pricing, not a Fed decision.",
-      "url": "https://www.fxstreet.com/analysis/the-october-fed-hike-just-died-heres-what-the-29k-jobs-report-really-means-for-rates-202610021806",
-      "source": "FXStreet"
+      "tag": "Tech",
+      "headline": "Reddit falls 29.22%, Roblox 18.05% and Coursera 25.54% after earnings",
+      "note": "Roblox forecast Q4 bookings down 10-15% from last year, and Coursera guided Q4 revenue below its Q3 revenue. Another reminder that guidance, not past results, drives big moves.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "source": "Stock Titan"
     },
     {
       "tag": "Markets",
       "headline": "Okta joins the S&P 500 on November 4, replacing Kenvue",
-      "note": "Index membership is decided by committee and changes a few times a year. Funds that track the index must buy the new stock and sell the removed one.",
+      "note": "Index funds that track the S&P 500 must buy the new stock and sell the removed one, which is why additions often move a stock.",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
       "source": "Stock Titan"
     }
   ],
   "learn": {
-    "n": 20,
-    "term": "Earnings guidance",
-    "explain": "Guidance is a company's own forecast of its upcoming revenue, profit or margins. Stocks trade on expectations about the future, so guidance often moves a share price more than last quarter's results. Intel's Q3 revenue was $16.5B, but it guided Q4 to $15-16B and EPS of $0.25 versus the $0.43 analysts expected, and the stock fell 28.58%. A gap between guidance and analyst expectations is often what drives a big one-day move.",
-    "try": "Look up another company's latest earnings release and find the guidance section; compare it with analyst consensus."
+    "n": 21,
+    "term": "S-1 filing and the IPO roadshow",
+    "explain": "Before a company sells shares to the public, it files a document called an S-1 with the SEC. It lays out the business, revenue, losses, risks and how the money will be used. After the S-1 is public, the company goes on a 'roadshow': executives pitch big investors to gauge demand and settle on a price range. Anthropic made its S-1 public on Oct 26, and Bloomberg reported the roadshow could begin the week of Nov 9. Shares only start trading after the SEC clears the filing and the price is set.",
+    "try": "Search SEC EDGAR for any company's S-1 and read just the 'Risk Factors' headings."
   },
   "learned": [
     "Earnings season and EPS",
@@ -70,6 +70,7 @@
     "Hawkish vs. dovish (and dissents)",
     "PCE inflation",
     "Market correction",
-    "Earnings guidance"
+    "Earnings guidance",
+    "S-1 filing and the IPO roadshow"
   ]
 }
