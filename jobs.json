@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-02",
-    "found": 0,
-    "note": "0 new roles · 0 browse adds · no new reports · Only candidates were Meta Video Recsys (research scientist) and Firework (data engineering); top-up options (Bertelsmann part-time DS, EQT AI, Amazon DS already applied, Micron, Dell, HPE, Generac, Microsoft) had no confirmable Summer 2027 term · Problem: Workday/Oracle pages return empty; discovery searches (Greenhouse, Ashby, golf) found no new open Summer 2027 roles; step B checked 5 oldest, none closed"
+    "date": "2026-11-03",
+    "found": 5,
+    "note": "5 new roles (Simplify feed; Zebra x2, Intuitive, Leidos, PNNL) · 0 browse adds · no new reports · Problem: Workday/PNNL pages returned empty so Zebra, Leidos and PNNL are unverified (term/degree from Simplify data); discovery searches found nothing new (Capital One already removed); step B not run"
   },
   "jobs": [
     {
@@ -1060,6 +1060,71 @@
       "found": "2026-11-01",
       "posted": "2026-10-30",
       "category": "tech"
+    },
+    {
+      "id": "zebra-data-scientist-intern-2027",
+      "company": "Zebra Technologies",
+      "title": "Data Scientist Intern",
+      "location": "Holtsville, NY / Lincolnshire, IL",
+      "source": "Workday",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
+      "fit": "strong",
+      "why": "Summer 2027, listed for master's students, and the Holtsville site is on Long Island. Your XGBoost work on 14M+ IoT readings maps well to Zebra's device data. The page wouldn't load for me, so confirm it's open.",
+      "found": "2026-11-03",
+      "category": "tech",
+      "posted": "2026-11-02"
+    },
+    {
+      "id": "intuitive-ai-ml-engineer-intern-2027",
+      "company": "Intuitive Surgical",
+      "title": "AI/ML Engineer Intern",
+      "location": "Sunnyvale, CA (remote/hybrid)",
+      "source": "SmartRecruiters",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+      "fit": "strong",
+      "why": "Summer 2027 (10-12 weeks), open to master's students in Data Science. You'd build LLM pipelines to find and dedupe publications, which is close to your LLaMA retrieval work. On-site expectations are unclear.",
+      "found": "2026-11-03",
+      "category": "tech",
+      "posted": "2026-11-02"
+    },
+    {
+      "id": "zebra-ai-intern-2027",
+      "company": "Zebra Technologies",
+      "title": "Intern - AI",
+      "location": "Lincolnshire, IL",
+      "source": "Workday",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
+      "fit": "good",
+      "why": "Summer 2027, accepts master's. Lincolnshire is in the Chicago suburbs. Your PyTorch, Hugging Face and LLM experience fit, though the details are thin. The page wouldn't load for me.",
+      "found": "2026-11-03",
+      "category": "tech",
+      "posted": "2026-11-02"
+    },
+    {
+      "id": "leidos-data-science-intern-2027",
+      "company": "Leidos",
+      "title": "Data Science Intern",
+      "location": "Arlington, VA",
+      "source": "Workday",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
+      "fit": "good",
+      "why": "Summer 2027, bachelor's and master's accepted. Your data science background fits. Leidos often requires US citizenship or a clearance, so check that. The page wouldn't load for me.",
+      "found": "2026-11-03",
+      "category": "tech",
+      "posted": "2026-11-02"
+    },
+    {
+      "id": "pnnl-nsip-masters-ai-analytics-intern-2027",
+      "company": "Pacific Northwest National Laboratory",
+      "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics",
+      "location": "Seattle, WA / Richland, WA",
+      "source": "Company site",
+      "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
+      "fit": "good",
+      "why": "Summer 2027 and aimed at master's students. Your NSF bridge-damage modeling and ML research fit. National labs may require US citizenship, and the page showed few details.",
+      "found": "2026-11-03",
+      "category": "tech",
+      "posted": "2026-11-02"
     }
   ],
   "browse": [

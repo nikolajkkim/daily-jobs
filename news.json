@@ -1,54 +1,68 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Friday sell-off: Nasdaq falls 2.86%, S&P 500 1.82%, Dow about 1.1%",
-      "note": "Worries that heavy AI spending won't pay off hit tech, and a closely watched chip index fell 7.2%. The Nasdaq ended October with its worst monthly drop since March 2025. This is the latest full close I could confirm; I found no confirmed Monday numbers.",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-      "source": "Stock Titan"
+      "headline": "Stocks bounce back Monday: Dow up about 1.1%, S&P 500 0.6%, Nasdaq 0.7%",
+      "note": "One report (the only one I found with Monday's closes, so treat the figures as approximate) says a sharp drop in oil prices and a tech rebound after Friday's sell-off drove the gains. Investors were also positioning ahead of Tuesday's midterm elections.",
+      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
+      "source": "Azat TV"
     },
     {
-      "tag": "Chips",
-      "headline": "Intel falls 28.58%, its worst day since 1974, on a weak forecast",
-      "note": "Intel guided Q4 adjusted EPS to $0.25 versus about $0.43 expected, and its CFO said the PC slowdown should last through at least the first half of 2027. Data center and AI revenue still rose 78%.",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-      "source": "Stock Titan"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Amazon's AI spending leaves trailing free cash flow at a $42.4B outflow",
-      "note": "Q3 EPS of $1.89 missed the $1.96 estimate, though AWS grew 39%. The stock fell about 7% before the open but closed down 1.41%. Investors now want to see AI spending turn into profit.",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-      "source": "Stock Titan"
+      "tag": "Economy",
+      "headline": "Oil falls more than 7% as Middle East tensions ease",
+      "note": "The same report says crude dropped after Secretary of State Rubio said no decision had been made to attack Iran. Cheaper oil eases inflation worries, which matters for where interest rates go.",
+      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
+      "source": "Azat TV"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's public IPO filing is out; marketing could start the week of Nov 9",
-      "note": "The public S-1 came on Oct 26, and Bloomberg reported (via IPOScoop) that marketing could begin as soon as the week of Nov 9. Timing and price are not set, and I haven't read the SEC filing myself. A giant AI listing could shape pay and hiring across the field.",
-      "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/",
-      "source": "IPOScoop"
+      "headline": "Anthropic's IPO: public filing is in, but no date or price range yet",
+      "note": "The public S-1 was filed Oct 26 for a Nasdaq listing under 'ANT'. The earliest the roadshow can start is Nov 10, and reports differ on whether trading comes the week of Nov 16 or before Thanksgiving. None of these dates is confirmed.",
+      "url": "https://leverageshares.com/us/insights/when-is-the-anthropic-ipo/",
+      "source": "Leverage Shares"
+    },
+    {
+      "tag": "AI",
+      "headline": "Leaks hint at Anthropic 'Fable 5.5' and OpenAI 'GPT-6.2 Astra'",
+      "note": "Both come from unnamed usage data and a catalog entry that was quickly removed. Neither company has confirmed anything, so treat it as rumor.",
+      "url": "https://cryptobriefing.com/anthropic-fable-5-5-openai-gpt-6-2-astra/",
+      "source": "Crypto Briefing"
     },
     {
       "tag": "Tech",
-      "headline": "Reddit falls 29.22%, Roblox 18.05% and Coursera 25.54% after earnings",
-      "note": "Roblox forecast Q4 bookings down 10-15% from last year, and Coursera guided Q4 revenue below its Q3 revenue. Another reminder that guidance, not past results, drives big moves.",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-      "source": "Stock Titan"
+      "headline": "Oracle falls more than 5% after plans to sell $10B in stock and $10B in bonds for AI",
+      "note": "Funding AI data centers by issuing new shares and debt is a theme to watch: investors worry about who pays for the spending. This comes from a single report.",
+      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
+      "source": "Azat TV"
     },
     {
-      "tag": "Markets",
-      "headline": "Okta joins the S&P 500 on November 4, replacing Kenvue",
-      "note": "Index funds that track the S&P 500 must buy the new stock and sell the removed one, which is why additions often move a stock.",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-      "source": "Stock Titan"
+      "tag": "Tech",
+      "headline": "Amazon gains more than 4% Monday after a rough post-earnings Friday",
+      "note": "The stock had slipped 1.4% on Friday after Q3 earnings and revenue missed estimates. The bounce helped lift the Dow and Nasdaq.",
+      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
+      "source": "Azat TV"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed's Collins says another rate hike is possible before the end of 2026; jobs report due Friday",
+      "note": "Boston Fed President Collins pointed to a solid economy and the goal of getting inflation back to target. The October jobs report comes out Friday, Nov 6 at 8:30 a.m. ET.",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-13/feds-collins-sees-another-rate-hike-table-end-2026",
+      "source": "Reuters via Kitco"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "AI/ML job postings up 88% year over year in Dice's September data",
+      "note": "Overall tech postings grew just 17%, so the demand is concentrated in AI and machine learning, which is where you're aiming. Figure from a Dice summary page I only saw in search results.",
+      "url": "https://www.dice.com/salary-calculator/dba-in-us",
+      "source": "Dice"
     }
   ],
   "learn": {
-    "n": 21,
-    "term": "S-1 filing and the IPO roadshow",
-    "explain": "Before a company sells shares to the public, it files a document called an S-1 with the SEC. It lays out the business, revenue, losses, risks and how the money will be used. After the S-1 is public, the company goes on a 'roadshow': executives pitch big investors to gauge demand and settle on a price range. Anthropic made its S-1 public on Oct 26, and Bloomberg reported the roadshow could begin the week of Nov 9. Shares only start trading after the SEC clears the filing and the price is set.",
-    "try": "Search SEC EDGAR for any company's S-1 and read just the 'Risk Factors' headings."
+    "n": 22,
+    "term": "Oil prices and inflation",
+    "explain": "Oil is a commodity, a raw material traded on global markets, and it feeds into the cost of gasoline, shipping and plastics. When oil jumps, prices across the economy tend to rise, which pushes inflation up. When oil falls, as it did on Monday after Middle East tensions eased, inflation worries fade. The Fed watches inflation when deciding interest rates, so a big oil move can shift stocks. Cheaper oil helps most companies, but it hurts oil producers.",
+    "try": "Look up the price of Brent crude and WTI (the two main oil benchmarks) and see how they differ."
   },
   "learned": [
     "Earnings season and EPS",
@@ -71,6 +85,7 @@
     "PCE inflation",
     "Market correction",
     "Earnings guidance",
-    "S-1 filing and the IPO roadshow"
+    "S-1 filing and the IPO roadshow",
+    "Oil prices and inflation"
   ]
 }

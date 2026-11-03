@@ -1,7 +1,26 @@
 {
- "generated": "2026-11-02T18:49+00:00",
+ "generated": "2026-11-03T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Member of Technical Staff Intern - Applied AI",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true",
+   "posted": "2026-11-03",
+   "company": "GenMD",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
   {
    "title": "ML Solution Architect Intern",
    "location": "Remote in USA",
@@ -19,7 +38,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-03"
   },
   {
    "title": "AI Developer Intern",
@@ -37,31 +56,64 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-03"
   },
   {
-   "title": "Research Scientist Intern - Video Recsys",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1553890293163197",
-   "posted": "2026-10-31",
-   "company": "Meta",
+   "title": "Software Engineer Intern - AI/ML",
+   "location": "Milpitas, CA / Austin, TX",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
+   "posted": "2026-11-02",
+   "company": "KLA Corporation",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Machine Learning Intern",
+   "location": "Cambridge, MA",
+   "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002",
+   "posted": "2026-11-02",
+   "company": "Flagship Pioneering",
    "terms": [
     "N/A"
    ],
    "degrees": [],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-11-02"
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
   },
   {
-   "title": "Data Engineer Intern",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply",
-   "posted": "2026-10-31",
-   "company": "Firework",
+   "title": "Student 2 Intern - Data Management Engineer",
+   "location": "Remote in USA",
+   "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749",
+   "posted": "2026-11-02",
+   "company": "Cincinnati Children’s Hospital and Medical Center",
    "terms": [
     "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Arlington County, Arlington, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
+   "posted": "2026-11-02",
+   "company": "Leidos",
+   "terms": [
+    "Summer 2027"
    ],
    "degrees": [
     "Bachelor's",
@@ -69,8 +121,226 @@
    ],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-11-02"
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+   "location": "Seattle, WA / Richland, WA",
+   "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
+   "posted": "2026-11-02",
+   "company": "Pacific Northwest National Laboratory",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Intern - AI",
+   "location": "Lincolnshire, IL",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
+   "posted": "2026-11-02",
+   "company": "Zebra Technologies",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Holtsville, NY / Lincolnshire, IL",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
+   "posted": "2026-11-02",
+   "company": "Zebra Technologies",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
+   "location": "Holtsville, NY",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
+   "posted": "2026-11-02",
+   "company": "Zebra Technologies",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "AI/ML Engineer Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+   "posted": "2026-11-02",
+   "company": "Intuitive Surgical",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Research Scientist Intern - Robotic Control Policy",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1872420890835857",
+   "posted": "2026-11-02",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1143164681833409",
+   "posted": "2026-11-02",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
+   "location": "Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/1272664685039241",
+   "posted": "2026-11-02",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Data Intelligence/Technical Program Manager Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705",
+   "posted": "2026-11-02",
+   "company": "Applied Materials",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "AI Application Engineer Intern",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003",
+   "posted": "2026-11-02",
+   "company": "Samsung",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Costco Data Systems Intern - IT Product Owner",
+   "location": "Issaquah, WA",
+   "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024",
+   "posted": "2026-11-02",
+   "company": "Costco",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Software Engineer Intern - AI Platform Team",
+   "location": "Des Moines, IA",
+   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000159260670",
+   "posted": "2026-11-02",
+   "company": "Wellmark",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "AI Compiler and Kernel Intern",
+   "location": "Austin, TX",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "posted": "2026-11-02",
+   "company": "NVIDIA",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
   }
  ]
 }
