@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T10:20+00:00",
+ "generated": "2026-11-03T16:30+00:00",
  "jobs": [
   {
    "id": "w-bb6ddb099f3b",
@@ -7,6 +7,17 @@
    "title": "Member of Technical Staff Intern - Applied AI",
    "location": "Palo Alto, CA",
    "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-03"
+  },
+  {
+   "id": "w-fe8d4d29be8d",
+   "company": "Meta",
+   "title": "Research Scientist Intern - FM Quality ML",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1125383989877928",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-03",
@@ -68,66 +79,11 @@
    "found": "2026-11-03"
   },
   {
-   "id": "w-be6f37d3b76f",
-   "company": "Leidos",
-   "title": "Data Science Intern",
-   "location": "Arlington County, Arlington, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-f78d49ba600f",
-   "company": "Pacific Northwest National Laboratory",
-   "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-   "location": "Seattle, WA / Richland, WA",
-   "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-9afa3fd62e2f",
-   "company": "Zebra Technologies",
-   "title": "Intern - AI",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-73f2bb2f928f",
-   "company": "Zebra Technologies",
-   "title": "Data Scientist Intern",
-   "location": "Holtsville, NY / Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
    "id": "w-3d3fd0665638",
    "company": "Zebra Technologies",
    "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
    "location": "Holtsville, NY",
    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-417af65791d5",
-   "company": "Intuitive Surgical",
-   "title": "AI/ML Engineer Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-02",
@@ -319,6 +275,17 @@
    "category": "tech",
    "posted": "2026-10-29",
    "found": "2026-10-29"
+  },
+  {
+   "id": "w-8e1849117ec2",
+   "company": "RTX",
+   "title": "Sustainment Data and Analytics Intern",
+   "location": "East Hartford, CT",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-30"
   },
   {
    "id": "w-dfa7a50fd567",

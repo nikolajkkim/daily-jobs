@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T10:20+00:00",
+ "generated": "2026-11-03T16:30+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -16,6 +16,21 @@
     "Master's",
     "PhD"
    ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "title": "Research Scientist Intern - FM Quality ML",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1125383989877928",
+   "posted": "2026-11-03",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-03",
@@ -107,99 +122,11 @@
    "last_seen": "2026-11-03"
   },
   {
-   "title": "Data Science Intern",
-   "location": "Arlington County, Arlington, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
-   "posted": "2026-11-02",
-   "company": "Leidos",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-   "location": "Seattle, WA / Richland, WA",
-   "url": "https://careers.pnnl.gov/jobs/12898?icims=1",
-   "posted": "2026-11-02",
-   "company": "Pacific Northwest National Laboratory",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "title": "Intern - AI",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
-   "posted": "2026-11-02",
-   "company": "Zebra Technologies",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "title": "Data Scientist Intern",
-   "location": "Holtsville, NY / Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-   "posted": "2026-11-02",
-   "company": "Zebra Technologies",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
    "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
    "location": "Holtsville, NY",
    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
    "posted": "2026-11-02",
    "company": "Zebra Technologies",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "title": "AI/ML Engineer Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
-   "posted": "2026-11-02",
-   "company": "Intuitive Surgical",
    "terms": [
     "Summer 2027"
    ],
