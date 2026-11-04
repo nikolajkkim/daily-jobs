@@ -1,7 +1,43 @@
 {
- "generated": "2026-11-04T10:20+00:00",
+ "generated": "2026-11-04T16:33+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Data Engineer Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+   "posted": "2026-11-04",
+   "company": "Paccar",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "title": "AI/ML Engineer Intern",
+   "location": "Centreville, VA / United States",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+   "posted": "2026-11-04",
+   "company": "Parsons",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
   {
    "title": "Member of Technical Staff Intern - Applied AI",
    "location": "Palo Alto, CA",
@@ -67,80 +103,6 @@
    "last_seen": "2026-11-04"
   },
   {
-   "title": "AI Research Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
-   "posted": "2026-11-03",
-   "company": "Vatic Investments",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "title": "Applied AI Intern",
-   "location": "Raleigh, NC",
-   "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
-   "posted": "2026-11-03",
-   "company": "First Citizens BancShares",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "title": "Agentic AI Solutions Intern",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
-   "posted": "2026-11-03",
-   "company": "Samsung Research America",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "title": "Healthcare Analytics Data Science Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
-   "posted": "2026-11-03",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
    "title": "AI Services and Platforms Software Engineer Intern",
    "location": "California / Washington, DC / Texas / NYC",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
@@ -166,21 +128,6 @@
    "company": "REGENT",
    "terms": [
     "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
-   "posted": "2026-11-03",
-   "company": "CareSource",
-   "terms": [
-    "Summer 2027"
    ],
    "degrees": [],
    "category": "tech",

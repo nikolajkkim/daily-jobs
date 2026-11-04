@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-04T10:20+00:00",
+ "generated": "2026-11-04T16:33+00:00",
  "jobs": [
+  {
+   "id": "w-7e78a08fc213",
+   "company": "Paccar",
+   "title": "Data Engineer Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-04",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-5a501df1b5d1",
+   "company": "Parsons",
+   "title": "AI/ML Engineer Intern",
+   "location": "Centreville, VA / United States",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-04",
+   "found": "2026-11-04"
+  },
   {
    "id": "w-bb6ddb099f3b",
    "company": "GenMD",
@@ -46,50 +68,6 @@
    "found": "2026-11-04"
   },
   {
-   "id": "w-890d5df750b2",
-   "company": "Vatic Investments",
-   "title": "AI Research Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
-   "id": "w-b13451257e18",
-   "company": "First Citizens BancShares",
-   "title": "Applied AI Intern",
-   "location": "Raleigh, NC",
-   "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
-   "id": "w-bec963c6ee10",
-   "company": "Samsung Research America",
-   "title": "Agentic AI Solutions Intern",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
-   "id": "w-770e68b2180a",
-   "company": "Highmark Health",
-   "title": "Healthcare Analytics Data Science Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
    "id": "w-e44e2b955d7c",
    "company": "Highmark Health",
    "title": "AI Services and Platforms Software Engineer Intern",
@@ -106,17 +84,6 @@
    "title": "Commercial Business Development Data Intern",
    "location": "North Kingstown, RI",
    "url": "https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
-   "id": "w-db7b851a0505",
-   "company": "CareSource",
-   "title": "Data Science Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-03",
