@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "found": 5,
-    "note": "5 new roles (Simplify feed; Zebra x2, Intuitive, Leidos, PNNL) · 0 browse adds · no new reports · Problem: Workday/PNNL pages returned empty so Zebra, Leidos and PNNL are unverified (term/degree from Simplify data); discovery searches found nothing new (Capital One already removed); step B not run"
+    "note": "5 new roles (Vatic, Samsung RSA, Highmark, CareSource, First Citizens) · 0 browse adds · no new reports · checked 3 listings, none closed (IMC, EA open; Kensho page unclear, left) · Problem: Workday/jibe pages not opened, so Highmark, CareSource, First Citizens rely on Simplify data; discovery searches found nothing new and verifiable; step B covered only 3 of 6"
   },
   "jobs": [
     {
@@ -1125,6 +1125,71 @@
       "found": "2026-11-03",
       "category": "tech",
       "posted": "2026-11-02"
+    },
+    {
+      "id": "vatic-investments-ai-research-intern-2027",
+      "company": "Vatic Investments",
+      "title": "AI Research Intern",
+      "location": "New York, NY",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
+      "fit": "good",
+      "why": "Summer 2027 in NYC, open to master's students. Your PPO agent work and XGBoost on 14M+ readings map to building ML trading agents; it prefers C++/time-series depth and a publication record, which you lack.",
+      "found": "2026-11-04",
+      "category": "finance",
+      "posted": "2026-11-03"
+    },
+    {
+      "id": "samsung-research-america-agentic-ai-intern-2027",
+      "company": "Samsung Research America",
+      "title": "Agentic AI Solutions Intern",
+      "location": "Mountain View, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
+      "fit": "strong",
+      "why": "Summer 2027 (May–Aug) is one of the offered terms, and MS students are eligible. Your LLaMA retrieval pipeline and few-shot prompting line up with building LLM agents and on-device model tuning.",
+      "found": "2026-11-04",
+      "category": "tech",
+      "posted": "2026-11-03"
+    },
+    {
+      "id": "highmark-health-healthcare-analytics-ds-graduate-intern-2027",
+      "company": "Highmark Health",
+      "title": "Healthcare Analytics Data Science Graduate Intern",
+      "location": "California / Washington, DC / Texas / NYC",
+      "source": "Workday",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvani",
+      "fit": "good",
+      "why": "Summer 2027 graduate-level data science internship open to master's students, with NYC and California options. Your GAMs/LASSO work and imbalanced-data XGBoost fit healthcare risk modeling; the Workday page would not load, so term and degree come from Simplify.",
+      "found": "2026-11-04",
+      "category": "tech",
+      "posted": "2026-11-03"
+    },
+    {
+      "id": "caresource-data-science-intern-2027",
+      "company": "CareSource",
+      "title": "Data Science Intern",
+      "location": "Remote (USA)",
+      "source": "Workday",
+      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Interns",
+      "fit": "good",
+      "why": "Summer 2027 remote data science internship. Your Python/SQL/scikit-learn modeling experience fits; the Workday page would not load, so term comes from Simplify and degree level is unconfirmed.",
+      "found": "2026-11-04",
+      "category": "tech",
+      "posted": "2026-11-03"
+    },
+    {
+      "id": "first-citizens-bancshares-applied-ai-intern-2027",
+      "company": "First Citizens BancShares",
+      "title": "Applied AI Intern",
+      "location": "Raleigh, NC",
+      "source": "Company site",
+      "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
+      "fit": "stretch",
+      "why": "Summer 2027 and open to master's students per Simplify. Your LLM retrieval and prompting work applies to applied AI in banking; it is in Raleigh, not NYC or California, and the page was not opened.",
+      "found": "2026-11-04",
+      "category": "finance",
+      "posted": "2026-11-03"
     }
   ],
   "browse": [

@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks bounce back Monday: Dow up about 1.1%, S&P 500 0.6%, Nasdaq 0.7%",
-      "note": "One report (the only one I found with Monday's closes, so treat the figures as approximate) says a sharp drop in oil prices and a tech rebound after Friday's sell-off drove the gains. Investors were also positioning ahead of Tuesday's midterm elections.",
-      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
-      "source": "Azat TV"
+      "headline": "Stocks end mixed Tuesday: Nasdaq +0.83%, S&P 500 +0.36%, Dow -0.38%",
+      "note": "Chip stocks (AMD, Broadcom, Micron, Nvidia) lifted the Nasdaq and ended a three-day S&P losing streak, while Apple's weak margin forecast dragged the Dow down about 197 points. Election Day and a 10-year yield near 4.9% kept investors cautious.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "source": "StockTitan"
     },
     {
       "tag": "Economy",
-      "headline": "Oil falls more than 7% as Middle East tensions ease",
-      "note": "The same report says crude dropped after Secretary of State Rubio said no decision had been made to attack Iran. Cheaper oil eases inflation worries, which matters for where interest rates go.",
-      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
-      "source": "Azat TV"
+      "headline": "Treasury yields stay high as two Fed presidents say rates may need to rise",
+      "note": "The 10-year yield edged up to about 4.91%. Higher yields make future company profits worth less today, which pressures tech and growth stocks, and affects the cost of loans for everyone.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "source": "StockTitan"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Apple falls 1.9% on weak holiday-quarter margin outlook",
+      "note": "Apple warned that rising memory chip costs will squeeze margins, wiping out about $94 billion in market value. Memory costs are an AI-boom side effect that hits consumer hardware makers.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "source": "StockTitan"
+    },
+    {
+      "tag": "Chips",
+      "headline": "AMD reports record $13.4B quarter; data center sales up 97%",
+      "note": "AMD's data center revenue hit $8.5B, above its own forecast, showing AI chip demand still growing. Arista also beat, with revenue up 58.5%, while Palantir slipped despite 96% revenue growth because new US contract value grew only 11%.",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "source": "StockTitan"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO: public filing is in, but no date or price range yet",
-      "note": "The public S-1 was filed Oct 26 for a Nasdaq listing under 'ANT'. The earliest the roadshow can start is Nov 10, and reports differ on whether trading comes the week of Nov 16 or before Thanksgiving. None of these dates is confirmed.",
+      "headline": "Anthropic IPO: still no price range or date as of Oct 30",
+      "note": "The public S-1 was filed Oct 26 (ticker ANT, Nasdaq). The roadshow can't start before Nov 10; Bloomberg and the WSJ have reported different target weeks, and Reuters says investors are weighing a lower valuation. None of this is confirmed by the company.",
       "url": "https://leverageshares.com/us/insights/when-is-the-anthropic-ipo/",
       "source": "Leverage Shares"
     },
     {
+      "tag": "Chips",
+      "headline": "Chinese AI firms reportedly order $70B in Nvidia chips; Oracle drops Tencent chip deal",
+      "note": "Bloomberg (via Techmeme) says Alibaba, Tencent and ByteDance ordered about 6M chips, but only around 1% may arrive within four months. The FT reports Oracle scrapped a roughly $7B chip-leasing deal with Tencent after US government pressure. Both are secondhand summaries, not read at the original source.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "LLM Stats (Techmeme summaries)"
+    },
+    {
       "tag": "AI",
-      "headline": "Leaks hint at Anthropic 'Fable 5.5' and OpenAI 'GPT-6.2 Astra'",
-      "note": "Both come from unnamed usage data and a catalog entry that was quickly removed. Neither company has confirmed anything, so treat it as rumor.",
-      "url": "https://cryptobriefing.com/anthropic-fable-5-5-openai-gpt-6-2-astra/",
-      "source": "Crypto Briefing"
+      "headline": "Election results raise questions about AI data center buildout",
+      "note": "Bloomberg headlines summarized by LLM Stats say a Democratic sweep is prompting investors to rethink trades tied to AI infrastructure, and that gubernatorial wins could bring more scrutiny to data centers. StockTitan notes the same worry. Results are still being reported, so watch for details.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "LLM Stats (Bloomberg summaries)"
     },
     {
-      "tag": "Tech",
-      "headline": "Oracle falls more than 5% after plans to sell $10B in stock and $10B in bonds for AI",
-      "note": "Funding AI data centers by issuing new shares and debt is a theme to watch: investors worry about who pays for the spending. This comes from a single report.",
-      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
-      "source": "Azat TV"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Amazon gains more than 4% Monday after a rough post-earnings Friday",
-      "note": "The stock had slipped 1.4% on Friday after Q3 earnings and revenue missed estimates. The bounce helped lift the Dow and Nasdaq.",
-      "url": "https://azat.tv/en/wall-street-rebounds-oil-plunge-midterms-2026/",
-      "source": "Azat TV"
-    },
-    {
-      "tag": "Economy",
-      "headline": "Fed's Collins says another rate hike is possible before the end of 2026; jobs report due Friday",
-      "note": "Boston Fed President Collins pointed to a solid economy and the goal of getting inflation back to target. The October jobs report comes out Friday, Nov 6 at 8:30 a.m. ET.",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-10-13/feds-collins-sees-another-rate-hike-table-end-2026",
-      "source": "Reuters via Kitco"
-    },
-    {
-      "tag": "Jobs",
-      "headline": "AI/ML job postings up 88% year over year in Dice's September data",
-      "note": "Overall tech postings grew just 17%, so the demand is concentrated in AI and machine learning, which is where you're aiming. Figure from a Dice summary page I only saw in search results.",
-      "url": "https://www.dice.com/salary-calculator/dba-in-us",
-      "source": "Dice"
+      "tag": "AI",
+      "headline": "Late-October model launches: GPT-6.1 Terra, Gemini 4 Carbon, Kimi K3.1 Pro",
+      "note": "OpenAI's GPT-6.1 Terra ($1/$5 per million tokens) targets high-volume computer-use tasks; Google's Gemini 4 Carbon is limited to cyber defenders with no public API; Moonshot promised open weights for Kimi K3.1 Pro by Nov 4. Specs are lab-reported.",
+      "url": "https://llm-stats.com/blog/research/gpt-6-1-terra-launch",
+      "source": "LLM Stats"
     }
   ],
   "learn": {
-    "n": 22,
-    "term": "Oil prices and inflation",
-    "explain": "Oil is a commodity, a raw material traded on global markets, and it feeds into the cost of gasoline, shipping and plastics. When oil jumps, prices across the economy tend to rise, which pushes inflation up. When oil falls, as it did on Monday after Middle East tensions eased, inflation worries fade. The Fed watches inflation when deciding interest rates, so a big oil move can shift stocks. Cheaper oil helps most companies, but it hurts oil producers.",
-    "try": "Look up the price of Brent crude and WTI (the two main oil benchmarks) and see how they differ."
+    "n": 23,
+    "term": "Discount rate (why higher yields hurt growth stocks)",
+    "explain": "A dollar next year is worth less than a dollar today, because you could earn interest on today's dollar. Investors 'discount' a company's future profits using an interest rate, usually tied to Treasury yields. When the 10-year yield rises, as it did to about 4.9% on Tuesday, those future profits are worth less in today's terms. The effect is biggest for growth companies, whose profits are expected far in the future, which is why tech stocks often wobble when yields climb.",
+    "try": "Compute what $100 received in 10 years is worth today at a 3% discount rate and at 5%: 100 / (1.03^10) vs 100 / (1.05^10)."
   },
   "learned": [
     "Earnings season and EPS",
@@ -86,6 +86,7 @@
     "Market correction",
     "Earnings guidance",
     "S-1 filing and the IPO roadshow",
-    "Oil prices and inflation"
+    "Oil prices and inflation",
+    "Discount rate (why higher yields hurt growth stocks)"
   ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T16:30+00:00",
+ "generated": "2026-11-04T10:20+00:00",
  "jobs": [
   {
    "id": "w-bb6ddb099f3b",
@@ -22,6 +22,149 @@
    "category": "tech",
    "posted": "2026-11-03",
    "found": "2026-11-03"
+  },
+  {
+   "id": "w-c697b2a17cd0",
+   "company": "Meta",
+   "title": "Research Scientist Intern - GenAI Safety",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/993713283787464",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-8ab091e489e1",
+   "company": "Vizient",
+   "title": "Summer Intern - Digital Collaboration & Data Insights",
+   "location": "Chicago, IL",
+   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-890d5df750b2",
+   "company": "Vatic Investments",
+   "title": "AI Research Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-b13451257e18",
+   "company": "First Citizens BancShares",
+   "title": "Applied AI Intern",
+   "location": "Raleigh, NC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-bec963c6ee10",
+   "company": "Samsung Research America",
+   "title": "Agentic AI Solutions Intern",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-770e68b2180a",
+   "company": "Highmark Health",
+   "title": "Healthcare Analytics Data Science Graduate Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-e44e2b955d7c",
+   "company": "Highmark Health",
+   "title": "AI Services and Platforms Software Engineer Intern",
+   "location": "California / Washington, DC / Texas / NYC",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-83caf3829373",
+   "company": "REGENT",
+   "title": "Commercial Business Development Data Intern",
+   "location": "North Kingstown, RI",
+   "url": "https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-db7b851a0505",
+   "company": "CareSource",
+   "title": "Data Science Intern",
+   "location": "Remote in USA",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-738aaa3dd019",
+   "company": "Trimble",
+   "title": "AI Developer Intern",
+   "location": "Dayton, OH / Westminster, CO",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-ef4a4c4f7798",
+   "company": "ByteDance",
+   "title": "Research Scientist Intern - Video and Edge - Multimedia Lab",
+   "location": "San Diego, CA",
+   "url": "https://jobs.bytedance.com/en/position/7701477754169968901/detail",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-139a719ae9f5",
+   "company": "Sherwin-Williams",
+   "title": "R&D Data Visualization Intern",
+   "location": "Brecksville, OH",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
+  },
+  {
+   "id": "w-d50397665232",
+   "company": "TruStage",
+   "title": "Innovation & AI Technology Intern",
+   "location": "Madison, WI",
+   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-04"
   },
   {
    "id": "w-bd8481d262e5",
@@ -255,17 +398,6 @@
    "found": "2026-10-31"
   },
   {
-   "id": "w-f79466ef2cfc",
-   "company": "Boston Scientific",
-   "title": "AI Solutions Engineering Intern",
-   "location": "Arden Hills, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-29"
-  },
-  {
    "id": "w-cdff130dc19a",
    "company": "Charles River Analytics",
    "title": "AI Scientist Intern",
@@ -275,17 +407,6 @@
    "category": "tech",
    "posted": "2026-10-29",
    "found": "2026-10-29"
-  },
-  {
-   "id": "w-8e1849117ec2",
-   "company": "RTX",
-   "title": "Sustainment Data and Analytics Intern",
-   "location": "East Hartford, CT",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
   },
   {
    "id": "w-dfa7a50fd567",
@@ -304,17 +425,6 @@
    "title": "Research Scientist Intern - AI Infra",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/4603165899971826",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
-   "id": "w-38c12cda30d6",
-   "company": "NVIDIA",
-   "title": "AI Systems Software Engineer Intern",
-   "location": "Austin, TX",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-29",
@@ -354,6 +464,17 @@
    "found": "2026-10-31"
   },
   {
+   "id": "w-ac9fb3bda1e1",
+   "company": "Meta",
+   "title": "Research Scientist Intern - ML Innovation for Products",
+   "location": "Menlo Park, CA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1060093353751700",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-11-04"
+  },
+  {
    "id": "w-625bb39291c0",
    "company": "Meta",
    "title": "Research Scientist Intern - Ads Recommendations",
@@ -385,17 +506,6 @@
    "category": "tech",
    "posted": "2026-10-28",
    "found": "2026-10-28"
-  },
-  {
-   "id": "w-4ebed06fee8a",
-   "company": "Workday",
-   "title": "Analytics Engineer Intern",
-   "location": "Pleasanton, CA",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
   },
   {
    "id": "w-e50003ab61ed",
@@ -431,17 +541,6 @@
    "found": "2026-10-29"
   },
   {
-   "id": "w-347be058c10d",
-   "company": "American Family Insurance Group",
-   "title": "Talent Analytics Intern",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
    "id": "w-ec404f83c7e9",
    "company": "Berkshire Hathaway Energy",
    "title": "Data Systems Intern",
@@ -462,6 +561,17 @@
    "category": "tech",
    "posted": "2026-10-28",
    "found": "2026-10-29"
+  },
+  {
+   "id": "w-41680b38aa06",
+   "company": "University Corporation for Atmospheric Research",
+   "title": "Data Science Student Assistant 3 Intern",
+   "location": "Boulder, CO",
+   "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-28",
+   "found": "2026-11-04"
   },
   {
    "id": "w-8901d9d89b60",
@@ -1377,17 +1487,6 @@
    "found": "2026-10-14"
   },
   {
-   "id": "w-f751f1210958",
-   "company": "KLA",
-   "title": "AI Engineer Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
    "id": "w-90b6d3faf15b",
    "company": "DriveTime",
    "title": "Data Analytics Intern",
@@ -1408,17 +1507,6 @@
    "category": "tech",
    "posted": "2026-10-13",
    "found": "2026-10-14"
-  },
-  {
-   "id": "w-20f08ac781b5",
-   "company": "Highmark Health",
-   "title": "Population Health Analytics Graduate Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
   },
   {
    "id": "w-cbb52cad8c3e",
@@ -1597,6 +1685,17 @@
    "found": "2026-10-13"
   },
   {
+   "id": "w-8b2b0969f503",
+   "company": "Boston Scientific",
+   "title": "Equipment Engineering AI Vision Engineer Intern",
+   "location": "Maple Grove, MN",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-06",
+   "found": "2026-10-13"
+  },
+  {
    "id": "w-748e3385b2b7",
    "company": "Meta",
    "title": "Data Scientist Intern - Product Analytics",
@@ -1762,17 +1861,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-f8c6e30367c5",
-   "company": "American Family Insurance Group",
-   "title": "GenAI/ML Intern",
-   "location": "Madison, WI / Boston, MA",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-e2224987f418",
    "company": "Intuit",
    "title": "Finance Transformation & Analytics Intern",
@@ -1781,17 +1869,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3b9ebffa9d0e",
-   "company": "The Federal Reserve System",
-   "title": "Advanced Analytics Intern",
-   "location": "Cleveland, OH",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
    "found": "2026-10-13"
   },
   {
@@ -1910,17 +1987,6 @@
    "title": "Quantitative Analytics & Data Science Intern",
    "location": "Baltimore, MD",
    "url": "https://jobs.constellationenergy.com/jobs/139494?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-24"
-  },
-  {
-   "id": "w-68d12eccf809",
-   "company": "William Blair",
-   "title": "Technology Intern - Wit - Data Science",
-   "location": "Chicago, IL",
-   "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-28",
