@@ -1,28 +1,6 @@
 {
- "generated": "2026-11-05T10:20+00:00",
+ "generated": "2026-11-05T16:48+00:00",
  "jobs": [
-  {
-   "id": "w-84ff8f63e31d",
-   "company": "PayPal",
-   "title": "Machine Learning Engineer Intern",
-   "location": "San Jose, CA",
-   "url": "https://paypal.eightfold.ai/careers/job/274922983149",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-05"
-  },
-  {
-   "id": "w-547712e08cdb",
-   "company": "PayPal",
-   "title": "Data Scientist Intern",
-   "location": "San Jose, CA",
-   "url": "https://paypal.eightfold.ai/careers/job/274922982821",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-05"
-  },
   {
    "id": "w-f85b33e8aa56",
    "company": "Meta",
@@ -90,17 +68,6 @@
    "found": "2026-11-04"
   },
   {
-   "id": "w-5a501df1b5d1",
-   "company": "Parsons",
-   "title": "AI/ML Engineer Intern",
-   "location": "Centreville, VA / United States",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-04"
-  },
-  {
    "id": "w-90c45e925231",
    "company": "ASML",
    "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
@@ -139,28 +106,6 @@
    "title": "DSP/ML Research Engineer Intern",
    "location": "Framingham, MA",
    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-05"
-  },
-  {
-   "id": "w-a1e85fa09edc",
-   "company": "Constellation Energy",
-   "title": "Load Forecasting & Analytics Intern",
-   "location": "Baltimore, MD",
-   "url": "https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-05"
-  },
-  {
-   "id": "w-08fd4bbc7425",
-   "company": "NVIDIA",
-   "title": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI",
-   "location": "Santa Clara, CA / United States",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-04",

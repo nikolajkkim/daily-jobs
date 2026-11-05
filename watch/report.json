@@ -1,46 +1,46 @@
 {
- "generated": "2026-11-05T10:20+00:00",
+ "generated": "2026-11-05T16:48+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 681,
+   "open_jobs": 677,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
   },
   "Scale AI": {
    "status": "ok",
-   "open_jobs": 165,
+   "open_jobs": 166,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "scaleai"
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 927,
+   "open_jobs": 922,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 761,
+   "open_jobs": 762,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
   },
   "Airbnb": {
    "status": "ok",
-   "open_jobs": 208,
+   "open_jobs": 207,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "airbnb"
   },
   "Figma": {
    "status": "ok",
-   "open_jobs": 145,
+   "open_jobs": 143,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "figma"
@@ -54,7 +54,7 @@
   },
   "Lyft": {
    "status": "ok",
-   "open_jobs": 176,
+   "open_jobs": 174,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "lyft"
@@ -68,35 +68,35 @@
   },
   "Pinterest": {
    "status": "ok",
-   "open_jobs": 169,
+   "open_jobs": 166,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "pinterest"
   },
   "Reddit": {
    "status": "ok",
-   "open_jobs": 163,
+   "open_jobs": 165,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "reddit"
   },
   "Coinbase": {
    "status": "ok",
-   "open_jobs": 278,
+   "open_jobs": 277,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "coinbase"
   },
   "Robinhood": {
    "status": "ok",
-   "open_jobs": 154,
+   "open_jobs": 152,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "robinhood"
   },
   "Datadog": {
    "status": "ok",
-   "open_jobs": 396,
+   "open_jobs": 394,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "datadog"
@@ -110,14 +110,14 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 310,
+   "open_jobs": 314,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
    "status": "ok",
-   "open_jobs": 361,
+   "open_jobs": 364,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "mongodb"
@@ -145,14 +145,14 @@
   },
   "Affirm": {
    "status": "ok",
-   "open_jobs": 235,
+   "open_jobs": 237,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "affirm"
   },
   "SoFi": {
    "status": "ok",
-   "open_jobs": 53,
+   "open_jobs": 52,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sofi"
@@ -166,21 +166,21 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 339,
+   "open_jobs": 340,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
   },
   "Klaviyo": {
    "status": "ok",
-   "open_jobs": 156,
+   "open_jobs": 154,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "klaviyo"
   },
   "Squarespace": {
    "status": "ok",
-   "open_jobs": 23,
+   "open_jobs": 22,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "squarespace"
@@ -215,14 +215,14 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 365,
+   "open_jobs": 366,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2566,
+   "open_jobs": 2571,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -243,14 +243,14 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 811,
+   "open_jobs": 814,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
   },
   "Notion": {
    "status": "ok",
-   "open_jobs": 148,
+   "open_jobs": 150,
    "matches": 0,
    "ats": "ashby",
    "slug": "notion"
@@ -278,7 +278,7 @@
   },
   "Harvey": {
    "status": "ok",
-   "open_jobs": 367,
+   "open_jobs": 365,
    "matches": 0,
    "ats": "ashby",
    "slug": "harvey"
@@ -320,14 +320,14 @@
   },
   "Palantir": {
    "status": "ok",
-   "open_jobs": 309,
+   "open_jobs": 307,
    "matches": 0,
    "ats": "lever",
    "slug": "palantir"
   },
   "Plaid": {
    "status": "ok",
-   "open_jobs": 144,
+   "open_jobs": 145,
    "matches": 0,
    "ats": "ashby",
    "slug": "plaid"
@@ -348,7 +348,7 @@
   },
   "Shield AI": {
    "status": "ok",
-   "open_jobs": 659,
+   "open_jobs": 654,
    "matches": 0,
    "ats": "lever",
    "slug": "shieldai"
@@ -383,21 +383,21 @@
   },
   "DRW": {
    "status": "ok",
-   "open_jobs": 162,
+   "open_jobs": 164,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "drweng"
   },
   "Hudson River Trading": {
    "status": "ok",
-   "open_jobs": 84,
+   "open_jobs": 83,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "wehrtyou"
   },
   "Tower Research Capital": {
    "status": "ok",
-   "open_jobs": 92,
+   "open_jobs": 91,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "towerresearchcapital"
@@ -418,8 +418,8 @@
   },
   "Schonfeld": {
    "status": "ok",
-   "open_jobs": 70,
-   "matches": 2,
+   "open_jobs": 67,
+   "matches": 1,
    "ats": "greenhouse",
    "slug": "schonfeld"
   },
@@ -444,7 +444,7 @@
   },
   "Betterment": {
    "status": "ok",
-   "open_jobs": 27,
+   "open_jobs": 26,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "betterment"
@@ -458,14 +458,14 @@
   },
   "BlackRock": {
    "status": "ok",
-   "open_jobs": 48,
+   "open_jobs": 47,
    "matches": 0,
    "ats": "workday",
    "slug": "blackrock"
   },
   "Morgan Stanley": {
    "status": "ok",
-   "open_jobs": 56,
+   "open_jobs": 57,
    "matches": 0,
    "ats": "workday",
    "slug": "ms"
@@ -486,7 +486,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 271,
+   "open_jobs": 272,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -549,7 +549,7 @@
   },
   "Disney": {
    "status": "ok",
-   "open_jobs": 56,
+   "open_jobs": 52,
    "matches": 0,
    "ats": "workday",
    "slug": "disney"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 313,
-   "matches": 313,
+   "open_jobs": 312,
+   "matches": 312,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }
