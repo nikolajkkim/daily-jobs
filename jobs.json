@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "found": 5,
-    "note": "5 new roles (Vatic, Samsung RSA, Highmark, CareSource, First Citizens) · 0 browse adds · no new reports · checked 3 listings, none closed (IMC, EA open; Kensho page unclear, left) · Problem: Workday/jibe pages not opened, so Highmark, CareSource, First Citizens rely on Simplify data; discovery searches found nothing new and verifiable; step B covered only 3 of 6"
+    "note": "5 new roles (PayPal MLE, PayPal DS, NVIDIA DL Scientist, Constellation Energy, Parsons) · 0 browse adds · no new reports · Problem: Workday/Eightfold/iCIMS pages did not load, so eligibility relies on Simplify data and step B closed-listing checks were skipped; discovery searches found nothing verifiable"
   },
   "jobs": [
     {
@@ -1190,6 +1190,71 @@
       "found": "2026-11-04",
       "category": "finance",
       "posted": "2026-11-03"
+    },
+    {
+      "id": "paypal-mle-intern-2027",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer Intern – Summer 2027",
+      "location": "San Jose, CA",
+      "source": "Simplify",
+      "url": "https://paypal.eightfold.ai/careers/job/274922983149",
+      "fit": "strong",
+      "why": "Summer 2027, open to master's students. Your PyTorch/Hugging Face work and the XGBoost model on 14M+ IoT readings map well to applied ML in payments; the page wouldn't load fully, so check the details when you apply.",
+      "found": "2026-11-05",
+      "category": "tech",
+      "posted": "2026-11-05"
+    },
+    {
+      "id": "paypal-data-scientist-intern-2027",
+      "company": "PayPal",
+      "title": "Data Scientist Intern – Summer 2027",
+      "location": "San Jose, CA",
+      "source": "Simplify",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982821",
+      "fit": "strong",
+      "why": "Summer 2027, bachelor's and master's eligible. Your imbalanced-class XGBoost work with F1 thresholding is close to fraud/risk modeling; details came from Simplify since the page wouldn't load fully.",
+      "found": "2026-11-05",
+      "category": "tech",
+      "posted": "2026-11-05"
+    },
+    {
+      "id": "nvidia-dl-scientist-intern-llm-multimodal-agentic-2027",
+      "company": "NVIDIA",
+      "title": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI (Summer 2027)",
+      "location": "Santa Clara, CA",
+      "source": "Workday",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+      "fit": "stretch",
+      "why": "Summer 2027 for master's/PhD students. Your LLaMA 3.2 retrieval pipeline and few-shot prompting line up with LLM work, but it likely wants research publications you don't have yet. You already applied to a different NVIDIA role.",
+      "found": "2026-11-05",
+      "category": "tech",
+      "posted": "2026-11-04"
+    },
+    {
+      "id": "constellation-energy-load-forecasting-intern-2027",
+      "company": "Constellation Energy",
+      "title": "Load Forecasting & Analytics Intern – Summer 2027",
+      "location": "Baltimore, MD",
+      "source": "Company site",
+      "url": "https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us",
+      "fit": "good",
+      "why": "Summer 2027, master's eligible. Forecasting suits your GAMs/LASSO/XGBoost modeling from the NSF fellowship; the gap is that it's time-series/energy focused and not NYC or California.",
+      "found": "2026-11-05",
+      "category": "tech",
+      "posted": "2026-11-04"
+    },
+    {
+      "id": "parsons-ai-ml-engineer-intern-2027",
+      "company": "Parsons",
+      "title": "AI/ML Engineer Intern – Summer 2027",
+      "location": "Centreville, VA",
+      "source": "Workday",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+      "fit": "stretch",
+      "why": "Summer 2027, master's eligible. Your PyTorch, LLM and RL projects fit, but Parsons is a defense contractor, so check for a US citizenship/clearance requirement before applying.",
+      "found": "2026-11-05",
+      "category": "tech",
+      "posted": "2026-11-04"
     }
   ],
   "browse": [
