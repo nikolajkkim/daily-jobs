@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Dow jumps 3% for its best day since April 2025; S&P 500 +1.58%, Nasdaq +1.44%",
-      "note": "Wednesday's rally followed Democratic wins in the House and Senate, which investors read as less political uncertainty, and U.S. crude fell more than 8%. The Dow closed at 53,356.12, up 1,569.40 points.",
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "headline": "Nasdaq falls about 5.5% into correction in worst day since April 2025",
+      "note": "CNBC's live blog put the S&P 500 down about 4.4% and the Dow down roughly 1,800 points (3.4%); all 11 S&P sectors fell. CNBC's own pages gave conflicting figures for the S&P and Dow, so treat those as approximate. The cause was fear that AI infrastructure spending will slow after the midterms.",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "AI",
+      "headline": "Magnificent 7 lose more than $1 trillion as AI stocks get hit hardest",
+      "note": "Nvidia fell more than 9% and AMD and Micron fell double digits on worries about data-center rules and high rates. The AI buildout funds many ML jobs and projects, so a slowdown would matter for your internship market.",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Qualcomm's weak outlook adds to the chip rout; memory shortage in focus",
+      "note": "Qualcomm fell more than 9% after a disappointing quarterly outlook. CEO Cristiano Amon said, 'We don't have a demand issue; it's a supply issue,' pointing to industry memory shortages that raise prices.",
+      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Asian chip stocks tumble; Korea's Kospi has a circuit-breaker day",
+      "note": "The Nasdaq sell-off hit SK Hynix, Samsung, SoftBank and TSMC. CNBC reported the Kospi fell more than 6% at the close, after early losses large enough to trigger circuit breakers, and Japan's Nikkei and Taiwan's Taiex entered bear markets.",
+      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
       "source": "CNBC"
     },
     {
       "tag": "Economy",
-      "headline": "Treasury yields ease as oil falls and divided government looks likelier",
-      "note": "AP reported the 10-year yield slipping to about 4.89% from 4.95% the prior evening, as investors saw less risk of added federal borrowing. Lower oil also eased inflation worries, which matters because rate-hike fears have been weighing on stocks.",
-      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-surge-and-the-dow-soars-1500-points-as-brent-oils-price-drops-below-95-per-barrel",
-      "source": "AP via PBS"
-    },
-    {
-      "tag": "AI",
-      "headline": "AI stocks fall while the rest of the market rallies on data-center worries",
-      "note": "Nvidia dropped about 3% and CoreWeave more than 7%, as investors worried about possible data-center restrictions, including a moratorium pledged by Texas's newly elected governor (per CNBC). The AI buildout is the demand behind many ML jobs and projects, so power and data-center policy is worth following.",
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Apple hits an all-time high near $354, market cap above $5.12 trillion",
-      "note": "Apple rose about 6% on Wednesday, a day after a margin warning hit the stock. CNBC says investors see it as less exposed to AI data-center spending than other big tech names.",
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic IPO: no price range yet; earliest roadshow start is Nov 10",
-      "note": "The S-1 was filed Oct 26 with the price range left blank; a range would appear in an amended filing. A report of trading before Thanksgiving is press speculation, not a confirmed schedule, and I found no amended filing today.",
-      "url": "https://leverageshares.com/us/insights/anthropic-ipo-price/",
-      "source": "Leverage Shares"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Texas has paused data-center environmental permits pending a grid audit",
-      "note": "Reports from September say Gov. Greg Abbott directed a suspension of data-center permit approvals until ERCOT finishes reviewing its interconnection queue. Sources disagree on exact dates, so treat it as background to this week's AI-infrastructure worries.",
-      "url": "https://www.allsides.com/news/2026-09-22-0700/technology-gov-greg-abbott-broadens-moratorium-data-center-approvals-include-environmental-permits",
-      "source": "AllSides"
-    },
-    {
-      "tag": "Markets",
-      "headline": "McDonald's beats on earnings per share but misses on revenue",
-      "note": "Adjusted EPS was $3.57 against a $3.38 estimate, but revenue of $7.16B missed the $7.29B forecast and U.S. same-store sales fell 0.2%. A handy example of a company 'beating' and still disappointing.",
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "headline": "Markets price about 70% odds of a Fed rate hike on Dec. 9",
+      "note": "With oil near $100 (Brent) and rising rates already pressuring tech valuations, a hike is the market's base case. Higher rates make future profits of growth companies worth less today.",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
       "source": "CNBC"
     },
     {
       "tag": "Jobs",
-      "headline": "Data science hiring is concentrated in big employers, with New York a top market",
-      "note": "One analysis of U.S. postings (updated July 2026, not November) says New York has about 14% of data science postings and 49% come from employers with 10,000+ staff. General background, not new data.",
-      "url": "https://axialsearch.com/insights/data-science-jobs",
-      "source": "Axial Search"
+      "headline": "October jobs report due Friday; about 59,000 jobs expected",
+      "note": "Economists expect unemployment to hold at 4.2%. A weak or strong number could move rate-hike odds, which in turn moves the tech stocks that hire data and ML people.",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Jim Cramer: no AI stock seems safe as data-center uncertainty spreads",
+      "note": "Commentary on why even strong AI names sold off together. It's an opinion piece, but it captures how much of the market now rides on one theme.",
+      "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Texas governor-elect wants to pause data-center expansion",
+      "note": "Per CNBC, Gina Hinojosa said she wants a pause until protections are in place. Texas is a major data-center hub, so this is part of what spooked AI investors.",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "CNBC"
     }
   ],
   "learn": {
-    "n": 24,
-    "term": "Price-weighted index (why the Dow moves in points)",
-    "explain": "The S&P 500 and Nasdaq weight companies by their total market value. The Dow Jones Industrial Average, with only 30 stocks, is price-weighted: a stock with a higher share price counts for more, no matter how big the company is. That's why headlines quote Dow moves in points. On Wednesday it rose 1,569.40 points, or 3.03%, to 53,356.12. The percentage is what lets you compare it with the S&P 500's 1.58% gain.",
-    "try": "Look up the 30 Dow components and find the stock with the highest share price, then compare its weight to its company's size."
+    "n": 25,
+    "term": "Circuit breakers (trading halts)",
+    "explain": "A circuit breaker is an automatic pause in trading when prices fall too fast, giving investors time to calm down and think. Exchanges set thresholds, such as a drop of a certain percent in one day. This week CNBC reported that South Korea's Kospi dropped enough early on to trigger its circuit breakers before closing down more than 6%. They don't stop a decline, they just slow panic selling.",
+    "try": "Look up the U.S. market-wide circuit breaker levels and compare them with this week's moves."
   },
   "learned": [
     "Earnings season and EPS",
@@ -88,6 +88,7 @@
     "S-1 filing and the IPO roadshow",
     "Oil prices and inflation",
     "Discount rate (why higher yields hurt growth stocks)",
-    "Price-weighted index (why the Dow moves in points)"
+    "Price-weighted index (why the Dow moves in points)",
+    "Circuit breakers (trading halts)"
   ]
 }

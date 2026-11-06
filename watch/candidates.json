@@ -1,7 +1,55 @@
 {
- "generated": "2026-11-05T16:48+00:00",
+ "generated": "2026-11-06T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Research Scientist Intern - Video Generation",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
+   "posted": "2026-11-06",
+   "company": "HoYoverse",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Product Intelligence Engineering Intern - AI/ML",
+   "location": "Phoenix, AZ",
+   "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
+   "posted": "2026-11-06",
+   "company": "ASM International",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "posted": "2026-11-05",
+   "company": "Palantir",
+   "category": "tech",
+   "ats": "lever",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
   {
    "title": "Research Scientist Intern - Monetization Ranking & AI Foundations",
    "location": "Menlo Park, CA / Sunnyvale, CA",
@@ -15,7 +63,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Research Scientist Intern - Generative AI & Computational Photography",
@@ -30,7 +78,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
@@ -45,7 +93,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Research Scientist Intern - Spatial Reasoning & Localization",
@@ -60,7 +108,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "AI and Software Innovation Intern",
@@ -79,7 +127,93 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
+   "location": "Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL",
+   "url": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us",
+   "posted": "2026-11-05",
+   "company": "State Farm",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Research Analytics & Insights Intern",
+   "location": "Chicago, IL",
+   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2",
+   "posted": "2026-11-05",
+   "company": "Vizient",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Remote in USA",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
+   "posted": "2026-11-05",
+   "company": "J.M. Smucker",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
+   "location": "Kansas City, MO",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604",
+   "posted": "2026-11-05",
+   "company": "Catholic Charities of Kansas City-St. Joseph",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Software Engineer Intern - Sovereign AI Systems",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply",
+   "posted": "2026-11-05",
+   "company": "Palantir",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Data Engineer Intern",
@@ -97,7 +231,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
@@ -115,7 +249,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "Research Scientist Intern - Summer 2027",
@@ -133,7 +267,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "AI and Automation Engineering Intern",
@@ -148,7 +282,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "title": "DSP/ML Research Engineer Intern",
@@ -166,190 +300,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Member of Technical Staff Intern - Applied AI",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true",
-   "posted": "2026-11-03",
-   "company": "GenMD",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Research Scientist Intern - FM Quality ML",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1125383989877928",
-   "posted": "2026-11-03",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Research Scientist Intern - GenAI Safety",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/993713283787464",
-   "posted": "2026-11-03",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Summer Intern - Digital Collaboration & Data Insights",
-   "location": "Chicago, IL",
-   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R",
-   "posted": "2026-11-03",
-   "company": "Vizient",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "AI Services and Platforms Software Engineer Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
-   "posted": "2026-11-03",
-   "company": "Highmark Health",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Commercial Business Development Data Intern",
-   "location": "North Kingstown, RI",
-   "url": "https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true",
-   "posted": "2026-11-03",
-   "company": "REGENT",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "AI Developer Intern",
-   "location": "Dayton, OH / Westminster, CO",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194",
-   "posted": "2026-11-03",
-   "company": "Trimble",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Research Scientist Intern - Video and Edge - Multimedia Lab",
-   "location": "San Diego, CA",
-   "url": "https://jobs.bytedance.com/en/position/7701477754169968901/detail",
-   "posted": "2026-11-03",
-   "company": "ByteDance",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "R&D Data Visualization Intern",
-   "location": "Brecksville, OH",
-   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298",
-   "posted": "2026-11-03",
-   "company": "Sherwin-Williams",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "MBA",
-    "PharmD",
-    "PhD",
-    "Associate's",
-    "Bachelor's",
-    "Bachelor's",
-    "Bachelor's",
-    "Bachelor's",
-    "Master's",
-    "Master's",
-    "Master's",
-    "Master's",
-    "Associate's",
-    "Associate's",
-    "DO",
-    "DDS",
-    "DVM"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
-  },
-  {
-   "title": "Innovation & AI Technology Intern",
-   "location": "Madison, WI",
-   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
-   "posted": "2026-11-03",
-   "company": "TruStage",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "Associate's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-05",
-    "found": 5,
-    "note": "5 new roles (PayPal MLE, PayPal DS, NVIDIA DL Scientist, Constellation Energy, Parsons) · 0 browse adds · no new reports · Problem: Workday/Eightfold/iCIMS pages did not load, so eligibility relies on Simplify data and step B closed-listing checks were skipped; discovery searches found nothing verifiable"
+    "date": "2026-11-06",
+    "found": 3,
+    "note": "3 new roles (Smucker DS, State Farm DS, Bose DSP/ML), only 3 qualified: other new postings were Meta PhD-oriented research roles, SWE, analyst or no stated term · 0 browse adds · no new reports · checked 6 older listings, none closed · Problem: Workday/iCIMS pages did not load so openness of the 3 picks relies on Simplify data; discovery searches found nothing new and verifiable"
   },
   "jobs": [
     {
@@ -1255,6 +1255,45 @@
       "found": "2026-11-05",
       "category": "tech",
       "posted": "2026-11-04"
+    },
+    {
+      "id": "jm-smucker-data-science-intern-2027",
+      "company": "J.M. Smucker",
+      "title": "Data Science Intern",
+      "location": "Remote in USA",
+      "source": "Workday",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
+      "fit": "good",
+      "why": "Summer 2027 data science internship, remote in the US, and Simplify lists it for master's students. Your XGBoost work on 14M+ IoT readings and class imbalance maps well to consumer-goods forecasting; no industry internship yet is fine here. I couldn't load the page to confirm it's still open, so check before applying.",
+      "found": "2026-11-06",
+      "posted": "2026-11-05",
+      "category": "tech"
+    },
+    {
+      "id": "state-farm-pc-modeling-data-scientist-intern-2027",
+      "company": "State Farm",
+      "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
+      "location": "Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL",
+      "source": "Company site",
+      "url": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us",
+      "fit": "good",
+      "why": "Summer 2027 data scientist internship, and Simplify lists it as master's-eligible. Your GAMs and LASSO bridge-damage modeling and the XGBoost risk model are the same toolkit as insurance risk modeling; the catch is no NYC or California office and the page didn't show eligibility details.",
+      "found": "2026-11-06",
+      "posted": "2026-11-05",
+      "category": "finance"
+    },
+    {
+      "id": "bose-dsp-ml-research-engineer-intern-2027",
+      "company": "Bose",
+      "title": "DSP/ML Research Engineer Intern",
+      "location": "Framingham, MA",
+      "source": "Workday",
+      "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+      "fit": "stretch",
+      "why": "Summer 2027 research internship open to master's students. Your PyTorch and deep learning experience fits the ML side, but it leans on signal processing (DSP), which you haven't shown. You already applied to a different Bose co-op, so this is a separate role. I couldn't load the page to confirm it's still open.",
+      "found": "2026-11-06",
+      "posted": "2026-11-04",
+      "category": "tech"
     }
   ],
   "browse": [

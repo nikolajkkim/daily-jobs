@@ -1,6 +1,39 @@
 {
- "generated": "2026-11-05T16:48+00:00",
+ "generated": "2026-11-06T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-d1db8d30c007",
+   "company": "HoYoverse",
+   "title": "Research Scientist Intern - Video Generation",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-98de977ab304",
+   "company": "ASM International",
+   "title": "Product Intelligence Engineering Intern - AI/ML",
+   "location": "Phoenix, AZ",
+   "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-aa746aefebc9",
+   "company": "Palantir",
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
   {
    "id": "w-f85b33e8aa56",
    "company": "Meta",
@@ -55,6 +88,61 @@
    "category": "tech",
    "posted": "2026-11-05",
    "found": "2026-11-05"
+  },
+  {
+   "id": "w-d66c67a5beeb",
+   "company": "State Farm",
+   "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
+   "location": "Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL",
+   "url": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-377406c3d96e",
+   "company": "Vizient",
+   "title": "Research Analytics & Insights Intern",
+   "location": "Chicago, IL",
+   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-8f1ec707bdf5",
+   "company": "J.M. Smucker",
+   "title": "Data Science Intern",
+   "location": "Remote in USA",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-9bd8632640a8",
+   "company": "Catholic Charities of Kansas City-St. Joseph",
+   "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
+   "location": "Kansas City, MO",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
+   "id": "w-4d135069357e",
+   "company": "Palantir",
+   "title": "Software Engineer Intern - Sovereign AI Systems",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
   },
   {
    "id": "w-7e78a08fc213",
@@ -150,17 +238,6 @@
    "title": "Summer Intern - Digital Collaboration & Data Insights",
    "location": "Chicago, IL",
    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-03",
-   "found": "2026-11-04"
-  },
-  {
-   "id": "w-e44e2b955d7c",
-   "company": "Highmark Health",
-   "title": "AI Services and Platforms Software Engineer Intern",
-   "location": "California / Washington, DC / Texas / NYC",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-03",
@@ -266,17 +343,6 @@
    "found": "2026-11-03"
   },
   {
-   "id": "w-3d3fd0665638",
-   "company": "Zebra Technologies",
-   "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
-   "location": "Holtsville, NY",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
    "id": "w-9a9c58812d40",
    "company": "Meta",
    "title": "Research Scientist Intern - Robotic Control Policy",
@@ -293,17 +359,6 @@
    "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1143164681833409",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-8a3694433978",
-   "company": "Meta",
-   "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
-   "location": "Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/1272664685039241",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-02",
@@ -612,17 +667,6 @@
    "title": "Research Scientist Intern - Search",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/2171476533578976",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-88062970bd0f",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Foundation Model Optimization",
-   "location": "Burlingame, CA / Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1435245618154892",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-27",
@@ -1509,17 +1553,6 @@
    "found": "2026-10-15"
   },
   {
-   "id": "w-13821b4ce134",
-   "company": "Businessolver",
-   "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
-   "location": "Remote in USA",
-   "url": "https://www.businessolver.com/careers/openings/?gh_jid=8281727",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
    "id": "w-db462d881f91",
    "company": "Meta",
    "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
@@ -1773,17 +1806,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-8b2b0969f503",
-   "company": "Boston Scientific",
-   "title": "Equipment Engineering AI Vision Engineer Intern",
-   "location": "Maple Grove, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-748e3385b2b7",
    "company": "Meta",
    "title": "Data Scientist Intern - Product Analytics",
@@ -1800,17 +1822,6 @@
    "title": "AI Engineering ERP Intern",
    "location": "Cary, NC",
    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3fb934460db7",
-   "company": "Northwestern Mutual",
-   "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
-   "location": "Milwaukee, WI",
-   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-06",
@@ -1947,28 +1958,6 @@
    "category": "finance",
    "posted": "2026-10-02",
    "found": "2026-10-12"
-  },
-  {
-   "id": "w-a54322fe0846",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA / Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-01362030b550",
-   "company": "General Motors",
-   "title": "Machine Learning Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
   },
   {
    "id": "w-e2224987f418",
@@ -2246,39 +2235,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-b3faee158f70",
-   "company": "Epic Games",
-   "title": "Data Science Intern",
-   "location": "Cary, NC",
-   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
-   "source": "Greenhouse",
-   "category": "gaming",
-   "posted": "2026-09-22",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-b6e3c9d89dc5",
-   "company": "ONE Finance",
-   "title": "AI Research Intern",
-   "location": "United States",
-   "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-77491dfe3bee",
-   "company": "Waymo",
-   "title": "Software Engineer Intern - Simulation Evaluation ML Model",
-   "location": "Mountain View, CA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-4c81723c5ef9",
    "company": "West Bend Insurance",
    "title": "IT Data Engineer Intern",
@@ -2287,61 +2243,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-cad6c4ee1a47",
-   "company": "ASM Global",
-   "title": "Student Data Specialist",
-   "location": "Coral Gables, FL",
-   "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Coral-Gables-FL/Student-Data-Specialist---University-of-Miami_R100125647",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-92255621eb56",
-   "company": "Stryker",
-   "title": "Data Analytics Intern",
-   "location": "Fort Wayne, IN",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-92951d572097",
-   "company": "Procter & Gamble",
-   "title": "R&D Intern - AI Research Engineer",
-   "location": "Mason, OH",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-650f26247f61",
-   "company": "Atlassian",
-   "title": "Machine Learning Intern",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-21",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-63c63abd15a1",
-   "company": "Viking Global",
-   "title": "Data Science Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-09-21",
    "found": "2026-10-13"
   }
  ]
