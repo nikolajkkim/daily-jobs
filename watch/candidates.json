@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T10:20+00:00",
+ "generated": "2026-11-06T16:14+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -31,6 +31,60 @@
    ],
    "degrees": [
     "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply",
+   "posted": "2026-11-06",
+   "company": "Tinder",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Motorsport Software and Data Analytics Graduate Intern",
+   "location": "Farmington Hills, MI",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440",
+   "posted": "2026-11-06",
+   "company": "Robert Bosch Venture Capital",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Cary, NC",
+   "url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false",
+   "posted": "2026-11-06",
+   "company": "SAS",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
     "Master's",
     "PhD"
    ],
@@ -130,46 +184,11 @@
    "last_seen": "2026-11-06"
   },
   {
-   "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
-   "location": "Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL",
-   "url": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us",
-   "posted": "2026-11-05",
-   "company": "State Farm",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
-  },
-  {
    "title": "Research Analytics & Insights Intern",
    "location": "Chicago, IL",
    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2",
    "posted": "2026-11-05",
    "company": "Vizient",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Remote in USA",
-   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
-   "posted": "2026-11-05",
-   "company": "J.M. Smucker",
    "terms": [
     "Summer 2027"
    ],
@@ -279,24 +298,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-06"
-  },
-  {
-   "title": "DSP/ML Research Engineer Intern",
-   "location": "Framingham, MA",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
-   "posted": "2026-11-04",
-   "company": "Bose",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-05",
