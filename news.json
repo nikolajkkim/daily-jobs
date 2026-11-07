@@ -1,68 +1,75 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Nasdaq falls about 5.5% into correction in worst day since April 2025",
-      "note": "CNBC's live blog put the S&P 500 down about 4.4% and the Dow down roughly 1,800 points (3.4%); all 11 S&P sectors fell. CNBC's own pages gave conflicting figures for the S&P and Dow, so treat those as approximate. The cause was fear that AI infrastructure spending will slow after the midterms.",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "Magnificent 7 lose more than $1 trillion as AI stocks get hit hardest",
-      "note": "Nvidia fell more than 9% and AMD and Micron fell double digits on worries about data-center rules and high rates. The AI buildout funds many ML jobs and projects, so a slowdown would matter for your internship market.",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Qualcomm's weak outlook adds to the chip rout; memory shortage in focus",
-      "note": "Qualcomm fell more than 9% after a disappointing quarterly outlook. CEO Cristiano Amon said, 'We don't have a demand issue; it's a supply issue,' pointing to industry memory shortages that raise prices.",
-      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Asian chip stocks tumble; Korea's Kospi has a circuit-breaker day",
-      "note": "The Nasdaq sell-off hit SK Hynix, Samsung, SoftBank and TSMC. CNBC reported the Kospi fell more than 6% at the close, after early losses large enough to trigger circuit breakers, and Japan's Nikkei and Taiwan's Taiex entered bear markets.",
-      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Economy",
-      "headline": "Markets price about 70% odds of a Fed rate hike on Dec. 9",
-      "note": "With oil near $100 (Brent) and rising rates already pressuring tech valuations, a hike is the market's base case. Higher rates make future profits of growth companies worth less today.",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "headline": "Stocks try to recoup losses after Thursday's rout; tech still on edge",
+      "note": "CNBC says stocks recouped some of Thursday's losses, when the Nasdaq fell 5.5% into a correction (worst day since April 2025) and the Dow fell about 1,800 points. I couldn't confirm Friday's closing index numbers. The VIX was around 24, and strategists warn it could take another week to bottom.",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
       "source": "CNBC"
     },
     {
       "tag": "Jobs",
-      "headline": "October jobs report due Friday; about 59,000 jobs expected",
-      "note": "Economists expect unemployment to hold at 4.2%. A weak or strong number could move rate-hike odds, which in turn moves the tech stocks that hire data and ML people.",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "headline": "October payrolls rise 165,000, nearly triple forecasts; unemployment 4.1%",
+      "note": "Strong hiring keeps Fed hike talk alive, but about 2 million people (27.6% of the jobless) have been out of work 27+ weeks, the highest share since late 2021. A tougher market for job seekers, even when headline numbers look good.",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed's Daly: 'we're going to have to tighten policy further'",
+      "note": "She says households are on a 'treadmill of high inflation.' Wages rose 3.1% in October versus 3.7% September inflation, so real pay is falling. The Fed's target range is 3.75%-4%.",
+      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Next week: October CPI on Tuesday",
+      "note": "Early estimates call for 3.9% inflation year over year, versus 3.7% previously. A hot number would raise hike odds and pressure tech stocks again.",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "AI",
+      "headline": "Democratic sweep clouds the outlook for US data-center buildout",
+      "note": "Investors worry about moratoriums or tighter data-center rules in some states, part of the AI sell-off (Magnificent 7 lost about $1 trillion Thursday). Dan Ives calls it a buying opportunity and expects most permitted projects to get built. Opinions differ.",
+      "url": "https://www.cnbc.com/2026/11/06/dan-ives-says-tech-rout-is-golden-buying-opportunity-.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "AI",
+      "headline": "ING reportedly seeks buyers for about $500M of data-center loans",
+      "note": "Banks are moving AI data-center credit risk to private credit and insurers, including loans tied to the Stargate project. Bids are due Nov. 19. It's a sign of rising AI-debt worries.",
+      "url": "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
       "source": "CNBC"
     },
     {
       "tag": "Tech",
-      "headline": "Jim Cramer: no AI stock seems safe as data-center uncertainty spreads",
-      "note": "Commentary on why even strong AI names sold off together. It's an opinion piece, but it captures how much of the market now rides on one theme.",
-      "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
+      "headline": "Microsoft reportedly winding down Oracle deal to rent AI cloud capacity",
+      "note": "CNBC reported the news on Friday but its page gave no details on size or reasons. Watch for confirmation, since it bears on AI capacity demand.",
+      "url": "https://www.cnbc.com/video/2026/11/06/microsoft-to-reportedly-wind-down-oracle-deal-to-rent-ai-cloud-capacity.html",
       "source": "CNBC"
     },
     {
-      "tag": "Tech",
-      "headline": "Texas governor-elect wants to pause data-center expansion",
-      "note": "Per CNBC, Gina Hinojosa said she wants a pause until protections are in place. Texas is a major data-center hub, so this is part of what spooked AI investors.",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "tag": "Economy",
+      "headline": "Oil falls under $100 Brent midweek, then choppy",
+      "note": "ICE Brent fell 8.7% Wednesday to under $100 for the first time since September. The Bank of England raised rates by 25 basis points Thursday.",
+      "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia earnings come later this month",
+      "note": "CNBC notes Nvidia reports outside next week's calendar. After losing about $440 billion in value Thursday, that report is the next big test for AI chip sentiment.",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
       "source": "CNBC"
     }
   ],
   "learn": {
-    "n": 25,
-    "term": "Circuit breakers (trading halts)",
-    "explain": "A circuit breaker is an automatic pause in trading when prices fall too fast, giving investors time to calm down and think. Exchanges set thresholds, such as a drop of a certain percent in one day. This week CNBC reported that South Korea's Kospi dropped enough early on to trigger its circuit breakers before closing down more than 6%. They don't stop a decline, they just slow panic selling.",
-    "try": "Look up the U.S. market-wide circuit breaker levels and compare them with this week's moves."
+    "n": 26,
+    "term": "Real wages",
+    "explain": "Real wages are your pay after adjusting for inflation, which tells you what your paycheck can actually buy. If wages grow 3.1% but prices grow 3.7%, as in today's data, real wages fall about 0.6 points, so people are effectively poorer even with raises. That is why the Fed worries about inflation and why a 'strong' pay number isn't always good news.",
+    "try": "Look up how real average hourly earnings are calculated on the BLS site."
   },
   "learned": [
     "Earnings season and EPS",
@@ -89,6 +96,7 @@
     "Oil prices and inflation",
     "Discount rate (why higher yields hurt growth stocks)",
     "Price-weighted index (why the Dow moves in points)",
-    "Circuit breakers (trading halts)"
+    "Circuit breakers (trading halts)",
+    "Real wages"
   ]
 }

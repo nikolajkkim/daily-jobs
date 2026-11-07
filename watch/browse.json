@@ -1,6 +1,50 @@
 {
- "generated": "2026-11-06T16:14+00:00",
+ "generated": "2026-11-07T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-f838ee898c65",
+   "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-07",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-bccf306b11b4",
+   "company": "Zoox",
+   "title": "Data Scientist Intern",
+   "location": "Boston, MA / Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-07",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-879b9e37407d",
+   "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-07",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-218fd5008a1a",
+   "company": "Zoox",
+   "title": "Data Science Intern [Summer 2027]",
+   "location": "Foster City, CA / Boston, MA",
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
   {
    "id": "w-d1db8d30c007",
    "company": "HoYoverse",
@@ -55,6 +99,149 @@
    "category": "tech",
    "posted": "2026-11-06",
    "found": "2026-11-06"
+  },
+  {
+   "id": "w-05105474589b",
+   "company": "Trimble",
+   "title": "AI Automation Intern",
+   "location": "Dayton, OH / Westminster, CO",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-4db1ad4d31b7",
+   "company": "L3Harris Technologies",
+   "title": "Data Architect Intern",
+   "location": "Huntsville, AL",
+   "url": "https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-676bea1bf326",
+   "company": "Enovation Controls",
+   "title": "Embedded Machine Learning Engineer Intern",
+   "location": "Tulsa, OK",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-607b6f45233b",
+   "company": "Niural",
+   "title": "AI Product Operator Intern",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-e8de6f692667",
+   "company": "T-Mobile",
+   "title": "Data Engineering Intern",
+   "location": "Frisco, TX / Atlanta, GA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-54449f2e7ba5",
+   "company": "T-Mobile",
+   "title": "Data Engineer Intern",
+   "location": "Frisco, TX / Atlanta, GA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-9331190ab14d",
+   "company": "T-Mobile",
+   "title": "AI Engineering Intern",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-1612b7f7a619",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Synthetic Data for Computer Use Agents",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1667187061776108",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-0369f99c51ab",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Generative AI & 3D Generation",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1406087328180524",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-2ed25e4c14e5",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1414987577372371",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-a96ac186d406",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI Systems and Infrastructure",
+   "location": "Menlo Park, CA / NYC",
+   "url": "https://www.metacareers.com/jobs/1750797606003820",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-8cad80ca763d",
+   "company": "Meta",
+   "title": "Research Scientist Intern - AI Agents and Machine Learning",
+   "location": "Menlo Park, CA / Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1826604892017856",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-d99d97ba2fb0",
+   "company": "Parspec",
+   "title": "Applied AI Engineer Intern",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-06",
+   "found": "2026-11-07"
   },
   {
    "id": "w-aa746aefebc9",
@@ -134,6 +321,17 @@
    "found": "2026-11-06"
   },
   {
+   "id": "w-b6dcc8855c22",
+   "company": "JM Family",
+   "title": "Data Engineer Intern",
+   "location": "Deerfield Beach, FL",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
    "id": "w-9bd8632640a8",
    "company": "Catholic Charities of Kansas City-St. Joseph",
    "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
@@ -154,17 +352,6 @@
    "category": "tech",
    "posted": "2026-11-05",
    "found": "2026-11-06"
-  },
-  {
-   "id": "w-7e78a08fc213",
-   "company": "Paccar",
-   "title": "Data Engineer Intern",
-   "location": "Denton, TX",
-   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-04"
   },
   {
    "id": "w-90c45e925231",
@@ -326,17 +513,6 @@
    "title": "Machine Learning Intern",
    "location": "Cambridge, MA",
    "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-903e809eea5e",
-   "company": "Cincinnati Children’s Hospital and Medical Center",
-   "title": "Student 2 Intern - Data Management Engineer",
-   "location": "Remote in USA",
-   "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-02",
@@ -684,17 +860,6 @@
    "found": "2026-10-27"
   },
   {
-   "id": "w-16122ae54a2d",
-   "company": "Visa",
-   "title": "Product Management Intern - Data and AI Team",
-   "location": "Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-27"
-  },
-  {
    "id": "w-9052be388e0b",
    "company": "EQT Corporation",
    "title": "AI Intern",
@@ -821,28 +986,6 @@
    "title": "Strategic Analytics Intern",
    "location": "NYC",
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-28"
-  },
-  {
-   "id": "w-714d94fd0ba3",
-   "company": "JM Family",
-   "title": "Data Engineer Intern",
-   "location": "Deerfield Beach, FL",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-28"
-  },
-  {
-   "id": "w-adf690853b4e",
-   "company": "JM Family",
-   "title": "Power Platform & Analytics Intern",
-   "location": "Mobile, AL",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-27",
@@ -1553,17 +1696,6 @@
    "found": "2026-10-15"
   },
   {
-   "id": "w-db462d881f91",
-   "company": "Meta",
-   "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1758435721926913",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
-  },
-  {
    "id": "w-197a2cbcde2e",
    "company": "General Motors",
    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
@@ -1960,6 +2092,17 @@
    "found": "2026-10-12"
   },
   {
+   "id": "w-a54322fe0846",
+   "company": "General Motors",
+   "title": "Software Engineer Intern - AV/AI Platform",
+   "location": "Sunnyvale, CA / Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-02",
+   "found": "2026-10-13"
+  },
+  {
    "id": "w-e2224987f418",
    "company": "Intuit",
    "title": "Finance Transformation & Analytics Intern",
@@ -2210,39 +2353,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-23",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3a9cbbd35659",
-   "company": "General Dynamics Information Technology",
-   "title": "AI Network Engineering Intern",
-   "location": "Bossier City, LA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-23",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-461949baf07b",
-   "company": "General Dynamics Information Technology",
-   "title": "Generative AI Software Development Intern",
-   "location": "Bossier City, LA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-23",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-4c81723c5ef9",
-   "company": "West Bend Insurance",
-   "title": "IT Data Engineer Intern",
-   "location": "Madison, WI / West Bend, WI",
-   "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-22",
    "found": "2026-10-13"
   }
  ]
