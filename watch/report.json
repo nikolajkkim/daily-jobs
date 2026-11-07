@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T10:20+00:00",
+ "generated": "2026-11-07T15:06+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -40,7 +40,7 @@
   },
   "Figma": {
    "status": "ok",
-   "open_jobs": 144,
+   "open_jobs": 145,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "figma"
@@ -222,7 +222,7 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2603,
+   "open_jobs": 2602,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -243,7 +243,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 820,
+   "open_jobs": 819,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -486,7 +486,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 269,
+   "open_jobs": 270,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 303,
-   "matches": 303,
+   "open_jobs": 302,
+   "matches": 302,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }
