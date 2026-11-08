@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T15:06+00:00",
+ "generated": "2026-11-08T10:20+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -19,14 +19,14 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 924,
+   "open_jobs": 922,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 765,
+   "open_jobs": 766,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -54,7 +54,7 @@
   },
   "Lyft": {
    "status": "ok",
-   "open_jobs": 167,
+   "open_jobs": 166,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "lyft"
@@ -96,7 +96,7 @@
   },
   "Datadog": {
    "status": "ok",
-   "open_jobs": 400,
+   "open_jobs": 401,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "datadog"
@@ -110,14 +110,14 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 315,
+   "open_jobs": 316,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
    "status": "ok",
-   "open_jobs": 375,
+   "open_jobs": 374,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "mongodb"
@@ -145,7 +145,7 @@
   },
   "Affirm": {
    "status": "ok",
-   "open_jobs": 223,
+   "open_jobs": 222,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "affirm"
@@ -215,14 +215,14 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 370,
+   "open_jobs": 369,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2602,
+   "open_jobs": 2600,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -236,14 +236,14 @@
   },
   "Ramp": {
    "status": "ok",
-   "open_jobs": 171,
+   "open_jobs": 169,
    "matches": 1,
    "ats": "ashby",
    "slug": "ramp"
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 819,
+   "open_jobs": 818,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -278,7 +278,7 @@
   },
   "Harvey": {
    "status": "ok",
-   "open_jobs": 371,
+   "open_jobs": 373,
    "matches": 0,
    "ats": "ashby",
    "slug": "harvey"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 139,
+   "open_jobs": 137,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -348,7 +348,7 @@
   },
   "Shield AI": {
    "status": "ok",
-   "open_jobs": 661,
+   "open_jobs": 660,
    "matches": 0,
    "ats": "lever",
    "slug": "shieldai"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 302,
-   "matches": 302,
+   "open_jobs": 300,
+   "matches": 300,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

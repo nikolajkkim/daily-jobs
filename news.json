@@ -1,75 +1,75 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks try to recoup losses after Thursday's rout; tech still on edge",
-      "note": "CNBC says stocks recouped some of Thursday's losses, when the Nasdaq fell 5.5% into a correction (worst day since April 2025) and the Dow fell about 1,800 points. I couldn't confirm Friday's closing index numbers. The VIX was around 24, and strategists warn it could take another week to bottom.",
+      "headline": "Stocks claw back part of Thursday's rout, but the tech sell-off isn't over",
+      "note": "Thursday was the Nasdaq's worst day since April 2025 and the Dow fell about 1,800 points; stocks recovered some of that Friday, with the VIX near 24. I couldn't confirm Friday's closing index levels. One strategist says the selling could last another week.",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic's IPO, likely mid-November, faces a cooler market",
+      "note": "Investors now see a $1 trillion to $1.5 trillion valuation, down from about $2 trillion talked about earlier. Voters rejected 40 of 41 local data-center ballot measures, and the filing lists about $895.4 billion of compute commitments. It would be the first pure-play AI company to list.",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Tech",
+      "headline": "Microsoft is trimming its 'neocloud' AI capacity partners",
+      "note": "Per CNBC, it plans to focus on fewer suppliers and its own data centers, and two sources say it didn't renew its Oracle deal. CoreWeave, Nebius and IREN shares each fell about half in a month. It's a sign the AI buildout may slow, which affects hiring at AI infrastructure firms.",
+      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Economy",
+      "headline": "October CPI arrives Tuesday",
+      "note": "Economists expect inflation of 3.9% year over year, up from 3.7%. A hot number would raise odds of Fed rate hikes and could pressure tech stocks again. Producer prices follow Friday.",
       "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
       "source": "CNBC"
     },
     {
       "tag": "Jobs",
-      "headline": "October payrolls rise 165,000, nearly triple forecasts; unemployment 4.1%",
-      "note": "Strong hiring keeps Fed hike talk alive, but about 2 million people (27.6% of the jobless) have been out of work 27+ weeks, the highest share since late 2021. A tougher market for job seekers, even when headline numbers look good.",
-      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "headline": "AI is speeding up recruiting and squeezing agency fees",
+      "note": "A Bullhorn survey found 37% of recruiters said AI made screening 26% to 50% faster. Adecco says humans still make the hiring decisions. For applicants, expect more automated screening early in the process.",
+      "url": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
       "source": "CNBC"
     },
     {
-      "tag": "Economy",
-      "headline": "Fed's Daly: 'we're going to have to tighten policy further'",
-      "note": "She says households are on a 'treadmill of high inflation.' Wages rose 3.1% in October versus 3.7% September inflation, so real pay is falling. The Fed's target range is 3.75%-4%.",
-      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Economy",
-      "headline": "Next week: October CPI on Tuesday",
-      "note": "Early estimates call for 3.9% inflation year over year, versus 3.7% previously. A hot number would raise hike odds and pressure tech stocks again.",
+      "tag": "Chips",
+      "headline": "Nvidia lost about $440 billion in value Thursday; earnings come later this month",
+      "note": "The Magnificent Seven lost roughly $1 trillion that day. Nvidia isn't on next week's calendar, so its report is the next big test of AI chip sentiment.",
       "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
       "source": "CNBC"
     },
     {
       "tag": "AI",
-      "headline": "Democratic sweep clouds the outlook for US data-center buildout",
-      "note": "Investors worry about moratoriums or tighter data-center rules in some states, part of the AI sell-off (Magnificent 7 lost about $1 trillion Thursday). Dan Ives calls it a buying opportunity and expects most permitted projects to get built. Opinions differ.",
-      "url": "https://www.cnbc.com/2026/11/06/dan-ives-says-tech-rout-is-golden-buying-opportunity-.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "ING reportedly seeks buyers for about $500M of data-center loans",
-      "note": "Banks are moving AI data-center credit risk to private credit and insurers, including loans tied to the Stargate project. Bids are due Nov. 19. It's a sign of rising AI-debt worries.",
-      "url": "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
+      "headline": "OpenAI says it will keep investing in data centers despite the election",
+      "note": "CNBC reports OpenAI executives responded to the post-midterm sell-off, and OpenAI released a data-center policy proposal Thursday. I only saw headlines, not details.",
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
       "source": "CNBC"
     },
     {
       "tag": "Tech",
-      "headline": "Microsoft reportedly winding down Oracle deal to rent AI cloud capacity",
-      "note": "CNBC reported the news on Friday but its page gave no details on size or reasons. Watch for confirmation, since it bears on AI capacity demand.",
-      "url": "https://www.cnbc.com/video/2026/11/06/microsoft-to-reportedly-wind-down-oracle-deal-to-rent-ai-cloud-capacity.html",
+      "headline": "Meta executive Dave Wehner leaves to become CFO of AI startup Fireworks",
+      "note": "Per CNBC's Saturday headline, a senior finance leader is moving from Big Tech to an AI infrastructure startup. I didn't read the full story.",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
       "source": "CNBC"
     },
     {
-      "tag": "Economy",
-      "headline": "Oil falls under $100 Brent midweek, then choppy",
-      "note": "ICE Brent fell 8.7% Wednesday to under $100 for the first time since September. The Bank of England raised rates by 25 basis points Thursday.",
-      "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia earnings come later this month",
-      "note": "CNBC notes Nvidia reports outside next week's calendar. After losing about $440 billion in value Thursday, that report is the next big test for AI chip sentiment.",
+      "tag": "Gaming",
+      "headline": "Take-Two reports earnings Monday",
+      "note": "It's on CNBC's calendar for Nov. 9. Worth watching if you follow game-industry business.",
       "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
       "source": "CNBC"
     }
   ],
   "learn": {
-    "n": 26,
-    "term": "Real wages",
-    "explain": "Real wages are your pay after adjusting for inflation, which tells you what your paycheck can actually buy. If wages grow 3.1% but prices grow 3.7%, as in today's data, real wages fall about 0.6 points, so people are effectively poorer even with raises. That is why the Fed worries about inflation and why a 'strong' pay number isn't always good news.",
-    "try": "Look up how real average hourly earnings are calculated on the BLS site."
+    "n": 27,
+    "term": "Leverage (debt financing)",
+    "explain": "Leverage means using borrowed money to fund growth. It can boost returns when things go well, but the interest still has to be paid when they don't. Many 'neocloud' companies borrowed heavily to buy AI chips and build data centers. When a big customer like Microsoft pulls back, those debts remain, which is part of why CoreWeave, Nebius and IREN shares fell about half in a month. It's also why higher interest rates hurt heavily indebted companies most.",
+    "try": "Look up CoreWeave's debt in its latest filing and compare it to its revenue."
   },
   "learned": [
     "Earnings season and EPS",
@@ -97,6 +97,7 @@
     "Discount rate (why higher yields hurt growth stocks)",
     "Price-weighted index (why the Dow moves in points)",
     "Circuit breakers (trading halts)",
-    "Real wages"
+    "Real wages",
+    "Leverage (debt financing)"
   ]
 }

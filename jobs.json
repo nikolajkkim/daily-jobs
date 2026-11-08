@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-07",
-    "found": 4,
-    "note": "4 new roles (Zoox, Tinder, SAS, D. E. Shaw Research), only 4 qualified: other new postings were Meta PhD-oriented research roles, SWE, data engineering, analyst, or no confirmed Summer 2027 term (Zoox AI Workflows, Samsung, Flagship) · 0 browse adds · no new reports · checked 5 older listings, none closed · Problem: Kensho careers page no longer lists its 2027 role (left as is, not proof of closing); T-Mobile/Workday pages not checked"
+    "date": "2026-11-08",
+    "found": 2,
+    "note": "2 picks only (1 new + 1 recent, posted Nov 3–6): other candidates were Meta PhD-oriented research roles, data engineering, SWE/PM, or had no confirmed Summer 2027 term (Zoox AI Workflows, Parspec, Samsung, Flagship, Astera) · 0 browse adds · no new reports · checked 6 older listings, none closed · Problem: Workday pages (T-Mobile, Trimble, ASML, Microsoft) wouldn't load so those couldn't be verified; discovery searches found nothing new and open"
   },
   "jobs": [
     {
@@ -1346,6 +1346,32 @@
       "found": "2026-11-07",
       "category": "tech",
       "posted": "2026-11-03"
+    },
+    {
+      "id": "enovation-controls-embedded-ml-engineer-intern-2027",
+      "company": "Enovation Controls",
+      "title": "Embedded Machine Learning Engineer Intern",
+      "location": "Tulsa, OK",
+      "source": "Company site",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257",
+      "fit": "good",
+      "why": "Summer 2027 (May 24–Aug 6), open to master's students in data science or AI. You'd bring Python, PyTorch and model evaluation from your PPO and DistilBERT projects; the gap is C/C++ and embedded/edge deployment, and it's onsite in Tulsa.",
+      "found": "2026-11-08",
+      "posted": "2026-11-06",
+      "category": "tech"
+    },
+    {
+      "id": "genmd-applied-ai-mts-intern-2027",
+      "company": "GenMD",
+      "title": "Member of Technical Staff Intern - Applied AI",
+      "location": "Palo Alto, CA",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c",
+      "fit": "strong",
+      "why": "Building LLM features and data pipelines for an AI research assistant maps to your LLaMA 3.2 retrieval work and Hugging Face/SQL skills. Terms are spring, summer and fall with flexible start dates, so confirm a summer 2027 start; it's onsite in Palo Alto and pays $45–$60/hr.",
+      "found": "2026-11-08",
+      "posted": "2026-11-03",
+      "category": "tech"
     }
   ],
   "browse": [
