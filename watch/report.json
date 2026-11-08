@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T10:20+00:00",
+ "generated": "2026-11-08T15:33+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -82,7 +82,7 @@
   },
   "Coinbase": {
    "status": "ok",
-   "open_jobs": 284,
+   "open_jobs": 283,
    "matches": 4,
    "ats": "greenhouse",
    "slug": "coinbase"
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 316,
+   "open_jobs": 315,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 332,
+   "open_jobs": 333,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -243,7 +243,7 @@
   },
   "OpenAI": {
    "status": "ok",
-   "open_jobs": 818,
+   "open_jobs": 816,
    "matches": 0,
    "ats": "ashby",
    "slug": "openai"
@@ -500,7 +500,7 @@
   },
   "Scopely": {
    "status": "ok",
-   "open_jobs": 167,
+   "open_jobs": 168,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "scopely"
