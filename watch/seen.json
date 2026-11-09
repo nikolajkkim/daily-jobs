@@ -10547,5 +10547,38 @@
   "ats": "simplify",
   "first_seen": "2026-11-07",
   "last_seen": "2026-11-09"
+ },
+ "https://job-boards.greenhouse.io/enova/jobs/8366036": {
+  "title": "Analytics Intern",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/enova/jobs/8366036",
+  "posted": "2026-11-09",
+  "company": "Enova",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09"
+ },
+ "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811": {
+  "title": "AI & Automation Intern",
+  "location": "Alpharetta, GA",
+  "url": "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811",
+  "posted": "2026-11-09",
+  "company": "Atrium Hospitality",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09"
  }
 }
