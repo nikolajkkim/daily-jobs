@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:33+00:00",
+ "generated": "2026-11-09T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -11,7 +11,7 @@
    "category": "tech",
    "ats": "lever",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   },
   {
    "title": "Data Scientist Intern",
@@ -30,7 +30,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   },
   {
    "title": "AI Workflows & Safety Decision Making Intern",
@@ -47,258 +47,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - Video Generation",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
-   "posted": "2026-11-06",
-   "company": "HoYoverse",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Product Intelligence Engineering Intern - AI/ML",
-   "location": "Phoenix, AZ",
-   "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
-   "posted": "2026-11-06",
-   "company": "ASM International",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Motorsport Software and Data Analytics Graduate Intern",
-   "location": "Farmington Hills, MI",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440",
-   "posted": "2026-11-06",
-   "company": "Robert Bosch Venture Capital",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "AI Automation Intern",
-   "location": "Dayton, OH / Westminster, CO",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
-   "posted": "2026-11-06",
-   "company": "Trimble",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Data Architect Intern",
-   "location": "Huntsville, AL",
-   "url": "https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors",
-   "posted": "2026-11-06",
-   "company": "L3Harris Technologies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "AI Product Operator Intern",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e/application?embed=true",
-   "posted": "2026-11-06",
-   "company": "Niural",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Data Engineering Intern",
-   "location": "Frisco, TX / Atlanta, GA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755",
-   "posted": "2026-11-06",
-   "company": "T-Mobile",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Data Engineer Intern",
-   "location": "Frisco, TX / Atlanta, GA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
-   "posted": "2026-11-06",
-   "company": "T-Mobile",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "AI Engineering Intern",
-   "location": "Bellevue, WA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
-   "posted": "2026-11-06",
-   "company": "T-Mobile",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - Synthetic Data for Computer Use Agents",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1667187061776108",
-   "posted": "2026-11-06",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - Generative AI & 3D Generation",
-   "location": "Burlingame, CA",
-   "url": "https://www.metacareers.com/jobs/1406087328180524",
-   "posted": "2026-11-06",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1414987577372371",
-   "posted": "2026-11-06",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - AI Systems and Infrastructure",
-   "location": "Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/1750797606003820",
-   "posted": "2026-11-06",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Research Scientist Intern - AI Agents and Machine Learning",
-   "location": "Menlo Park, CA / Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1826604892017856",
-   "posted": "2026-11-06",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "title": "Applied AI Engineer Intern",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true",
-   "posted": "2026-11-06",
-   "company": "Parspec",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-09"
   }
  ]
 }
