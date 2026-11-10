@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-09",
-    "found": 0,
-    "note": "0 picks: no new or recent eligible role could be confirmed. Zoox Data Scientist Intern is already on your list; Zoox AI Workflows Intern posting names no season; Meta research intern roles are PhD-oriented or wouldn't load; Samsung is an infra role with no confirmed season; Atlassian and Veeam are already in your tracker · 0 browse adds · no new reports · checked 6 older listings, none closed · Problem: Meta, T-Mobile Workday, McKinsey, Wayfair and Tencent pages wouldn't load, so those weren't verified"
+    "date": "2026-11-10",
+    "found": 5,
+    "note": "5 new roles · 0 browse adds · no new reports · checked 5 older listings, none closed · Problem: discovery searches (Greenhouse, Ashby, golf) returned no verifiable open Summer 2027 roles; UiPath, onsemi and APL pages didn't load, so those rely on Simplify eligibility data"
   },
   "jobs": [
     {
@@ -1372,6 +1372,71 @@
       "found": "2026-11-08",
       "posted": "2026-11-03",
       "category": "tech"
+    },
+    {
+      "id": "nyt-ml-scientist-intern-2027",
+      "company": "The New York Times",
+      "title": "Machine Learning Scientist Intern",
+      "location": "New York, NY (hybrid)",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+      "fit": "strong",
+      "why": "Summer 2027 (10 weeks from June 7) in NYC, using Python and scikit-learn on real newsroom and business ML problems, which matches your XGBoost and scikit-learn project work. No degree level is listed, and you need to be able to commute to NYC.",
+      "found": "2026-11-10",
+      "category": "tech",
+      "posted": "2026-11-09"
+    },
+    {
+      "id": "dreamworks-media-tech-data-ai-ml-intern-2027",
+      "company": "DreamWorks Animation (NBCUniversal)",
+      "title": "Media Tech: Data – AI & Machine Learning Intern",
+      "location": "New York, NY",
+      "source": "SmartRecruiters",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+      "fit": "good",
+      "why": "Summer 2027 (Jun 7–Aug 13) in NYC, with placements in AI agents and NLP or viewership forecasting that build on your LLaMA retrieval and Python/pandas work. Catch: the posting requires work authorization without current or future sponsorship, so check that before applying.",
+      "found": "2026-11-10",
+      "category": "entertainment",
+      "posted": "2026-11-09"
+    },
+    {
+      "id": "uipath-ai-engineer-intern-2027",
+      "company": "UiPath",
+      "title": "AI Engineer Intern",
+      "location": "Bellevue, WA",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+      "fit": "good",
+      "why": "Summer 2027, listed for Master's/PhD students, so your Columbia M.S. fits. Your LLM retrieval and few-shot prompting work lines up with AI engineering; the page didn't load fully, so check the details when you apply.",
+      "found": "2026-11-10",
+      "category": "tech",
+      "posted": "2026-11-09"
+    },
+    {
+      "id": "onsemi-ai-data-analytics-intern-scottsdale-2027",
+      "company": "onsemi",
+      "title": "AI & Data Analytics Intern",
+      "location": "Scottsdale, AZ",
+      "source": "Company site",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010",
+      "fit": "good",
+      "why": "Summer 2027 and open to Master's students per the Simplify listing. Your 14M-reading IoT leak-risk model and GAM/LASSO bridge work are relevant; the page didn't load fully, so confirm the details when you apply.",
+      "found": "2026-11-10",
+      "category": "tech",
+      "posted": "2026-11-10"
+    },
+    {
+      "id": "jhuapl-ai-information-fusion-intern-2027",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 Internship – Artificial Intelligence – Information Fusion",
+      "location": "Laurel, MD",
+      "source": "Company site",
+      "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us",
+      "fit": "stretch",
+      "why": "Summer 2027 and open to Master's students per the Simplify listing. Your ML modeling and RL work fit AI research, but APL roles often require U.S. citizenship and a clearance, so check that first.",
+      "found": "2026-11-10",
+      "category": "tech",
+      "posted": "2026-11-09"
     }
   ],
   "browse": [

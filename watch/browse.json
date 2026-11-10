@@ -1,6 +1,39 @@
 {
- "generated": "2026-11-09T19:05+00:00",
+ "generated": "2026-11-10T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-3c411ad553a9",
+   "company": "Pika",
+   "title": "Applied AI Engineer Intern - Creative Experiences",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-10",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-623f4bf3a61a",
+   "company": "onsemi",
+   "title": "AI & Data Analytics Intern",
+   "location": "Scottsdale, AZ",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-10",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-c0fa48ddfd67",
+   "company": "Epic Games",
+   "title": "AI Programmer Intern",
+   "location": "Cary, NC",
+   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
+   "source": "Greenhouse",
+   "category": "gaming",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
   {
    "id": "w-4b87ad5fb319",
    "company": "Enova",
@@ -24,9 +57,185 @@
    "found": "2026-11-09"
   },
   {
+   "id": "w-67d34221f49c",
+   "company": "Biodesix",
+   "title": "Data Analytics & Business Intelligence Intern",
+   "location": "Louisville, CO",
+   "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-5414aa9ece30",
+   "company": "Maxinsights",
+   "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
+   "location": "Santa Clara, CA",
+   "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-597065e5e853",
+   "company": "Zoetis Services",
+   "title": "AI Capabilities Intern - AI Architecture, Enablement & Tools",
+   "location": "Remote in USA / Parsippany-Troy Hills, NJ / Kalamazoo, MI",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-489ca3893dbe",
+   "company": "Great American Insurance Company",
+   "title": "Telematics / Predictive Analytics Intern",
+   "location": "Cincinnati, OH",
+   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-23e28335d811",
+   "company": "7-Eleven",
+   "title": "Data Engineer Intern",
+   "location": "Irving, TX",
+   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-13cd09cc3cf3",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Artificial Intelligence Intern - Information Fusion",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-92c534a456e8",
+   "company": "Integration Innovation (i3)",
+   "title": "Data Management Intern",
+   "location": "Huntsville, AL",
+   "url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-a7fa4b93ffdc",
+   "company": "The New York Times",
+   "title": "Machine Learning Scientist Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-b1e649a13976",
+   "company": "Cirrus Logic",
+   "title": "Applied AI Engineering Intern",
+   "location": "Austin, TX",
+   "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-fe43ae32da2c",
+   "company": "Toyota Research Institute",
+   "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-ca829f366b59",
+   "company": "AstraZeneca",
+   "title": "Network Planning & Data Analytics Intern",
+   "location": "Tarzana, LA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-2f5f80e2a2a9",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Computational Photography & Computer Vision",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1670489511324528",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-9f26b24ced4f",
+   "company": "UiPath",
+   "title": "AI Engineer Intern",
+   "location": "Bellevue, WA",
+   "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-2257278faf16",
+   "company": "Philadelphia Gas Works",
+   "title": "Data and Analytics Intern",
+   "location": "Philadelphia, PA",
+   "url": "https://careers-pgworks.icims.com/jobs/2160/job?in_iframe=1&mobile=true&needsRedirect=false",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-ca1953d203f1",
+   "company": "Vizient",
+   "title": "Data Management Intern",
+   "location": "Irving, TX",
+   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
+   "id": "w-1829383fecc6",
+   "company": "DreamWorks Animation",
+   "title": "Media Tech: Data – AI & Machine Learning Intern",
+   "location": "NYC",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
    "id": "w-f838ee898c65",
    "company": "Zoox",
-   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "title": "AI Workflows Intern [2027]",
    "location": "Foster City, CA",
    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
    "source": "Lever",
@@ -662,17 +871,6 @@
    "found": "2026-10-30"
   },
   {
-   "id": "w-08fe514e0006",
-   "company": "CareSource",
-   "title": "Full Stack AI Development Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
    "id": "w-743d4a6fdcc5",
    "company": "Microsoft",
    "title": "Applied Scientist Intern",
@@ -931,17 +1129,6 @@
    "title": "AI Research Intern",
    "location": "Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8919606002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-28"
-  },
-  {
-   "id": "w-ecc50c205e97",
-   "company": "Micron Technology",
-   "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
-   "location": "San Jose, CA",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-27",
@@ -1608,17 +1795,6 @@
    "found": "2026-10-31"
   },
   {
-   "id": "w-16d613f701b1",
-   "company": "Duolingo",
-   "title": "Data Scientist, Intern",
-   "location": "New York, NY; Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-10-15",
-   "found": "2026-10-16"
-  },
-  {
    "id": "w-f989adfd819a",
    "company": "National Laboratory of the Rockies",
    "title": "AI/ML for Cybersecurity Intern",
@@ -2211,50 +2387,6 @@
    "category": "tech",
    "posted": "2026-09-28",
    "found": "2026-10-24"
-  },
-  {
-   "id": "w-9535d0c16bb9",
-   "company": "General Dynamics Information Technology",
-   "title": "AI/ML Software Development and Engineering Intern",
-   "location": "Bossier City, LA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-26",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-010d2696cf6c",
-   "company": "Atlassian",
-   "title": "Data Scientist Intern",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-f654eb7f42db",
-   "company": "Red Ventures",
-   "title": "Data Science Intern - Launch Program",
-   "location": "Charlotte, NC",
-   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-bf39b2f9e0f6",
-   "company": "Barrios",
-   "title": "Data and Computer Engineering/Computer Science Intern",
-   "location": "Houston, TX",
-   "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-25",
-   "found": "2026-11-05"
   }
  ]
 }

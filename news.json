@@ -1,82 +1,68 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Nasdaq and S&P 500 bounce Friday, but the Dow slips after Thursday's rout",
-      "note": "On Friday the Nasdaq rose 1.09% to 24,579.42 and the S&P 500 gained 0.32% to 7,376.86, while the Dow fell 0.46% to 51,285.73. Chip stocks led the rebound, but it recovered only a small part of Thursday's drop, when the Nasdaq fell 5.52%. Those closing figures come from a single outlet, so treat them as approximate.",
-      "url": "https://journalarta.com/en/2026/11/07/wall-street-close-nasdaq-rises-1-09-and-sp-500-gains-0-32-as-dow-slips-0-46/",
-      "source": "JournalArta"
+      "headline": "Stocks surge Monday: S&P 500 posts its best day since April 8",
+      "note": "The Dow rose 1,104 points (2.2%), the S&P 500 gained 2.35% and the Nasdaq jumped 2.74%. A sharp drop in oil prices and renewed chip buying helped, after a rocky week of worry that data-center buildouts could slow. CNBC didn't give closing levels.",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed's Waller says a December rate hike looks likely, maybe a bigger one",
+      "note": "He backs at least a quarter-point hike on Dec. 8-9 even if October inflation comes in soft, and said a half-point hike should be considered if it runs hot. Markets price better than an 80% chance of a quarter-point hike. Higher rates tend to weigh on growth and tech stocks.",
+      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Economy",
+      "headline": "October CPI lands this morning at 8:30 a.m. ET",
+      "note": "Economists polled by Dow Jones expect prices up 0.3% on the month and core up 0.2%, a slowdown from September's 0.6% and 0.3%. Annual figures won't be published because of the 2025 government shutdown. Producer prices come Friday.",
+      "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Strong October jobs report keeps the Fed leaning toward hikes",
+      "note": "Payrolls rose 165,000 versus 59,000 expected, and unemployment was 4.1%. The 10-year Treasury yield was 4.876% and the 2-year 4.561% on Monday. A solid labor market is good for job seekers but keeps rates high.",
+      "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia fell more than 4% after CEO Jensen Huang's email to staff",
+      "note": "Huang told employees he was 'unfaithful' to his wife. Reports say the partner, an executive at Nvidia customer Megaspeed, was assessed by U.S. officials to be a Chinese intelligence asset. Trump said the FBI is investigating, and Nvidia's board is also looking into it. Shares were up about 1.8% premarket Tuesday.",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "Chips",
+      "headline": "TSMC's October sales jump 59.7% from a year ago",
+      "note": "Revenue was NT$586.89 billion (about US$17.88 billion), showing AI chip demand is still very strong. TSMC also expects 2026-2028 capital spending to be significantly higher than the prior three years.",
+      "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+      "source": "CNBC"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO is likely mid-November on the Nasdaq, at a lower valuation than hoped",
-      "note": "Investors reportedly see $1 trillion to $1.5 trillion, down from the $2 trillion floated earlier. The amended prospectus lists about $895.4 billion of compute and infrastructure commitments, and local data-center ballot measures were opposed in 40 of 41 cases. No offering price has been reported.",
+      "headline": "Anthropic's IPO still expected mid-November on the Nasdaq",
+      "note": "Investors reportedly see a $1 trillion to $1.5 trillion valuation, below the $2 trillion floated earlier. The amended prospectus lists about $895.4 billion of purchase and lease commitments, mostly for compute. CNBC reported no pricing details yet.",
       "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
       "source": "CNBC"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI's CFO says data-center spending continues despite voter pushback",
-      "note": "Sarah Friar said the election results didn't change much and OpenAI will keep investing to meet customer demand. She also said a 2027 public debut is still under consideration. For you, it suggests AI infrastructure hiring isn't stopping.",
-      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Economy",
-      "headline": "October CPI is due Tuesday morning",
-      "note": "Early FactSet estimates are for 3.9% year-over-year inflation, up from 3.7%, with core inflation expected to cool month over month. Friday's strong payrolls report already has investors focused on what the Fed does next. Producer prices follow Friday.",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia lost about $440 billion in value Thursday",
-      "note": "The Magnificent Seven together lost about $1 trillion that day as AI stocks led the selling. Nvidia reports later this month, and some strategists are 'nibbling' on beaten-down chip names while others expect more selling.",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Microsoft is reportedly consolidating its 'neocloud' AI capacity partners",
-      "note": "CNBC reports it plans to lean on fewer suppliers and its own data centers. A slower outside buildout could mean fewer openings at AI infrastructure firms. I didn't re-read the full story today.",
-      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Meta strategy chief Dave Wehner leaves to be CFO of AI startup Fireworks",
-      "note": "Wehner was Meta's CFO from 2014 to 2022. Fireworks, an AI inference platform, was valued at $17.5 billion in July and is reportedly in early talks to raise at $30 billion to $40 billion.",
-      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Jobs",
-      "headline": "Friday's payrolls report came in strong",
-      "note": "CNBC says the strong report kept attention on Fed policy. That's good for the job market overall, but it can make rate cuts less likely, which weighs on tech stocks. I didn't see the headline job count.",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Nasdaq entered a correction Thursday; the VIX was around 24 Friday",
-      "note": "CNBC says the S&P 500 is roughly back to where it was in July, after record highs above 7,800 last month. Worries include data-center limits after the Democratic sweep of Congress and a possible year-end shutdown.",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Gaming",
-      "headline": "Take-Two reports earnings today",
-      "note": "It's on CNBC's Monday calendar along with Occidental and KKR. Worth watching if you follow game-industry business.",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+      "headline": "SoftBank posts a ~$7 billion quarterly loss tied to AI data-center power equipment",
+      "note": "The loss was 1.12 trillion yen, tied to changed plans for U.S. data-center power equipment. Its OpenAI stake has a fair value of $99.6 billion against $54.6 billion invested. Its shares still closed up 13.9% Tuesday.",
+      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
       "source": "CNBC"
     }
   ],
   "learn": {
-    "n": 28,
-    "term": "Core inflation",
-    "explain": "Headline inflation counts everything consumers buy. Core inflation leaves out food and energy, because those prices jump around with weather, wars and oil. Economists and the Fed watch core to see the underlying trend. Tomorrow's October CPI is expected to show headline inflation rising to 3.9% while core cools month over month. That would mean the increase is coming mostly from volatile prices like energy.",
-    "try": "When the CPI report comes out Tuesday, compare the headline number with the core number."
+    "n": 29,
+    "term": "The yield curve",
+    "explain": "The yield curve compares what the government pays to borrow for different lengths of time, such as 2 years versus 10 years. Normally longer loans pay more, so the curve slopes upward. On Monday the 2-year Treasury yielded 4.561% and the 10-year 4.876%, so the 10-year paid about 0.3 percentage points more. When short-term yields rise above long-term ones, the curve is 'inverted', which has often come before recessions. The 2-year tracks where investors expect the Fed to set rates, while the 10-year reflects longer-run growth and inflation expectations.",
+    "try": "Search for the 10-year minus 2-year Treasury spread on the FRED website (series T10Y2Y) and look at its chart."
   },
   "learned": [
     "Earnings season and EPS",
@@ -106,6 +92,7 @@
     "Circuit breakers (trading halts)",
     "Real wages",
     "Leverage (debt financing)",
-    "Core inflation"
+    "Core inflation",
+    "The yield curve"
   ]
 }
