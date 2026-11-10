@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T10:20+00:00",
+ "generated": "2026-11-10T16:36+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -18,15 +18,16 @@
    "last_seen": "2026-11-10"
   },
   {
-   "title": "AI & Data Analytics Intern",
-   "location": "Scottsdale, AZ",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010",
+   "title": "AI Operations Intern - AI Clouds",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
    "posted": "2026-11-10",
-   "company": "onsemi",
+   "company": "NVIDIA",
    "terms": [
     "Summer 2027"
    ],
    "degrees": [
+    "Bachelor's",
     "Master's"
    ],
    "category": "tech",
@@ -166,45 +167,11 @@
    "last_seen": "2026-11-10"
   },
   {
-   "title": "Artificial Intelligence Intern - Information Fusion",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us",
-   "posted": "2026-11-09",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
-  },
-  {
    "title": "Data Management Intern",
    "location": "Huntsville, AL",
    "url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us",
    "posted": "2026-11-09",
    "company": "Integration Innovation (i3)",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
-  },
-  {
-   "title": "Machine Learning Scientist Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
-   "posted": "2026-11-09",
-   "company": "The New York Times",
    "terms": [
     "Summer 2027"
    ],
@@ -285,24 +252,6 @@
    "last_seen": "2026-11-10"
   },
   {
-   "title": "AI Engineer Intern",
-   "location": "Bellevue, WA",
-   "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true",
-   "posted": "2026-11-09",
-   "company": "UiPath",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
-  },
-  {
    "title": "Data and Analytics Intern",
    "location": "Philadelphia, PA",
    "url": "https://careers-pgworks.icims.com/jobs/2160/job?in_iframe=1&mobile=true&needsRedirect=false",
@@ -327,21 +276,6 @@
    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R",
    "posted": "2026-11-09",
    "company": "Vizient",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
-  },
-  {
-   "title": "Media Tech: Data – AI & Machine Learning Intern",
-   "location": "NYC",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
-   "posted": "2026-11-09",
-   "company": "DreamWorks Animation",
    "terms": [
     "Summer 2027"
    ],
