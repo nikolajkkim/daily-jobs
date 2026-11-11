@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "found": 5,
-    "note": "5 new roles · 0 browse adds · no new reports · checked 5 older listings, none closed · Problem: discovery searches (Greenhouse, Ashby, golf) returned no verifiable open Summer 2027 roles; UiPath, onsemi and APL pages didn't load, so those rely on Simplify eligibility data"
+    "note": "5 new roles (posted Nov 9-10) · 0 browse adds · 2 reported closings removed · checked 6 older listings, none closed · Problem: discovery (Greenhouse, Ashby, golf, DraftKings) found nothing verifiable and open; GM page didn't load so it relies on Simplify data"
   },
   "jobs": [
     {
@@ -1072,7 +1072,17 @@
       "why": "Summer 2027, listed for master's students, and the Holtsville site is on Long Island. Your XGBoost work on 14M+ IoT readings maps well to Zebra's device data. The page wouldn't load for me, so confirm it's open.",
       "found": "2026-11-03",
       "category": "tech",
-      "posted": "2026-11-02"
+      "posted": "2026-11-02",
+      "removed": {
+        "date": "2026-11-11",
+        "reason": "Posting closed"
+      },
+      "review": {
+        "reportId": "0e4b4bc0-77d0-4a17-ad59-7ae2d1591e65",
+        "date": "2026-11-11",
+        "outcome": "removed",
+        "note": "Posting closed"
+      }
     },
     {
       "id": "intuitive-ai-ml-engineer-intern-2027",
@@ -1150,7 +1160,17 @@
       "why": "Summer 2027 (May–Aug) is one of the offered terms, and MS students are eligible. Your LLaMA retrieval pipeline and few-shot prompting line up with building LLM agents and on-device model tuning.",
       "found": "2026-11-04",
       "category": "tech",
-      "posted": "2026-11-03"
+      "posted": "2026-11-03",
+      "removed": {
+        "date": "2026-11-11",
+        "reason": "Posting closed"
+      },
+      "review": {
+        "reportId": "62b3ee12-a414-478c-bffc-67342c3e9f83",
+        "date": "2026-11-11",
+        "outcome": "removed",
+        "note": "Posting closed"
+      }
     },
     {
       "id": "highmark-health-healthcare-analytics-ds-graduate-intern-2027",
@@ -1437,6 +1457,71 @@
       "found": "2026-11-10",
       "category": "tech",
       "posted": "2026-11-09"
+    },
+    {
+      "id": "addepar-ai-engineer-intern-2027",
+      "company": "Addepar",
+      "title": "AI Engineer Intern",
+      "location": "New York, NY",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
+      "fit": "strong",
+      "why": "Summer 2027 (Jun 7-Aug 27) in NYC, open to master's students. You'd prototype LLM/RAG features for fintech, which maps straight onto your LLaMA retrieval pipeline and Hugging Face/PyTorch work. Needs US work authorization without sponsorship.",
+      "found": "2026-11-11",
+      "posted": "2026-11-10",
+      "category": "finance"
+    },
+    {
+      "id": "toyota-research-institute-sim-to-real-driving-ml-intern-2027",
+      "company": "Toyota Research Institute",
+      "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+      "location": "Los Altos, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415",
+      "fit": "stretch",
+      "why": "Summer 2027 (12 weeks, hybrid). Sim-to-real transfer and RL are close to your PyFlyt PPO quadcopter project, but the posting wants research experience and a workshop-level paper, which you lack.",
+      "found": "2026-11-11",
+      "posted": "2026-11-09",
+      "category": "tech"
+    },
+    {
+      "id": "general-motors-ml-engineer-embodied-ai-intern-2027",
+      "company": "General Motors",
+      "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
+      "location": "Sunnyvale, CA",
+      "source": "Workday",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students per Simplify. Embodied AI fits your RL and simulated-LiDAR navigation work; it's a software-engineering-flavored ML role, so expect more coding depth. I couldn't load the page to confirm details.",
+      "found": "2026-11-11",
+      "posted": "2026-11-10",
+      "category": "tech"
+    },
+    {
+      "id": "art-of-problem-solving-data-science-intern-2027",
+      "company": "Art of Problem Solving",
+      "title": "Data Science Intern",
+      "location": "San Diego, CA",
+      "source": "Company site",
+      "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003",
+      "fit": "good",
+      "why": "Summer 2027 (10-12 weeks, hybrid in San Diego, $30/hr). Python, SQL, scikit-learn and modeling match your XGBoost leak-risk project; it's more analytics than deep ML. No sponsorship.",
+      "found": "2026-11-11",
+      "posted": "2026-11-10",
+      "category": "tech"
+    },
+    {
+      "id": "dwyeromega-applied-ai-intern-2027",
+      "company": "DwyerOmega",
+      "title": "Applied AI Intern",
+      "location": "Remote (US)",
+      "source": "Company site",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662",
+      "fit": "good",
+      "why": "Summer 2027 (May-August), fully remote, master's students welcome. Building LLM tools and prompts uses your Hugging Face, TypeScript/React and few-shot prompting experience; it's more applied tooling than modeling.",
+      "found": "2026-11-11",
+      "posted": "2026-11-10",
+      "category": "tech"
     }
   ],
   "browse": [
