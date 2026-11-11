@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:20+00:00",
+ "generated": "2026-11-11T16:34+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -38,6 +38,43 @@
     "N/A"
    ],
    "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "title": "Safety Data Analytics Intern",
+   "location": "Charlotte, NC",
+   "url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574",
+   "posted": "2026-11-11",
+   "company": "Piedmont Airlines",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "Associate's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "title": "AI Solutions Intern - Human Resources",
+   "location": "Columbus, OH",
+   "url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us",
+   "posted": "2026-11-11",
+   "company": "The Marzetti Company",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
@@ -103,24 +140,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "AI Engineer Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
-   "posted": "2026-11-10",
-   "company": "Addepar",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
@@ -197,39 +216,6 @@
    "last_seen": "2026-11-11"
   },
   {
-   "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
-   "posted": "2026-11-10",
-   "company": "General Motors",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Applied AI Intern",
-   "location": "Remote in USA",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662",
-   "posted": "2026-11-10",
-   "company": "DwyerOmega",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
    "title": "AI/ML Business Intelligence Development Intern",
    "location": "Bossier City, LA",
    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
@@ -256,24 +242,6 @@
    "company": "Rambus",
    "terms": [
     "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "San Diego, CA",
-   "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003",
-   "posted": "2026-11-10",
-   "company": "Art of Problem Solving",
-   "terms": [
-    "Summer 2027"
    ],
    "degrees": [
     "Bachelor's",
@@ -459,24 +427,6 @@
    ],
    "degrees": [
     "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-   "location": "Los Altos, CA",
-   "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415/apply",
-   "posted": "2026-11-09",
-   "company": "Toyota Research Institute",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
     "Master's",
     "PhD"
    ],
