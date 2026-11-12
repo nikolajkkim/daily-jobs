@@ -1,18 +1,32 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks slip Tuesday as Nvidia sinks and hot inflation lifts rate-hike bets",
-      "note": "The Dow fell 0.3% to 52,231.89, the S&P 500 fell 0.38% to 7,520.93 and the Nasdaq fell 0.74% to 25,065.87, giving back part of Monday's big rally. Nvidia was the biggest drag, and the October inflation report weighed too.",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "headline": "Stocks rebound Wednesday as CoreWeave results ease AI spending worries",
+      "note": "The S&P 500 rose 1.31% to 7,619.38, the Nasdaq rose 1.60% to 25,466.19 and the Dow rose 0.49% to 52,486.49. Tech was the best-performing S&P sector, up 2.7%, and the S&P 500 is about 2.6% below its October high.",
+      "url": "https://www.thestar.com.my/business/2026/11/12/us-stocks-rise-as-coreweave-eases-ai-spending-fears",
+      "source": "The Star (Malaysia)"
     },
     {
-      "tag": "Economy",
-      "headline": "October consumer prices rose 0.4%, hotter than expected",
-      "note": "Economists expected 0.3%. Core prices (excluding food and energy) rose 0.3% versus 0.2% expected. September's headline reading was 0.6%, so inflation cooled but not by enough. The BLS did not publish an annual rate because of the 2025 shutdown data gap.",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "tag": "AI",
+      "headline": "CoreWeave jumps 24.7% after beating revenue estimates",
+      "note": "The AI cloud provider reported third-quarter revenue of $3.66 billion versus about $3.55 billion expected, and its stock closed at $60.77. Its results calmed fears that AI spending is slowing, which matters for anyone working in AI infrastructure.",
+      "url": "https://www.thestar.com.my/business/2026/11/12/us-stocks-rise-as-coreweave-eases-ai-spending-fears",
+      "source": "The Star (Malaysia)"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia drops 8% after hours as the Jensen Huang investigation continues",
+      "note": "Nvidia rose in regular trading, ending a two-day slide, then fell over 8% after hours amid reports about the CEO. The board opened an independent investigation on Nov. 8 and says Huang remains CEO; one report said the board may be considering removing him, which I could not confirm elsewhere.",
+      "url": "https://letsdatascience.com/news/nvidia-board-opens-investigation-into-reported-foreign-intel-c5b93236",
+      "source": "Let's Data Science (citing Nvidia)"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic sets IPO range at $70-$78 a share, trading expected Nov. 19",
+      "note": "The range implies a valuation of about $1.4 trillion, down from the $2 trillion once floated. Pricing is planned for Nov. 18 on the Nasdaq under ticker ANT, with about 20% of shares aimed at retail investors. It is a big test of public-market appetite for AI companies.",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
       "source": "CNBC"
     },
     {
@@ -24,45 +38,24 @@
     },
     {
       "tag": "Economy",
-      "headline": "10-year Treasury yield jumps to 4.992% after a weak bond auction",
-      "note": "The 10-year briefly topped 5% and the 2-year rose to 4.736%. A $42 billion 10-year note sale was soft, with dealers left holding about 10% of it, the most since May. Falling oil prices offset some of the pressure.",
-      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "headline": "October consumer prices rose 0.4%, hotter than expected",
+      "note": "Economists expected 0.3%. Core prices (excluding food and energy) rose 0.3% versus 0.2% expected. September's headline reading was 0.6%, so inflation cooled but not by enough. The BLS did not publish an annual rate because of the 2025 shutdown data gap.",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
       "source": "CNBC"
     },
     {
-      "tag": "Chips",
-      "headline": "Nvidia falls 5.5% as the Jensen Huang probe extends a two-day slide",
-      "note": "Shares have dropped for two days on reports about CEO Jensen Huang and an alleged Chinese intelligence link, which Nvidia's board is investigating. As the largest AI chip company, its stock swings move the whole Nasdaq.",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "tag": "Economy",
+      "headline": "10-year Treasury yield holds near 4.99% as the 2-year edges up to about 4.76%",
+      "note": "Yields were little changed Thursday morning after Tuesday's near-5% spike. Wells Fargo's Sameer Samana urged caution on the stock bounce, citing inflation, possible Fed hikes and higher long-term rates.",
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
       "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic sets IPO range at $70-$78 a share, trading expected Nov. 19",
-      "note": "The range implies a valuation of about $1.4 trillion, down from the $2 trillion once floated. Pricing is planned for Nov. 18 on the Nasdaq under ticker ANT, with about 20% of shares aimed at retail investors. It is a big test of public-market appetite for AI companies.",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "Meta releases Muse Ember, a cheap model for high-volume agent work",
-      "note": "Meta priced it at $0.10 per million input tokens and says it undercuts Anthropic's Haiku and OpenAI's Luna. It handles text, images and audio, and is meant to run tasks planned by Meta's larger Muse Wonder. Cheap small models are what make agent products affordable to build.",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "source": "TechCrunch"
-    },
-    {
-      "tag": "Tech",
-      "headline": "OpenAI launches business profiles in ChatGPT and buys travel startup Odessia",
-      "note": "The Business Hub beta lets companies build profiles and agents inside ChatGPT, similar to Google's business listings. OpenAI also acquired Odessia, an AI travel agent, and its founder is joining; terms weren't disclosed.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch"
     }
   ],
   "learn": {
-    "n": 30,
-    "term": "Treasury auctions",
-    "explain": "The U.S. government borrows money by selling Treasury bonds and notes at auctions, where big dealers and investors bid for them. If demand is weak, buyers demand a higher yield, so the price falls and the yield rises. On Tuesday a $42 billion 10-year note sale was soft, with dealers stuck holding about 10% of it, the most since May. That pushed the 10-year yield to 4.992%. Because mortgages, corporate loans and stock valuations are all tied to Treasury yields, a weak auction can ripple through the whole market.",
-    "try": "Search for 'TreasuryDirect upcoming auctions' to see which Treasury sales are scheduled this month."
+    "n": 31,
+    "term": "Beating expectations (analyst consensus)",
+    "explain": "Before a company reports results, Wall Street analysts publish forecasts, and the average of them is called the consensus. A stock often moves less on whether results were good than on whether they beat or missed that consensus. CoreWeave reported $3.66 billion in revenue against roughly $3.55 billion expected, and the stock closed up 24.7%. A company can grow fast and still fall if growth is below what was already priced in.",
+    "try": "Look up CoreWeave (CRWV) on a finance site and compare the revenue estimate with the actual result."
   },
   "learned": [
     "Earnings season and EPS",
@@ -94,6 +87,7 @@
     "Leverage (debt financing)",
     "Core inflation",
     "The yield curve",
-    "Treasury auctions"
+    "Treasury auctions",
+    "Beating expectations (analyst consensus)"
   ]
 }

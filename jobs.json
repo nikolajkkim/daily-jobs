@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-11",
-    "found": 5,
-    "note": "5 new roles (posted Nov 9-10) · 0 browse adds · 2 reported closings removed · checked 6 older listings, none closed · Problem: discovery (Greenhouse, Ashby, golf, DraftKings) found nothing verifiable and open; GM page didn't load so it relies on Simplify data"
+    "date": "2026-11-12",
+    "found": 2,
+    "note": "2 new roles (posted Nov 11) · 1 more to browse · no new reports · checked 4 older listings, none closed · Problem: only 2 qualified (others lacked a Summer 2027 term or master's eligibility, or pages wouldn't load); Coinbase pages returned 403 so were not checked"
   },
   "jobs": [
     {
@@ -1522,6 +1522,60 @@
       "found": "2026-11-11",
       "posted": "2026-11-10",
       "category": "tech"
+    },
+    {
+      "id": "riot-games-mle-intern-2027",
+      "company": "Riot Games",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Remote (USA)",
+      "source": "Greenhouse",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
+      "fit": "strong",
+      "why": "Summer 2027 internship that takes master's students (graduating 2028 fits your Dec 2027 date). You'd do feature engineering, modeling and cheat/adversarial-behavior detection, which lines up with your XGBoost imbalance work and PyTorch skills; no visa sponsorship, and applications close Jan 4.",
+      "found": "2026-11-12",
+      "posted": "2026-11-11",
+      "category": "gaming",
+      "deadline": "Jan 4"
+    },
+    {
+      "id": "airbnb-advanced-analytics-intern-2027",
+      "company": "Airbnb",
+      "title": "Advanced Analytics Intern",
+      "location": "Remote (USA)",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+      "fit": "good",
+      "why": "Summer 2027 internship aimed at master's students in data science/statistics. It centers on forecasting, SQL and Python, so your DS degree fits well, but it's finance-forecast analytics rather than ML and you have no time-series project yet.",
+      "found": "2026-11-12",
+      "posted": "2026-11-11",
+      "category": "tech"
+    },
+    {
+      "id": "riot-games-mle-intern-2027",
+      "company": "Riot Games",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Remote (USA)",
+      "source": "Greenhouse",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
+      "fit": "strong",
+      "why": "Summer 2027 internship that takes master's students (graduating 2028 fits your Dec 2027 date). You'd do feature engineering, modeling and cheat/adversarial-behavior detection, which lines up with your XGBoost imbalance work and PyTorch skills; no visa sponsorship, and applications close Jan 4.",
+      "found": "2026-11-12",
+      "posted": "2026-11-11",
+      "category": "gaming",
+      "deadline": "Jan 4"
+    },
+    {
+      "id": "airbnb-advanced-analytics-intern-2027",
+      "company": "Airbnb",
+      "title": "Advanced Analytics Intern",
+      "location": "Remote (USA)",
+      "source": "Greenhouse",
+      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+      "fit": "good",
+      "why": "Summer 2027 internship aimed at master's students in data science/statistics. It centers on forecasting, SQL and Python, so your DS degree fits well, but it's finance-forecast analytics rather than ML and you have no time-series project yet.",
+      "found": "2026-11-12",
+      "posted": "2026-11-11",
+      "category": "tech"
     }
   ],
   "browse": [
@@ -2042,6 +2096,32 @@
         "outcome": "removed",
         "note": "Title is an MBA internship; not open to a master's in data science"
       }
+    },
+    {
+      "id": "scale-ai-ml-research-intern-2027",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "location": "New York, NY / San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "fit": "good",
+      "why": "Summer 2027 role open to MS students graduating Fall 2027 or Spring 2028, working on LLM benchmarks and RL/post-training. It matches your LLaMA retrieval work and PPO project, but is research-leaning and expects shipped or published work.",
+      "found": "2026-11-12",
+      "posted": "2026-10-19",
+      "category": "tech"
+    },
+    {
+      "id": "scale-ai-ml-research-intern-2027",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "location": "New York, NY / San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "fit": "good",
+      "why": "Summer 2027 role open to MS students graduating Fall 2027 or Spring 2028, working on LLM benchmarks and RL/post-training. It matches your LLaMA retrieval work and PPO project, but is research-leaning and expects shipped or published work.",
+      "found": "2026-11-12",
+      "posted": "2026-10-19",
+      "category": "tech"
     }
   ]
 }

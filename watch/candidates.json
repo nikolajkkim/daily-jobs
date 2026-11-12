@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T16:34+00:00",
+ "generated": "2026-11-12T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -11,7 +11,18 @@
    "category": "gaming",
    "ats": "greenhouse",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Advanced Analytics Intern",
+   "location": "Remote in USA",
+   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+   "posted": "2026-11-11",
+   "company": "Airbnb",
+   "category": "tech",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
   },
   {
    "title": "AI Product Intern",
@@ -26,7 +37,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "AI Skill Developer Intern",
@@ -41,7 +52,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Safety Data Analytics Intern",
@@ -60,7 +71,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "AI Solutions Intern - Human Resources",
@@ -78,7 +89,106 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Research Scientist Intern - LLM Memory and Skills",
+   "location": "Seattle, WA / NYC / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1676116714093186",
+   "posted": "2026-11-11",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "AI Processor Hardware/Software Integration Engineer Intern",
+   "location": "Richardson, TX",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
+   "posted": "2026-11-11",
+   "company": "GlobalFoundries",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Future Product Innovation Research Intern - Human-AI Computational Design",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2/apply",
+   "posted": "2026-11-11",
+   "company": "Toyota Research Institute",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Data Analytics Engineering Intern",
+   "location": "Madison, WI",
+   "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330",
+   "posted": "2026-11-11",
+   "company": "State of Wisconsin Investment Board",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "AI Quant Summer Analyst Intern",
+   "location": "La Jolla, San Diego, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8368989",
+   "posted": "2026-11-11",
+   "company": "StepStone Group",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "finance",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
+   "posted": "2026-11-11",
+   "company": "Riot Games",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "gaming",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Applied AI Engineer Intern - Creative Experiences",
@@ -93,7 +203,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "AI Operations Intern - AI Clouds",
@@ -111,7 +221,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Data Analytics Intern",
@@ -128,7 +238,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Research Scientist Intern - Foundation Model Optimization",
@@ -143,7 +253,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Research Scientist Intern - Audio Systems",
@@ -158,7 +268,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Data Engineer Intern",
@@ -176,7 +286,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Software Engineer Intern - Data Connectors",
@@ -195,7 +305,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Product Management Intern - Agentic AI",
@@ -213,7 +323,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "AI/ML Business Intelligence Development Intern",
@@ -232,25 +342,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Forward Deployed Engineer Intern - AI & Enterprise Systems",
-   "location": "San Jose, CA",
-   "url": "https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false",
-   "posted": "2026-11-10",
-   "company": "Rambus",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "title": "Artificial Intelligence/Machine Learning Intern",
@@ -268,239 +360,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "AI Programmer Intern",
-   "location": "Cary, NC",
-   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
-   "posted": "2026-11-09",
-   "company": "Epic Games",
-   "category": "gaming",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Analytics Intern",
-   "location": "Chicago, IL",
-   "url": "https://job-boards.greenhouse.io/enova/jobs/8366036",
-   "posted": "2026-11-09",
-   "company": "Enova",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "AI & Automation Intern",
-   "location": "Alpharetta, GA",
-   "url": "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811",
-   "posted": "2026-11-09",
-   "company": "Atrium Hospitality",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data Analytics & Business Intelligence Intern",
-   "location": "Louisville, CO",
-   "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
-   "posted": "2026-11-09",
-   "company": "Biodesix",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
-   "location": "Santa Clara, CA",
-   "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true",
-   "posted": "2026-11-09",
-   "company": "Maxinsights",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "AI Capabilities Intern - AI Architecture, Enablement & Tools",
-   "location": "Remote in USA / Parsippany-Troy Hills, NJ / Kalamazoo, MI",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016",
-   "posted": "2026-11-09",
-   "company": "Zoetis Services",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Telematics / Predictive Analytics Intern",
-   "location": "Cincinnati, OH",
-   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868",
-   "posted": "2026-11-09",
-   "company": "Great American Insurance Company",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data Engineer Intern",
-   "location": "Irving, TX",
-   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
-   "posted": "2026-11-09",
-   "company": "7-Eleven",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data Management Intern",
-   "location": "Huntsville, AL",
-   "url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us",
-   "posted": "2026-11-09",
-   "company": "Integration Innovation (i3)",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Applied AI Engineering Intern",
-   "location": "Austin, TX",
-   "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply",
-   "posted": "2026-11-09",
-   "company": "Cirrus Logic",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Network Planning & Data Analytics Intern",
-   "location": "Tarzana, LA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
-   "posted": "2026-11-09",
-   "company": "AstraZeneca",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "MBA"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Research Scientist Intern - Computational Photography & Computer Vision",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1670489511324528",
-   "posted": "2026-11-09",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data and Analytics Intern",
-   "location": "Philadelphia, PA",
-   "url": "https://careers-pgworks.icims.com/jobs/2160/job?in_iframe=1&mobile=true&needsRedirect=false",
-   "posted": "2026-11-09",
-   "company": "Philadelphia Gas Works",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "MBA"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "title": "Data Management Intern",
-   "location": "Irving, TX",
-   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R",
-   "posted": "2026-11-09",
-   "company": "Vizient",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   }
  ]
 }

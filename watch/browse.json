@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T16:34+00:00",
+ "generated": "2026-11-12T10:20+00:00",
  "jobs": [
   {
    "id": "w-2c436a24a488",
@@ -11,6 +11,17 @@
    "category": "gaming",
    "posted": "2026-11-11",
    "found": "2026-11-11"
+  },
+  {
+   "id": "w-a366467e3ca3",
+   "company": "Airbnb",
+   "title": "Advanced Analytics Intern",
+   "location": "Remote in USA",
+   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+   "source": "Greenhouse",
+   "category": "tech",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
   },
   {
    "id": "w-2995518af49d",
@@ -55,6 +66,72 @@
    "category": "tech",
    "posted": "2026-11-11",
    "found": "2026-11-11"
+  },
+  {
+   "id": "w-58c152a39a69",
+   "company": "Meta",
+   "title": "Research Scientist Intern - LLM Memory and Skills",
+   "location": "Seattle, WA / NYC / Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1676116714093186",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-87bd0a5561f3",
+   "company": "GlobalFoundries",
+   "title": "AI Processor Hardware/Software Integration Engineer Intern",
+   "location": "Richardson, TX",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-51bcec0b888a",
+   "company": "Toyota Research Institute",
+   "title": "Future Product Innovation Research Intern - Human-AI Computational Design",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-8ee03d7a46e8",
+   "company": "State of Wisconsin Investment Board",
+   "title": "Data Analytics Engineering Intern",
+   "location": "Madison, WI",
+   "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-7c3302da4916",
+   "company": "StepStone Group",
+   "title": "AI Quant Summer Analyst Intern",
+   "location": "La Jolla, San Diego, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8368989",
+   "source": "Simplify list",
+   "category": "finance",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-17210d51e45d",
+   "company": "Riot Games",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
+   "source": "Simplify list",
+   "category": "gaming",
+   "posted": "2026-11-11",
+   "found": "2026-11-12"
   },
   {
    "id": "w-3c411ad553a9",
@@ -156,17 +233,6 @@
    "found": "2026-11-11"
   },
   {
-   "id": "w-03065657992f",
-   "company": "Rambus",
-   "title": "Forward Deployed Engineer Intern - AI & Enterprise Systems",
-   "location": "San Jose, CA",
-   "url": "https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-10",
-   "found": "2026-11-11"
-  },
-  {
    "id": "w-d4e5593131eb",
    "company": "International",
    "title": "Artificial Intelligence/Machine Learning Intern",
@@ -255,17 +321,6 @@
    "found": "2026-11-10"
   },
   {
-   "id": "w-23e28335d811",
-   "company": "7-Eleven",
-   "title": "Data Engineer Intern",
-   "location": "Irving, TX",
-   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-09",
-   "found": "2026-11-10"
-  },
-  {
    "id": "w-92c534a456e8",
    "company": "Integration Innovation (i3)",
    "title": "Data Management Intern",
@@ -330,17 +385,6 @@
    "category": "tech",
    "posted": "2026-11-09",
    "found": "2026-11-10"
-  },
-  {
-   "id": "w-f838ee898c65",
-   "company": "Zoox",
-   "title": "AI Workflows Intern [2027]",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
-   "source": "Lever",
-   "category": "tech",
-   "posted": "2026-11-07",
-   "found": "2026-11-07"
   },
   {
    "id": "w-bccf306b11b4",
@@ -431,28 +475,6 @@
    "found": "2026-11-07"
   },
   {
-   "id": "w-e8de6f692667",
-   "company": "T-Mobile",
-   "title": "Data Engineering Intern",
-   "location": "Frisco, TX / Atlanta, GA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
-   "id": "w-54449f2e7ba5",
-   "company": "T-Mobile",
-   "title": "Data Engineer Intern",
-   "location": "Frisco, TX / Atlanta, GA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
    "id": "w-9331190ab14d",
    "company": "T-Mobile",
    "title": "AI Engineering Intern",
@@ -497,17 +519,6 @@
    "found": "2026-11-07"
   },
   {
-   "id": "w-a96ac186d406",
-   "company": "Meta",
-   "title": "Research Scientist Intern - AI Systems and Infrastructure",
-   "location": "Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/1750797606003820",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
    "id": "w-8cad80ca763d",
    "company": "Meta",
    "title": "Research Scientist Intern - AI Agents and Machine Learning",
@@ -528,17 +539,6 @@
    "category": "tech",
    "posted": "2026-11-06",
    "found": "2026-11-07"
-  },
-  {
-   "id": "w-aa746aefebc9",
-   "company": "Palantir",
-   "title": "Software Engineer, Internship - Sovereign AI Systems",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
-   "source": "Lever",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-06"
   },
   {
    "id": "w-f85b33e8aa56",
@@ -638,17 +638,6 @@
    "category": "tech",
    "posted": "2026-11-05",
    "found": "2026-11-06"
-  },
-  {
-   "id": "w-dca91bbe777d",
-   "company": "Palantir",
-   "title": "Software Engineer, Internship - Data Connectors",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
-   "source": "Lever",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-11"
   },
   {
    "id": "w-90c45e925231",
@@ -1074,17 +1063,6 @@
    "title": "Data Systems Intern",
    "location": "Bridgeport, WV",
    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-984a3307c2dc",
-   "company": "Regeneron Pharmaceuticals",
-   "title": "Data Analytics Intern - Dashboards & Business Process Automation",
-   "location": "Armonk, NY / Warren, NJ / Tarrytown, NY",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-28",
@@ -2455,39 +2433,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-57000ee41d84",
-   "company": "Itron",
-   "title": "Data Science Intern - Distributed Intelligence",
-   "location": "Liberty Lake, WA",
-   "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-cd06d4f967b8",
-   "company": "DataRobot",
-   "title": "Deep Learning Research Engineer Intern",
-   "location": "Boston, MA",
-   "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-705761ab4263",
-   "company": "General Motors",
-   "title": "Data Governance Engineer Intern",
-   "location": "Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-23"
-  },
-  {
    "id": "w-3cd27cbf30f7",
    "company": "Constellation Energy",
    "title": "Quantitative Analytics & Data Science Intern",
@@ -2504,17 +2449,6 @@
    "title": "Data Analytics Intern - HEDIS",
    "location": "Detroit, MI",
    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-24"
-  },
-  {
-   "id": "w-7984f1f8380d",
-   "company": "IAT Insurance Group",
-   "title": "Data Engineering & Visualization Intern",
-   "location": "Raleigh, NC",
-   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-09-28",
