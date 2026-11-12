@@ -1,7 +1,43 @@
 {
- "generated": "2026-11-12T10:20+00:00",
+ "generated": "2026-11-12T17:03+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Data Scientist Intern - CoreAI",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+   "posted": "2026-11-12",
+   "company": "Microsoft",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Needham, MA",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+   "posted": "2026-11-12",
+   "company": "SharkNinja",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
   {
    "title": "Data Engineer Intern",
    "location": "Remote in USA",
@@ -11,17 +47,6 @@
    "category": "gaming",
    "ats": "greenhouse",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Advanced Analytics Intern",
-   "location": "Remote in USA",
-   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
-   "posted": "2026-11-11",
-   "company": "Airbnb",
-   "category": "tech",
-   "ats": "greenhouse",
-   "first_seen": "2026-11-12",
    "last_seen": "2026-11-12"
   },
   {
@@ -168,24 +193,6 @@
     "Master's"
    ],
    "category": "finance",
-   "ats": "simplify",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
-   "posted": "2026-11-11",
-   "company": "Riot Games",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "gaming",
    "ats": "simplify",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12"

@@ -10064,7 +10064,7 @@
   "category": "tech",
   "ats": "lever",
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-12"
  },
  "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us": {
   "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
@@ -10262,7 +10262,7 @@
   "last_seen": "2026-11-12"
  },
  "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
-  "title": "AI Workflows Intern [2027]",
+  "title": "AI Workflows Intern [Summer 2027]",
   "location": "Foster City, CA",
   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
   "posted": "2026-11-07",
@@ -10270,7 +10270,7 @@
   "category": "tech",
   "ats": "lever",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-12"
  },
  "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97": {
   "title": "Data Science Intern [Summer 2027]",
@@ -10281,7 +10281,7 @@
   "category": "tech",
   "ats": "lever",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-12"
  },
  "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148": {
   "title": "AI Automation Intern",
@@ -10957,7 +10957,7 @@
   "category": "tech",
   "ats": "lever",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-12"
  },
  "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716": {
   "title": "Data Engineer Intern",
@@ -11431,6 +11431,60 @@
    "N/A"
   ],
   "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12"
+ },
+ "https://apply.careers.microsoft.com/careers/job/1970393557027390": {
+  "title": "Data Scientist Intern - CoreAI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+  "posted": "2026-11-12",
+  "company": "Microsoft",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12"
+ },
+ "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006": {
+  "title": "Data Science Intern",
+  "location": "Needham, MA",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+  "posted": "2026-11-12",
+  "company": "SharkNinja",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12"
+ },
+ "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881": {
+  "title": "Data Science Intern",
+  "location": "Waltham, MA / NYC",
+  "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+  "posted": "2026-10-27",
+  "company": "Trinity Life Sciences",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
   "category": "tech",
   "ats": "simplify",
   "first_seen": "2026-11-12",

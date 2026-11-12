@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-12T10:20+00:00",
+ "generated": "2026-11-12T17:03+00:00",
  "jobs": [
+  {
+   "id": "w-7128d322dbdd",
+   "company": "Microsoft",
+   "title": "Data Scientist Intern - CoreAI",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-12"
+  },
+  {
+   "id": "w-3f38c0d9f2d7",
+   "company": "SharkNinja",
+   "title": "Data Science Intern",
+   "location": "Needham, MA",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-12"
+  },
   {
    "id": "w-2c436a24a488",
    "company": "Riot Games",
@@ -11,17 +33,6 @@
    "category": "gaming",
    "posted": "2026-11-11",
    "found": "2026-11-11"
-  },
-  {
-   "id": "w-a366467e3ca3",
-   "company": "Airbnb",
-   "title": "Advanced Analytics Intern",
-   "location": "Remote in USA",
-   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-11-11",
-   "found": "2026-11-12"
   },
   {
    "id": "w-2995518af49d",
@@ -119,17 +130,6 @@
    "url": "https://boards.greenhouse.io/embed/job_app?token=8368989",
    "source": "Simplify list",
    "category": "finance",
-   "posted": "2026-11-11",
-   "found": "2026-11-12"
-  },
-  {
-   "id": "w-17210d51e45d",
-   "company": "Riot Games",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
-   "source": "Simplify list",
-   "category": "gaming",
    "posted": "2026-11-11",
    "found": "2026-11-12"
   },
@@ -387,6 +387,17 @@
    "found": "2026-11-10"
   },
   {
+   "id": "w-f838ee898c65",
+   "company": "Zoox",
+   "title": "AI Workflows Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-07",
+   "found": "2026-11-07"
+  },
+  {
    "id": "w-bccf306b11b4",
    "company": "Zoox",
    "title": "Data Scientist Intern",
@@ -541,6 +552,17 @@
    "found": "2026-11-07"
   },
   {
+   "id": "w-aa746aefebc9",
+   "company": "Palantir",
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-06"
+  },
+  {
    "id": "w-f85b33e8aa56",
    "company": "Meta",
    "title": "Research Scientist Intern - Monetization Ranking & AI Foundations",
@@ -638,6 +660,17 @@
    "category": "tech",
    "posted": "2026-11-05",
    "found": "2026-11-06"
+  },
+  {
+   "id": "w-dca91bbe777d",
+   "company": "Palantir",
+   "title": "Software Engineer, Internship - Data Connectors",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-04",
+   "found": "2026-11-11"
   },
   {
    "id": "w-90c45e925231",
@@ -1221,6 +1254,17 @@
    "category": "tech",
    "posted": "2026-10-27",
    "found": "2026-10-28"
+  },
+  {
+   "id": "w-84b722886f89",
+   "company": "Trinity Life Sciences",
+   "title": "Data Science Intern",
+   "location": "Waltham, MA / NYC",
+   "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-27",
+   "found": "2026-11-12"
   },
   {
    "id": "w-275bc59cddcd",
