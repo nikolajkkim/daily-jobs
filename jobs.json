@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-12",
-    "found": 2,
-    "note": "2 new roles (posted Nov 11) · 1 more to browse · no new reports · checked 4 older listings, none closed · Problem: only 2 qualified (others lacked a Summer 2027 term or master's eligibility, or pages wouldn't load); Coinbase pages returned 403 so were not checked"
+    "date": "2026-11-13",
+    "found": 5,
+    "note": "5 new roles (posted Nov 12-13) · 0 to browse · no new reports · Problem: skipped the closed-listing check (B); Microsoft/ASML pages wouldn't load so eligibility is from Simplify; Scale link is LinkedIn"
   },
   "jobs": [
     {
@@ -1576,6 +1576,71 @@
       "found": "2026-11-12",
       "posted": "2026-11-11",
       "category": "tech"
+    },
+    {
+      "id": "scale-ai-ml-research-intern-2027",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "location": "New York, NY / San Francisco, CA",
+      "source": "Company site",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-research-intern-summer-2027-at-scale-4481504445",
+      "fit": "strong",
+      "why": "Summer 2027 role in NYC or SF on RL/post-training, evals and agentic work, which lines up with your PPO and LLM-retrieval projects. Master's students are eligible and the Fall 2027/Spring 2028 graduation window covers your Dec 2027 date; the link is the LinkedIn posting, so confirm on Scale's careers page.",
+      "found": "2026-11-13",
+      "category": "tech",
+      "posted": "2026-11-12"
+    },
+    {
+      "id": "tiktok-ml-scientist-intern-local-services-2027",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern - Local Services",
+      "location": "San Jose, CA",
+      "source": "Company site",
+      "url": "https://lifeattiktok.com/search/7703925583541979445",
+      "fit": "strong",
+      "why": "Summer 2027 master's internship building ML for POI recommendation and review sentiment ranking, close to your DistilBERT sentiment project and embedding retrieval work. Rolling review, so apply early.",
+      "found": "2026-11-13",
+      "category": "tech",
+      "posted": "2026-11-13"
+    },
+    {
+      "id": "microsoft-data-scientist-intern-coreai-2027",
+      "company": "Microsoft",
+      "title": "Data Scientist Intern - CoreAI",
+      "location": "Redmond, WA",
+      "source": "Simplify",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+      "fit": "good",
+      "why": "Summer 2027 data science internship in CoreAI that accepts master's students per Simplify; your LLM pipeline and applied ML work fit. I couldn't load the posting itself, so check the details when you apply.",
+      "found": "2026-11-13",
+      "category": "tech",
+      "posted": "2026-11-12"
+    },
+    {
+      "id": "sharkninja-data-science-intern-2027",
+      "company": "SharkNinja",
+      "title": "Data Science Intern",
+      "location": "Needham, MA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+      "fit": "good",
+      "why": "Summer 2027 (May-August) role building ML models on product data with Python/SQL and dashboards, matching your XGBoost and Tableau experience. Onsite 3+ days in Needham with no relocation help.",
+      "found": "2026-11-13",
+      "category": "tech",
+      "posted": "2026-11-12"
+    },
+    {
+      "id": "asml-data-scientist-intern-2027",
+      "company": "ASML",
+      "title": "Data Scientist Intern",
+      "location": "Wilton, CT",
+      "source": "Workday",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+      "fit": "good",
+      "why": "Summer 2027 data science internship open to master's students per Simplify; your large-sensor-data XGBoost work is the closest match. I couldn't load the posting, so verify the details before applying.",
+      "found": "2026-11-13",
+      "category": "tech",
+      "posted": "2026-11-12"
     }
   ],
   "browse": [

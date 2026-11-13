@@ -1,61 +1,68 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks rebound Wednesday as CoreWeave results ease AI spending worries",
-      "note": "The S&P 500 rose 1.31% to 7,619.38, the Nasdaq rose 1.60% to 25,466.19 and the Dow rose 0.49% to 52,486.49. Tech was the best-performing S&P sector, up 2.7%, and the S&P 500 is about 2.6% below its October high.",
-      "url": "https://www.thestar.com.my/business/2026/11/12/us-stocks-rise-as-coreweave-eases-ai-spending-fears",
-      "source": "The Star (Malaysia)"
-    },
-    {
-      "tag": "AI",
-      "headline": "CoreWeave jumps 24.7% after beating revenue estimates",
-      "note": "The AI cloud provider reported third-quarter revenue of $3.66 billion versus about $3.55 billion expected, and its stock closed at $60.77. Its results calmed fears that AI spending is slowing, which matters for anyone working in AI infrastructure.",
-      "url": "https://www.thestar.com.my/business/2026/11/12/us-stocks-rise-as-coreweave-eases-ai-spending-fears",
-      "source": "The Star (Malaysia)"
+      "headline": "Stocks slip as Nvidia's CEO quits and bond yields climb",
+      "note": "On Nov. 12 the S&P 500 fell 0.36% to about 7,592, the Nasdaq 0.39% to about 25,366 and the Dow 0.36% to about 52,297. Nvidia's leadership shock and a 10-year Treasury yield near 5% weighed on stocks.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-12-224502390.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia drops 8% after hours as the Jensen Huang investigation continues",
-      "note": "Nvidia rose in regular trading, ending a two-day slide, then fell over 8% after hours amid reports about the CEO. The board opened an independent investigation on Nov. 8 and says Huang remains CEO; one report said the board may be considering removing him, which I could not confirm elsewhere.",
-      "url": "https://letsdatascience.com/news/nvidia-board-opens-investigation-into-reported-foreign-intel-c5b93236",
-      "source": "Let's Data Science (citing Nvidia)"
+      "headline": "Jensen Huang steps down as Nvidia CEO; CFO Colette Kress is interim",
+      "note": "Nvidia shares fell about 4% after a much bigger intraday drop, while AMD (+5.9%) and Broadcom (+5.5%) rallied on possible share gains. Its next earnings report is now a key test of the AI chip leader.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic sets IPO range at $70-$78 a share, trading expected Nov. 19",
-      "note": "The range implies a valuation of about $1.4 trillion, down from the $2 trillion once floated. Pricing is planned for Nov. 18 on the Nasdaq under ticker ANT, with about 20% of shares aimed at retail investors. It is a big test of public-market appetite for AI companies.",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "source": "CNBC"
+      "headline": "Anthropic launches IPO roadshow, targeting $70–$78 a share",
+      "note": "It plans to offer 825 million Class A shares on Nasdaq under the ticker ANT. A pricing date hasn't been announced; it's the biggest AI-lab listing so far and a gauge of public appetite for AI.",
+      "url": "https://anthropic.com/news/roadshow-launch",
+      "source": "Anthropic"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Nebius drops nearly 17% after cutting its 2026 outlook",
+      "note": "The AI cloud provider beat on Q3 revenue but lowered its full-year outlook and raised capital spending plans. It shows how AI-infrastructure stocks are punished when spending outpaces expectations.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nebius-group-sinks-nearly-17-after-lowering-2026-outlook/",
+      "source": "Motley Fool"
     },
     {
       "tag": "Economy",
-      "headline": "Fed now seen hiking in December; a half-point hike gets 11% odds",
-      "note": "CME FedWatch showed an 88% chance of a quarter-point hike on Dec. 8-9 and 11% for a half-point, up from zero a week ago. Fed Governor Waller said he would back 50 basis points if inflation ran hot. Higher rates generally pressure growth and tech stocks.",
-      "url": "https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html",
-      "source": "CNBC"
+      "headline": "Hot inflation keeps traders betting on a December Fed rate hike",
+      "note": "Treasuries sold off this week as traders firmed up bets on a hike after persistently hot inflation data. Higher yields raise borrowing costs and pressure tech valuations.",
+      "url": "https://www.morningstar.com/news/dow-jones/202611098973/us-eurozone-bond-yields-rise-ahead-of-inflation-rates-outlook-2nd-update",
+      "source": "Morningstar / Dow Jones"
     },
     {
-      "tag": "Economy",
-      "headline": "October consumer prices rose 0.4%, hotter than expected",
-      "note": "Economists expected 0.3%. Core prices (excluding food and energy) rose 0.3% versus 0.2% expected. September's headline reading was 0.6%, so inflation cooled but not by enough. The BLS did not publish an annual rate because of the 2025 shutdown data gap.",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "source": "CNBC"
+      "tag": "AI",
+      "headline": "DeepMind ships Gemini Robotics 2.5 and AlphaGenome 2 the same day",
+      "note": "Reported by AI newsletters; I couldn't check Google's own posts. Relevant if you're interested in robotics and RL work like your PyFlyt project.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/",
+      "source": "The Neuron"
     },
     {
-      "tag": "Economy",
-      "headline": "10-year Treasury yield holds near 4.99% as the 2-year edges up to about 4.76%",
-      "note": "Yields were little changed Thursday morning after Tuesday's near-5% spike. Wells Fargo's Sameer Samana urged caution on the stock bounce, citing inflation, possible Fed hikes and higher long-term rates.",
-      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "tag": "Tech",
+      "headline": "Naver signs a $1.5 billion AI computing deal for its Nvidia-Brookfield 'AI Factory'",
+      "note": "Reported by an AI news roundup (not confirmed against a primary source). It's another sign of big money still going into AI data-center capacity.",
+      "url": "https://aiweekly.co/ai-news-today/edition/2026-11-12",
+      "source": "AI Weekly"
+    },
+    {
+      "tag": "NYC",
+      "headline": "NYC startups raised $216M+ across 6 deals in the week of Nov. 1–7",
+      "note": "AlleyWatch's weekly roundup lists Clark and Logos among the deals. It's a few days old but is the latest full NYC funding tally I found.",
+      "url": "https://alleywatch.com/tag/logos/",
+      "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 31,
-    "term": "Beating expectations (analyst consensus)",
-    "explain": "Before a company reports results, Wall Street analysts publish forecasts, and the average of them is called the consensus. A stock often moves less on whether results were good than on whether they beat or missed that consensus. CoreWeave reported $3.66 billion in revenue against roughly $3.55 billion expected, and the stock closed up 24.7%. A company can grow fast and still fall if growth is below what was already priced in.",
-    "try": "Look up CoreWeave (CRWV) on a finance site and compare the revenue estimate with the actual result."
+    "n": 32,
+    "term": "Key-person risk",
+    "explain": "Key-person risk is the danger that a company depends so heavily on one individual that losing them hurts the business. Investors often treat a founder-CEO as part of the company's value, because their vision and relationships are hard to replace. When Nvidia's CEO Jensen Huang resigned, the stock fell sharply at one point even though nothing about its chips had changed overnight. Companies reduce this risk with succession plans and deep leadership teams, which is why an interim CEO was named right away.",
+    "try": "Look up Nvidia's stock chart for Nov. 12 and see how far it fell at the low versus where it closed."
   },
   "learned": [
     "Earnings season and EPS",
@@ -88,6 +95,7 @@
     "Core inflation",
     "The yield curve",
     "Treasury auctions",
-    "Beating expectations (analyst consensus)"
+    "Beating expectations (analyst consensus)",
+    "Key-person risk"
   ]
 }

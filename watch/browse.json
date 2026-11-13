@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-12T17:03+00:00",
+ "generated": "2026-11-13T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-dda802f1ee63",
+   "company": "TikTok",
+   "title": "Machine Learning Scientist Intern - Local Services",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703925583541979445",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-9eed8df257ff",
+   "company": "Zoox",
+   "title": "Data Scientist Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
   {
    "id": "w-7128d322dbdd",
    "company": "Microsoft",
@@ -22,6 +44,138 @@
    "category": "tech",
    "posted": "2026-11-12",
    "found": "2026-11-12"
+  },
+  {
+   "id": "w-f4b97a9d4698",
+   "company": "Leidos",
+   "title": "Junior Software Engineer / Data Scientist Intern",
+   "location": "Tucson, AZ",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-f21ab18eca03",
+   "company": "T-Mobile",
+   "title": "Data Product Intern",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-77850534cf1f",
+   "company": "National Laboratory of the Rockies",
+   "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
+   "location": "Remote in USA",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-45557efef323",
+   "company": "Intermountain Healthcare",
+   "title": "Machine Learning Operations Intern",
+   "location": "Remote in USA",
+   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-5afab80db595",
+   "company": "Intermountain Healthcare",
+   "title": "AI/ML Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-57611f6e3173",
+   "company": "Environmental Defense Fund",
+   "title": "Consumer Energy Analytics Intern",
+   "location": "Remote in USA / St. Petersburg, FL",
+   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-22bde5cd8509",
+   "company": "Entegris",
+   "title": "Data Engineering Intern",
+   "location": "Aurora, IL",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-f2fed49b62c9",
+   "company": "Bask Health",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-c1a0831e191e",
+   "company": "Bask Health",
+   "title": "AI Engineering Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/F0E122E877/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-7e842cc272c5",
+   "company": "CareSource",
+   "title": "Summer Internship Program – Provider Analytics AI Intern",
+   "location": "Remote in USA",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-a37ef93d867b",
+   "company": "White Cap Supply Holdings",
+   "title": "Product Data Management Intern",
+   "location": "Remote in USA",
+   "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-b249c5898ddd",
+   "company": "ASML",
+   "title": "Data Scientist Intern",
+   "location": "Wilton, CT",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-13"
   },
   {
    "id": "w-2c436a24a488",
@@ -244,6 +398,28 @@
    "found": "2026-11-11"
   },
   {
+   "id": "w-ae428dc06b71",
+   "company": "General Dynamics Information Technology",
+   "title": "Data Analytics Associate Intern",
+   "location": "Falls Church, VA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-10",
+   "found": "2026-11-13"
+  },
+  {
+   "id": "w-aecf17bdb404",
+   "company": "Carlisle Companies",
+   "title": "AI & Data Science Intern",
+   "location": "Carlisle, PA",
+   "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-10",
+   "found": "2026-11-13"
+  },
+  {
    "id": "w-c0fa48ddfd67",
    "company": "Epic Games",
    "title": "AI Programmer Intern",
@@ -293,28 +469,6 @@
    "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
    "location": "Santa Clara, CA",
    "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-09",
-   "found": "2026-11-10"
-  },
-  {
-   "id": "w-597065e5e853",
-   "company": "Zoetis Services",
-   "title": "AI Capabilities Intern - AI Architecture, Enablement & Tools",
-   "location": "Remote in USA / Parsippany-Troy Hills, NJ / Kalamazoo, MI",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-09",
-   "found": "2026-11-10"
-  },
-  {
-   "id": "w-489ca3893dbe",
-   "company": "Great American Insurance Company",
-   "title": "Telematics / Predictive Analytics Intern",
-   "location": "Cincinnati, OH",
-   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-09",
@@ -486,17 +640,6 @@
    "found": "2026-11-07"
   },
   {
-   "id": "w-9331190ab14d",
-   "company": "T-Mobile",
-   "title": "AI Engineering Intern",
-   "location": "Bellevue, WA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
    "id": "w-1612b7f7a619",
    "company": "Meta",
    "title": "Research Scientist Intern - Synthetic Data for Computer Use Agents",
@@ -660,6 +803,17 @@
    "category": "tech",
    "posted": "2026-11-05",
    "found": "2026-11-06"
+  },
+  {
+   "id": "w-d7cfab37740f",
+   "company": "Maxinsights",
+   "title": "Data Operations Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-05",
+   "found": "2026-11-13"
   },
   {
    "id": "w-dca91bbe777d",
@@ -860,17 +1014,6 @@
    "found": "2026-11-03"
   },
   {
-   "id": "w-cf87d300c10f",
-   "company": "Costco",
-   "title": "Costco Data Systems Intern - IT Product Owner",
-   "location": "Issaquah, WA",
-   "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
    "id": "w-9b169bad4109",
    "company": "Wellmark",
    "title": "Software Engineer Intern - AI Platform Team",
@@ -992,17 +1135,6 @@
    "found": "2026-10-30"
   },
   {
-   "id": "w-743d4a6fdcc5",
-   "company": "Microsoft",
-   "title": "Applied Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
-  },
-  {
    "id": "w-aa3ebcb24e31",
    "company": "AXA",
    "title": "Underwriting Data & Analytics Intern",
@@ -1074,17 +1206,6 @@
    "title": "Data Engineer Intern",
    "location": "Fort Belvoir, VA",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-1934d33224d2",
-   "company": "Micron Technology",
-   "title": "Data Scientist Intern",
-   "location": "San Jose, CA / Folsom, CA",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-28",
@@ -1584,17 +1705,6 @@
    "category": "tech",
    "posted": "2026-10-22",
    "found": "2026-10-23"
-  },
-  {
-   "id": "w-f88346c59633",
-   "company": "Pattern",
-   "title": "AI Automation Engineer Intern",
-   "location": "Lehi, UT",
-   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-22",
-   "found": "2026-10-24"
   },
   {
    "id": "w-de64ee73d242",
@@ -2147,17 +2257,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-20adc2226142",
-   "company": "Merck",
-   "title": "International Pricing Analytics Intern - International Pricing Analytics",
-   "location": "Upper Gwynedd Township, PA / Rahway, NJ",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-9010d9858616",
    "company": "GenBio AI",
    "title": "Research Scientist Intern - AI Molecular Design",
@@ -2196,6 +2295,17 @@
    "title": "AI Software Intern",
    "location": "Austin, TX / Santa Clara, CA",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-07",
+   "found": "2026-10-13"
+  },
+  {
+   "id": "w-5476499cacb6",
+   "company": "Microsoft",
+   "title": "Applied Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-07",
@@ -2301,17 +2411,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-0e956328033f",
-   "company": "Micron Technology",
-   "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
-   "location": "Boise, ID",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-8b73728b0570",
    "company": "Adobe",
    "title": "Applied and Research Scientist/Engineer Intern",
@@ -2353,28 +2452,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-23e1b5678d29",
-   "company": "Affirm",
-   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-   "location": "San Francisco, California, United States",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-   "source": "Greenhouse",
-   "category": "finance",
-   "posted": "2026-10-02",
-   "found": "2026-10-12"
-  },
-  {
-   "id": "w-a54322fe0846",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA / Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
    "found": "2026-10-13"
   },
   {
@@ -2444,17 +2521,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-9fd2a7dae4bc",
-   "company": "Marvell",
-   "title": "AI-Native Development Platform Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-bda1afcdef73",
    "company": "Acuity",
    "title": "Finance AI Engineering Intern",
@@ -2475,28 +2541,6 @@
    "category": "tech",
    "posted": "2026-09-29",
    "found": "2026-10-13"
-  },
-  {
-   "id": "w-3cd27cbf30f7",
-   "company": "Constellation Energy",
-   "title": "Quantitative Analytics & Data Science Intern",
-   "location": "Baltimore, MD",
-   "url": "https://jobs.constellationenergy.com/jobs/139494?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-24"
-  },
-  {
-   "id": "w-a77fc42efa8e",
-   "company": "Blue Cross Blue Shield of Michigan",
-   "title": "Data Analytics Intern - HEDIS",
-   "location": "Detroit, MI",
-   "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-28",
-   "found": "2026-10-24"
   }
  ]
 }

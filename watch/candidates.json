@@ -1,7 +1,35 @@
 {
- "generated": "2026-11-12T17:03+00:00",
+ "generated": "2026-11-13T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Machine Learning Scientist Intern - Local Services",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703925583541979445",
+   "posted": "2026-11-13",
+   "company": "TikTok",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Data Scientist Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+   "posted": "2026-11-12",
+   "company": "Zoox",
+   "category": "tech",
+   "ats": "lever",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
   {
    "title": "Data Scientist Intern - CoreAI",
    "location": "Redmond, WA",
@@ -18,7 +46,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Data Science Intern",
@@ -36,7 +64,201 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Junior Software Engineer / Data Scientist Intern",
+   "location": "Tucson, AZ",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+   "posted": "2026-11-12",
+   "company": "Leidos",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Data Product Intern",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+   "posted": "2026-11-12",
+   "company": "T-Mobile",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
+   "location": "Remote in USA",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
+   "posted": "2026-11-12",
+   "company": "National Laboratory of the Rockies",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Machine Learning Operations Intern",
+   "location": "Remote in USA",
+   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
+   "posted": "2026-11-12",
+   "company": "Intermountain Healthcare",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "AI/ML Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+   "posted": "2026-11-12",
+   "company": "Intermountain Healthcare",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Consumer Energy Analytics Intern",
+   "location": "Remote in USA / St. Petersburg, FL",
+   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
+   "posted": "2026-11-12",
+   "company": "Environmental Defense Fund",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Data Engineering Intern",
+   "location": "Aurora, IL",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+   "posted": "2026-11-12",
+   "company": "Entegris",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply",
+   "posted": "2026-11-12",
+   "company": "Bask Health",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "AI Engineering Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/F0E122E877/apply",
+   "posted": "2026-11-12",
+   "company": "Bask Health",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Summer Internship Program – Provider Analytics AI Intern",
+   "location": "Remote in USA",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
+   "posted": "2026-11-12",
+   "company": "CareSource",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Product Data Management Intern",
+   "location": "Remote in USA",
+   "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650",
+   "posted": "2026-11-12",
+   "company": "White Cap Supply Holdings",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Wilton, CT",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+   "posted": "2026-11-12",
+   "company": "ASML",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Data Engineer Intern",
@@ -47,7 +269,7 @@
    "category": "gaming",
    "ats": "greenhouse",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "AI Product Intern",
@@ -62,7 +284,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "AI Skill Developer Intern",
@@ -77,7 +299,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Safety Data Analytics Intern",
@@ -96,7 +318,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "AI Solutions Intern - Human Resources",
@@ -114,7 +336,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Research Scientist Intern - LLM Memory and Skills",
@@ -129,7 +351,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "AI Processor Hardware/Software Integration Engineer Intern",
@@ -147,7 +369,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Future Product Innovation Research Intern - Human-AI Computational Design",
@@ -162,7 +384,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "Data Analytics Engineering Intern",
@@ -177,7 +399,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   },
   {
    "title": "AI Quant Summer Analyst Intern",
@@ -195,179 +417,7 @@
    "category": "finance",
    "ats": "simplify",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Applied AI Engineer Intern - Creative Experiences",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
-   "posted": "2026-11-10",
-   "company": "Pika",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "AI Operations Intern - AI Clouds",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
-   "posted": "2026-11-10",
-   "company": "NVIDIA",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Data Analytics Intern",
-   "location": "Austin, TX",
-   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018",
-   "posted": "2026-11-10",
-   "company": "Arista Networks",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Research Scientist Intern - Foundation Model Optimization",
-   "location": "Burlingame, CA / Menlo Park, CA / Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/997597222780035",
-   "posted": "2026-11-10",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Research Scientist Intern - Audio Systems",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1100150399514897",
-   "posted": "2026-11-10",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Data Engineer Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
-   "posted": "2026-11-10",
-   "company": "Addepar",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Software Engineer Intern - Data Connectors",
-   "location": "NYC",
-   "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply",
-   "posted": "2026-11-10",
-   "company": "Palantir",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Product Management Intern - Agentic AI",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56/application?embed=true",
-   "posted": "2026-11-10",
-   "company": "Parspec",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "AI/ML Business Intelligence Development Intern",
-   "location": "Bossier City, LA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
-   "posted": "2026-11-10",
-   "company": "General Dynamics Information Technology",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "Associate's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
-  },
-  {
-   "title": "Artificial Intelligence/Machine Learning Intern",
-   "location": "Lisle, IL",
-   "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us",
-   "posted": "2026-11-10",
-   "company": "International",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-13"
   }
  ]
 }
