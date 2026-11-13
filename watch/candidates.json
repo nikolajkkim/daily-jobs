@@ -1,17 +1,18 @@
 {
- "generated": "2026-11-13T10:20+00:00",
+ "generated": "2026-11-13T16:43+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
-   "title": "Machine Learning Scientist Intern - Local Services",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7703925583541979445",
+   "title": "Data Science/AI Intern",
+   "location": "Lehi, UT",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
    "posted": "2026-11-13",
-   "company": "TikTok",
+   "company": "Verisk",
    "terms": [
     "Summer 2027"
    ],
    "degrees": [
+    "Bachelor's",
     "Master's"
    ],
    "category": "tech",
@@ -28,42 +29,6 @@
    "category": "tech",
    "ats": "lever",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
-  },
-  {
-   "title": "Data Scientist Intern - CoreAI",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
-   "posted": "2026-11-12",
-   "company": "Microsoft",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-13"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Needham, MA",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
-   "posted": "2026-11-12",
-   "company": "SharkNinja",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-12",
    "last_seen": "2026-11-13"
   },
   {
@@ -236,25 +201,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
-  },
-  {
-   "title": "Data Scientist Intern",
-   "location": "Wilton, CT",
-   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
-   "posted": "2026-11-12",
-   "company": "ASML",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-13",

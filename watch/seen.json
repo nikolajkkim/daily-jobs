@@ -11780,5 +11780,23 @@
   "ats": "simplify",
   "first_seen": "2026-11-13",
   "last_seen": "2026-11-13"
+ },
+ "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184": {
+  "title": "Data Science/AI Intern",
+  "location": "Lehi, UT",
+  "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+  "posted": "2026-11-13",
+  "company": "Verisk",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
  }
 }
