@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T10:20+00:00",
- "feeds_ok": 83,
+ "generated": "2026-11-14T15:19+00:00",
+ "feeds_ok": 85,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 670,
+   "open_jobs": 669,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 313,
+   "open_jobs": 314,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -222,7 +222,7 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2598,
+   "open_jobs": 2599,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -462,7 +462,9 @@
    "slug": "blackrock"
   },
   "Morgan Stanley": {
-   "status": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "status": "ok",
+   "open_jobs": 56,
+   "matches": 0,
    "ats": "workday",
    "slug": "ms"
   },
@@ -537,7 +539,9 @@
    "slug": "twitch"
   },
   "Warner Bros. Discovery": {
-   "status": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "status": "ok",
+   "open_jobs": 44,
+   "matches": 0,
    "ats": "workday",
    "slug": "warnerbros"
   },
@@ -604,8 +608,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 317,
-   "matches": 317,
+   "open_jobs": 322,
+   "matches": 322,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

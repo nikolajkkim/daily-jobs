@@ -1,25 +1,7 @@
 {
- "generated": "2026-11-14T10:20+00:00",
+ "generated": "2026-11-14T15:19+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
-  {
-   "title": "Data Science/AI Intern",
-   "location": "Lehi, UT",
-   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
-   "posted": "2026-11-13",
-   "company": "Verisk",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
   {
    "title": "EUV Data Science and Analytics Intern",
    "location": "Austin, TX",
@@ -51,24 +33,6 @@
     "Bachelor's",
     "Master's",
     "Associate's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
-   "posted": "2026-11-13",
-   "company": "Amgen",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
    ],
    "category": "tech",
    "ats": "simplify",
@@ -272,21 +236,6 @@
    "company": "Bask Health",
    "terms": [
     "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Summer Internship Program – Provider Analytics AI Intern",
-   "location": "Remote in USA",
-   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
-   "posted": "2026-11-12",
-   "company": "CareSource",
-   "terms": [
-    "Summer 2027"
    ],
    "degrees": [],
    "category": "tech",
