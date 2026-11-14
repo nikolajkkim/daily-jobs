@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-13",
-    "found": 5,
-    "note": "5 new roles (posted Nov 12-13) · 0 to browse · no new reports · Problem: skipped the closed-listing check (B); Microsoft/ASML pages wouldn't load so eligibility is from Simplify; Scale link is LinkedIn"
+    "date": "2026-11-14",
+    "found": 4,
+    "note": "4 new roles (posted Nov 7-13; only 4 verifiable Summer 2027 fits) · 1 more to browse · no new reports · checked 6 oldest listings, none closed · Problem: Workday pages (Verisk/Amgen/CareSource) wouldn't load, eligibility from Simplify"
   },
   "jobs": [
     {
@@ -1641,6 +1641,58 @@
       "found": "2026-11-13",
       "category": "tech",
       "posted": "2026-11-12"
+    },
+    {
+      "id": "verisk-data-science-ai-intern-2027",
+      "company": "Verisk",
+      "title": "Data Science/AI Intern",
+      "location": "Lehi, UT",
+      "source": "Company site",
+      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+      "fit": "good",
+      "why": "Summer 2027 data science/AI internship that Simplify lists as open to bachelor's and master's students. Your LLaMA retrieval pipeline and XGBoost work fit; it's onsite in Utah, and I couldn't load the posting, so check details before applying.",
+      "found": "2026-11-14",
+      "category": "tech",
+      "posted": "2026-11-13"
+    },
+    {
+      "id": "amgen-knowledge-graph-grad-intern-2027",
+      "company": "Amgen",
+      "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+      "location": "Remote, USA",
+      "source": "Workday",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
+      "fit": "good",
+      "why": "Summer 2027 grad intern role (master's/PhD) that is remote. Your embeddings and retrieval work in the UCI lab carries over to knowledge graphs; healthcare is new for you. I couldn't load the posting, so eligibility is from Simplify.",
+      "found": "2026-11-14",
+      "category": "tech",
+      "posted": "2026-11-13"
+    },
+    {
+      "id": "caresource-provider-analytics-ai-intern-2027",
+      "company": "CareSource",
+      "title": "Summer Internship Program – Provider Analytics AI Intern",
+      "location": "Remote, USA",
+      "source": "Workday",
+      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
+      "fit": "stretch",
+      "why": "Summer 2027 remote AI analytics internship. Your XGBoost and LLM pipeline experience applies, but it's healthcare-analytics heavy and Simplify lists no degree level, so confirm master's eligibility. I couldn't load the posting.",
+      "found": "2026-11-14",
+      "category": "tech",
+      "posted": "2026-11-12"
+    },
+    {
+      "id": "zoox-ai-workflows-intern-2027",
+      "company": "Zoox",
+      "title": "AI Workflows Intern [Summer 2027]",
+      "location": "Foster City, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "fit": "good",
+      "why": "Summer 2027, requires a master's with graduation Fall 2027–Summer 2028, which fits your Dec 2027 date. It's agentic LLM workflows for safety, so your few-shot prompting and retrieval work apply; it's more LLM engineering than model training.",
+      "found": "2026-11-14",
+      "category": "tech",
+      "posted": "2026-11-07"
     }
   ],
   "browse": [
@@ -2186,6 +2238,18 @@
       "why": "Summer 2027 role open to MS students graduating Fall 2027 or Spring 2028, working on LLM benchmarks and RL/post-training. It matches your LLaMA retrieval work and PPO project, but is research-leaning and expects shipped or published work.",
       "found": "2026-11-12",
       "posted": "2026-10-19",
+      "category": "tech"
+    },
+    {
+      "id": "c3-ai-data-science-intern-2027",
+      "company": "C3.ai",
+      "title": "Data Science Intern",
+      "location": "Redwood City, CA",
+      "source": "Company site",
+      "url": "https://simplify.jobs/p/222db458-975e-451f-8e50-02fed5bc0583",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students, building ML for fraud detection and predictive maintenance. Your XGBoost and bridge-damage modeling match. Posting date unknown and it's onsite in California; the link is a Simplify page.",
+      "found": "2026-11-14",
       "category": "tech"
     }
   ]

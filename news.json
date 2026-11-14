@@ -1,68 +1,75 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks slip as Nvidia's CEO quits and bond yields climb",
-      "note": "On Nov. 12 the S&P 500 fell 0.36% to about 7,592, the Nasdaq 0.39% to about 25,366 and the Dow 0.36% to about 52,297. Nvidia's leadership shock and a 10-year Treasury yield near 5% weighed on stocks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-12-224502390.html",
+      "headline": "Stocks end mixed Friday, but all three indexes win the week",
+      "note": "On Nov. 13 the Dow rose 0.1% to about 52,348, while the S&P 500 fell 0.4% to about 7,562 and the Nasdaq 0.9% to about 25,136. For the week the S&P gained about 2.5%, the Nasdaq about 2.3% and the Dow about 2.1%, even with Nvidia and bond yields rattling Friday.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Chips",
-      "headline": "Jensen Huang steps down as Nvidia CEO; CFO Colette Kress is interim",
-      "note": "Nvidia shares fell about 4% after a much bigger intraday drop, while AMD (+5.9%) and Broadcom (+5.5%) rallied on possible share gains. Its next earnings report is now a key test of the AI chip leader.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "headline": "Nvidia keeps sliding after Jensen Huang's exit; HSBC cuts it to Hold",
+      "note": "Nvidia fell again Friday after a drop of more than 4% Thursday, closing with a market value under $4 trillion. CFO Colette Kress is interim CEO and earnings are due Tuesday, Nov. 17, the first big test of the post-Huang company.",
+      "url": "https://briefs.co/news/nasdaq-dips-as-nvidia-slides-but-all-three-indexes-log-stron",
+      "source": "Briefs.co (citing CNBC)"
+    },
+    {
+      "tag": "Chips",
+      "headline": "AMD, Broadcom and Intel drop sharply, reversing Thursday's rally",
+      "note": "Reports put AMD down roughly 9–10%, Broadcom about 6% and Intel about 5% Friday. Yesterday these were seen as Nvidia share-gainers; today the whole chip group sold off, so leadership risk is spreading to the sector.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic launches IPO roadshow, targeting $70–$78 a share",
-      "note": "It plans to offer 825 million Class A shares on Nasdaq under the ticker ANT. A pricing date hasn't been announced; it's the biggest AI-lab listing so far and a gauge of public appetite for AI.",
-      "url": "https://anthropic.com/news/roadshow-launch",
-      "source": "Anthropic"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Nebius drops nearly 17% after cutting its 2026 outlook",
-      "note": "The AI cloud provider beat on Q3 revenue but lowered its full-year outlook and raised capital spending plans. It shows how AI-infrastructure stocks are punished when spending outpaces expectations.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nebius-group-sinks-nearly-17-after-lowering-2026-outlook/",
-      "source": "Motley Fool"
+      "headline": "Anthropic's IPO is expected to price the week of Nov. 16",
+      "note": "Per Renaissance Capital, it is offering 825 million shares at $70–$78 on Nasdaq (ticker ANT), about $61 billion, plus a $26 billion private placement from firms like Google, Microsoft and Nvidia. It's the largest AI-lab listing yet and a test of public appetite for AI.",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
+      "source": "Renaissance Capital"
     },
     {
       "tag": "Economy",
-      "headline": "Hot inflation keeps traders betting on a December Fed rate hike",
-      "note": "Treasuries sold off this week as traders firmed up bets on a hike after persistently hot inflation data. Higher yields raise borrowing costs and pressure tech valuations.",
-      "url": "https://www.morningstar.com/news/dow-jones/202611098973/us-eurozone-bond-yields-rise-ahead-of-inflation-rates-outlook-2nd-update",
-      "source": "Morningstar / Dow Jones"
+      "headline": "Producer prices run at 6.5% a year; 10-year yield hits 5.17%",
+      "note": "October producer prices rose 0.3% on the month, below the 0.4% expected, but the 12-month rate is the highest since November 2022. Traders expect a Fed rate hike next month, and the 10-year Treasury yield hit its highest since October, which pressures tech valuations.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Bitcoin falls below $70,000 for the first time in nearly three months",
+      "note": "It is down more than 20% so far this year, a sign of weak appetite for risk assets as yields climb. Worth watching if you're curious about how markets react to rate-hike fears.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Tech sector added about 7,200 jobs in October; postings up 18.5% from a year ago",
+      "note": "Per a summary of CompTIA's report, active tech postings reached 629,876 and AI skills dominate demand, but employers are hiring selectively. Specialized data/ML skills remain the in-demand ones for internship hunting.",
+      "url": "https://opendatascience.com/week-in-ai-careers-november-8-2026/",
+      "source": "Open Data Science (CompTIA data)"
     },
     {
       "tag": "AI",
-      "headline": "DeepMind ships Gemini Robotics 2.5 and AlphaGenome 2 the same day",
-      "note": "Reported by AI newsletters; I couldn't check Google's own posts. Relevant if you're interested in robotics and RL work like your PyFlyt project.",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/",
+      "headline": "Anthropic signs its first news-licensing deal, with the Associated Press",
+      "note": "Reported by Adweek via an AI newsletter (I couldn't open the original): Claude surfaced AP's real-time, attributed election data during the midterms. It shows how AI labs are starting to pay for fresh data.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
       "source": "The Neuron"
     },
     {
-      "tag": "Tech",
-      "headline": "Naver signs a $1.5 billion AI computing deal for its Nvidia-Brookfield 'AI Factory'",
-      "note": "Reported by an AI news roundup (not confirmed against a primary source). It's another sign of big money still going into AI data-center capacity.",
-      "url": "https://aiweekly.co/ai-news-today/edition/2026-11-12",
-      "source": "AI Weekly"
-    },
-    {
-      "tag": "NYC",
-      "headline": "NYC startups raised $216M+ across 6 deals in the week of Nov. 1–7",
-      "note": "AlleyWatch's weekly roundup lists Clark and Logos among the deals. It's a few days old but is the latest full NYC funding tally I found.",
-      "url": "https://alleywatch.com/tag/logos/",
-      "source": "AlleyWatch"
+      "tag": "AI",
+      "headline": "OpenAI reportedly made about $10 billion in revenue in one quarter, still at a large loss",
+      "note": "Newsletter-reported and not independently confirmed by me. It frames the economics behind Anthropic's IPO: fast revenue growth paired with heavy compute spending.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+      "source": "The Neuron"
     }
   ],
   "learn": {
-    "n": 32,
-    "term": "Key-person risk",
-    "explain": "Key-person risk is the danger that a company depends so heavily on one individual that losing them hurts the business. Investors often treat a founder-CEO as part of the company's value, because their vision and relationships are hard to replace. When Nvidia's CEO Jensen Huang resigned, the stock fell sharply at one point even though nothing about its chips had changed overnight. Companies reduce this risk with succession plans and deep leadership teams, which is why an interim CEO was named right away.",
-    "try": "Look up Nvidia's stock chart for Nov. 12 and see how far it fell at the low versus where it closed."
+    "n": 33,
+    "term": "Producer Price Index (PPI)",
+    "explain": "The PPI measures how much prices change for the businesses that make and sell goods and services, before the products reach shoppers. It is an early signal: if companies pay more to produce things, they may pass those costs on to consumers, which shows up later in the CPI. Economists watch it alongside CPI because the Fed targets inflation. This week October PPI rose 0.3% on the month, less than the 0.4% forecast, but it was up 6.5% over twelve months, the highest since November 2022. Because the monthly figure beat expectations but the yearly one is high, markets still expect a Fed rate hike.",
+    "try": "Look up the latest CPI and PPI releases on the Bureau of Labor Statistics site and compare their yearly rates."
   },
   "learned": [
     "Earnings season and EPS",
@@ -96,6 +103,7 @@
     "The yield curve",
     "Treasury auctions",
     "Beating expectations (analyst consensus)",
-    "Key-person risk"
+    "Key-person risk",
+    "Producer Price Index (PPI)"
   ]
 }

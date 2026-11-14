@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T16:43+00:00",
+ "generated": "2026-11-14T10:20+00:00",
  "jobs": [
   {
    "id": "w-63fb97ef4cae",
@@ -11,6 +11,72 @@
    "category": "tech",
    "posted": "2026-11-13",
    "found": "2026-11-13"
+  },
+  {
+   "id": "w-442edf0b4449",
+   "company": "ASML",
+   "title": "EUV Data Science and Analytics Intern",
+   "location": "Austin, TX",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
+  },
+  {
+   "id": "w-22526532ea0e",
+   "company": "Piedmont Airlines",
+   "title": "Safety Data Analytics Intern",
+   "location": "Charlotte, NC",
+   "url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
+  },
+  {
+   "id": "w-892a3e11521c",
+   "company": "Amgen",
+   "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+   "location": "Remote in USA",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
+  },
+  {
+   "id": "w-80a8da4fc443",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Materials Architecture & Device Integration",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1674297360998408",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
+  },
+  {
+   "id": "w-6cd7b0125dd7",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Diffractive Optics",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1158829233342350",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
+  },
+  {
+   "id": "w-27321110ef01",
+   "company": "Nexus Cognitive Technologies",
+   "title": "Data Engineer Intern",
+   "location": "Atlanta, GA",
+   "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-14"
   },
   {
    "id": "w-9eed8df257ff",
@@ -172,17 +238,6 @@
    "title": "AI Skill Developer Intern",
    "location": "United States",
    "url": "https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-11",
-   "found": "2026-11-11"
-  },
-  {
-   "id": "w-4fbef24e6178",
-   "company": "Piedmont Airlines",
-   "title": "Safety Data Analytics Intern",
-   "location": "Charlotte, NC",
-   "url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-11",
@@ -363,17 +418,6 @@
    "category": "tech",
    "posted": "2026-11-10",
    "found": "2026-11-11"
-  },
-  {
-   "id": "w-ae428dc06b71",
-   "company": "General Dynamics Information Technology",
-   "title": "Data Analytics Associate Intern",
-   "location": "Falls Church, VA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-10",
-   "found": "2026-11-13"
   },
   {
    "id": "w-aecf17bdb404",
@@ -585,17 +629,6 @@
    "found": "2026-11-07"
   },
   {
-   "id": "w-4db1ad4d31b7",
-   "company": "L3Harris Technologies",
-   "title": "Data Architect Intern",
-   "location": "Huntsville, AL",
-   "url": "https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
    "id": "w-607b6f45233b",
    "company": "Niural",
    "title": "AI Product Operator Intern",
@@ -792,6 +825,17 @@
    "category": "tech",
    "posted": "2026-11-04",
    "found": "2026-11-11"
+  },
+  {
+   "id": "w-7e78a08fc213",
+   "company": "Paccar",
+   "title": "Data Engineer Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-04",
+   "found": "2026-11-04"
   },
   {
    "id": "w-90c45e925231",
@@ -1058,17 +1102,6 @@
    "found": "2026-10-31"
   },
   {
-   "id": "w-c53d8f846963",
-   "company": "Barclays",
-   "title": "Client Data & Engineering Group Summer Intern - Chief Client Office",
-   "location": "NYC",
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-30",
-   "found": "2026-10-31"
-  },
-  {
    "id": "w-d99f53e0f40b",
    "company": "University of Miami",
    "title": "Data Science & AI Intern",
@@ -1232,17 +1265,6 @@
    "category": "tech",
    "posted": "2026-10-27",
    "found": "2026-10-27"
-  },
-  {
-   "id": "w-0539aebfc0a3",
-   "company": "Dominion Energy",
-   "title": "Power Systems Time-Series Analytics Intern",
-   "location": "Glen Allen, VA",
-   "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-28"
   },
   {
    "id": "w-ba9451d7554f",
@@ -1949,17 +1971,6 @@
    "found": "2026-10-17"
   },
   {
-   "id": "w-f5c1bdc77781",
-   "company": "CenturyLink",
-   "title": "Data Internship - Analytics & Decision Science",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-10-17"
-  },
-  {
    "id": "w-af13afa2a5f5",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
@@ -1980,39 +1991,6 @@
    "category": "tech",
    "posted": "2026-10-16",
    "found": "2026-10-17"
-  },
-  {
-   "id": "w-0bf49d66e841",
-   "company": "Systems Planning and Analysis",
-   "title": "Data Engineering & Analytics Tools Intern",
-   "location": "Washington, DC",
-   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-10-31"
-  },
-  {
-   "id": "w-bdf1001e9423",
-   "company": "CenturyLink",
-   "title": "AI Product & Business Innovation Intern",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-11-11"
-  },
-  {
-   "id": "w-cce89e34860e",
-   "company": "CenturyLink",
-   "title": "AI & Automation Builders Internship",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-11-11"
   },
   {
    "id": "w-f989adfd819a",
@@ -2057,17 +2035,6 @@
    "category": "tech",
    "posted": "2026-10-14",
    "found": "2026-10-15"
-  },
-  {
-   "id": "w-c763e814b741",
-   "company": "Wolf & Company",
-   "title": "AI & Automation Intern",
-   "location": "Boston, MA",
-   "url": "https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-11-05"
   },
   {
    "id": "w-b728a2f1e9f7",
@@ -2485,28 +2452,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-bda1afcdef73",
-   "company": "Acuity",
-   "title": "Finance AI Engineering Intern",
-   "location": "Atlanta, GA",
-   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e7eeb10048d7",
-   "company": "Acuity",
-   "title": "Finance AI Product Management Intern",
-   "location": "Atlanta, GA",
-   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-09-29",
    "found": "2026-10-13"
   }
  ]
