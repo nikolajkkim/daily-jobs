@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T10:20+00:00",
+ "generated": "2026-11-15T15:51+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 355,
+   "open_jobs": 354,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -521,7 +521,7 @@
   },
   "2K": {
    "status": "ok",
-   "open_jobs": 91,
+   "open_jobs": 90,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "2k"
