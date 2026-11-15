@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:19+00:00",
+ "generated": "2026-11-15T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -18,7 +18,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Safety Data Analytics Intern",
@@ -37,7 +37,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Research Scientist Intern - Materials Architecture & Device Integration",
@@ -52,7 +52,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Research Scientist Intern - Diffractive Optics",
@@ -67,7 +67,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Data Engineer Intern",
@@ -85,124 +85,33 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Data Scientist Intern [Summer 2027]",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
-   "posted": "2026-11-12",
-   "company": "Zoox",
-   "category": "tech",
-   "ats": "lever",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Junior Software Engineer / Data Scientist Intern",
-   "location": "Tucson, AZ",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
-   "posted": "2026-11-12",
-   "company": "Leidos",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Data Product Intern",
-   "location": "Bellevue, WA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
-   "posted": "2026-11-12",
-   "company": "T-Mobile",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
-   "location": "Remote in USA",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
-   "posted": "2026-11-12",
-   "company": "National Laboratory of the Rockies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Machine Learning Operations Intern",
-   "location": "Remote in USA",
-   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
-   "posted": "2026-11-12",
-   "company": "Intermountain Healthcare",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "AI/ML Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
-   "posted": "2026-11-12",
-   "company": "Intermountain Healthcare",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Consumer Energy Analytics Intern",
-   "location": "Remote in USA / St. Petersburg, FL",
-   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
-   "posted": "2026-11-12",
-   "company": "Environmental Defense Fund",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Data Engineering Intern",
-   "location": "Aurora, IL",
-   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
-   "posted": "2026-11-12",
-   "company": "Entegris",
+   "location": "Chicago, IL / Lincolnshire, IL",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+   "posted": "2026-11-13",
+   "company": "Camping World",
    "terms": [
     "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Raleigh, NC",
+   "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+   "posted": "2026-11-13",
+   "company": "Martin Marietta",
+   "terms": [
+    "N/A"
    ],
    "degrees": [
     "Bachelor's",
@@ -210,53 +119,8 @@
    ],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply",
-   "posted": "2026-11-12",
-   "company": "Bask Health",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "AI Engineering Intern",
-   "location": "Remote in USA",
-   "url": "https://apply.workable.com/bask-health-1/j/F0E122E877/apply",
-   "posted": "2026-11-12",
-   "company": "Bask Health",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Product Data Management Intern",
-   "location": "Remote in USA",
-   "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650",
-   "posted": "2026-11-12",
-   "company": "White Cap Supply Holdings",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-14"
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   }
  ]
 }

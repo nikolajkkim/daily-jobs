@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-14",
-    "found": 4,
-    "note": "4 new roles (posted Nov 7-13; only 4 verifiable Summer 2027 fits) · 1 more to browse · no new reports · checked 6 oldest listings, none closed · Problem: Workday pages (Verisk/Amgen/CareSource) wouldn't load, eligibility from Simplify"
+    "date": "2026-11-15",
+    "found": 1,
+    "note": "1 new role (posted Nov 9; few verifiable Summer 2027 fits, Zoox/Meta/ASML duplicates or PhD-only skipped) · 2 more to browse · no new reports · checked 5 oldest listings, none closed · Problem: Workday/Ashby pages wouldn't load for verification; Carlisle, Intermountain, Pika terms unconfirmed so left out"
   },
   "jobs": [
     {
@@ -1693,6 +1693,19 @@
       "found": "2026-11-14",
       "category": "tech",
       "posted": "2026-11-07"
+    },
+    {
+      "id": "federal-reserve-minneapolis-ds-grad-intern-2027",
+      "company": "The Federal Reserve System",
+      "title": "Summer 2027 Graduate Internship - Data Science",
+      "location": "Minneapolis, MN",
+      "source": "Workday",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1",
+      "fit": "good",
+      "why": "Summer 2027 graduate-level data science internship, so your Columbia M.S. is exactly what it targets, and your XGBoost, GAM and LASSO modeling on large data lines up. It's in Minneapolis (not NYC) and I couldn't load the page to confirm details, so check the posting before applying.",
+      "found": "2026-11-15",
+      "posted": "2026-11-09",
+      "category": "finance"
     }
   ],
   "browse": [
@@ -2250,6 +2263,30 @@
       "fit": "good",
       "why": "Summer 2027, open to master's students, building ML for fraud detection and predictive maintenance. Your XGBoost and bridge-damage modeling match. Posting date unknown and it's onsite in California; the link is a Simplify page.",
       "found": "2026-11-14",
+      "category": "tech"
+    },
+    {
+      "id": "scale-ml-research-intern-ny-2027",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "location": "New York, NY / San Francisco, CA",
+      "source": "Company site",
+      "url": "https://www.indexventures.com/startup-jobs/scale/machine-learning-research-intern-summer-2027-4/",
+      "fit": "stretch",
+      "why": "Summer 2027 role open to MS students graduating Fall 2027, which fits your Dec 2027 date, and your LLM retrieval and few-shot work is relevant. It asks for prior research or publications on LLMs/evaluation, which is your gap.",
+      "found": "2026-11-15",
+      "category": "tech"
+    },
+    {
+      "id": "together-ai-research-intern-model-shaping-2027",
+      "company": "Together AI",
+      "title": "Research Intern, Model Shaping (Summer 2027)",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
+      "fit": "stretch",
+      "why": "Summer 2027 (May/June start) and open to master's students; your PyTorch, Hugging Face and DistilBERT fine-tuning apply to post-training work. It prefers research publications, which you don't have yet.",
+      "found": "2026-11-15",
       "category": "tech"
     }
   ]

@@ -1,75 +1,68 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks end mixed Friday, but all three indexes win the week",
-      "note": "On Nov. 13 the Dow rose 0.1% to about 52,348, while the S&P 500 fell 0.4% to about 7,562 and the Nasdaq 0.9% to about 25,136. For the week the S&P gained about 2.5%, the Nasdaq about 2.3% and the Dow about 2.1%, even with Nvidia and bond yields rattling Friday.",
+      "headline": "Wall Street is closed for the weekend after a mixed Friday and a strong week",
+      "note": "On Friday, Nov. 13, the Dow rose 0.1% to about 52,348, while the S&P 500 fell 0.4% to about 7,562 and the Nasdaq fell 0.9% to about 25,136. All three still gained for the week, with the S&P up about 2.5%. Trading resumes Monday.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia keeps sliding after Jensen Huang's exit; HSBC cuts it to Hold",
-      "note": "Nvidia fell again Friday after a drop of more than 4% Thursday, closing with a market value under $4 trillion. CFO Colette Kress is interim CEO and earnings are due Tuesday, Nov. 17, the first big test of the post-Huang company.",
-      "url": "https://briefs.co/news/nasdaq-dips-as-nvidia-slides-but-all-three-indexes-log-stron",
-      "source": "Briefs.co (citing CNBC)"
+      "headline": "Nvidia reports earnings Tuesday, days after CEO Jensen Huang resigned",
+      "note": "An SEC filing says the board accepted Huang's resignation on Nov. 11 and named CFO Colette Kress interim CEO while it searches for a permanent one. The filing gives no reason. The stock fell more than 4% Friday and was down roughly 12% on the week, so Tuesday's report is the first big test.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm",
+      "source": "SEC (Nvidia Form 8-K)"
     },
     {
       "tag": "Chips",
-      "headline": "AMD, Broadcom and Intel drop sharply, reversing Thursday's rally",
-      "note": "Reports put AMD down roughly 9–10%, Broadcom about 6% and Intel about 5% Friday. Yesterday these were seen as Nvidia share-gainers; today the whole chip group sold off, so leadership risk is spreading to the sector.",
+      "headline": "AMD, Broadcom and Intel also sold off Friday",
+      "note": "AMD fell about 9%, Broadcom about 6% and Intel about 5%, so the weakness spread beyond Nvidia to the broader chip group. Chips are the heart of AI infrastructure, so this matters for AI-related hiring and valuations.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO is expected to price the week of Nov. 16",
-      "note": "Per Renaissance Capital, it is offering 825 million shares at $70–$78 on Nasdaq (ticker ANT), about $61 billion, plus a $26 billion private placement from firms like Google, Microsoft and Nvidia. It's the largest AI-lab listing yet and a test of public appetite for AI.",
+      "headline": "Anthropic's IPO is expected to price this week, with trading on Nasdaq as ANT",
+      "note": "Renaissance Capital lists 825 million shares at $70–$78, about $61 billion, plus a $26 billion private placement from investors including Google, Microsoft, Nvidia and AMD. Pricing is expected the week of Nov. 16. It would be the largest AI-lab listing so far.",
       "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
       "source": "Renaissance Capital"
     },
     {
       "tag": "Economy",
-      "headline": "Producer prices run at 6.5% a year; 10-year yield hits 5.17%",
-      "note": "October producer prices rose 0.3% on the month, below the 0.4% expected, but the 12-month rate is the highest since November 2022. Traders expect a Fed rate hike next month, and the 10-year Treasury yield hit its highest since October, which pressures tech valuations.",
+      "headline": "Traders bet on a Fed rate hike in December as the 10-year yield tops 5%",
+      "note": "Producer prices rose 0.3% in October, below the 0.4% expected, but the 6.5% annual rate is the highest since November 2022. The 10-year Treasury yield hit 5.17%, its highest since October. The Fed meets Dec. 8–9; higher yields tend to weigh on tech stocks.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Economy",
+      "headline": "The Fed held rates last month with two members voting to hike",
+      "note": "A calendar summary says the FOMC kept the range at 3.75%–4.00% on Oct. 28 by a 10–2 vote, with the two dissenters favoring a hike. September CPI was 3.7% over 12 months. This is the background to the December rate-hike bets.",
+      "url": "https://news.ifyouspent.com/en/news/week-ahead-november-9-2026-cpi-earnings-congress",
+      "source": "IfYouSpent (week-ahead calendar)"
     },
     {
       "tag": "Markets",
-      "headline": "Bitcoin falls below $70,000 for the first time in nearly three months",
-      "note": "It is down more than 20% so far this year, a sign of weak appetite for risk assets as yields climb. Worth watching if you're curious about how markets react to rate-hike fears.",
+      "headline": "Bitcoin slips below $70,000 and the VIX briefly tops 20",
+      "note": "Bitcoin fell below $70,000 for the first time in nearly three months, and the VIX (a gauge of expected stock volatility) rose above 20 during Friday's session. Both point to nervous risk appetite as yields climb.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
-      "tag": "Jobs",
-      "headline": "Tech sector added about 7,200 jobs in October; postings up 18.5% from a year ago",
-      "note": "Per a summary of CompTIA's report, active tech postings reached 629,876 and AI skills dominate demand, but employers are hiring selectively. Specialized data/ML skills remain the in-demand ones for internship hunting.",
-      "url": "https://opendatascience.com/week-in-ai-careers-november-8-2026/",
-      "source": "Open Data Science (CompTIA data)"
-    },
-    {
       "tag": "AI",
-      "headline": "Anthropic signs its first news-licensing deal, with the Associated Press",
-      "note": "Reported by Adweek via an AI newsletter (I couldn't open the original): Claude surfaced AP's real-time, attributed election data during the midterms. It shows how AI labs are starting to pay for fresh data.",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
-      "source": "The Neuron"
-    },
-    {
-      "tag": "AI",
-      "headline": "OpenAI reportedly made about $10 billion in revenue in one quarter, still at a large loss",
-      "note": "Newsletter-reported and not independently confirmed by me. It frames the economics behind Anthropic's IPO: fast revenue growth paired with heavy compute spending.",
+      "headline": "Anthropic starts its IPO roadshow and adds Claude Meetings in beta",
+      "note": "A newsletter digest (not an original source, which I didn't open) says Anthropic began its roadshow and is rolling out Claude Meetings to Team and Enterprise users, starting with Google Meet. It shows AI labs pushing into everyday workplace tools.",
       "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
       "source": "The Neuron"
     }
   ],
   "learn": {
-    "n": 33,
-    "term": "Producer Price Index (PPI)",
-    "explain": "The PPI measures how much prices change for the businesses that make and sell goods and services, before the products reach shoppers. It is an early signal: if companies pay more to produce things, they may pass those costs on to consumers, which shows up later in the CPI. Economists watch it alongside CPI because the Fed targets inflation. This week October PPI rose 0.3% on the month, less than the 0.4% forecast, but it was up 6.5% over twelve months, the highest since November 2022. Because the monthly figure beat expectations but the yearly one is high, markets still expect a Fed rate hike.",
-    "try": "Look up the latest CPI and PPI releases on the Bureau of Labor Statistics site and compare their yearly rates."
+    "n": 34,
+    "term": "Bull vs. bear market",
+    "explain": "A bull market is a long stretch when stock prices are broadly rising, often defined loosely as an index climbing 20% or more from a low. A bear market is the opposite: prices fall 20% or more from a recent high, usually alongside gloomy sentiment. The names are just shorthand for the mood (bulls thrust horns up, bears swipe down). Real markets zigzag inside both. The week ended Nov. 6 saw the S&P 500 fall 2.7%, and the week after it gained about 2.5%, which is ordinary short-term noise rather than a new bull or bear market. A single bad week or day doesn't change which one you're in.",
+    "try": "Look up a chart of the S&P 500 over the last 10 years and mark the 20% drops from a peak to see where past bear markets happened."
   },
   "learned": [
     "Earnings season and EPS",
@@ -104,6 +97,7 @@
     "Treasury auctions",
     "Beating expectations (analyst consensus)",
     "Key-person risk",
-    "Producer Price Index (PPI)"
+    "Producer Price Index (PPI)",
+    "Bull vs. bear market"
   ]
 }

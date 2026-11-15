@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:19+00:00",
+ "generated": "2026-11-15T10:20+00:00",
  "jobs": [
   {
    "id": "w-442edf0b4449",
@@ -55,6 +55,28 @@
    "category": "tech",
    "posted": "2026-11-13",
    "found": "2026-11-14"
+  },
+  {
+   "id": "w-05a7863de200",
+   "company": "Camping World",
+   "title": "Data Engineering Intern",
+   "location": "Chicago, IL / Lincolnshire, IL",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-15"
+  },
+  {
+   "id": "w-dbe19b292f54",
+   "company": "Martin Marietta",
+   "title": "Data Scientist Intern",
+   "location": "Raleigh, NC",
+   "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-13",
+   "found": "2026-11-15"
   },
   {
    "id": "w-9eed8df257ff",
@@ -453,6 +475,17 @@
    "found": "2026-11-10"
   },
   {
+   "id": "w-63b83a8ece4f",
+   "company": "The Federal Reserve System",
+   "title": "Data Science Intern",
+   "location": "Minneapolis, MN",
+   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-09",
+   "found": "2026-11-10"
+  },
+  {
    "id": "w-92c534a456e8",
    "company": "Integration Innovation (i3)",
    "title": "Data Management Intern",
@@ -733,17 +766,6 @@
    "title": "Research Analytics & Insights Intern",
    "location": "Chicago, IL",
    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-06"
-  },
-  {
-   "id": "w-b6dcc8855c22",
-   "company": "JM Family",
-   "title": "Data Engineer Intern",
-   "location": "Deerfield Beach, FL",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-05",
@@ -1762,17 +1784,6 @@
    "found": "2026-10-20"
   },
   {
-   "id": "w-71547fa24e40",
-   "company": "Constellation Brands",
-   "title": "AI Enablement Intern",
-   "location": "Rochester, NY",
-   "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-8ebe0772f7d1",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral AI",
@@ -2024,17 +2035,6 @@
    "category": "tech",
    "posted": "2026-10-15",
    "found": "2026-10-16"
-  },
-  {
-   "id": "w-97c3d199ce16",
-   "company": "American University",
-   "title": "Data Quality Assistant Intern",
-   "location": "Washington, DC",
-   "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Quality-Assistant--Student-_R5103",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
   },
   {
    "id": "w-197a2cbcde2e",
@@ -2422,44 +2422,11 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-c3e2e064a99a",
-   "company": "The Federal Reserve System",
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-8dc822b8b5bf",
    "company": "Datacor",
    "title": "Data Science Intern - Summer 2027 - Program",
    "location": "Remote in USA",
    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-973ad497c93e",
-   "company": "CACI",
-   "title": "AI Prompt Engineer Intern",
-   "location": "Ashburn, VA",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-526cc5553835",
-   "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-01",
