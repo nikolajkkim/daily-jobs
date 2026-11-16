@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T15:51+00:00",
+ "generated": "2026-11-16T10:20+00:00",
  "jobs": [
   {
    "id": "w-442edf0b4449",
@@ -1245,17 +1245,6 @@
    "found": "2026-10-27"
   },
   {
-   "id": "w-0539aebfc0a3",
-   "company": "Dominion Energy",
-   "title": "Power Systems Time-Series Analytics Intern",
-   "location": "Glen Allen, VA",
-   "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-28"
-  },
-  {
    "id": "w-ba9451d7554f",
    "company": "Meta",
    "title": "Research Scientist Intern - Video Generation Self-Improvement",
@@ -1949,17 +1938,6 @@
    "found": "2026-10-17"
   },
   {
-   "id": "w-f5c1bdc77781",
-   "company": "CenturyLink",
-   "title": "Data Internship - Analytics & Decision Science",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-10-17"
-  },
-  {
    "id": "w-af13afa2a5f5",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
@@ -1980,28 +1958,6 @@
    "category": "tech",
    "posted": "2026-10-16",
    "found": "2026-10-17"
-  },
-  {
-   "id": "w-bdf1001e9423",
-   "company": "CenturyLink",
-   "title": "AI Product & Business Innovation Intern",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-11-11"
-  },
-  {
-   "id": "w-cce89e34860e",
-   "company": "CenturyLink",
-   "title": "AI & Automation Builders Internship",
-   "location": "Remote in USA",
-   "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-16",
-   "found": "2026-11-11"
   },
   {
    "id": "w-f989adfd819a",
@@ -2389,17 +2345,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-01362030b550",
-   "company": "General Motors",
-   "title": "Machine Learning Engineer Intern - AV/AI Platform",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-e2224987f418",
    "company": "Intuit",
    "title": "Finance Transformation & Analytics Intern",
@@ -2408,17 +2353,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-02",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8dc822b8b5bf",
-   "company": "Datacor",
-   "title": "Data Science Intern - Summer 2027 - Program",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-01",
    "found": "2026-10-13"
   }
  ]

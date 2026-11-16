@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "found": 1,
-    "note": "1 new role (posted Nov 9; few verifiable Summer 2027 fits, Zoox/Meta/ASML duplicates or PhD-only skipped) · 2 more to browse · no new reports · checked 5 oldest listings, none closed · Problem: Workday/Ashby pages wouldn't load for verification; Carlisle, Intermountain, Pika terms unconfirmed so left out"
+    "note": "1 new role (posted Nov 7; no new candidates today, top-up only) · 0 to browse · no new reports · Problem: Workday/Ashby/Epic/Greenhouse pages mostly wouldn't load; Cirrus Logic, ASM, Gallup, DatologyAI, PGA TOUR terms unconfirmed so left out; step B closed-listing checks skipped"
   },
   "jobs": [
     {
@@ -1706,6 +1706,19 @@
       "found": "2026-11-15",
       "posted": "2026-11-09",
       "category": "finance"
+    },
+    {
+      "id": "zoox-ai-workflows-safety-decision-making-intern-2027",
+      "company": "Zoox",
+      "title": "AI Workflows & Safety Decision Making Intern [Summer 2027]",
+      "location": "Foster City, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "fit": "good",
+      "why": "Summer 2027 internship open to master's students graduating Fall 2027–Summer 2028, which matches your Dec 2027 date. You'd build LLM agent workflows and test their reliability, which lines up with your LLaMA retrieval pipeline and few-shot prompting; the safety-ops focus is new to you.",
+      "found": "2026-11-16",
+      "posted": "2026-11-07",
+      "category": "tech"
     }
   ],
   "browse": [

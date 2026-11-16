@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Wall Street is closed for the weekend after a mixed Friday and a strong week",
-      "note": "On Friday, Nov. 13, the Dow rose 0.1% to about 52,348, while the S&P 500 fell 0.4% to about 7,562 and the Nasdaq fell 0.9% to about 25,136. All three still gained for the week, with the S&P up about 2.5%. Trading resumes Monday.",
+      "headline": "Stocks ended last week higher despite a Friday chip sell-off",
+      "note": "On Friday, Nov. 13, the Dow rose 0.1%, the S&P 500 fell 0.4% and the Nasdaq fell 0.9%. For the week the Dow gained about 2%, the S&P 500 about 2.5% and the Nasdaq more than 2%. Today's close wasn't available when this was written.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia reports earnings Tuesday, days after CEO Jensen Huang resigned",
-      "note": "An SEC filing says the board accepted Huang's resignation on Nov. 11 and named CFO Colette Kress interim CEO while it searches for a permanent one. The filing gives no reason. The stock fell more than 4% Friday and was down roughly 12% on the week, so Tuesday's report is the first big test.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm",
-      "source": "SEC (Nvidia Form 8-K)"
+      "headline": "Nvidia reports earnings Tuesday after CEO Jensen Huang's resignation",
+      "note": "An 8-K says the board accepted Huang's resignation on Nov. 11 and named CFO Colette Kress interim CEO; Harvey Jones is board chair. Options were pricing a move of about 10.6% either way, and consensus revenue is about $108.8 billion. Nvidia's results set the tone for AI hiring and valuations.",
+      "url": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
+      "source": "MarketPulse"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia's board is investigating allegations involving Huang",
+      "note": "MarketPulse, citing Reuters, says the board opened an independent probe over allegations about a relationship with a former executive at Singapore-based Megaspeed. No findings have been reported. The stock fell 4.3% on Nov. 9 and its market cap has dropped almost 30% from its October peak.",
+      "url": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
+      "source": "MarketPulse"
     },
     {
       "tag": "Chips",
       "headline": "AMD, Broadcom and Intel also sold off Friday",
-      "note": "AMD fell about 9%, Broadcom about 6% and Intel about 5%, so the weakness spread beyond Nvidia to the broader chip group. Chips are the heart of AI infrastructure, so this matters for AI-related hiring and valuations.",
+      "note": "In live updates AMD fell roughly 9%, Broadcom about 6% and Intel about 5%, so the weakness spread across AI chip stocks.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO is expected to price this week, with trading on Nasdaq as ANT",
-      "note": "Renaissance Capital lists 825 million shares at $70–$78, about $61 billion, plus a $26 billion private placement from investors including Google, Microsoft, Nvidia and AMD. Pricing is expected the week of Nov. 16. It would be the largest AI-lab listing so far.",
-      "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
-      "source": "Renaissance Capital"
+      "headline": "Anthropic's IPO roadshow is underway at $70–$78 a share",
+      "note": "Anthropic is offering about 825 million shares on Nasdaq under ANT, plus a $26 billion private placement from AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners. The pricing date isn't in the filing details I read; reports point to later this week.",
+      "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+      "source": "RTTNews"
     },
     {
       "tag": "Economy",
-      "headline": "Traders bet on a Fed rate hike in December as the 10-year yield tops 5%",
-      "note": "Producer prices rose 0.3% in October, below the 0.4% expected, but the 6.5% annual rate is the highest since November 2022. The 10-year Treasury yield hit 5.17%, its highest since October. The Fed meets Dec. 8–9; higher yields tend to weigh on tech stocks.",
+      "headline": "Hot producer prices keep Fed rate-hike pressure on",
+      "note": "October producer prices rose 0.3%, below the 0.4% expected, but the 6.5% annual rate is the highest since November 2022. The 10-year Treasury yield hit 5.17%, its highest since October, after a bond sell-off driven by oil. Higher yields tend to weigh on tech stocks.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
-    },
-    {
-      "tag": "Economy",
-      "headline": "The Fed held rates last month with two members voting to hike",
-      "note": "A calendar summary says the FOMC kept the range at 3.75%–4.00% on Oct. 28 by a 10–2 vote, with the two dissenters favoring a hike. September CPI was 3.7% over 12 months. This is the background to the December rate-hike bets.",
-      "url": "https://news.ifyouspent.com/en/news/week-ahead-november-9-2026-cpi-earnings-congress",
-      "source": "IfYouSpent (week-ahead calendar)"
     },
     {
       "tag": "Markets",
-      "headline": "Bitcoin slips below $70,000 and the VIX briefly tops 20",
-      "note": "Bitcoin fell below $70,000 for the first time in nearly three months, and the VIX (a gauge of expected stock volatility) rose above 20 during Friday's session. Both point to nervous risk appetite as yields climb.",
+      "headline": "Volatility is creeping up: VIX above 20 and Bitcoin under $70,000",
+      "note": "The VIX climbed above 20 in morning trading Friday and Bitcoin fell below $70,000 for the first time in nearly three months, both signs of investors getting more cautious.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source": "Yahoo Finance"
     },
     {
-      "tag": "AI",
-      "headline": "Anthropic starts its IPO roadshow and adds Claude Meetings in beta",
-      "note": "A newsletter digest (not an original source, which I didn't open) says Anthropic began its roadshow and is rolling out Claude Meetings to Team and Enterprise users, starting with Google Meet. It shows AI labs pushing into everyday workplace tools.",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
-      "source": "The Neuron"
+      "tag": "Jobs",
+      "headline": "Data science demand holds up even as tech layoffs continue",
+      "note": "Toptal's Q3 2026 report shows two straight quarterly declines in tech layoffs, and its data science index rose 3% year over year though it fell 10% from the prior quarter. Worth knowing as you plan 2027 internship applications.",
+      "url": "https://www.toptal.com/research-and-analysis/market-report-q3-2026",
+      "source": "Toptal"
     }
   ],
   "learn": {
-    "n": 34,
-    "term": "Bull vs. bear market",
-    "explain": "A bull market is a long stretch when stock prices are broadly rising, often defined loosely as an index climbing 20% or more from a low. A bear market is the opposite: prices fall 20% or more from a recent high, usually alongside gloomy sentiment. The names are just shorthand for the mood (bulls thrust horns up, bears swipe down). Real markets zigzag inside both. The week ended Nov. 6 saw the S&P 500 fall 2.7%, and the week after it gained about 2.5%, which is ordinary short-term noise rather than a new bull or bear market. A single bad week or day doesn't change which one you're in.",
-    "try": "Look up a chart of the S&P 500 over the last 10 years and mark the 20% drops from a peak to see where past bear markets happened."
+    "n": 35,
+    "term": "Implied move (what options say about earnings)",
+    "explain": "Before a big report, traders buy and sell options, and the prices of those options reveal how large a stock swing the market expects. That expected swing is called the implied move. For Nvidia's report, options were pricing roughly a 10.6% move up or down, versus a 10-year average near 7.8%. It says nothing about direction, only size, so a smaller actual move can still disappoint people who expected more. A high implied move means investors see unusual uncertainty, here the CEO change and board probe.",
+    "try": "Search for Nvidia's actual stock move on Wednesday and compare it with the roughly 10.6% the options implied."
   },
   "learned": [
     "Earnings season and EPS",
@@ -98,6 +98,7 @@
     "Beating expectations (analyst consensus)",
     "Key-person risk",
     "Producer Price Index (PPI)",
-    "Bull vs. bear market"
+    "Bull vs. bear market",
+    "Implied move (what options say about earnings)"
   ]
 }
