@@ -1,68 +1,61 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks ended last week higher despite a Friday chip sell-off",
-      "note": "On Friday, Nov. 13, the Dow rose 0.1%, the S&P 500 fell 0.4% and the Nasdaq fell 0.9%. For the week the Dow gained about 2%, the S&P 500 about 2.5% and the Nasdaq more than 2%. Today's close wasn't available when this was written.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
-      "source": "Yahoo Finance"
+      "headline": "Stocks fell Monday as investors braced for Nvidia's earnings",
+      "note": "All three major indexes closed lower on Nov. 16, with the Nasdaq falling the most and the Dow the least. Reports put the Nasdaq's drop between roughly 1.7% and 2.5%, so I'm not quoting an exact figure. Selling centered on AI-linked stocks.",
+      "url": "https://seekingalpha.com/news/4673263-u-s-equites-conclude-in-the-red-ahead-of-nvidia-earnings",
+      "source": "Seeking Alpha"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia reports earnings Tuesday after CEO Jensen Huang's resignation",
-      "note": "An 8-K says the board accepted Huang's resignation on Nov. 11 and named CFO Colette Kress interim CEO; Harvey Jones is board chair. Options were pricing a move of about 10.6% either way, and consensus revenue is about $108.8 billion. Nvidia's results set the tone for AI hiring and valuations.",
-      "url": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
-      "source": "MarketPulse"
+      "headline": "Nvidia reports earnings today after the close",
+      "note": "Analysts expect about $109 billion in revenue and adjusted EPS near $2.47, with gross margin guided to 74%. It's the first report since Jensen Huang's exit, and the stock is about 30% below its record high. Nvidia's results set the tone for AI spending and hiring.",
+      "url": "https://www.forex.com/en/news-and-analysis/nvidia-earnings-preview-nvda-s-first-test-of-the-post-jenson-huang-era/",
+      "source": "Forex.com"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia's board is investigating allegations involving Huang",
-      "note": "MarketPulse, citing Reuters, says the board opened an independent probe over allegations about a relationship with a former executive at Singapore-based Megaspeed. No findings have been reported. The stock fell 4.3% on Nov. 9 and its market cap has dropped almost 30% from its October peak.",
-      "url": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
-      "source": "MarketPulse"
-    },
-    {
-      "tag": "Chips",
-      "headline": "AMD, Broadcom and Intel also sold off Friday",
-      "note": "In live updates AMD fell roughly 9%, Broadcom about 6% and Intel about 5%, so the weakness spread across AI chip stocks.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
-      "source": "Yahoo Finance"
+      "headline": "CFO Colette Kress is interim CEO while Nvidia searches for a successor",
+      "note": "Kress, CFO since 2013, is running the company temporarily after Huang resigned. Watch what she says on today's call about the Vera Rubin ramp and China demand.",
+      "url": "https://pepperstone.com/en/insights/market-analysis/equities/nvidia-earnings-preview-jensen-huang-s-exit-and-margin-pressure-raise-caution",
+      "source": "Pepperstone"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO roadshow is underway at $70–$78 a share",
-      "note": "Anthropic is offering about 825 million shares on Nasdaq under ANT, plus a $26 billion private placement from AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners. The pricing date isn't in the filing details I read; reports point to later this week.",
-      "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
-      "source": "RTTNews"
+      "headline": "Anthropic's IPO is expected to price Wednesday and trade Thursday",
+      "note": "The expected timeline is pricing on Nov. 18 and Nasdaq trading as ANT on Nov. 19, subject to regulatory clearance and market conditions. The range is $70–$78 a share for about 825 million shares.",
+      "url": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/",
+      "source": "FourWeekMBA"
+    },
+    {
+      "tag": "AI",
+      "headline": "The Anthropic offering could raise up to $64.4 billion",
+      "note": "Reports say the deal could raise up to $64.4 billion, with the range midpoint implying a valuation near $1 trillion. That would make it one of the largest IPOs ever, and a big test of public appetite for AI companies.",
+      "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+      "source": "The Next Web"
     },
     {
       "tag": "Economy",
-      "headline": "Hot producer prices keep Fed rate-hike pressure on",
-      "note": "October producer prices rose 0.3%, below the 0.4% expected, but the 6.5% annual rate is the highest since November 2022. The 10-year Treasury yield hit 5.17%, its highest since October, after a bond sell-off driven by oil. Higher yields tend to weigh on tech stocks.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
-      "source": "Yahoo Finance"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Volatility is creeping up: VIX above 20 and Bitcoin under $70,000",
-      "note": "The VIX climbed above 20 in morning trading Friday and Bitcoin fell below $70,000 for the first time in nearly three months, both signs of investors getting more cautious.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
-      "source": "Yahoo Finance"
+      "headline": "Hot inflation data has pushed Treasury yields up and kept Fed hike talk alive",
+      "note": "Treasury futures pointed to higher yields after hot October inflation. As of late October, markets saw a December quarter-point hike as likely, though odds move with each data release. Higher yields tend to pressure tech valuations.",
+      "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/593858",
+      "source": "Trading Economics"
     },
     {
       "tag": "Jobs",
-      "headline": "Data science demand holds up even as tech layoffs continue",
-      "note": "Toptal's Q3 2026 report shows two straight quarterly declines in tech layoffs, and its data science index rose 3% year over year though it fell 10% from the prior quarter. Worth knowing as you plan 2027 internship applications.",
-      "url": "https://www.toptal.com/research-and-analysis/market-report-q3-2026",
-      "source": "Toptal"
+      "headline": "Tech layoffs keep rising in 2026, but data and AI skills stay in demand",
+      "note": "Trackers count well over 140,000 to 200,000+ tech job cuts this year, with new cuts at Canva, Squarespace and Block. Analyses say specialized data roles hold up better than junior or generalist ones, so build concrete project experience for 2027 internships.",
+      "url": "https://beinsure.com/news/tech-layoffs-2026-more-than-200k-jobs-cut-amid-ai-investment/",
+      "source": "Beinsure"
     }
   ],
   "learn": {
-    "n": 35,
-    "term": "Implied move (what options say about earnings)",
-    "explain": "Before a big report, traders buy and sell options, and the prices of those options reveal how large a stock swing the market expects. That expected swing is called the implied move. For Nvidia's report, options were pricing roughly a 10.6% move up or down, versus a 10-year average near 7.8%. It says nothing about direction, only size, so a smaller actual move can still disappoint people who expected more. A high implied move means investors see unusual uncertainty, here the CEO change and board probe.",
-    "try": "Search for Nvidia's actual stock move on Wednesday and compare it with the roughly 10.6% the options implied."
+    "n": 36,
+    "term": "Lock-up period",
+    "explain": "After a company goes public, early investors and employees usually can't sell their shares right away. This waiting period, often around 90 to 180 days, is called the lock-up. It exists so a flood of insiders selling doesn't crash the price just as outside investors are buying in. When a lock-up ends, a lot of new shares can hit the market, and the stock sometimes dips. Anthropic's expected IPO this week will have one, so insiders holding shares won't be able to sell right away.",
+    "try": "Look up when the lock-up ends for a recent big IPO and see how the stock behaved around that date."
   },
   "learned": [
     "Earnings season and EPS",
@@ -99,6 +92,7 @@
     "Key-person risk",
     "Producer Price Index (PPI)",
     "Bull vs. bear market",
-    "Implied move (what options say about earnings)"
+    "Implied move (what options say about earnings)",
+    "Lock-up period"
   ]
 }

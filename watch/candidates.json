@@ -1,7 +1,43 @@
 {
- "generated": "2026-11-16T18:53+00:00",
+ "generated": "2026-11-17T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "AI Systems Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+   "posted": "2026-11-17",
+   "company": "Birdseye Security Solutions",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "title": "Computer Vision Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+   "posted": "2026-11-17",
+   "company": "Birdseye Security Solutions",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
   {
    "title": "AI Acceleration Intern",
    "location": "Marlborough, MA",
@@ -18,7 +54,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "title": "AI Engineer Intern - Generative & Agentic AI",
@@ -36,7 +72,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "title": "Data Intern",
@@ -51,7 +87,75 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
+  },
+  {
+   "title": "Research Scientist Intern - Intelligent Camera Systems",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/971210335715482",
+   "posted": "2026-11-16",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "title": "Research Scientist Intern - Perception - Displays and Graphics",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1500136678656794",
+   "posted": "2026-11-16",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "title": "AI Inference & Training Framework Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+   "posted": "2026-11-16",
+   "company": "NeuroSpark",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "title": "AI Hardware Optimization Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+   "posted": "2026-11-16",
+   "company": "NeuroSpark",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
   }
  ]
 }

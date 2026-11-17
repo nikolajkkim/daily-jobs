@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-16T18:53+00:00",
+ "generated": "2026-11-17T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-9b10dd8973f8",
+   "company": "Birdseye Security Solutions",
+   "title": "AI Systems Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-17"
+  },
+  {
+   "id": "w-218c30c3ebf2",
+   "company": "Birdseye Security Solutions",
+   "title": "Computer Vision Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-17"
+  },
   {
    "id": "w-d56cb953497d",
    "company": "Boston Scientific",
@@ -33,6 +55,50 @@
    "category": "tech",
    "posted": "2026-11-16",
    "found": "2026-11-16"
+  },
+  {
+   "id": "w-29779161b620",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Intelligent Camera Systems",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/971210335715482",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-17"
+  },
+  {
+   "id": "w-58e6c3e6cd2f",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Perception - Displays and Graphics",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1500136678656794",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-17"
+  },
+  {
+   "id": "w-952baccb4b85",
+   "company": "NeuroSpark",
+   "title": "AI Inference & Training Framework Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-17"
+  },
+  {
+   "id": "w-9f822874272a",
+   "company": "NeuroSpark",
+   "title": "AI Hardware Optimization Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-17"
   },
   {
    "id": "w-442edf0b4449",
@@ -233,6 +299,17 @@
    "found": "2026-11-13"
   },
   {
+   "id": "w-4e56ecdf51ed",
+   "company": "Lightmatter",
+   "title": "Data & AI Platform Intern",
+   "location": "Boston, MA",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-12",
+   "found": "2026-11-17"
+  },
+  {
    "id": "w-2c436a24a488",
    "company": "Riot Games",
    "title": "Data Engineer Intern",
@@ -337,17 +414,6 @@
    "title": "Applied AI Engineer Intern - Creative Experiences",
    "location": "Palo Alto, CA",
    "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-10",
-   "found": "2026-11-10"
-  },
-  {
-   "id": "w-27ea6bdc9567",
-   "company": "NVIDIA",
-   "title": "AI Operations Intern - AI Clouds",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-10",
@@ -475,17 +541,6 @@
    "found": "2026-11-09"
   },
   {
-   "id": "w-dd0f45b6597b",
-   "company": "Atrium Hospitality",
-   "title": "AI & Automation Intern",
-   "location": "Alpharetta, GA",
-   "url": "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-09",
-   "found": "2026-11-09"
-  },
-  {
    "id": "w-67d34221f49c",
    "company": "Biodesix",
    "title": "Data Analytics & Business Intelligence Intern",
@@ -579,17 +634,6 @@
    "title": "Data Scientist Intern",
    "location": "Boston, MA / Foster City, CA",
    "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-07",
-   "found": "2026-11-07"
-  },
-  {
-   "id": "w-879b9e37407d",
-   "company": "Zoox",
-   "title": "AI Workflows & Safety Decision Making Intern",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-07",
@@ -959,6 +1003,17 @@
    "found": "2026-11-04"
   },
   {
+   "id": "w-8916121b257c",
+   "company": "Terranova",
+   "title": "AI Intern",
+   "location": "Berkeley, CA",
+   "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-03",
+   "found": "2026-11-17"
+  },
+  {
    "id": "w-4514391f914d",
    "company": "Entrust",
    "title": "AI Developer Intern",
@@ -997,17 +1052,6 @@
    "title": "Research Scientist Intern - Robotic Control Policy",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1872420890835857",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-02",
-   "found": "2026-11-03"
-  },
-  {
-   "id": "w-cf3180baea29",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1143164681833409",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-02",
@@ -1234,17 +1278,6 @@
    "found": "2026-10-29"
   },
   {
-   "id": "w-41680b38aa06",
-   "company": "University Corporation for Atmospheric Research",
-   "title": "Data Science Student Assistant 3 Intern",
-   "location": "Boulder, CO",
-   "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-11-04"
-  },
-  {
    "id": "w-8901d9d89b60",
    "company": "Meta",
    "title": "Research Scientist Intern - Search",
@@ -1375,17 +1408,6 @@
    "category": "tech",
    "posted": "2026-10-27",
    "found": "2026-10-28"
-  },
-  {
-   "id": "w-84b722886f89",
-   "company": "Trinity Life Sciences",
-   "title": "Data Science Intern",
-   "location": "Waltham, MA / NYC",
-   "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-11-12"
   },
   {
    "id": "w-275bc59cddcd",
@@ -2375,17 +2397,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e2224987f418",
-   "company": "Intuit",
-   "title": "Finance Transformation & Analytics Intern",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-02",
    "found": "2026-10-13"
   }
  ]

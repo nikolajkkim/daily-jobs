@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-16",
-    "found": 1,
-    "note": "1 new role (posted Nov 7; no new candidates today, top-up only) · 0 to browse · no new reports · Problem: Workday/Ashby/Epic/Greenhouse pages mostly wouldn't load; Cirrus Logic, ASM, Gallup, DatologyAI, PGA TOUR terms unconfirmed so left out; step B closed-listing checks skipped"
+    "date": "2026-11-17",
+    "found": 3,
+    "note": "3 picks (1 new Nov 16 pair from Boston Scientific + Lightmatter posted Nov 12; fewer than 5 because few candidates were confirmable) · 0 to browse · no new reports · Problem: Workday/Eightfold/BambooHR/Workable/Meta pages wouldn't load, so Boston Scientific terms rest on Simplify; Shopify Data Intern skipped (bars full-time students); step B closed-listing checks skipped"
   },
   "jobs": [
     {
@@ -1718,6 +1718,45 @@
       "why": "Summer 2027 internship open to master's students graduating Fall 2027–Summer 2028, which matches your Dec 2027 date. You'd build LLM agent workflows and test their reliability, which lines up with your LLaMA retrieval pipeline and few-shot prompting; the safety-ops focus is new to you.",
       "found": "2026-11-16",
       "posted": "2026-11-07",
+      "category": "tech"
+    },
+    {
+      "id": "lightmatter-data-ai-platform-intern-2027",
+      "company": "Lightmatter",
+      "title": "Data & AI Platform Intern",
+      "location": "Boston, MA (hybrid)",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/lightmatter/jobs/5474807008",
+      "fit": "good",
+      "why": "Summer 2027 internship that requires current master's enrollment in Data Science, so your Columbia program fits directly. It leans data platforms and building AI tools; your SQL/Python, DuckDB and LLM retrieval pipeline apply, but it's more data engineering than modeling and asks for Snowflake-style experience you don't list.",
+      "found": "2026-11-17",
+      "posted": "2026-11-12",
+      "category": "tech"
+    },
+    {
+      "id": "boston-scientific-ai-engineer-intern-genai-agentic-2027",
+      "company": "Boston Scientific",
+      "title": "AI Engineer Intern - Generative & Agentic AI",
+      "location": "Marlborough, MA / Maple Grove, MN / Arden Hills, MN",
+      "source": "Simplify",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students per Simplify. Your LLaMA 3.2 retrieval pipeline and few-shot prompting line up with generative/agentic AI work; I couldn't load the posting page, so check the details when you apply. Not NYC/California.",
+      "found": "2026-11-17",
+      "posted": "2026-11-16",
+      "category": "tech"
+    },
+    {
+      "id": "boston-scientific-ai-acceleration-intern-2027",
+      "company": "Boston Scientific",
+      "title": "AI Acceleration Intern",
+      "location": "Marlborough, MA",
+      "source": "Simplify",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+      "fit": "stretch",
+      "why": "Summer 2027, open to master's students per Simplify. Your PyTorch and applied ML work are relevant, but the title suggests an AI-acceleration/systems focus you haven't shown; I couldn't load the page, so check details before applying.",
+      "found": "2026-11-17",
+      "posted": "2026-11-16",
       "category": "tech"
     }
   ],
