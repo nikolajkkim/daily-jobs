@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T10:20+00:00",
+ "generated": "2026-11-17T17:52+00:00",
  "jobs": [
   {
    "id": "w-9b10dd8973f8",
@@ -24,26 +24,15 @@
    "found": "2026-11-17"
   },
   {
-   "id": "w-d56cb953497d",
-   "company": "Boston Scientific",
-   "title": "AI Acceleration Intern",
-   "location": "Marlborough, MA",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+   "id": "w-67b04dde1eb0",
+   "company": "Robert Bosch Venture Capital",
+   "title": "AI Application Intern",
+   "location": "Farmington Hills, MI",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-16",
-   "found": "2026-11-16"
-  },
-  {
-   "id": "w-96603cc35587",
-   "company": "Boston Scientific",
-   "title": "AI Engineer Intern - Generative & Agentic AI",
-   "location": "Marlborough, MA / Maple Grove, MN / Arden Hills, MN",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-16",
-   "found": "2026-11-16"
+   "posted": "2026-11-17",
+   "found": "2026-11-17"
   },
   {
    "id": "w-d1c3878dcc00",
@@ -297,17 +286,6 @@
    "category": "tech",
    "posted": "2026-11-12",
    "found": "2026-11-13"
-  },
-  {
-   "id": "w-4e56ecdf51ed",
-   "company": "Lightmatter",
-   "title": "Data & AI Platform Intern",
-   "location": "Boston, MA",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-12",
-   "found": "2026-11-17"
   },
   {
    "id": "w-2c436a24a488",
