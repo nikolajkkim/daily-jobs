@@ -1,17 +1,6 @@
 {
- "generated": "2026-11-18T10:20+00:00",
+ "generated": "2026-11-18T17:31+00:00",
  "jobs": [
-  {
-   "id": "w-2213118af12b",
-   "company": "Anduril",
-   "title": "2027 Machine Learning Engineer Intern",
-   "location": "Santa Ana, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
-   "source": "Greenhouse",
-   "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-18"
-  },
   {
    "id": "w-9b10dd8973f8",
    "company": "Birdseye Security Solutions",
@@ -57,33 +46,11 @@
    "found": "2026-11-18"
   },
   {
-   "id": "w-73b96518d8eb",
-   "company": "SAS",
-   "title": "IoT Analytics Intern",
-   "location": "Cary, NC",
-   "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-18"
-  },
-  {
    "id": "w-5ce2a44fa1fb",
    "company": "Starwood Capital Group",
    "title": "Data Intern",
    "location": "NYC",
    "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-18"
-  },
-  {
-   "id": "w-7f038a553e63",
-   "company": "Paccar",
-   "title": "Data Scientist Intern",
-   "location": "Denton, TX",
-   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-17",
