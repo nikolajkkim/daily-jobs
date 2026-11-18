@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-17T17:52+00:00",
+ "generated": "2026-11-18T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-2213118af12b",
+   "company": "Anduril",
+   "title": "2027 Machine Learning Engineer Intern",
+   "location": "Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+   "source": "Greenhouse",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
   {
    "id": "w-9b10dd8973f8",
    "company": "Birdseye Security Solutions",
@@ -33,6 +44,72 @@
    "category": "tech",
    "posted": "2026-11-17",
    "found": "2026-11-17"
+  },
+  {
+   "id": "w-a46bfbb14019",
+   "company": "Anduril",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Santa Ana, CA",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
+  {
+   "id": "w-73b96518d8eb",
+   "company": "SAS",
+   "title": "IoT Analytics Intern",
+   "location": "Cary, NC",
+   "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
+  {
+   "id": "w-5ce2a44fa1fb",
+   "company": "Starwood Capital Group",
+   "title": "Data Intern",
+   "location": "NYC",
+   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
+  {
+   "id": "w-7f038a553e63",
+   "company": "Paccar",
+   "title": "Data Scientist Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
+  {
+   "id": "w-131ca41e977b",
+   "company": "Bissell",
+   "title": "AI & Automation Intern",
+   "location": "Grand Rapids, MI",
+   "url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
+  },
+  {
+   "id": "w-f1537c46244b",
+   "company": "Texas Instruments",
+   "title": "Analog IC Design Engineer Intern - AI/ML",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-18"
   },
   {
    "id": "w-d1c3878dcc00",
@@ -838,17 +915,6 @@
    "found": "2026-11-06"
   },
   {
-   "id": "w-d7cfab37740f",
-   "company": "Maxinsights",
-   "title": "Data Operations Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-13"
-  },
-  {
    "id": "w-dca91bbe777d",
    "company": "Palantir",
    "title": "Software Engineer, Internship - Data Connectors",
@@ -869,17 +935,6 @@
    "category": "tech",
    "posted": "2026-11-04",
    "found": "2026-11-04"
-  },
-  {
-   "id": "w-90c45e925231",
-   "company": "ASML",
-   "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
-   "location": "San Diego, CA",
-   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-05"
   },
   {
    "id": "w-18bcda33406a",
@@ -1795,17 +1850,6 @@
    "found": "2026-10-20"
   },
   {
-   "id": "w-8ebe0772f7d1",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Multimodal Behavioral AI",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1428978125312655",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
    "id": "w-4eccf937ec24",
    "company": "K1",
    "title": "AI Intern",
@@ -1844,17 +1888,6 @@
    "title": "Product Analyst Intern - AI & Incubation",
    "location": "San Diego, CA",
    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-21"
-  },
-  {
-   "id": "w-1265c3d665b9",
-   "company": "Micron Technology",
-   "title": "Machine Learning Engineering Intern",
-   "location": "Richardson, TX",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-20",
@@ -2037,33 +2070,11 @@
    "found": "2026-10-14"
   },
   {
-   "id": "w-abb4a61b6dce",
-   "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Engineer Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59702",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
    "id": "w-90b6d3faf15b",
    "company": "DriveTime",
    "title": "Data Analytics Intern",
    "location": "Dallas, TX / Tempe, AZ",
    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-fce494ce6488",
-   "company": "Boston Consulting Group",
-   "title": "Forward Deployed AI Scientist Intern",
-   "location": "Boston, MA / Chicago, IL / NYC",
-   "url": "https://careers.bcg.com/global/en/job/59703",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-13",

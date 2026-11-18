@@ -1,7 +1,18 @@
 {
- "generated": "2026-11-17T17:52+00:00",
+ "generated": "2026-11-18T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "2027 Machine Learning Engineer Intern",
+   "location": "Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+   "posted": "2026-11-17",
+   "company": "Anduril",
+   "category": "tech",
+   "ats": "greenhouse",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
   {
    "title": "AI Systems Intern",
    "location": "Dallas, TX",
@@ -18,7 +29,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "Computer Vision Intern",
@@ -36,7 +47,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "AI Application Intern",
@@ -55,7 +66,108 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "location": "Santa Ana, CA",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
+   "posted": "2026-11-17",
+   "company": "Anduril",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "IoT Analytics Intern",
+   "location": "Cary, NC",
+   "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+   "posted": "2026-11-17",
+   "company": "SAS",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "Data Intern",
+   "location": "NYC",
+   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
+   "posted": "2026-11-17",
+   "company": "Starwood Capital Group",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
+   "posted": "2026-11-17",
+   "company": "Paccar",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "AI & Automation Intern",
+   "location": "Grand Rapids, MI",
+   "url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
+   "posted": "2026-11-17",
+   "company": "Bissell",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "title": "Analog IC Design Engineer Intern - AI/ML",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
+   "posted": "2026-11-17",
+   "company": "Texas Instruments",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
   },
   {
    "title": "Data Intern",
@@ -70,7 +182,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "Research Scientist Intern - Intelligent Camera Systems",
@@ -85,7 +197,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "Research Scientist Intern - Perception - Displays and Graphics",
@@ -100,7 +212,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "AI Inference & Training Framework Engineer Intern",
@@ -119,7 +231,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   },
   {
    "title": "AI Hardware Optimization Engineer Intern",
@@ -138,7 +250,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-18"
   }
  ]
 }

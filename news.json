@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks fell Monday as investors braced for Nvidia's earnings",
-      "note": "All three major indexes closed lower on Nov. 16, with the Nasdaq falling the most and the Dow the least. Reports put the Nasdaq's drop between roughly 1.7% and 2.5%, so I'm not quoting an exact figure. Selling centered on AI-linked stocks.",
-      "url": "https://seekingalpha.com/news/4673263-u-s-equites-conclude-in-the-red-ahead-of-nvidia-earnings",
-      "source": "Seeking Alpha"
+      "headline": "Stocks fell again Tuesday; S&P 500 and Nasdaq notch a fourth straight loss",
+      "note": "On Nov. 17 the S&P 500 fell 1.03% to 7,340.53, the Dow fell 1.64% to 50,759.42 and the Nasdaq fell 0.74% to 24,328.38. Worries about AI chip demand and AI disrupting software weighed on tech, and all 11 sectors ended lower.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+      "source": "Motley Fool"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia reports earnings today after the close",
-      "note": "Analysts expect about $109 billion in revenue and adjusted EPS near $2.47, with gross margin guided to 74%. It's the first report since Jensen Huang's exit, and the stock is about 30% below its record high. Nvidia's results set the tone for AI spending and hiring.",
-      "url": "https://www.forex.com/en/news-and-analysis/nvidia-earnings-preview-nvda-s-first-test-of-the-post-jenson-huang-era/",
-      "source": "Forex.com"
-    },
-    {
-      "tag": "Chips",
-      "headline": "CFO Colette Kress is interim CEO while Nvidia searches for a successor",
-      "note": "Kress, CFO since 2013, is running the company temporarily after Huang resigned. Watch what she says on today's call about the Vera Rubin ramp and China demand.",
-      "url": "https://pepperstone.com/en/insights/market-analysis/equities/nvidia-earnings-preview-jensen-huang-s-exit-and-margin-pressure-raise-caution",
-      "source": "Pepperstone"
+      "headline": "Nvidia beats analyst estimates in its first report since Jensen Huang's exit",
+      "note": "Shares rose as much as 3% in after-hours trading, easing some worries about AI infrastructure demand. I couldn't confirm the exact revenue and guidance figures, so check Nvidia's release. Its results set the tone for AI spending and hiring.",
+      "url": "https://www.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-results-focus-turns-to-anthropic-debut-ce785edcdc81fe2d",
+      "source": "MarketScreener"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO is expected to price Wednesday and trade Thursday",
-      "note": "The expected timeline is pricing on Nov. 18 and Nasdaq trading as ANT on Nov. 19, subject to regulatory clearance and market conditions. The range is $70–$78 a share for about 825 million shares.",
-      "url": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/",
-      "source": "FourWeekMBA"
+      "headline": "Anthropic likely to price its IPO above the $70–$78 range",
+      "note": "CNBC's sources say the order book closed at 4 p.m. ET Tuesday, with trading as ANT on Nasdaq slated for Nov. 19. Pricing hadn't been confirmed when I checked. It's a big test of public appetite for AI labs.",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "source": "CNBC"
     },
     {
       "tag": "AI",
-      "headline": "The Anthropic offering could raise up to $64.4 billion",
-      "note": "Reports say the deal could raise up to $64.4 billion, with the range midpoint implying a valuation near $1 trillion. That would make it one of the largest IPOs ever, and a big test of public appetite for AI companies.",
-      "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
-      "source": "The Next Web"
+      "headline": "Anthropic's filing shows huge growth alongside a large paper loss",
+      "note": "For the nine months to Sept. 30 it reported $33.24 billion in revenue, up roughly 1,200% from a year earlier, and a $104 billion net loss that the company attributes mostly to fair-value changes on convertible notes and derivatives. Worth reading as a case study in how to read an S-1.",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "source": "CNBC"
     },
     {
-      "tag": "Economy",
-      "headline": "Hot inflation data has pushed Treasury yields up and kept Fed hike talk alive",
-      "note": "Treasury futures pointed to higher yields after hot October inflation. As of late October, markets saw a December quarter-point hike as likely, though odds move with each data release. Higher yields tend to pressure tech valuations.",
-      "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/593858",
-      "source": "Trading Economics"
+      "tag": "Tech",
+      "headline": "Salesforce drops 9.45% as AI-replacement fears hit software stocks",
+      "note": "Security concerns and fears that AI could replace software products drove the drop, and software and services were among Tuesday's weakest groups. It shows how fast investors reprice companies when AI changes the outlook.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+      "source": "Motley Fool"
+    },
+    {
+      "tag": "Markets",
+      "headline": "New U.S. limits on foreign access to advanced AI chips remain a worry for investors",
+      "note": "Investors are still weighing the new restrictions, along with a run of tech outages that hit airlines and banks. Chip export policy can move AI stocks and affects where AI compute gets built.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+      "source": "Motley Fool"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs keep rising in 2026, but data and AI skills stay in demand",
-      "note": "Trackers count well over 140,000 to 200,000+ tech job cuts this year, with new cuts at Canva, Squarespace and Block. Analyses say specialized data roles hold up better than junior or generalist ones, so build concrete project experience for 2027 internships.",
-      "url": "https://beinsure.com/news/tech-layoffs-2026-more-than-200k-jobs-cut-amid-ai-investment/",
-      "source": "Beinsure"
+      "headline": "Tech layoffs keep climbing, but data roles are holding up better",
+      "note": "Trackers put 2026 tech cuts at well over 140,000, with totals varying by method. Indeed's data and analytics postings index was above its level a year earlier while overall tech postings are far below their peak. Build concrete projects with statistics and ML for 2027 internships.",
+      "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
+      "source": "Interview Query"
     }
   ],
   "learn": {
-    "n": 36,
-    "term": "Lock-up period",
-    "explain": "After a company goes public, early investors and employees usually can't sell their shares right away. This waiting period, often around 90 to 180 days, is called the lock-up. It exists so a flood of insiders selling doesn't crash the price just as outside investors are buying in. When a lock-up ends, a lot of new shares can hit the market, and the stock sometimes dips. Anthropic's expected IPO this week will have one, so insiders holding shares won't be able to sell right away.",
-    "try": "Look up when the lock-up ends for a recent big IPO and see how the stock behaved around that date."
+    "n": 37,
+    "term": "Book-building (how an IPO gets its price)",
+    "explain": "Before an IPO, the banks running it collect orders from big investors at different prices. This list of orders is the 'order book.' If investors want far more shares than are offered, the company can set a higher price, which is why Anthropic is expected to price above its $70–$78 range. Once the book closes, the final price is set, usually the night before trading starts. Heavy demand often lifts the stock on day one, but it's no guarantee.",
+    "try": "Look up how a recent hot IPO's first-day price compared with its offer price."
   },
   "learned": [
     "Earnings season and EPS",
@@ -93,6 +93,7 @@
     "Producer Price Index (PPI)",
     "Bull vs. bear market",
     "Implied move (what options say about earnings)",
-    "Lock-up period"
+    "Lock-up period",
+    "Book-building (how an IPO gets its price)"
   ]
 }

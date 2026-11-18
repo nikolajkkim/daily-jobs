@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "found": 3,
-    "note": "3 picks (1 new Nov 16 pair from Boston Scientific + Lightmatter posted Nov 12; fewer than 5 because few candidates were confirmable) · 0 to browse · no new reports · Problem: Workday/Eightfold/BambooHR/Workable/Meta pages wouldn't load, so Boston Scientific terms rest on Simplify; Shopify Data Intern skipped (bars full-time students); step B closed-listing checks skipped"
+    "note": "3 new roles (posted Nov 17; fewer than 5 because other candidates were closed to master's, 2028 grads, or unverifiable) · 0 to browse · reports already handled · no closures found in 6 checks · Problem: Bissell, T-Mobile, Martin Marietta pages wouldn't load; Gallup/Scale/Jackpocket listings not confirmed"
   },
   "jobs": [
     {
@@ -1757,6 +1757,45 @@
       "why": "Summer 2027, open to master's students per Simplify. Your PyTorch and applied ML work are relevant, but the title suggests an AI-acceleration/systems focus you haven't shown; I couldn't load the page, so check details before applying.",
       "found": "2026-11-17",
       "posted": "2026-11-16",
+      "category": "tech"
+    },
+    {
+      "id": "anduril-mle-intern-2027",
+      "company": "Anduril",
+      "title": "2027 Machine Learning Engineer Intern",
+      "location": "Santa Ana, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5274037007",
+      "fit": "good",
+      "why": "Summer 2027, 12 weeks, in person; master's students are welcome. PyTorch plus computer vision, NLP or graph NN work is preferred, which matches your DistilBERT and LLaMA retrieval work. Catch: you must be a U.S. person and it may need clearance eligibility.",
+      "found": "2026-11-18",
+      "posted": "2026-11-17",
+      "category": "tech"
+    },
+    {
+      "id": "sas-iot-analytics-intern-2027",
+      "company": "SAS",
+      "title": "IoT Analytics Intern",
+      "location": "Cary, NC",
+      "source": "Company site",
+      "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+      "fit": "strong",
+      "why": "Summer 2027 (May 18 to Aug 6), master's only, and graduation must be no earlier than Dec 2027, which is your exact window. Streaming sensor data and ML line up with your 14M-reading IoT water-leak XGBoost project. Catch: hybrid at Cary HQ at least 3 days a week, no sponsorship.",
+      "found": "2026-11-18",
+      "posted": "2026-11-17",
+      "category": "tech"
+    },
+    {
+      "id": "paccar-data-scientist-intern-2027",
+      "company": "Paccar",
+      "title": "Data Scientist Intern",
+      "location": "Denton, TX",
+      "source": "Company site",
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
+      "fit": "good",
+      "why": "2027 Summer internship open to master's students. Python, scikit-learn, SQL, AWS and RAG/vector databases all match your skills and your LLaMA retrieval pipeline. Catch: on-site in Denton, TX, and no graduation window is given.",
+      "found": "2026-11-18",
+      "posted": "2026-11-17",
       "category": "tech"
     }
   ],
