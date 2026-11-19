@@ -1,27 +1,60 @@
 {
- "generated": "2026-11-18T17:31+00:00",
+ "generated": "2026-11-19T10:20+00:00",
  "jobs": [
   {
-   "id": "w-9b10dd8973f8",
-   "company": "Birdseye Security Solutions",
-   "title": "AI Systems Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+   "id": "w-4b7e31798f27",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/994911809842621",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-17"
+   "posted": "2026-11-19",
+   "found": "2026-11-19"
   },
   {
-   "id": "w-218c30c3ebf2",
-   "company": "Birdseye Security Solutions",
-   "title": "Computer Vision Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+   "id": "w-be0f1196bab6",
+   "company": "HERE Technologies",
+   "title": "Data Science Intern",
+   "location": "Chicago, IL",
+   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-17"
+   "posted": "2026-11-18",
+   "found": "2026-11-19"
+  },
+  {
+   "id": "w-a0f69dd70352",
+   "company": "Syngenta Group",
+   "title": "Data Science Intern",
+   "location": "Greensboro, NC",
+   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-19"
+  },
+  {
+   "id": "w-243536867c0c",
+   "company": "Samsung",
+   "title": "Architecture Research Engineer Intern - Agentic AI Workload Characterization",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-19"
+  },
+  {
+   "id": "w-487556fe97bc",
+   "company": "Microsoft",
+   "title": "Research Intern - Computer Vision and Deep Learning",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-19"
   },
   {
    "id": "w-67b04dde1eb0",
@@ -132,6 +165,17 @@
    "category": "tech",
    "posted": "2026-11-16",
    "found": "2026-11-17"
+  },
+  {
+   "id": "w-40cf0f00a2b3",
+   "company": "Carnegie Mellon University",
+   "title": "AI Engineer Intern - Mission Innovation Lab",
+   "location": "Pittsburgh, PA",
+   "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-19"
   },
   {
    "id": "w-442edf0b4449",
@@ -282,17 +326,6 @@
    "title": "Consumer Energy Analytics Intern",
    "location": "Remote in USA / St. Petersburg, FL",
    "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-12",
-   "found": "2026-11-13"
-  },
-  {
-   "id": "w-22bde5cd8509",
-   "company": "Entegris",
-   "title": "Data Engineering Intern",
-   "location": "Aurora, IL",
-   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-12",
@@ -596,17 +629,6 @@
    "found": "2026-11-10"
   },
   {
-   "id": "w-b1e649a13976",
-   "company": "Cirrus Logic",
-   "title": "Applied AI Engineering Intern",
-   "location": "Austin, TX",
-   "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-09",
-   "found": "2026-11-10"
-  },
-  {
    "id": "w-ca829f366b59",
    "company": "AstraZeneca",
    "title": "Network Planning & Data Analytics Intern",
@@ -891,17 +913,6 @@
    "category": "tech",
    "posted": "2026-11-04",
    "found": "2026-11-11"
-  },
-  {
-   "id": "w-7e78a08fc213",
-   "company": "Paccar",
-   "title": "Data Engineer Intern",
-   "location": "Denton, TX",
-   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-04"
   },
   {
    "id": "w-18bcda33406a",
@@ -1250,17 +1261,6 @@
    "title": "Electrical Design Automation Intern - AI & EDA Automation",
    "location": "Livermore, CA",
    "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-29"
-  },
-  {
-   "id": "w-860a81eb74cf",
-   "company": "Leidos",
-   "title": "Data Engineer Intern",
-   "location": "Fort Belvoir, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-28",
@@ -2266,94 +2266,6 @@
    "category": "finance",
    "posted": "2026-10-05",
    "found": "2026-10-12"
-  },
-  {
-   "id": "w-446d60f81d07",
-   "company": "Expedia Group",
-   "title": "Applied Science Intern",
-   "location": "Seattle, WA / Austin, TX / San Jose, CA",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-6564c6921760",
-   "company": "Jain Global",
-   "title": "Data Engineer Intern",
-   "location": "NYC",
-   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-186579165e1c",
-   "company": "General Motors",
-   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-   "location": "Milford, MI / Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-736b232544eb",
-   "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Mapping",
-   "location": "Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8b73728b0570",
-   "company": "Adobe",
-   "title": "Applied and Research Scientist/Engineer Intern",
-   "location": "Cambridge, MA / Seattle, WA / College Park, MD / San Jose, CA + more",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-e8fb719c24c6",
-   "company": "FHLBank Chicago",
-   "title": "AI Intern",
-   "location": "Chicago, IL",
-   "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-05",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-b5029c9e31ad",
-   "company": "Keysight Technologies",
-   "title": "Data Scientist Intern",
-   "location": "Santa Rosa, CA",
-   "url": "https://jobs.keysight.com/jobs/54570?icims=1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-04",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-dc2eeda4acab",
-   "company": "Pangram Labs",
-   "title": "AI Research Intern",
-   "location": "NYC / Brooklyn, NY",
-   "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-04",
-   "found": "2026-10-13"
   }
  ]
 }

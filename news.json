@@ -1,61 +1,68 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks fell again Tuesday; S&P 500 and Nasdaq notch a fourth straight loss",
-      "note": "On Nov. 17 the S&P 500 fell 1.03% to 7,340.53, the Dow fell 1.64% to 50,759.42 and the Nasdaq fell 0.74% to 24,328.38. Worries about AI chip demand and AI disrupting software weighed on tech, and all 11 sectors ended lower.",
+      "headline": "Latest confirmed close: stocks fell again Nov. 17, with AI worries behind a fourth straight loss",
+      "note": "The S&P 500 fell 1.03% to 7,340.53, the Dow fell 1.64% to 50,759.42 and the Nasdaq fell 0.74% to 24,328.38, with AI chip and software worries weighing on tech. I couldn't find a confirmed Nov. 18 close, so check a markets site for Wednesday's move.",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
       "source": "Motley Fool"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia beats analyst estimates in its first report since Jensen Huang's exit",
-      "note": "Shares rose as much as 3% in after-hours trading, easing some worries about AI infrastructure demand. I couldn't confirm the exact revenue and guidance figures, so check Nvidia's release. Its results set the tone for AI spending and hiring.",
-      "url": "https://www.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-results-focus-turns-to-anthropic-debut-ce785edcdc81fe2d",
-      "source": "MarketScreener"
+      "headline": "Nvidia posts $115.8B quarter and guides to about $130B",
+      "note": "Reported Nov. 17: adjusted EPS of $2.68 vs. about $2.48 expected, and revenue of $115.8B vs. about $109B expected. Q4 guidance of about $130B assumes no China data center compute revenue, and gross margin is guided down to 71–72%. It's the first report since Jensen Huang's departure as CEO; CFO Colette Kress is running the company during the search.",
+      "url": "https://www.newsquawk.com/headlines/nvidia-corporation-nvda-q3-fy27-usd-adj-eps-268-exp-248-revenue-1158bln-exp-109bln",
+      "source": "Newsquawk"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic likely to price its IPO above the $70–$78 range",
-      "note": "CNBC's sources say the order book closed at 4 p.m. ET Tuesday, with trading as ANT on Nasdaq slated for Nov. 19. Pricing hadn't been confirmed when I checked. It's a big test of public appetite for AI labs.",
-      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-      "source": "CNBC"
+      "headline": "Anthropic's IPO is set to price Nov. 18, with trading as ANT slated for today",
+      "note": "The plan is 825 million shares at $70–$78, and several outlets reported it may price above that range. I couldn't find the final price or first-day trading, so treat the numbers as pre-pricing. A second $26B private placement is planned at the IPO price.",
+      "url": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619",
+      "source": "Let's Data Science"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's filing shows huge growth alongside a large paper loss",
-      "note": "For the nine months to Sept. 30 it reported $33.24 billion in revenue, up roughly 1,200% from a year earlier, and a $104 billion net loss that the company attributes mostly to fair-value changes on convertible notes and derivatives. Worth reading as a case study in how to read an S-1.",
-      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "Tech",
-      "headline": "Salesforce drops 9.45% as AI-replacement fears hit software stocks",
-      "note": "Security concerns and fears that AI could replace software products drove the drop, and software and services were among Tuesday's weakest groups. It shows how fast investors reprice companies when AI changes the outlook.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-      "source": "Motley Fool"
+      "headline": "Anthropic's valuation at the range is reported at roughly $1.3–$1.4 trillion",
+      "note": "Reports (Reuters, Bloomberg and others, per a secondary summary) put the valuation near that level, and estimates vary by source and by whether you count fully diluted shares. It would make this one of the largest tech listings ever and a gauge of appetite for AI labs.",
+      "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+      "source": "The Next Web"
     },
     {
       "tag": "Markets",
-      "headline": "New U.S. limits on foreign access to advanced AI chips remain a worry for investors",
-      "note": "Investors are still weighing the new restrictions, along with a run of tech outages that hit airlines and banks. Chip export policy can move AI stocks and affects where AI compute gets built.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-      "source": "Motley Fool"
+      "headline": "Wholesale inflation ran hotter than expected last week; Nvidia sold off on China trade tensions",
+      "note": "On Nov. 13 the S&P 500 and Nasdaq closed lower while the Dow edged up, though all three still ended the week higher. Hotter wholesale inflation data and renewed U.S.–China trade friction weighed on Nvidia ahead of its earnings.",
+      "url": "https://finviz.com/news/422772/sp-500-nasdaq-lower-as-ai-uncertainties-linger",
+      "source": "Finviz"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Fed's Bowman says inflation has lasted longer than hoped and is the top priority",
+      "note": "In remarks on Nov. 10 she said growth is stronger and the labor market is stabilizing, but inflation pressures have persisted and recently shown signs of broadening. The Fed held rates steady at its Oct. 28 meeting, so rate cuts that would help growth stocks look less certain.",
+      "url": "https://www.mprnews.org/story/2026/10/28/npr-federal-reserve-interest-rates-inflation",
+      "source": "NPR / MPR News"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs keep climbing, but data roles are holding up better",
-      "note": "Trackers put 2026 tech cuts at well over 140,000, with totals varying by method. Indeed's data and analytics postings index was above its level a year earlier while overall tech postings are far below their peak. Build concrete projects with statistics and ML for 2027 internships.",
-      "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
-      "source": "Interview Query"
+      "headline": "Tech hiring is selective: modest October gains, and data science is holding up better than most roles",
+      "note": "CompTIA-based reports show the tech sector added about 7,200 jobs in October, with hiring momentum pausing in November and more selective employers. Interview Query argues specialized data skills stand out, though layoffs still hit many tech fields, so a strong ML portfolio matters for internships.",
+      "url": "https://techservealliance.org/news/it-jobs-growth-remains-flat-in-november/",
+      "source": "TechServe Alliance"
+    },
+    {
+      "tag": "NYC",
+      "headline": "NYC startups had a record second quarter, and frontier AI work is starting to show up in the city",
+      "note": "AlleyWatch reports NYC startups raised $8.88B across 233 deals in Q2 2026, up 46% year over year, with AI apps and fintech among the leaders. Two frontier-model funding rounds in June suggest AI development is no longer only a San Francisco story, which is good news for NYC internship hunting.",
+      "url": "https://alleywatch.com/?p=163176",
+      "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 37,
-    "term": "Book-building (how an IPO gets its price)",
-    "explain": "Before an IPO, the banks running it collect orders from big investors at different prices. This list of orders is the 'order book.' If investors want far more shares than are offered, the company can set a higher price, which is why Anthropic is expected to price above its $70–$78 range. Once the book closes, the final price is set, usually the night before trading starts. Heavy demand often lifts the stock on day one, but it's no guarantee.",
-    "try": "Look up how a recent hot IPO's first-day price compared with its offer price."
+    "n": 38,
+    "term": "Private placement",
+    "explain": "A private placement is when a company sells shares directly to a small group of big investors instead of to the public on a stock exchange. It usually happens faster and with less paperwork than an IPO. Anthropic planned a $26 billion private placement of a separate class of stock at the same price as its IPO, alongside the public offering. Buyers in private placements often can't resell right away. The company gets cash either way, but existing shareholders own a slightly smaller slice of it afterward.",
+    "try": "Look up the difference between a public offering and a private placement in an S-1 filing's 'Plan of Distribution' section."
   },
   "learned": [
     "Earnings season and EPS",
@@ -94,6 +101,7 @@
     "Bull vs. bear market",
     "Implied move (what options say about earnings)",
     "Lock-up period",
-    "Book-building (how an IPO gets its price)"
+    "Book-building (how an IPO gets its price)",
+    "Private placement"
   ]
 }

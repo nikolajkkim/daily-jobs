@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-18",
-    "found": 3,
-    "note": "3 new roles (posted Nov 17; fewer than 5 because other candidates were closed to master's, 2028 grads, or unverifiable) · 0 to browse · reports already handled · no closures found in 6 checks · Problem: Bissell, T-Mobile, Martin Marietta pages wouldn't load; Gallup/Scale/Jackpocket listings not confirmed"
+    "date": "2026-11-19",
+    "found": 0,
+    "note": "0 new roles · 0 to browse · removed 1 reported closed (Together AI) · IMC and Milwaukee Tool still open (2 of 6 closure checks; others are Simplify/careers-page links or unloadable) · Problem: no Summer 2027 role could be confirmed today: HERE, Syngenta, Samsung, Carlisle pages don't state a term; Shopify excludes full-time students; Gallup listing gone; many Workday/Ashby/Epic pages wouldn't load"
   },
   "jobs": [
     {
@@ -2378,7 +2378,17 @@
       "fit": "stretch",
       "why": "Summer 2027 (May/June start) and open to master's students; your PyTorch, Hugging Face and DistilBERT fine-tuning apply to post-training work. It prefers research publications, which you don't have yet.",
       "found": "2026-11-15",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-11-19",
+        "reason": "Posting closed"
+      },
+      "review": {
+        "reportId": "7f7e43c8-f741-4aed-9017-ec24c4504753",
+        "date": "2026-11-19",
+        "outcome": "removed",
+        "note": "Posting closed"
+      }
     }
   ]
 }

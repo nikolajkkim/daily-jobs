@@ -1,31 +1,61 @@
 {
- "generated": "2026-11-18T17:31+00:00",
+ "generated": "2026-11-19T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
-   "title": "AI Systems Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
-   "posted": "2026-11-17",
-   "company": "Birdseye Security Solutions",
+   "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/994911809842621",
+   "posted": "2026-11-19",
+   "company": "Meta",
    "terms": [
     "N/A"
    ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
+   "degrees": [],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
-   "title": "Computer Vision Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
-   "posted": "2026-11-17",
-   "company": "Birdseye Security Solutions",
+   "title": "Data Science Intern",
+   "location": "Chicago, IL",
+   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
+   "posted": "2026-11-18",
+   "company": "HERE Technologies",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Greensboro, NC",
+   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
+   "posted": "2026-11-18",
+   "company": "Syngenta Group",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Architecture Research Engineer Intern - Agentic AI Workload Characterization",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
+   "posted": "2026-11-18",
+   "company": "Samsung",
    "terms": [
     "N/A"
    ],
@@ -35,8 +65,26 @@
    ],
    "category": "tech",
    "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Research Intern - Computer Vision and Deep Learning",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "posted": "2026-11-18",
+   "company": "Microsoft",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
    "title": "AI Application Intern",
@@ -55,7 +103,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Machine Learning Engineer Intern",
@@ -73,7 +121,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Data Intern",
@@ -88,7 +136,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "AI & Automation Intern",
@@ -103,7 +151,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Analog IC Design Engineer Intern - AI/ML",
@@ -121,90 +169,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "Data Intern",
-   "location": "NYC",
-   "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
-   "posted": "2026-11-16",
-   "company": "Shopify",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "Research Scientist Intern - Intelligent Camera Systems",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/971210335715482",
-   "posted": "2026-11-16",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "Research Scientist Intern - Perception - Displays and Graphics",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1500136678656794",
-   "posted": "2026-11-16",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "AI Inference & Training Framework Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
-   "posted": "2026-11-16",
-   "company": "NeuroSpark",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "AI Hardware Optimization Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
-   "posted": "2026-11-16",
-   "company": "NeuroSpark",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   }
  ]
 }
