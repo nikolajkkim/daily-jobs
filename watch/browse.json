@@ -1,12 +1,45 @@
 {
- "generated": "2026-11-19T10:20+00:00",
+ "generated": "2026-11-19T17:37+00:00",
  "jobs": [
+  {
+   "id": "w-9f2e44b3830d",
+   "company": "BlackRock",
+   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+   "location": "San Francisco, CA",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+   "source": "Workday",
+   "category": "finance",
+   "posted": "2026-11-19",
+   "found": "2026-11-19"
+  },
+  {
+   "id": "w-2e613e7716fa",
+   "company": "BlackRock",
+   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
+   "location": "New York, NY",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+   "source": "Simplify list",
+   "category": "finance",
+   "posted": "2026-11-19",
+   "found": "2026-10-13"
+  },
   {
    "id": "w-4b7e31798f27",
    "company": "Meta",
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/994911809842621",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-19"
+  },
+  {
+   "id": "w-3a814e4e4e59",
+   "company": "Scout Space",
+   "title": "Computer Vision Engineer Intern - AI/ML",
+   "location": "Reston, VA",
+   "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-19",

@@ -1,7 +1,35 @@
 {
- "generated": "2026-11-19T10:20+00:00",
+ "generated": "2026-11-19T17:37+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+   "location": "San Francisco, CA",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+   "posted": "2026-11-19",
+   "company": "BlackRock",
+   "category": "finance",
+   "ats": "workday",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
+   "location": "New York, NY",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+   "posted": "2026-11-19",
+   "company": "BlackRock",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "finance",
+   "ats": "simplify",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-11-19"
+  },
   {
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
    "location": "Redmond, WA",
@@ -12,6 +40,24 @@
     "N/A"
    ],
    "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Computer Vision Engineer Intern - AI/ML",
+   "location": "Reston, VA",
+   "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+   "posted": "2026-11-19",
+   "company": "Scout Space",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-19",

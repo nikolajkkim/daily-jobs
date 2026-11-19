@@ -2003,10 +2003,10 @@
   "last_seen": "2026-10-29"
  },
  "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477": {
-  "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
-  "location": "NYC",
+  "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
+  "location": "New York, NY",
   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
-  "posted": "2026-09-15",
+  "posted": "2026-11-19",
   "company": "BlackRock",
   "terms": [
    "Summer 2027"
@@ -2017,7 +2017,7 @@
   "category": "finance",
   "ats": "simplify",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-11-19"
  },
  "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors": {
   "title": "IT Data Analytics Intern",
@@ -12367,6 +12367,35 @@
    "Summer 2027"
   ],
   "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19"
+ },
+ "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476": {
+  "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+  "location": "San Francisco, CA",
+  "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+  "posted": "2026-11-19",
+  "company": "BlackRock",
+  "category": "finance",
+  "ats": "workday",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19"
+ },
+ "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008": {
+  "title": "Computer Vision Engineer Intern - AI/ML",
+  "location": "Reston, VA",
+  "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+  "posted": "2026-11-19",
+  "company": "Scout Space",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
   "category": "tech",
   "ats": "simplify",
   "first_seen": "2026-11-19",
