@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Latest confirmed close: stocks fell again Nov. 17, with AI worries behind a fourth straight loss",
-      "note": "The S&P 500 fell 1.03% to 7,340.53, the Dow fell 1.64% to 50,759.42 and the Nasdaq fell 0.74% to 24,328.38, with AI chip and software worries weighing on tech. I couldn't find a confirmed Nov. 18 close, so check a markets site for Wednesday's move.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-      "source": "Motley Fool"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia posts $115.8B quarter and guides to about $130B",
-      "note": "Reported Nov. 17: adjusted EPS of $2.68 vs. about $2.48 expected, and revenue of $115.8B vs. about $109B expected. Q4 guidance of about $130B assumes no China data center compute revenue, and gross margin is guided down to 71–72%. It's the first report since Jensen Huang's departure as CEO; CFO Colette Kress is running the company during the search.",
-      "url": "https://www.newsquawk.com/headlines/nvidia-corporation-nvda-q3-fy27-usd-adj-eps-268-exp-248-revenue-1158bln-exp-109bln",
-      "source": "Newsquawk"
+      "headline": "Stocks mixed Nov. 18: Dow drops 1.1% on Fed minutes, S&P 500 slips for a fifth day, Nasdaq edges up",
+      "note": "The Dow fell 561.25 points to 50,198.17, the S&P 500 fell 0.23% to 7,323.63 (its longest losing streak since June) and the Nasdaq rose about 0.4% to 24,429.88. Fed minutes pointing to more rate hikes and weak healthcare stocks weighed on the Dow. This is the latest close I confirmed; Thursday's close wasn't available yet.",
+      "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
+      "source": "IBTimes"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's IPO is set to price Nov. 18, with trading as ANT slated for today",
-      "note": "The plan is 825 million shares at $70–$78, and several outlets reported it may price above that range. I couldn't find the final price or first-day trading, so treat the numbers as pre-pricing. A second $26B private placement is planned at the IPO price.",
-      "url": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619",
-      "source": "Let's Data Science"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic's valuation at the range is reported at roughly $1.3–$1.4 trillion",
-      "note": "Reports (Reuters, Bloomberg and others, per a secondary summary) put the valuation near that level, and estimates vary by source and by whether you count fully diluted shares. It would make this one of the largest tech listings ever and a gauge of appetite for AI labs.",
-      "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+      "headline": "Anthropic prices its IPO at $83 a share, above the range, with trading as ANT set for Thursday",
+      "note": "Per reports, it sold at least $68B of stock, plus a $26B private placement at the same price, valuing it near $1.49T fully diluted (per the Financial Times). Orders were close to seven times the shares offered. Nasdaq says ANT lists Nov. 19; I couldn't find its opening price or first-day close, and the price itself was reported via sources rather than announced.",
+      "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise",
       "source": "The Next Web"
     },
     {
-      "tag": "Markets",
-      "headline": "Wholesale inflation ran hotter than expected last week; Nvidia sold off on China trade tensions",
-      "note": "On Nov. 13 the S&P 500 and Nasdaq closed lower while the Dow edged up, though all three still ended the week higher. Hotter wholesale inflation data and renewed U.S.–China trade friction weighed on Nvidia ahead of its earnings.",
-      "url": "https://finviz.com/news/422772/sp-500-nasdaq-lower-as-ai-uncertainties-linger",
-      "source": "Finviz"
+      "tag": "Chips",
+      "headline": "Nvidia fell 2.9% even after $115.8B in revenue and a ~$130B forecast",
+      "note": "Revenue was up 103% from a year earlier, but the stock gave up an early rally as investors weighed the CEO transition after Jensen Huang's departure and doubts about how long heavy AI infrastructure spending can last. A good report no longer guarantees a rising stock.",
+      "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
+      "source": "IBTimes"
     },
     {
       "tag": "Economy",
-      "headline": "Fed's Bowman says inflation has lasted longer than hoped and is the top priority",
-      "note": "In remarks on Nov. 10 she said growth is stronger and the labor market is stabilizing, but inflation pressures have persisted and recently shown signs of broadening. The Fed held rates steady at its Oct. 28 meeting, so rate cuts that would help growth stocks look less certain.",
-      "url": "https://www.mprnews.org/story/2026/10/28/npr-federal-reserve-interest-rates-inflation",
-      "source": "NPR / MPR News"
+      "headline": "Fed minutes: nearly all officials expect a December rate hike",
+      "note": "The minutes from the Oct. 27–28 meeting say nearly all officials expect a quarter-point hike in December, and two floated a half-point move; the rate was held at 3.9% in October, with two governors dissenting in favor of a hike. A 'vast majority' worry inflation could persist. Higher rates tend to pressure tech and growth stocks.",
+      "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/",
+      "source": "Anchorage Daily News"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI introduces GPT-6.2 Astra and Sol",
+      "note": "OpenAI describes gains in professional work, coding and computer use at lower compute cost, per a digest of Nov. 18 news. I only saw summaries, so check OpenAI's own page for specifics. New models like this shift what's expected of ML interns on agent and coding tools.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/",
+      "source": "The Neuron"
+    },
+    {
+      "tag": "AI",
+      "headline": "Administration reportedly weighs requiring disclosure of Chinese AI model use",
+      "note": "Fox News reports the idea is under consideration, not a finalized rule. If adopted, it could affect which open-weight models companies are allowed to build on.",
+      "url": "https://www.foxnews.com/live-news/ai-news-nvidia-china-11-18-26.amp",
+      "source": "Fox News"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech hiring is selective: modest October gains, and data science is holding up better than most roles",
-      "note": "CompTIA-based reports show the tech sector added about 7,200 jobs in October, with hiring momentum pausing in November and more selective employers. Interview Query argues specialized data skills stand out, though layoffs still hit many tech fields, so a strong ML portfolio matters for internships.",
-      "url": "https://techservealliance.org/news/it-jobs-growth-remains-flat-in-november/",
-      "source": "TechServe Alliance"
+      "headline": "Tech layoffs top 142,000 this year, but data science skills hold up better",
+      "note": "Layoffs.fyi counts 142,000+ tech layoffs at 350 companies in 2026 as of Nov. 11. Postings analyses show statistics and ML in 92% of data science listings, though entry-level roles in AI-exposed fields have been squeezed. Figures come from secondary summaries, so treat them as approximate.",
+      "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
+      "source": "Interview Query"
     },
     {
       "tag": "NYC",
-      "headline": "NYC startups had a record second quarter, and frontier AI work is starting to show up in the city",
-      "note": "AlleyWatch reports NYC startups raised $8.88B across 233 deals in Q2 2026, up 46% year over year, with AI apps and fintech among the leaders. Two frontier-model funding rounds in June suggest AI development is no longer only a San Francisco story, which is good news for NYC internship hunting.",
-      "url": "https://alleywatch.com/?p=163176",
+      "headline": "NYC startups keep raising: Hatz AI lands $24M in AlleyWatch's weekly roundup",
+      "note": "AlleyWatch's review of Nov. 8–14 lists the $24M AI deal; the prior week saw 6 deals and $216M+ invested. A steady stream of AI startups in the city means more local internship targets.",
+      "url": "https://alleywatch.com/tag/opensky-ventures/",
       "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 38,
-    "term": "Private placement",
-    "explain": "A private placement is when a company sells shares directly to a small group of big investors instead of to the public on a stock exchange. It usually happens faster and with less paperwork than an IPO. Anthropic planned a $26 billion private placement of a separate class of stock at the same price as its IPO, alongside the public offering. Buyers in private placements often can't resell right away. The company gets cash either way, but existing shareholders own a slightly smaller slice of it afterward.",
-    "try": "Look up the difference between a public offering and a private placement in an S-1 filing's 'Plan of Distribution' section."
+    "n": 39,
+    "term": "Opening auction (why a new stock's first trade differs from its IPO price)",
+    "explain": "An IPO price is what the company's banks sell shares for the night before. Once trading starts, the Nasdaq runs an opening auction: it collects buy and sell orders and finds the single price where the most shares can trade. That opening price can be well above or below the IPO price. Anthropic priced at $83 for its ANT debut, but the first trade could land elsewhere depending on demand. Investors who got shares at $83 gain or lose from there.",
+    "try": "Look up the first-day 'pop' of a recent big IPO and compare its IPO price to its opening price."
   },
   "learned": [
     "Earnings season and EPS",
@@ -102,6 +102,7 @@
     "Implied move (what options say about earnings)",
     "Lock-up period",
     "Book-building (how an IPO gets its price)",
-    "Private placement"
+    "Private placement",
+    "Opening auction (why a new stock's first trade differs from its IPO price)"
   ]
 }

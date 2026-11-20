@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-19",
-    "found": 0,
-    "note": "0 new roles · 0 to browse · removed 1 reported closed (Together AI) · IMC and Milwaukee Tool still open (2 of 6 closure checks; others are Simplify/careers-page links or unloadable) · Problem: no Summer 2027 role could be confirmed today: HERE, Syngenta, Samsung, Carlisle pages don't state a term; Shopify excludes full-time students; Gallup listing gone; many Workday/Ashby/Epic pages wouldn't load"
+    "date": "2026-11-20",
+    "found": 5,
+    "note": "5 new roles (3 posted Nov 19–20, plus top-ups posted Nov 12 and 17) · 0 reported jobs to handle · 6 closure checks, none closed (IMC, EA still open; GM/Tencent/KLA/Nissan Workday pages wouldn't load) · Problem: discovery searches found no new Summer 2027 golf or Ashby/Greenhouse roles; Honeywell and BlackRock pages wouldn't load so not picked"
   },
   "jobs": [
     {
@@ -1797,6 +1797,71 @@
       "found": "2026-11-18",
       "posted": "2026-11-17",
       "category": "tech"
+    },
+    {
+      "id": "linkedin-ai-ml-engineer-intern-2027",
+      "company": "LinkedIn",
+      "title": "AI/ML Engineer Intern",
+      "location": "Mountain View, CA",
+      "source": "SmartRecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
+      "fit": "strong",
+      "why": "Summer 2027 (May 24–Aug 13 or Jun 14–Sep 3), master's students only with Dec 2027+ graduation, which matches your Columbia timeline. Large-scale modeling and search relevance line up with your retrieval pipeline and XGBoost work on 14M+ readings; Hadoop is only a preferred skill.",
+      "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "lucid-motors-applied-ai-ml-intern-2027",
+      "company": "Lucid Motors",
+      "title": "AI & Data Intern - Applied AI/Machine Learning",
+      "location": "Newark, CA",
+      "source": "Company site",
+      "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+      "fit": "strong",
+      "why": "Summer 2027 (May–Aug), open to master's students. RAG assistants, embeddings and LLM evaluation match your LLaMA 3.2 retrieval work, and you have Python, SQL, Tableau and PyTorch; it is fully in person in California.",
+      "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-19"
+    },
+    {
+      "id": "zoox-data-scientist-intern-summer-2027",
+      "company": "Zoox",
+      "title": "Data Scientist Intern [Summer 2027]",
+      "location": "Foster City, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+      "fit": "good",
+      "why": "Summer 2027, master's or PhD with graduation Fall 2027–Summer 2028, so Dec 2027 fits. Your GAMs/LASSO bridge-damage modeling and imbalanced-class XGBoost work map to the GLM and rare-event safety modeling; Bayesian and spatial statistics are a gap.",
+      "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-12"
+    },
+    {
+      "id": "anduril-machine-learning-intern-2027",
+      "company": "Anduril",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Santa Ana, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5274037007",
+      "fit": "good",
+      "why": "Summer 2027, bachelor's or master's, 12 weeks in person. Training and evaluating models in PyTorch connects to your PPO and DistilBERT projects; the catch is U.S. Person status is required and the work is CAD/manufacturing data with no CV/GNN experience on your résumé.",
+      "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-17"
+    },
+    {
+      "id": "scout-space-computer-vision-ml-intern-2027",
+      "company": "Scout Space",
+      "title": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
+      "location": "Reston, VA (remote)",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+      "fit": "stretch",
+      "why": "Summer 2027, graduate students welcome, mostly remote. Your PyFlyt quadcopter work with simulated LiDAR is the closest match to perception for space; you have no direct computer vision experience, so this is a stretch.",
+      "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-19"
     }
   ],
   "browse": [
