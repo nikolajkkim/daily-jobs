@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-20T17:15+00:00",
+ "generated": "2026-11-21T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-2122750dc976",
+   "company": "Koch Industries",
+   "title": "Data and Analytics Intern",
+   "location": "Lisle, IL",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-21",
+   "found": "2026-11-21"
+  },
   {
    "id": "w-26e4531ce328",
    "company": "Pathlabs",
@@ -99,6 +110,83 @@
    "category": "tech",
    "posted": "2026-11-20",
    "found": "2026-11-20"
+  },
+  {
+   "id": "w-cefb5712a410",
+   "company": "Lucid Motors",
+   "title": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+   "location": "Newark, CA",
+   "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-0516b90517b9",
+   "company": "Avista",
+   "title": "Fleet Operations Data Intern - Multiple Teams",
+   "location": "Spokane, WA",
+   "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-ccd67795731c",
+   "company": "Avista",
+   "title": "Central Analytics Intern - Multiple Teams",
+   "location": "Spokane, WA",
+   "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-45f297c3276b",
+   "company": "GTI Energy",
+   "title": "Data Science Intern",
+   "location": "Des Plaines, IL",
+   "url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-7c5d4f2302bf",
+   "company": "Southern Farm Bureau Life Insurance",
+   "title": "Data Analytics Intern",
+   "location": "Jackson, MS",
+   "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-295cc11a1df1",
+   "company": "Calamos Investments",
+   "title": "Data Science Intern",
+   "location": "Naperville, IL / Chicago, IL",
+   "url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-e014bd06e0b4",
+   "company": "First PREMIER Bank",
+   "title": "Analytics Intern",
+   "location": "Sioux Falls, SD",
+   "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
   },
   {
    "id": "w-9f2e44b3830d",
@@ -220,17 +308,6 @@
    "category": "tech",
    "posted": "2026-11-17",
    "found": "2026-11-17"
-  },
-  {
-   "id": "w-5ce2a44fa1fb",
-   "company": "Starwood Capital Group",
-   "title": "Data Intern",
-   "location": "NYC",
-   "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-18"
   },
   {
    "id": "w-131ca41e977b",
@@ -409,28 +486,6 @@
    "found": "2026-11-13"
   },
   {
-   "id": "w-45557efef323",
-   "company": "Intermountain Healthcare",
-   "title": "Machine Learning Operations Intern",
-   "location": "Remote in USA",
-   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-12",
-   "found": "2026-11-13"
-  },
-  {
-   "id": "w-5afab80db595",
-   "company": "Intermountain Healthcare",
-   "title": "AI/ML Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-12",
-   "found": "2026-11-13"
-  },
-  {
    "id": "w-57611f6e3173",
    "company": "Environmental Defense Fund",
    "title": "Consumer Energy Analytics Intern",
@@ -524,17 +579,6 @@
    "title": "Research Scientist Intern - LLM Memory and Skills",
    "location": "Seattle, WA / NYC / Bellevue, WA",
    "url": "https://www.metacareers.com/jobs/1676116714093186",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-11",
-   "found": "2026-11-12"
-  },
-  {
-   "id": "w-87bd0a5561f3",
-   "company": "GlobalFoundries",
-   "title": "AI Processor Hardware/Software Integration Engineer Intern",
-   "location": "Richardson, TX",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-11",
@@ -948,17 +992,6 @@
    "found": "2026-11-05"
   },
   {
-   "id": "w-78af125eaf90",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1832390484751700",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-05"
-  },
-  {
    "id": "w-ab5bc5ed047f",
    "company": "Meta",
    "title": "Research Scientist Intern - Spatial Reasoning & Localization",
@@ -986,17 +1019,6 @@
    "title": "Research Analytics & Insights Intern",
    "location": "Chicago, IL",
    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-05",
-   "found": "2026-11-06"
-  },
-  {
-   "id": "w-9bd8632640a8",
-   "company": "Catholic Charities of Kansas City-St. Joseph",
-   "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
-   "location": "Kansas City, MO",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-05",
@@ -1276,17 +1298,6 @@
    "category": "tech",
    "posted": "2026-10-30",
    "found": "2026-10-31"
-  },
-  {
-   "id": "w-dfa7a50fd567",
-   "company": "Meta",
-   "title": "Research Scientist Intern - Scam and Trust",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/2355649268510104",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
   },
   {
    "id": "w-b9d1f3e6faf6",
@@ -1729,17 +1740,6 @@
    "found": "2026-10-31"
   },
   {
-   "id": "w-c382a27a3e4f",
-   "company": "Intercontinental Exchange",
-   "title": "Data Science Intern",
-   "location": "NYC",
-   "url": "https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-10-23",
-   "found": "2026-11-05"
-  },
-  {
    "id": "w-141ca6418bfb",
    "company": "OpenArt AI",
    "title": "Early Adopter & Product Builder Intern - Creative AI",
@@ -1881,17 +1881,6 @@
    "category": "tech",
    "posted": "2026-10-21",
    "found": "2026-11-05"
-  },
-  {
-   "id": "w-cbb5b5330f58",
-   "company": "The New York Times",
-   "title": "AI Initiatives Fellow",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-20",
-   "found": "2026-10-20"
   },
   {
    "id": "w-8ebe0772f7d1",
@@ -2279,17 +2268,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-170846a890fb",
-   "company": "Tenstorrent",
-   "title": "AI Software Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-5476499cacb6",
    "company": "Microsoft",
    "title": "Applied Scientist Intern",
@@ -2298,17 +2276,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-07",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-748e3385b2b7",
-   "company": "Meta",
-   "title": "Data Scientist Intern - Product Analytics",
-   "location": "Menlo Park, CA / NYC",
-   "url": "https://www.metacareers.com/jobs/1633096478817942",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-06",
    "found": "2026-10-13"
   }
  ]

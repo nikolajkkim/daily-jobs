@@ -1,7 +1,25 @@
 {
- "generated": "2026-11-20T17:15+00:00",
+ "generated": "2026-11-21T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "Data and Analytics Intern",
+   "location": "Lisle, IL",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+   "posted": "2026-11-21",
+   "company": "Koch Industries",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
   {
    "title": "Software and AI Engineer Intern",
    "location": "Missoula, MT",
@@ -15,7 +33,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Data Quality Intern",
@@ -30,7 +48,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "AI Software Engineer Intern",
@@ -51,7 +69,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Information Systems Data Science Intern - IT",
@@ -70,7 +88,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Applied Research Scientist Intern",
@@ -89,7 +107,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Machine Learning Engineer Intern",
@@ -108,7 +126,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Integrated Analytics Intern",
@@ -126,7 +144,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "AI Engineer/Consultant Intern",
@@ -144,7 +162,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Data Engineer Intern",
@@ -162,7 +180,129 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+   "location": "Newark, CA",
+   "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+   "posted": "2026-11-20",
+   "company": "Lucid Motors",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Fleet Operations Data Intern - Multiple Teams",
+   "location": "Spokane, WA",
+   "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5",
+   "posted": "2026-11-20",
+   "company": "Avista",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Central Analytics Intern - Multiple Teams",
+   "location": "Spokane, WA",
+   "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58",
+   "posted": "2026-11-20",
+   "company": "Avista",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Des Plaines, IL",
+   "url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
+   "posted": "2026-11-20",
+   "company": "GTI Energy",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Data Analytics Intern",
+   "location": "Jackson, MS",
+   "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+   "posted": "2026-11-20",
+   "company": "Southern Farm Bureau Life Insurance",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Naperville, IL / Chicago, IL",
+   "url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af",
+   "posted": "2026-11-20",
+   "company": "Calamos Investments",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "title": "Analytics Intern",
+   "location": "Sioux Falls, SD",
+   "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
+   "posted": "2026-11-20",
+   "company": "First PREMIER Bank",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
   },
   {
    "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
@@ -173,7 +313,7 @@
    "category": "finance",
    "ats": "workday",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
@@ -190,7 +330,7 @@
    "category": "finance",
    "ats": "simplify",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
@@ -205,7 +345,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Applied AI Research Intern",
@@ -223,7 +363,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Identity Analytics Intern",
@@ -241,7 +381,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Research Scientist Intern - AI Agents for Autonomous Laboratories",
@@ -256,7 +396,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   },
   {
    "title": "Software Engineer Intern - AI / ML",
@@ -271,58 +411,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
-   "posted": "2026-11-18",
-   "company": "HERE Technologies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "title": "Architecture Research Engineer Intern - Agentic AI Workload Characterization",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
-   "posted": "2026-11-18",
-   "company": "Samsung",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "title": "Research Intern - Computer Vision and Deep Learning",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
-   "posted": "2026-11-18",
-   "company": "Microsoft",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-21"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "found": 5,
-    "note": "5 new roles (3 posted Nov 19–20, plus top-ups posted Nov 12 and 17) · 0 reported jobs to handle · 6 closure checks, none closed (IMC, EA still open; GM/Tencent/KLA/Nissan Workday pages wouldn't load) · Problem: discovery searches found no new Summer 2027 golf or Ashby/Greenhouse roles; Honeywell and BlackRock pages wouldn't load so not picked"
+    "note": "5 new roles (Lucid, Honeywell, Koch/Molex, Snowflake posted Nov 19–21; Shopify NYC posted Nov 16) · 0 more to browse · 0 new reports · 6 closure checks, none closed (Kensho page lists only a Summer 2026 role, left as is) · Problem: Honeywell, Snowflake, Calamos, GTI, BlackRock, Smule pages wouldn't load; discovery searches found no new open golf or Ashby roles"
   },
   "jobs": [
     {
@@ -1860,6 +1860,72 @@
       "fit": "stretch",
       "why": "Summer 2027, graduate students welcome, mostly remote. Your PyFlyt quadcopter work with simulated LiDAR is the closest match to perception for space; you have no direct computer vision experience, so this is a stretch.",
       "found": "2026-11-20",
+      "category": "tech",
+      "posted": "2026-11-19"
+    },
+    {
+      "id": "lucid-motors-ai-ml-intern-infotainment-2027",
+      "company": "Lucid Motors",
+      "title": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+      "location": "Newark, CA",
+      "source": "Greenhouse",
+      "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+      "fit": "strong",
+      "why": "Summer 2027 (May–Aug), open to master's students, in California. Your LLaMA/embeddings retrieval work and PyTorch/Hugging Face skills match the GenAI/LLM and edge AI project options; it is fully on-site.",
+      "found": "2026-11-21",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "shopify-data-intern-2027",
+      "company": "Shopify",
+      "title": "Data Intern (Summer 2027)",
+      "location": "New York, NY",
+      "source": "Company site",
+      "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+      "fit": "good",
+      "why": "Summer 2027 (May–Aug) in NYC, product data scientist track. Your SQL, Python and XGBoost project work fit; it is 3 days in office and gives no immigration support, and it closes Nov 30.",
+      "found": "2026-11-21",
+      "category": "tech",
+      "posted": "2026-11-16",
+      "deadline": "Nov 30"
+    },
+    {
+      "id": "honeywell-aerospace-is-data-science-intern-2027",
+      "company": "Honeywell Aerospace",
+      "title": "Information Systems Data Science Intern - IT",
+      "location": "United States (remote/hybrid)",
+      "source": "Company site",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
+      "fit": "good",
+      "why": "Summer 2027 data science internship that accepts master's students and graduates in Dec 2027 or later, which matches you. The scope mixes IT and data science, so it is less ML-focused than your projects. I could not load the page directly, so check it is open.",
+      "found": "2026-11-21",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "molex-data-analytics-intern-2027",
+      "company": "Koch Industries (Molex)",
+      "title": "Data and Analytics Intern",
+      "location": "Lisle, IL",
+      "source": "Company site",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+      "fit": "stretch",
+      "why": "Summer 2027 program that accepts master's students. It is more data pipelines and dashboards (SQL, Python, Streamlit) than modeling, but it mentions applying AI and automation, and your DuckDB/SQL/Tableau skills fit.",
+      "found": "2026-11-21",
+      "category": "tech",
+      "posted": "2026-11-21"
+    },
+    {
+      "id": "snowflake-swe-intern-ai-ml-2027",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - AI / ML (Summer 2027)",
+      "location": "Menlo Park, CA / Bellevue, WA",
+      "source": "Ashby",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+      "fit": "stretch",
+      "why": "Summer 2027 AI/ML-focused engineering internship in California. It leans toward software engineering, so expect coding-heavy screens, but your PyTorch and LLM retrieval work are relevant. I could not read the full posting, so check eligibility.",
+      "found": "2026-11-21",
       "category": "tech",
       "posted": "2026-11-19"
     }

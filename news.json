@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks mixed Nov. 18: Dow drops 1.1% on Fed minutes, S&P 500 slips for a fifth day, Nasdaq edges up",
-      "note": "The Dow fell 561.25 points to 50,198.17, the S&P 500 fell 0.23% to 7,323.63 (its longest losing streak since June) and the Nasdaq rose about 0.4% to 24,429.88. Fed minutes pointing to more rate hikes and weak healthcare stocks weighed on the Dow. This is the latest close I confirmed; Thursday's close wasn't available yet.",
-      "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
-      "source": "IBTimes"
+      "headline": "Thursday sell-off: S&P 500 down 2%, Nasdaq down 2.3%, Dow down 2.2% as AI doubts spread",
+      "note": "The S&P 500 closed at 7,175.83 (-147.80 points), the Nasdaq at 23,879.20 and the Dow at 49,097.06 (-1,101.11 points), as investors grew less sure the AI boom keeps driving growth. This is the latest close I could confirm; I couldn't find Friday's.",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/",
+      "source": "La Nación (AP market table)"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic prices its IPO at $83 a share, above the range, with trading as ANT set for Thursday",
-      "note": "Per reports, it sold at least $68B of stock, plus a $26B private placement at the same price, valuing it near $1.49T fully diluted (per the Financial Times). Orders were close to seven times the shares offered. Nasdaq says ANT lists Nov. 19; I couldn't find its opening price or first-day close, and the price itself was reported via sources rather than announced.",
-      "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise",
+      "headline": "Anthropic debuts on Nasdaq: opens at $111.50, closes at $97.17",
+      "note": "ANT priced at $83 and ended its first day up 17.1% after opening about 34% higher, per CNBC via Forbes Australia. Volume topped 600 million shares by early afternoon. A big AI listing landed on the same day AI stocks fell.",
+      "url": "https://www.forbes.com.au/news/innovation/anthropic-ipo-live-shares-close-first-day-up-more-than-17-percent/",
+      "source": "Forbes Australia"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic staff can sell up to 10% of shares on day one; another 35% frees up early next year",
+      "note": "Per Business Insider reporting summarized in search results, not confirmed on the original page. It's an example of a lock-up schedule, which matters if you ever get equity at a company that goes public.",
+      "url": "https://thenextweb.com/news/anthropic-ipo-amodei-nasdaq-bell-ant-debut-needham-staff-sales",
       "source": "The Next Web"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia fell 2.9% even after $115.8B in revenue and a ~$130B forecast",
-      "note": "Revenue was up 103% from a year earlier, but the stock gave up an early rally as investors weighed the CEO transition after Jensen Huang's departure and doubts about how long heavy AI infrastructure spending can last. A good report no longer guarantees a rising stock.",
+      "headline": "Nvidia under pressure: Huang out as CEO, Treasury's Bessent demands an outside successor",
+      "note": "Jensen Huang resigned Nov. 12 and CFO Colette Kress is interim CEO. Bessent gave the board 10 days to answer questions about China-related chip sales, and Commerce Secretary Lutnick will testify to the Senate Banking Committee Dec. 10. Export-control and governance news now moves AI chip stocks.",
+      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
+      "source": "Fortune"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia fell 2.9% after earnings despite $115.8B in revenue",
+      "note": "Revenue was up 103% from a year earlier with a ~$130B forecast, yet the stock slipped on the CEO transition and doubts about how long AI spending lasts. A good report no longer guarantees a rising stock.",
       "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
       "source": "IBTimes"
     },
     {
       "tag": "Economy",
       "headline": "Fed minutes: nearly all officials expect a December rate hike",
-      "note": "The minutes from the Oct. 27–28 meeting say nearly all officials expect a quarter-point hike in December, and two floated a half-point move; the rate was held at 3.9% in October, with two governors dissenting in favor of a hike. A 'vast majority' worry inflation could persist. Higher rates tend to pressure tech and growth stocks.",
+      "note": "Minutes from the Oct. 27–28 meeting show nearly all officials expect a quarter-point hike in December, with two floating a half-point. Higher rates tend to pressure tech and growth stocks.",
       "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/",
       "source": "Anchorage Daily News"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI introduces GPT-6.2 Astra and Sol",
-      "note": "OpenAI describes gains in professional work, coding and computer use at lower compute cost, per a digest of Nov. 18 news. I only saw summaries, so check OpenAI's own page for specifics. New models like this shift what's expected of ML interns on agent and coding tools.",
+      "headline": "OpenAI releases GPT-6.2 Astra and Sol",
+      "note": "Reported to improve professional work, coding and computer use at lower compute cost; Astra's input price is 20% below the original model's. I only saw summaries, so check OpenAI's page for specifics.",
       "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/",
       "source": "The Neuron"
     },
     {
-      "tag": "AI",
-      "headline": "Administration reportedly weighs requiring disclosure of Chinese AI model use",
-      "note": "Fox News reports the idea is under consideration, not a finalized rule. If adopted, it could affect which open-weight models companies are allowed to build on.",
-      "url": "https://www.foxnews.com/live-news/ai-news-nvidia-china-11-18-26.amp",
-      "source": "Fox News"
-    },
-    {
       "tag": "Jobs",
       "headline": "Tech layoffs top 142,000 this year, but data science skills hold up better",
-      "note": "Layoffs.fyi counts 142,000+ tech layoffs at 350 companies in 2026 as of Nov. 11. Postings analyses show statistics and ML in 92% of data science listings, though entry-level roles in AI-exposed fields have been squeezed. Figures come from secondary summaries, so treat them as approximate.",
+      "note": "Layoffs.fyi counted 142,000+ tech layoffs at 350 companies as of Nov. 11. Data and analytics roles look more resilient than general tech postings, though entry-level hiring in AI-exposed jobs is weaker, so internship competition is likely tough.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
-    },
-    {
-      "tag": "NYC",
-      "headline": "NYC startups keep raising: Hatz AI lands $24M in AlleyWatch's weekly roundup",
-      "note": "AlleyWatch's review of Nov. 8–14 lists the $24M AI deal; the prior week saw 6 deals and $216M+ invested. A steady stream of AI startups in the city means more local internship targets.",
-      "url": "https://alleywatch.com/tag/opensky-ventures/",
-      "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 39,
-    "term": "Opening auction (why a new stock's first trade differs from its IPO price)",
-    "explain": "An IPO price is what the company's banks sell shares for the night before. Once trading starts, the Nasdaq runs an opening auction: it collects buy and sell orders and finds the single price where the most shares can trade. That opening price can be well above or below the IPO price. Anthropic priced at $83 for its ANT debut, but the first trade could land elsewhere depending on demand. Investors who got shares at $83 gain or lose from there.",
-    "try": "Look up the first-day 'pop' of a recent big IPO and compare its IPO price to its opening price."
+    "n": 40,
+    "term": "Drawdown",
+    "explain": "A drawdown is how far an investment has fallen from its most recent peak, usually shown as a percentage. If a fund goes from $100 to $90, it's in a 10% drawdown, and it needs an 11% gain to get back to $100. Thursday's 2% one-day drop in the S&P 500 is a small drawdown on its own, but drawdowns add up across days: the index also had a multi-day losing streak this week. Looking at the maximum drawdown shows how painful holding something could have been, not just its average return.",
+    "try": "Search for the S&P 500's maximum drawdown in 2022 and compare it with its drop this week."
   },
   "learned": [
     "Earnings season and EPS",
@@ -103,6 +103,7 @@
     "Lock-up period",
     "Book-building (how an IPO gets its price)",
     "Private placement",
-    "Opening auction (why a new stock's first trade differs from its IPO price)"
+    "Opening auction (why a new stock's first trade differs from its IPO price)",
+    "Drawdown"
   ]
 }
