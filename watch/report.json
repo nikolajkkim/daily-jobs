@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-21T10:20+00:00",
+ "generated": "2026-11-21T16:22+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 633,
+   "open_jobs": 635,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
@@ -19,7 +19,7 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 897,
+   "open_jobs": 896,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
@@ -47,7 +47,7 @@
   },
   "DoorDash": {
    "status": "ok",
-   "open_jobs": 409,
+   "open_jobs": 408,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "doordashusa"
@@ -110,7 +110,7 @@
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 288,
+   "open_jobs": 297,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -222,7 +222,7 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2631,
+   "open_jobs": 2632,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 122,
+   "open_jobs": 121,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -411,7 +411,7 @@
   },
   "AQR": {
    "status": "ok",
-   "open_jobs": 40,
+   "open_jobs": 41,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "aqr"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 298,
-   "matches": 298,
+   "open_jobs": 300,
+   "matches": 300,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

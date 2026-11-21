@@ -1,17 +1,6 @@
 {
- "generated": "2026-11-21T10:20+00:00",
+ "generated": "2026-11-21T16:22+00:00",
  "jobs": [
-  {
-   "id": "w-2122750dc976",
-   "company": "Koch Industries",
-   "title": "Data and Analytics Intern",
-   "location": "Lisle, IL",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-21",
-   "found": "2026-11-21"
-  },
   {
    "id": "w-26e4531ce328",
    "company": "Pathlabs",
@@ -40,17 +29,6 @@
    "title": "AI Software Engineer Intern",
    "location": "United States",
    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-20",
-   "found": "2026-11-20"
-  },
-  {
-   "id": "w-602769608f33",
-   "company": "Honeywell Aerospace",
-   "title": "Information Systems Data Science Intern - IT",
-   "location": "United States",
-   "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-20",
@@ -110,17 +88,6 @@
    "category": "tech",
    "posted": "2026-11-20",
    "found": "2026-11-20"
-  },
-  {
-   "id": "w-cefb5712a410",
-   "company": "Lucid Motors",
-   "title": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
-   "location": "Newark, CA",
-   "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-20",
-   "found": "2026-11-21"
   },
   {
    "id": "w-0516b90517b9",
@@ -183,6 +150,17 @@
    "title": "Analytics Intern",
    "location": "Sioux Falls, SD",
    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-21"
+  },
+  {
+   "id": "w-324ef218ea73",
+   "company": "Woodward Governor",
+   "title": "AI Intern",
+   "location": "Niles, IL / Fort Collins, CO",
+   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-20",
@@ -266,6 +244,17 @@
    "found": "2026-11-20"
   },
   {
+   "id": "w-a4927542d06c",
+   "company": "Compassion International",
+   "title": "Summer Intern - Data and Software Engineering",
+   "location": "Colorado Springs, CO",
+   "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-21"
+  },
+  {
    "id": "w-be0f1196bab6",
    "company": "HERE Technologies",
    "title": "Data Science Intern",
@@ -332,17 +321,6 @@
    "found": "2026-11-18"
   },
   {
-   "id": "w-d1c3878dcc00",
-   "company": "Shopify",
-   "title": "Data Intern",
-   "location": "NYC",
-   "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-16",
-   "found": "2026-11-16"
-  },
-  {
    "id": "w-29779161b620",
    "company": "Meta",
    "title": "Research Scientist Intern - Intelligent Camera Systems",
@@ -396,6 +374,17 @@
    "category": "tech",
    "posted": "2026-11-16",
    "found": "2026-11-19"
+  },
+  {
+   "id": "w-43c66c42dde4",
+   "company": "Blizzard Entertainment",
+   "title": "Data Platform Engineering Intern - Data Platform Engineering",
+   "location": "Irvine, CA",
+   "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-21"
   },
   {
    "id": "w-442edf0b4449",
