@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T16:22+00:00",
+ "generated": "2026-11-22T10:20+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -12,21 +12,21 @@
   },
   "Scale AI": {
    "status": "ok",
-   "open_jobs": 169,
+   "open_jobs": 166,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "scaleai"
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 896,
+   "open_jobs": 895,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 778,
+   "open_jobs": 777,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -54,7 +54,7 @@
   },
   "Lyft": {
    "status": "ok",
-   "open_jobs": 148,
+   "open_jobs": 145,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "lyft"
@@ -103,14 +103,14 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 503,
+   "open_jobs": 504,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 297,
+   "open_jobs": 299,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 326,
+   "open_jobs": 325,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -222,7 +222,7 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2632,
+   "open_jobs": 2633,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -278,7 +278,7 @@
   },
   "Harvey": {
    "status": "ok",
-   "open_jobs": 388,
+   "open_jobs": 390,
    "matches": 0,
    "ats": "ashby",
    "slug": "harvey"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 121,
+   "open_jobs": 122,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -486,7 +486,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 260,
+   "open_jobs": 259,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -514,7 +514,7 @@
   },
   "PlayStation": {
    "status": "ok",
-   "open_jobs": 217,
+   "open_jobs": 215,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 300,
-   "matches": 300,
+   "open_jobs": 299,
+   "matches": 299,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

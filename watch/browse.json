@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T16:22+00:00",
+ "generated": "2026-11-22T10:20+00:00",
  "jobs": [
   {
    "id": "w-26e4531ce328",
@@ -167,6 +167,17 @@
    "found": "2026-11-21"
   },
   {
+   "id": "w-3851da804655",
+   "company": "Advance Auto Parts",
+   "title": "Data Science Intern",
+   "location": "Raleigh, NC",
+   "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-22"
+  },
+  {
    "id": "w-9f2e44b3830d",
    "company": "BlackRock",
    "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
@@ -253,6 +264,39 @@
    "category": "tech",
    "posted": "2026-11-19",
    "found": "2026-11-21"
+  },
+  {
+   "id": "w-229fae1f4caa",
+   "company": "TransUnion",
+   "title": "Data Science and Analytics Intern",
+   "location": "Chicago, IL",
+   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-22"
+  },
+  {
+   "id": "w-0fb77fd6d94a",
+   "company": "NVIDIA",
+   "title": "Applied Research Scientist Intern - Agentic Biology",
+   "location": "United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-22"
+  },
+  {
+   "id": "w-463e682bf685",
+   "company": "Schnucks",
+   "title": "Data Science Generative AI Intern",
+   "location": "St. Louis, MO",
+   "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-22"
   },
   {
    "id": "w-be0f1196bab6",
@@ -1300,6 +1344,17 @@
    "found": "2026-10-30"
   },
   {
+   "id": "w-743d4a6fdcc5",
+   "company": "Microsoft",
+   "title": "Applied Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-29",
+   "found": "2026-10-30"
+  },
+  {
    "id": "w-aa3ebcb24e31",
    "company": "AXA",
    "title": "Underwriting Data & Analytics Intern",
@@ -1382,17 +1437,6 @@
    "title": "Research Scientist Intern - Search",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/2171476533578976",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-27",
-   "found": "2026-10-27"
-  },
-  {
-   "id": "w-4d07829b4838",
-   "company": "Normal Computing",
-   "title": "AI Research Resident - Algorithms Codesign",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-27",
@@ -2213,17 +2257,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-6c119412ff1d",
-   "company": "Amazon",
-   "title": "Data Engineer Intern",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-9010d9858616",
    "company": "GenBio AI",
    "title": "Research Scientist Intern - AI Molecular Design",
@@ -2232,39 +2265,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-19f25c486508",
-   "company": "Nissan Global",
-   "title": "Manufacturing Digital Data Intern",
-   "location": "Decherd, TN",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-0f4a8ae8e8ae",
-   "company": "Nissan Global",
-   "title": "AI Agent Architect Intern",
-   "location": "Farmington Hills, MI",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-5476499cacb6",
-   "company": "Microsoft",
-   "title": "Applied Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-07",
    "found": "2026-10-13"
   }
  ]

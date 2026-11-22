@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "found": 5,
-    "note": "5 new roles (Lucid, Honeywell, Koch/Molex, Snowflake posted Nov 19–21; Shopify NYC posted Nov 16) · 0 more to browse · 0 new reports · 6 closure checks, none closed (Kensho page lists only a Summer 2026 role, left as is) · Problem: Honeywell, Snowflake, Calamos, GTI, BlackRock, Smule pages wouldn't load; discovery searches found no new open golf or Ashby roles"
+    "note": "5 new roles (Woodward, Advance Auto Parts, GTI Energy posted Nov 20; TransUnion Nov 19; Honeywell AI SWE Nov 20) · 0 more to browse · 0 new reports · 5 closure checks, none closed · Problem: Workday/Ultipro/BambooHR pages wouldn't load, so Summer 2027 for those relies on the feed terms or URL; discovery searches found no new open golf/Ashby roles"
   },
   "jobs": [
     {
@@ -1928,6 +1928,71 @@
       "found": "2026-11-21",
       "category": "tech",
       "posted": "2026-11-19"
+    },
+    {
+      "id": "woodward-ai-intern-2027",
+      "company": "Woodward",
+      "title": "AI Intern",
+      "location": "Fort Collins, CO / Niles, IL",
+      "source": "Workday",
+      "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+      "fit": "good",
+      "why": "Summer 2027 AI internship open to master's students; your LLaMA retrieval pipeline and PyTorch/RL projects map to applied AI work. The page wouldn't load for me, so check the description for specifics and location (Colorado/Illinois, not NYC/CA).",
+      "found": "2026-11-22",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "advance-auto-parts-data-science-intern-2027",
+      "company": "Advance Auto Parts",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "source": "Workday",
+      "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
+      "fit": "good",
+      "why": "Summer 2027 data science internship accepting master's students; your XGBoost leak-risk model on 14M+ readings (class imbalance, F1 thresholds) is directly relevant to retail/forecasting work. Raleigh-based, and the page wouldn't load so confirm details.",
+      "found": "2026-11-22",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "gti-energy-data-science-intern-2027",
+      "company": "GTI Energy",
+      "title": "Data Science Intern",
+      "location": "Des Plaines, IL",
+      "source": "Company site",
+      "url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
+      "fit": "good",
+      "why": "Summer 2027 data science internship open to master's students; your bridge-damage GAM/LASSO work and IoT water-leak model fit energy-infrastructure analytics. In-person Illinois; the page wouldn't load so confirm details.",
+      "found": "2026-11-22",
+      "category": "tech",
+      "posted": "2026-11-20"
+    },
+    {
+      "id": "transunion-data-science-analytics-intern-2027",
+      "company": "TransUnion",
+      "title": "Data Science and Analytics Intern",
+      "location": "Chicago, IL",
+      "source": "Workday",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+      "fit": "good",
+      "why": "Summer 2027 data science and analytics internship; your imbalanced-classification work (XGBoost, F1 tuning) and SQL/Python fit credit-risk modeling. Title is analytics-leaning, and the page wouldn't load so confirm degree level.",
+      "found": "2026-11-22",
+      "category": "tech",
+      "posted": "2026-11-19"
+    },
+    {
+      "id": "honeywell-aerospace-ai-software-engineer-intern-2027",
+      "company": "Honeywell Aerospace",
+      "title": "AI Software Engineer Intern",
+      "location": "United States",
+      "source": "Company site",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
+      "fit": "stretch",
+      "why": "Summer 2027 role listing master's students; your LLM retrieval pipeline and PyTorch/Hugging Face experience apply, but it leans software engineering so expect more production-coding emphasis.",
+      "found": "2026-11-22",
+      "category": "tech",
+      "posted": "2026-11-20"
     }
   ],
   "browse": [

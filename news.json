@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Thursday sell-off: S&P 500 down 2%, Nasdaq down 2.3%, Dow down 2.2% as AI doubts spread",
-      "note": "The S&P 500 closed at 7,175.83 (-147.80 points), the Nasdaq at 23,879.20 and the Dow at 49,097.06 (-1,101.11 points), as investors grew less sure the AI boom keeps driving growth. This is the latest close I could confirm; I couldn't find Friday's.",
+      "headline": "Stocks ended Thursday's sell-off at their lowest since spring; I couldn't find Friday's close",
+      "note": "On Thursday the S&P 500 closed at 7,175.83, the Nasdaq at 23,879.20 and the Dow at 49,097.06, each down more than 2% as worries grew that the AI boom is fading. Reports say the S&P 500 had lost ground six days running and sat at its lowest level since April.",
       "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/",
       "source": "La Nación (AP market table)"
     },
     {
-      "tag": "AI",
-      "headline": "Anthropic debuts on Nasdaq: opens at $111.50, closes at $97.17",
-      "note": "ANT priced at $83 and ended its first day up 17.1% after opening about 34% higher, per CNBC via Forbes Australia. Volume topped 600 million shares by early afternoon. A big AI listing landed on the same day AI stocks fell.",
-      "url": "https://www.forbes.com.au/news/innovation/anthropic-ipo-live-shares-close-first-day-up-more-than-17-percent/",
-      "source": "Forbes Australia"
+      "tag": "Markets",
+      "headline": "Wednesday's drop: Dow lost 561 points, S&P 500 slipped 0.23%",
+      "note": "The Dow fell 561.25 points to 50,198.17 and the S&P 500 fell 16.90 points to 7,323.63 on Nov. 18. Read next to Thursday, it shows the slide picking up speed.",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11182026-nid18112026/",
+      "source": "La Nación (AP market table)"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic staff can sell up to 10% of shares on day one; another 35% frees up early next year",
-      "note": "Per Business Insider reporting summarized in search results, not confirmed on the original page. It's an example of a lock-up schedule, which matters if you ever get equity at a company that goes public.",
+      "headline": "Anthropic debuts on Nasdaq: priced at $83, closes day one at $97.17",
+      "note": "The stock closed up about 17% from the IPO price after a first-day high near $115, and it faded through the day. Trading volume was heavy even as AI stocks sold off.",
+      "url": "https://valueaddvc.com/pulse/anthropic-ipo-first-day-close-97-17-up-17-percent-2026",
+      "source": "Value Add VC"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic: up to 315M existing shares could be sold from day one; Q3 swung to an operating loss",
+      "note": "Search summaries say a Nov. 17 filing amendment allowed those sales, and that operating profit of $974M in Q2 became a $567M operating loss in Q3. I didn't confirm these on the original pages. Share supply and profitability are what analysts are watching.",
       "url": "https://thenextweb.com/news/anthropic-ipo-amodei-nasdaq-bell-ant-debut-needham-staff-sales",
       "source": "The Next Web"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia under pressure: Huang out as CEO, Treasury's Bessent demands an outside successor",
-      "note": "Jensen Huang resigned Nov. 12 and CFO Colette Kress is interim CEO. Bessent gave the board 10 days to answer questions about China-related chip sales, and Commerce Secretary Lutnick will testify to the Senate Banking Committee Dec. 10. Export-control and governance news now moves AI chip stocks.",
-      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
-      "source": "Fortune"
+      "headline": "Nvidia: Bessent's 10-day deadline for the board lands around Nov. 25",
+      "note": "Jensen Huang resigned as CEO on Nov. 12 and CFO Colette Kress is interim CEO. Treasury Secretary Bessent wants an outside successor and answers on China chip sales. Export-control and governance news now moves AI chip stocks.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia",
+      "source": "Al Jazeera"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia fell 2.9% after earnings despite $115.8B in revenue",
-      "note": "Revenue was up 103% from a year earlier with a ~$130B forecast, yet the stock slipped on the CEO transition and doubts about how long AI spending lasts. A good report no longer guarantees a rising stock.",
-      "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
-      "source": "IBTimes"
+      "headline": "Nvidia board reportedly floated Arm CEO Rene Haas; big investors want a slow search",
+      "note": "The FT reportedly said Haas was floated. Investors Brad Gerstner and Gavin Baker asked for a deliberate process that leaves room for Huang's return. Both points come from a search summary, not a page I read.",
+      "url": "https://investinglive.com/stocks/weekend-bessent-urges-nvidia-to-hire-an-outsider-ceo-pouring-cold-water-on-a-huang-comeback/",
+      "source": "investingLive"
     },
     {
       "tag": "Economy",
-      "headline": "Fed minutes: nearly all officials expect a December rate hike",
-      "note": "Minutes from the Oct. 27–28 meeting show nearly all officials expect a quarter-point hike in December, with two floating a half-point. Higher rates tend to pressure tech and growth stocks.",
-      "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/",
-      "source": "Anchorage Daily News"
-    },
-    {
-      "tag": "AI",
-      "headline": "OpenAI releases GPT-6.2 Astra and Sol",
-      "note": "Reported to improve professional work, coding and computer use at lower compute cost; Astra's input price is 20% below the original model's. I only saw summaries, so check OpenAI's page for specifics.",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/",
-      "source": "The Neuron"
+      "headline": "Fed meets Dec. 8–9 with a quarter-point hike widely expected",
+      "note": "The Fed hiked in September and held Oct. 28 on a 10-2 vote, with two officials wanting another hike; the range is 3.75%–4.00%. After October payrolls rose 165,000 with unemployment at 4.1%, markets put a December hike near 77% (as of Nov. 6, so odds may have moved). The November jobs report is due Dec. 4.",
+      "url": "https://www.webull.com/news/15883683924537344",
+      "source": "Webull"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs top 142,000 this year, but data science skills hold up better",
-      "note": "Layoffs.fyi counted 142,000+ tech layoffs at 350 companies as of Nov. 11. Data and analytics roles look more resilient than general tech postings, though entry-level hiring in AI-exposed jobs is weaker, so internship competition is likely tough.",
+      "headline": "Tech layoffs pass 142,000 this year, yet data scientist postings are rising",
+      "note": "Layoffs.fyi counted more than 142,000 tech layoffs as of Nov. 11. The same source says CompTIA saw double-digit posting gains for data scientists in October, though entry-level hiring stays weak, so internship applications should go out early.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
     }
   ],
   "learn": {
-    "n": 40,
-    "term": "Drawdown",
-    "explain": "A drawdown is how far an investment has fallen from its most recent peak, usually shown as a percentage. If a fund goes from $100 to $90, it's in a 10% drawdown, and it needs an 11% gain to get back to $100. Thursday's 2% one-day drop in the S&P 500 is a small drawdown on its own, but drawdowns add up across days: the index also had a multi-day losing streak this week. Looking at the maximum drawdown shows how painful holding something could have been, not just its average return.",
-    "try": "Search for the S&P 500's maximum drawdown in 2022 and compare it with its drop this week."
+    "n": 41,
+    "term": "Operating profit (operating income)",
+    "explain": "Operating profit is what a company earns from its core business after paying the costs of running it, such as salaries, computing and marketing, but before interest and taxes. If a company sells $100 of services and spends $80 running the business, its operating profit is $20. Anthropic's reported swing from a $974M operating profit in Q2 to a $567M operating loss in Q3 (per search summaries) shows how fast this number can move when spending jumps. Investors look at it because it shows whether the core business makes money, without one-off items.",
+    "try": "Look up the operating margin (operating profit divided by revenue) of a company you use, like Apple or Nvidia."
   },
   "learned": [
     "Earnings season and EPS",
@@ -104,6 +104,7 @@
     "Book-building (how an IPO gets its price)",
     "Private placement",
     "Opening auction (why a new stock's first trade differs from its IPO price)",
-    "Drawdown"
+    "Drawdown",
+    "Operating profit (operating income)"
   ]
 }
