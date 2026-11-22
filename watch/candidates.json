@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T10:20+00:00",
+ "generated": "2026-11-22T16:37+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -27,27 +27,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
-  },
-  {
-   "title": "AI Software Engineer Intern",
-   "location": "United States",
-   "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
-   "posted": "2026-11-20",
-   "company": "Honeywell Aerospace",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "MBA",
-    "PharmD",
-    "PhD"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-20",
@@ -182,24 +161,6 @@
    "last_seen": "2026-11-22"
   },
   {
-   "title": "Data Science Intern",
-   "location": "Des Plaines, IL",
-   "url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
-   "posted": "2026-11-20",
-   "company": "GTI Energy",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22"
-  },
-  {
    "title": "Data Analytics Intern",
    "location": "Jackson, MS",
    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
@@ -247,39 +208,6 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22"
-  },
-  {
-   "title": "AI Intern",
-   "location": "Niles, IL / Fort Collins, CO",
-   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
-   "posted": "2026-11-20",
-   "company": "Woodward Governor",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Raleigh, NC",
-   "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
-   "posted": "2026-11-20",
-   "company": "Advance Auto Parts",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-22",
    "last_seen": "2026-11-22"
   }
  ]

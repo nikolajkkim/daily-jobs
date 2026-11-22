@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-22T10:20+00:00",
+ "generated": "2026-11-22T16:37+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
    "status": "ok",
-   "open_jobs": 635,
+   "open_jobs": 633,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "anthropic"
@@ -19,7 +19,7 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 895,
+   "open_jobs": 894,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 325,
+   "open_jobs": 324,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 299,
-   "matches": 299,
+   "open_jobs": 300,
+   "matches": 300,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }
