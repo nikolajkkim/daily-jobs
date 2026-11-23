@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-22",
-    "found": 5,
-    "note": "5 new roles (Woodward, Advance Auto Parts, GTI Energy posted Nov 20; TransUnion Nov 19; Honeywell AI SWE Nov 20) · 0 more to browse · 0 new reports · 5 closure checks, none closed · Problem: Workday/Ultipro/BambooHR pages wouldn't load, so Summer 2027 for those relies on the feed terms or URL; discovery searches found no new open golf/Ashby roles"
+    "date": "2026-11-23",
+    "found": 4,
+    "note": "4 new roles (Genentech NYC, BlackRock NYC, CMU SEI, Schnucks; posted Nov 16–19) · 0 more to browse · 0 new reports · Problem: Workday pages wouldn't load so Summer 2027 relies on URL/title; discovery searches found no verifiable open Summer 2027 roles; Artefact NYC AI Engineer Intern left out (no term stated)"
   },
   "jobs": [
     {
@@ -1993,6 +1993,58 @@
       "found": "2026-11-22",
       "category": "tech",
       "posted": "2026-11-20"
+    },
+    {
+      "id": "genentech-ai-drug-discovery-intern-2027",
+      "company": "Genentech",
+      "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
+      "location": "NYC",
+      "source": "Workday",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
+      "fit": "good",
+      "why": "Summer 2027 per the posting URL, in NYC. Your LLaMA retrieval pipeline and GAM/neural-net modeling carry over to ML for biology, but you have no bio background and the page wouldn't load, so check degree level (may prefer PhD) before applying.",
+      "found": "2026-11-23",
+      "category": "tech",
+      "posted": "2026-11-19"
+    },
+    {
+      "id": "blackrock-quant-masters-analytics-modeling-ny-2027",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
+      "location": "New York, NY",
+      "source": "Workday",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+      "fit": "good",
+      "why": "A master's-specific 2027 program in NYC, so your Columbia M.S. fits directly. Your XGBoost work on 14M+ readings and your modeling projects map to analytics and modeling, though it is finance-flavored and you have no finance experience. The page wouldn't load, so confirm summer timing.",
+      "found": "2026-11-23",
+      "category": "finance",
+      "posted": "2026-11-19"
+    },
+    {
+      "id": "cmu-sei-ai-engineer-intern-mission-innovation-2027",
+      "company": "Carnegie Mellon University (SEI)",
+      "title": "AI Engineer Intern - Mission Innovation Lab",
+      "location": "Pittsburgh, PA",
+      "source": "Workday",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+      "fit": "good",
+      "why": "Summer 2027 per the posting title. Your LLM retrieval pipeline with few-shot prompting and the deployed school-district system fit applied AI work. The page wouldn't load, so check for citizenship or clearance requirements.",
+      "found": "2026-11-23",
+      "category": "tech",
+      "posted": "2026-11-16"
+    },
+    {
+      "id": "schnucks-data-science-genai-intern-2027",
+      "company": "Schnucks",
+      "title": "Data Science Generative AI Intern",
+      "location": "St. Louis, MO",
+      "source": "Workday",
+      "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+      "fit": "good",
+      "why": "A 2027 data science and GenAI internship that lines up with your LLaMA/embeddings retrieval work and DistilBERT fine-tuning. The page wouldn't load, so confirm Summer 2027 timing and master's eligibility. It is in St. Louis, not NYC or California.",
+      "found": "2026-11-23",
+      "category": "tech",
+      "posted": "2026-11-19"
     }
   ],
   "browse": [

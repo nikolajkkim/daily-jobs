@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-22T16:37+00:00",
+ "generated": "2026-11-23T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-5e89da9841f5",
+   "company": "TikTok",
+   "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7705023349533346101",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-23"
+  },
+  {
+   "id": "w-54feae73ad8c",
+   "company": "Artefact",
+   "title": "AI Engineer Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-23"
+  },
   {
    "id": "w-26e4531ce328",
    "company": "Pathlabs",
@@ -134,6 +156,17 @@
    "found": "2026-11-21"
   },
   {
+   "id": "w-f25bd76abb41",
+   "company": "General Dynamics Information Technology",
+   "title": "AI and Estimation Intern - Interns",
+   "location": "Falls Church, VA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-23"
+  },
+  {
    "id": "w-9f2e44b3830d",
    "company": "BlackRock",
    "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
@@ -244,6 +277,17 @@
    "found": "2026-11-22"
   },
   {
+   "id": "w-d5e2058ee6b3",
+   "company": "Genentech",
+   "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
+   "location": "NYC",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-23"
+  },
+  {
    "id": "w-be0f1196bab6",
    "company": "HERE Technologies",
    "title": "Data Science Intern",
@@ -275,6 +319,17 @@
    "category": "tech",
    "posted": "2026-11-18",
    "found": "2026-11-19"
+  },
+  {
+   "id": "w-587ace56ec93",
+   "company": "CME Group",
+   "title": "Quantitative Data & AI Analytics Intern",
+   "location": "NYC",
+   "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-23"
   },
   {
    "id": "w-67b04dde1eb0",
@@ -396,6 +451,17 @@
    "category": "tech",
    "posted": "2026-11-16",
    "found": "2026-11-22"
+  },
+  {
+   "id": "w-03f13fbded06",
+   "company": "Lumentum",
+   "title": "Data Science & Analytics Intern",
+   "location": "San Jose, CA",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-23"
   },
   {
    "id": "w-442edf0b4449",
@@ -2081,6 +2147,17 @@
    "found": "2026-10-16"
   },
   {
+   "id": "w-3bc880847c38",
+   "company": "General Motors",
+   "title": "Seam Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-15",
+   "found": "2026-10-16"
+  },
+  {
    "id": "w-41fbb1490fb3",
    "company": "American Family Insurance Group",
    "title": "Enterprise Data Intern - Enablement, Service & Support",
@@ -2136,17 +2213,6 @@
    "found": "2026-10-13"
   },
   {
-   "id": "w-b975e4ad0ff4",
-   "company": "Papa John's",
-   "title": "Data Science Intern",
-   "location": "Atlanta, GA",
-   "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-3ed57776a07e",
    "company": "Bosch Home Comfort",
    "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
@@ -2166,72 +2232,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-beae56d6e796",
-   "company": "NVIDIA",
-   "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-5164445ddbec",
-   "company": "General Motors",
-   "title": "Summer Intern - Onboard Autonomy - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-8eb90fa4e50a",
-   "company": "General Motors",
-   "title": "Data Scaling Intern - Data Scaling - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-67e148572054",
-   "company": "General Motors",
-   "title": "Seam Intern - Embodied AI",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-996e4327a5ae",
-   "company": "Workday",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Pleasanton, CA",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9010d9858616",
-   "company": "GenBio AI",
-   "title": "Research Scientist Intern - AI Molecular Design",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-08",
    "found": "2026-10-13"
   }
  ]
