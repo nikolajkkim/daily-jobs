@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:20+00:00",
+ "generated": "2026-11-23T20:31+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -29,6 +29,24 @@
     "N/A"
    ],
    "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "title": "Data Scientist Intern - Water",
+   "location": "Boston, MA / Denver, CO / San Diego, CA",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
+   "posted": "2026-11-23",
+   "company": "Stantec",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",

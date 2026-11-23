@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:20+00:00",
+ "generated": "2026-11-23T20:31+00:00",
  "jobs": [
   {
    "id": "w-5e89da9841f5",
@@ -18,6 +18,17 @@
    "title": "AI Engineer Intern",
    "location": "NYC",
    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-23"
+  },
+  {
+   "id": "w-2e35fe3286d4",
+   "company": "Stantec",
+   "title": "Data Scientist Intern - Water",
+   "location": "Boston, MA / Denver, CO / San Diego, CA",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-23",
@@ -178,17 +189,6 @@
    "found": "2026-11-19"
   },
   {
-   "id": "w-2e613e7716fa",
-   "company": "BlackRock",
-   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
-   "location": "New York, NY",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
-   "source": "Simplify list",
-   "category": "finance",
-   "posted": "2026-11-19",
-   "found": "2026-10-13"
-  },
-  {
    "id": "w-4b7e31798f27",
    "company": "Meta",
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
@@ -264,28 +264,6 @@
    "category": "tech",
    "posted": "2026-11-19",
    "found": "2026-11-22"
-  },
-  {
-   "id": "w-463e682bf685",
-   "company": "Schnucks",
-   "title": "Data Science Generative AI Intern",
-   "location": "St. Louis, MO",
-   "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-19",
-   "found": "2026-11-22"
-  },
-  {
-   "id": "w-d5e2058ee6b3",
-   "company": "Genentech",
-   "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
-   "location": "NYC",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-19",
-   "found": "2026-11-23"
   },
   {
    "id": "w-be0f1196bab6",
@@ -407,17 +385,6 @@
    "category": "tech",
    "posted": "2026-11-16",
    "found": "2026-11-17"
-  },
-  {
-   "id": "w-40cf0f00a2b3",
-   "company": "Carnegie Mellon University",
-   "title": "AI Engineer Intern - Mission Innovation Lab",
-   "location": "Pittsburgh, PA",
-   "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-16",
-   "found": "2026-11-19"
   },
   {
    "id": "w-43c66c42dde4",
