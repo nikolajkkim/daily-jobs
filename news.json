@@ -1,75 +1,68 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks plunge Friday: S&P 500 down 3.7%, Nasdaq down 5.3%, worst week in 18+ months",
-      "note": "The S&P 500 closed at 6,910.39 (down 8.6% for the week) and entered a correction, more than 10% below its Oct. 6 record. The Dow fell 1.9% to 48,147.33 and the Nasdaq fell 5.3% to 22,617.73, now negative for 2026. AI and chip stocks led the drop.",
-      "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html",
-      "source": "AP via Yakima Herald"
+      "headline": "Stocks surge Monday: S&P 500 up 4.7%, Nasdaq up 6.5%, Dow up 3%",
+      "note": "The S&P 500 closed at 7,237.17, the Nasdaq at 24,089.56 and the Dow at 49,595.31, ending the S&P's seven-session losing streak. The jump recovered a bit more than half of the prior week's 8.6% S&P drop, and Nvidia's CEO news drove it.",
+      "url": "https://www.stl.news/us-stock-market-today-november-23-2026/",
+      "source": "STL News (AP data)"
     },
     {
       "tag": "Chips",
-      "headline": "Chip stocks crater: Nvidia down 13.8%, semiconductor index down 10.7%",
-      "note": "Micron, AMD and Broadcom each fell 12% to 14%. Investors doubt that AI companies' high valuations and heavy spending can be justified. Nvidia is down more than 25% since the Huang leadership scandal began.",
-      "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/",
-      "source": "NBC Bay Area (AP)"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic falls 9.1% to $88.30, still above its $83 IPO price",
-      "note": "The stock is about 23% below the $115.10 peak it hit a day earlier. Its first week as a public company coincided with the AI sell-off.",
-      "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/",
-      "source": "NBC Bay Area (AP)"
-    },
-    {
-      "tag": "AI",
-      "headline": "Election results favoring slower data center buildout add to AI worries",
-      "note": "AP listed this as one factor in Friday's sell-off. Less data center construction would mean less demand for chips and cloud capacity, which affects the AI industry you want to work in.",
-      "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/",
-      "source": "NBC Bay Area (AP)"
+      "headline": "Nvidia reinstates Jensen Huang as CEO; stock jumps more than 31%",
+      "note": "The board voted to bring Huang back effective immediately, 11 days after he resigned, citing input from senior U.S. government levels. Nvidia closed around $165.05, which lifted AMD, Micron and Dell too.",
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
+      "source": "NBC News"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia: Bessent's 10-day deadline for the board lands around Nov. 25",
-      "note": "Jensen Huang resigned as CEO and CFO Colette Kress is interim CEO. Treasury Secretary Bessent wants an outside successor and answers on whether shell companies funneled Nvidia chips to China. I found no board response yet.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia",
-      "source": "Al Jazeera"
+      "headline": "Trump says he 'convinced' Nvidia's board to rehire Huang",
+      "note": "CNBC reports the board's decision came after a personal assurance from Trump on Sunday. The board had publicly refused to rehire Huang four days earlier, and lawmakers from both parties reacted with shock. Senator Warren said Huang and the board still owe Congress answers.",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "source": "CNBC"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic (ANT) slips about 1.4% on its third day of trading",
+      "note": "The stock fell 9.1% Friday and has been choppy since its Nov. 19 debut at an $83 IPO price. It is a good example of how new AI-linked stocks swing with the whole sector.",
+      "url": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/",
+      "source": "FinanceFeeds (citing CNBC)"
+    },
+    {
+      "tag": "Tech",
+      "headline": "CrowdStrike to buy Zscaler in an all-stock deal valued at about $43.9 billion",
+      "note": "Each Zscaler share converts into 1.135 CrowdStrike shares, a roughly 34% premium. Zscaler rose about 13% and CrowdStrike fell about 9% on the news. This is a big cybersecurity consolidation, and the deal is expected to close in the second half of CrowdStrike's fiscal 2028.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm",
+      "source": "SEC filing (Zscaler 8-K)"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia's last report: revenue up 103% and a higher forecast",
+      "note": "Fiscal Q3 revenue rose 103% to $116 billion, and Nvidia guided to $130 billion next quarter. Even so, the stock was down about 39% over the past month before Monday's jump, so doubts about AI spending returns are still the main worry.",
+      "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
+      "source": "24/7 Wall St."
     },
     {
       "tag": "Economy",
-      "headline": "10-year Treasury yield falls to 4.93% as investors flee stocks",
-      "note": "The yield dropped from 5.04% as money moved into government bonds. Brent crude rose 0.6% to $92.57 amid tensions tied to the U.S. war with Iran. Michigan consumer sentiment rose from last month.",
-      "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/",
-      "source": "NBC Bay Area (AP)"
-    },
-    {
-      "tag": "Economy",
-      "headline": "Fed meets Dec. 8–9; a quarter-point hike was about 77% priced in after the October jobs report",
-      "note": "October payrolls rose 165,000 and unemployment fell to 4.1%. That odds figure dates from early November and may have changed after this week's sell-off. The November jobs report is due Dec. 4.",
-      "url": "https://www.webull.com/news/15883683924537344",
-      "source": "Webull"
+      "headline": "10-year yield near 4.92%, oil lower; PCE inflation due Wednesday",
+      "note": "The VIX fear gauge fell about 26% to 26.62. The PCE inflation report on Wednesday will shape Fed rate expectations. Markets close Thursday for Thanksgiving and shut at 1 p.m. Friday.",
+      "url": "https://www.stl.news/us-stock-market-today-november-23-2026/",
+      "source": "STL News (AP data)"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs pass 142,000 this year, but data science demand has held up better",
-      "note": "Layoffs.fyi counted over 142,000 tech layoffs as of Nov. 11. Indeed data cited by one outlet says data and analytics demand has held up better than tech overall, though entry-level hiring is mixed. An AI-driven slowdown could make internships more competitive, so apply early.",
+      "headline": "Tech hiring is recovering but still below pre-pandemic levels, one market report says",
+      "note": "The same report found statistics and ML skills in 92% of early-2026 data science postings. Layoff trackers still show heavy cuts this year, and some are tied to AI. Keep ML and stats fundamentals front and center.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
-    },
-    {
-      "tag": "NYC",
-      "headline": "NYC startups raised $270M+ across 11 deals the week of Nov. 8–14",
-      "note": "AlleyWatch's weekly roundup highlights AI company Hatz AI's $24M round. Local funding was still flowing before this week's sell-off, which could slow later rounds.",
-      "url": "https://alleywatch.com/tag/opensky-ventures/",
-      "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 42,
-    "term": "Flight to safety (safe-haven assets)",
-    "explain": "When investors get scared, they often sell risky assets like stocks and buy ones seen as safe, such as US government bonds. Heavy buying pushes a bond's price up, and because price and yield move in opposite directions, the yield falls. On Friday the 10-year Treasury yield dropped to 4.93% from 5.04% while stocks plunged. That pattern is called a flight to safety. It doesn't always happen, but it is a common sign of fear in the market.",
-    "try": "Pull up the 10-year Treasury yield chart and compare it with the S&P 500 over the past week."
+    "n": 43,
+    "term": "All-stock acquisition and the deal premium",
+    "explain": "When one company buys another, it can pay in cash, in its own shares, or both. In an all-stock deal, each target share is swapped for a fixed number of the buyer's shares, called the exchange ratio. CrowdStrike offered 1.135 of its shares for each Zscaler share. At CrowdStrike's Nov. 20 price, that was worth about $260.41, or a premium of about 34% over Zscaler's price. Buyers pay a premium to persuade owners to sell. Because the payment is in shares, the deal's dollar value moves with the buyer's stock price, and that is why Zscaler's stock follows CrowdStrike's until the deal closes.",
+    "try": "Look up the Zscaler and CrowdStrike prices today and multiply CrowdStrike's price by 1.135. How close is the result to Zscaler's price?"
   },
   "learned": [
     "Earnings season and EPS",
@@ -113,6 +106,7 @@
     "Opening auction (why a new stock's first trade differs from its IPO price)",
     "Drawdown",
     "Operating profit (operating income)",
-    "Flight to safety (safe-haven assets)"
+    "Flight to safety (safe-haven assets)",
+    "All-stock acquisition and the deal premium"
   ]
 }

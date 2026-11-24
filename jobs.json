@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-23",
-    "found": 4,
-    "note": "4 new roles (Genentech NYC, BlackRock NYC, CMU SEI, Schnucks; posted Nov 16–19) · 0 more to browse · 0 new reports · Problem: Workday pages wouldn't load so Summer 2027 relies on URL/title; discovery searches found no verifiable open Summer 2027 roles; Artefact NYC AI Engineer Intern left out (no term stated)"
+    "date": "2026-11-24",
+    "found": 3,
+    "note": "3 new roles (NVIDIA, Stantec, BlackRock SF; posted Nov 19–23) · 1 more to browse (TWG) · 0 new reports · Problem: only 3 eligible this run; most candidates lacked a stated Summer 2027 term, Workday/Oracle pages wouldn't load, and Section B closed-listing checks were skipped"
   },
   "jobs": [
     {
@@ -2045,6 +2045,45 @@
       "found": "2026-11-23",
       "category": "tech",
       "posted": "2026-11-19"
+    },
+    {
+      "id": "w-0fb77fd6d94a",
+      "company": "NVIDIA",
+      "title": "Applied Research Scientist Intern - Agentic Biology (Summer 2027)",
+      "location": "United States (Santa Clara, CA)",
+      "source": "Workday",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+      "fit": "good",
+      "why": "Summer 2027. Agentic LLM work builds on your LLaMA retrieval pipeline and few-shot prompting; the biology domain is new to you, and the page wouldn't load so check degree level and grad date before applying.",
+      "found": "2026-11-24",
+      "posted": "2026-11-19",
+      "category": "tech"
+    },
+    {
+      "id": "w-2e35fe3286d4",
+      "company": "Stantec",
+      "title": "Data Scientist Intern - Water",
+      "location": "Boston, MA / Denver, CO / San Diego, CA",
+      "source": "Company site",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students. Your XGBoost water-leak model on 14M+ IoT readings and bridge-damage modeling map directly onto water infrastructure analytics.",
+      "found": "2026-11-24",
+      "posted": "2026-11-23",
+      "category": "tech"
+    },
+    {
+      "id": "w-9f2e44b3830d",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+      "location": "San Francisco, CA",
+      "source": "Workday",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+      "fit": "good",
+      "why": "2027 master's-level program, so your Columbia M.S. fits; your modeling work (GAMs, LASSO, XGBoost with F1 thresholds) suits analytics and modeling, though it is finance-heavy and the page wouldn't load to confirm the summer dates.",
+      "found": "2026-11-24",
+      "posted": "2026-11-19",
+      "category": "finance"
     }
   ],
   "browse": [
@@ -2637,6 +2676,19 @@
         "outcome": "removed",
         "note": "Posting closed"
       }
+    },
+    {
+      "id": "twg-ai-data-science-intern-maqr-2027",
+      "company": "TWG Global",
+      "title": "AI Data Science Intern (MAQR) - Summer 2027",
+      "location": "Santa Monica, CA",
+      "source": "Workable",
+      "url": "https://apply.workable.com/twgai/jobs/view/AC536E5EE2",
+      "fit": "strong",
+      "why": "Summer 2027 and explicitly for master's students in data science. Time-series forecasting, scikit-learn/PyTorch and statistics line up with your GAMs/LASSO and XGBoost work; on-site in Santa Monica.",
+      "found": "2026-11-24",
+      "posted": "2026-09-01",
+      "category": "finance"
     }
   ]
 }

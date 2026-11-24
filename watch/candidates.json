@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T20:31+00:00",
+ "generated": "2026-11-24T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -17,7 +17,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "last_seen": "2026-11-24"
   },
   {
    "title": "AI Engineer Intern",
@@ -32,7 +32,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "last_seen": "2026-11-24"
   },
   {
    "title": "Data Scientist Intern - Water",
@@ -50,7 +50,73 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "last_seen": "2026-11-24"
+  },
+  {
+   "title": "Energy and Utilities Software Product Design and AI Development Intern",
+   "location": "Raleigh, NC",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
+   "posted": "2026-11-23",
+   "company": "Honeywell",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "title": "Data Scientist Intern",
+   "location": "Indianapolis, IN",
+   "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
+   "posted": "2026-11-23",
+   "company": "Milliman",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "title": "AI and Automation Intern",
+   "location": "Charlottesville, VA",
+   "url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027",
+   "posted": "2026-11-23",
+   "company": "CornerStone Partners",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "title": "Collections Analytics Intern",
+   "location": "Sioux Falls, SD",
+   "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565",
+   "posted": "2026-11-23",
+   "company": "First PREMIER Bank",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   }
  ]
 }

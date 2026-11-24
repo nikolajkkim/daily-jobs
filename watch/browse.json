@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T20:31+00:00",
+ "generated": "2026-11-24T10:20+00:00",
  "jobs": [
   {
    "id": "w-5e89da9841f5",
@@ -33,6 +33,50 @@
    "category": "tech",
    "posted": "2026-11-23",
    "found": "2026-11-23"
+  },
+  {
+   "id": "w-4696431b3f12",
+   "company": "Honeywell",
+   "title": "Energy and Utilities Software Product Design and AI Development Intern",
+   "location": "Raleigh, NC",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-24"
+  },
+  {
+   "id": "w-d379e266dbc6",
+   "company": "Milliman",
+   "title": "Data Scientist Intern",
+   "location": "Indianapolis, IN",
+   "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-24"
+  },
+  {
+   "id": "w-fd8a6ecc0577",
+   "company": "CornerStone Partners",
+   "title": "AI and Automation Intern",
+   "location": "Charlottesville, VA",
+   "url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-24"
+  },
+  {
+   "id": "w-d4f34451120d",
+   "company": "First PREMIER Bank",
+   "title": "Collections Analytics Intern",
+   "location": "Sioux Falls, SD",
+   "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-24"
   },
   {
    "id": "w-26e4531ce328",
@@ -167,17 +211,6 @@
    "found": "2026-11-21"
   },
   {
-   "id": "w-f25bd76abb41",
-   "company": "General Dynamics Information Technology",
-   "title": "AI and Estimation Intern - Interns",
-   "location": "Falls Church, VA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-20",
-   "found": "2026-11-23"
-  },
-  {
    "id": "w-9f2e44b3830d",
    "company": "BlackRock",
    "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
@@ -227,17 +260,6 @@
    "title": "Research Scientist Intern - AI Agents for Autonomous Laboratories",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/29481973694788756",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-19",
-   "found": "2026-11-20"
-  },
-  {
-   "id": "w-2ff2d9ce79c2",
-   "company": "Snowflake",
-   "title": "Software Engineer Intern - AI / ML",
-   "location": "Menlo Park, CA / Bellevue, WA",
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-19",
@@ -308,17 +330,6 @@
    "category": "tech",
    "posted": "2026-11-18",
    "found": "2026-11-23"
-  },
-  {
-   "id": "w-67b04dde1eb0",
-   "company": "Robert Bosch Venture Capital",
-   "title": "AI Application Intern",
-   "location": "Farmington Hills, MI",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-17",
-   "found": "2026-11-17"
   },
   {
    "id": "w-131ca41e977b",
@@ -733,17 +744,6 @@
    "title": "AI/ML Business Intelligence Development Intern",
    "location": "Bossier City, LA",
    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-10",
-   "found": "2026-11-11"
-  },
-  {
-   "id": "w-d4e5593131eb",
-   "company": "International",
-   "title": "Artificial Intelligence/Machine Learning Intern",
-   "location": "Lisle, IL",
-   "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-10",
@@ -1287,17 +1287,6 @@
    "category": "tech",
    "posted": "2026-10-31",
    "found": "2026-10-31"
-  },
-  {
-   "id": "w-50d52be92ac2",
-   "company": "Astera Labs",
-   "title": "AI Product Management Intern",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-30",
-   "found": "2026-10-30"
   },
   {
    "id": "w-0e75ac9833fc",
@@ -1916,6 +1905,17 @@
    "found": "2026-11-05"
   },
   {
+   "id": "w-86f77eaa29b7",
+   "company": "RoboForce",
+   "title": "AI Resident",
+   "location": "Milpitas, CA",
+   "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-10-21",
+   "found": "2026-11-24"
+  },
+  {
    "id": "w-8ebe0772f7d1",
    "company": "Meta",
    "title": "Research Scientist Intern - Multimodal Behavioral AI",
@@ -2177,28 +2177,6 @@
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-12",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-3ed57776a07e",
-   "company": "Bosch Home Comfort",
-   "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
-   "found": "2026-10-13"
-  },
-  {
-   "id": "w-9ef489c8b3c3",
-   "company": "SageSure",
-   "title": "Data Operations Engineer Intern",
-   "location": "Jersey City, NJ / Cheshire, CT",
-   "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-09",
    "found": "2026-10-13"
   }
  ]
