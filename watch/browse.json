@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-24T10:20+00:00",
+ "generated": "2026-11-24T19:41+00:00",
  "jobs": [
+  {
+   "id": "w-f147e3808fb5",
+   "company": "BEUMER Group",
+   "title": "AI Development Intern",
+   "location": "Somerset County, NJ",
+   "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-24"
+  },
   {
    "id": "w-5e89da9841f5",
    "company": "TikTok",
@@ -18,17 +29,6 @@
    "title": "AI Engineer Intern",
    "location": "NYC",
    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-23",
-   "found": "2026-11-23"
-  },
-  {
-   "id": "w-2e35fe3286d4",
-   "company": "Stantec",
-   "title": "Data Scientist Intern - Water",
-   "location": "Boston, MA / Denver, CO / San Diego, CA",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-23",
@@ -211,15 +211,15 @@
    "found": "2026-11-21"
   },
   {
-   "id": "w-9f2e44b3830d",
-   "company": "BlackRock",
-   "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
-   "location": "San Francisco, CA",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
-   "source": "Workday",
-   "category": "finance",
-   "posted": "2026-11-19",
-   "found": "2026-11-19"
+   "id": "w-291140a60481",
+   "company": "Plains All American Pipeline",
+   "title": "Operations Management System Intern - Digital & AI Innovation",
+   "location": "Houston, TX",
+   "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-24"
   },
   {
    "id": "w-4b7e31798f27",
@@ -275,17 +275,6 @@
    "category": "tech",
    "posted": "2026-11-19",
    "found": "2026-11-21"
-  },
-  {
-   "id": "w-0fb77fd6d94a",
-   "company": "NVIDIA",
-   "title": "Applied Research Scientist Intern - Agentic Biology",
-   "location": "United States",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-19",
-   "found": "2026-11-22"
   },
   {
    "id": "w-be0f1196bab6",

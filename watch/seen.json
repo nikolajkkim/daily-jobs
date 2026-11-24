@@ -10262,7 +10262,7 @@
   "last_seen": "2026-11-24"
  },
  "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
-  "title": "AI Workflows Intern [Summer 2027]",
+  "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
   "location": "Foster City, CA",
   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
   "posted": "2026-11-07",
@@ -10270,7 +10270,7 @@
   "category": "tech",
   "ats": "lever",
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-24"
  },
  "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97": {
   "title": "Data Science Intern [Summer 2027]",
@@ -13213,6 +13213,39 @@
   "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
   "posted": "2026-10-21",
   "company": "RoboForce",
+  "terms": [
+   "N/A"
+  ],
+  "degrees": [],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24"
+ },
+ "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1": {
+  "title": "Operations Management System Intern - Digital & AI Innovation",
+  "location": "Houston, TX",
+  "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1",
+  "posted": "2026-11-20",
+  "company": "Plains All American Pipeline",
+  "terms": [
+   "Summer 2027"
+  ],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "category": "tech",
+  "ats": "simplify",
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24"
+ },
+ "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739": {
+  "title": "AI Development Intern",
+  "location": "Somerset County, NJ",
+  "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739",
+  "posted": "2026-11-24",
+  "company": "BEUMER Group",
   "terms": [
    "N/A"
   ],
