@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-25T10:20+00:00",
+ "generated": "2026-11-25T18:49+00:00",
  "jobs": [
   {
-   "id": "w-0791b3b7a4a9",
-   "company": "Samsung",
-   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "id": "w-3a7b51031a93",
+   "company": "University of St. Thomas",
+   "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
+   "location": "St Paul, MN",
+   "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-25",
@@ -29,28 +29,6 @@
    "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1482835147112669",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-24",
-   "found": "2026-11-25"
-  },
-  {
-   "id": "w-e48b0a528a52",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Artificial Intelligence and Complex Systems Intern",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-24",
-   "found": "2026-11-25"
-  },
-  {
-   "id": "w-596fb6cf6d9f",
-   "company": "Kimley-Horn",
-   "title": "Data Science Intern",
-   "location": "Mesa, AZ",
-   "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-24",
@@ -121,6 +99,17 @@
    "category": "tech",
    "posted": "2026-11-23",
    "found": "2026-11-24"
+  },
+  {
+   "id": "w-e8f9b339d85e",
+   "company": "Artefact",
+   "title": "AI Builder Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-25"
   },
   {
    "id": "w-26e4531ce328",

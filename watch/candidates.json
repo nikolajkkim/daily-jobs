@@ -1,20 +1,17 @@
 {
- "generated": "2026-11-25T10:20+00:00",
+ "generated": "2026-11-25T18:49+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
-   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
+   "location": "St Paul, MN",
+   "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
    "posted": "2026-11-25",
-   "company": "Samsung",
+   "company": "University of St. Thomas",
    "terms": [
     "N/A"
    ],
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
+   "degrees": [],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-25",
@@ -45,43 +42,6 @@
     "N/A"
    ],
    "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
-  },
-  {
-   "title": "Artificial Intelligence and Complex Systems Intern",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-   "posted": "2026-11-24",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
-  },
-  {
-   "title": "Data Science Intern",
-   "location": "Mesa, AZ",
-   "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
-   "posted": "2026-11-24",
-   "company": "Kimley-Horn",
-   "terms": [
-    "Summer 2027"
-   ],
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-25",
@@ -183,6 +143,24 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
+   "last_seen": "2026-11-25"
+  },
+  {
+   "title": "AI Builder Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+   "posted": "2026-11-23",
+   "company": "Artefact",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-25",
    "last_seen": "2026-11-25"
   }
  ]
