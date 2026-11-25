@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "found": 3,
-    "note": "3 new roles (NVIDIA, Stantec, BlackRock SF; posted Nov 19–23) · 1 more to browse (TWG) · 0 new reports · Problem: only 3 eligible this run; most candidates lacked a stated Summer 2027 term, Workday/Oracle pages wouldn't load, and Section B closed-listing checks were skipped"
+    "note": "3 new roles (JHU APL, Kimley-Horn, Samsung; posted Nov 24–25) · 1 more to browse (Two Sigma) · 0 new reports · Problem: only 3 eligible this run; most candidates lacked a stated Summer 2027 term, and JHU APL/Kimley-Horn/Workday/UltiPro pages wouldn't load · checked 5 old listings, none closed (Coinbase 403)"
   },
   "jobs": [
     {
@@ -2084,6 +2084,45 @@
       "found": "2026-11-24",
       "posted": "2026-11-19",
       "category": "finance"
+    },
+    {
+      "id": "jhu-apl-ai-complex-systems-intern-2027",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Artificial Intelligence and Complex Systems Intern",
+      "location": "Laurel, MD",
+      "source": "Simplify",
+      "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+      "fit": "good",
+      "why": "Summer 2027, open to master's students per the listing. Your RL quadcopter work and LLM retrieval pipeline map well to AI and complex systems research; it is outside NYC/California, and APL roles may require US citizenship, so check that before applying.",
+      "found": "2026-11-25",
+      "category": "tech",
+      "posted": "2026-11-24"
+    },
+    {
+      "id": "kimley-horn-data-science-intern-2027",
+      "company": "Kimley-Horn",
+      "title": "Data Science Intern",
+      "location": "Mesa, AZ",
+      "source": "Simplify",
+      "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+      "fit": "good",
+      "why": "Summer 2027, bachelor's and master's accepted. Your bridge damage modeling fellowship and the water-leak XGBoost project are close to infrastructure and engineering analytics; location is Arizona and the page wouldn't load for me, so confirm details on the posting.",
+      "found": "2026-11-25",
+      "category": "tech",
+      "posted": "2026-11-24"
+    },
+    {
+      "id": "samsung-llm-inference-acceleration-intern-2027",
+      "company": "Samsung",
+      "title": "LLM Inference Acceleration Architecture Intern - MoE & Attention-FFN Disaggregation",
+      "location": "San Jose, CA",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+      "fit": "stretch",
+      "why": "Summer internship (deadline Feb 23, 2027; the posting mentions the end of the summer), master's preferred. Your Hugging Face/PyTorch LLM work helps, but it wants LLM serving, vLLM/SGLang and computer-architecture depth you haven't shown.",
+      "found": "2026-11-25",
+      "category": "tech",
+      "posted": "2026-11-25"
     }
   ],
   "browse": [
@@ -2689,6 +2728,18 @@
       "found": "2026-11-24",
       "posted": "2026-09-01",
       "category": "finance"
+    },
+    {
+      "id": "two-sigma-ai-research-scientist-intern-2027",
+      "company": "Two Sigma",
+      "title": "AI Research Scientist Intern (Summer 2027)",
+      "location": "New York, NY",
+      "source": "Company site",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096",
+      "fit": "stretch",
+      "why": "Summer 2027 in NYC, but open only to MS students with work experience (and PhDs) in their penultimate year, and you have no industry internship yet. Your PyTorch and RL projects fit the technical bar, so it is a long shot.",
+      "found": "2026-11-25",
+      "category": "tech"
     }
   ]
 }

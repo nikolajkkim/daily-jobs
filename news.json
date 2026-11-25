@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks surge Monday: S&P 500 up 4.7%, Nasdaq up 6.5%, Dow up 3%",
-      "note": "The S&P 500 closed at 7,237.17, the Nasdaq at 24,089.56 and the Dow at 49,595.31, ending the S&P's seven-session losing streak. The jump recovered a bit more than half of the prior week's 8.6% S&P drop, and Nvidia's CEO news drove it.",
-      "url": "https://www.stl.news/us-stock-market-today-november-23-2026/",
-      "source": "STL News (AP data)"
+      "headline": "Nasdaq tumbles and S&P 500 slips Tuesday as Nvidia's rally fades; Dow edges up",
+      "note": "Tuesday's close was mixed after Monday's huge jump: tech and chip stocks led the drop while the Dow rose slightly. Outlets differ on the exact size of the Nasdaq's fall, so the sources are linked rather than a single number. Investors rotated toward older-economy stocks and worried about inflation.",
+      "url": "https://gvwire.com/2026/11/24/stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls/",
+      "source": "Reuters via GV Wire"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia reinstates Jensen Huang as CEO; stock jumps more than 31%",
-      "note": "The board voted to bring Huang back effective immediately, 11 days after he resigned, citing input from senior U.S. government levels. Nvidia closed around $165.05, which lifted AMD, Micron and Dell too.",
-      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
-      "source": "NBC News"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Trump says he 'convinced' Nvidia's board to rehire Huang",
-      "note": "CNBC reports the board's decision came after a personal assurance from Trump on Sunday. The board had publicly refused to rehire Huang four days earlier, and lawmakers from both parties reacted with shock. Senator Warren said Huang and the board still owe Congress answers.",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "source": "CNBC"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic (ANT) slips about 1.4% on its third day of trading",
-      "note": "The stock fell 9.1% Friday and has been choppy since its Nov. 19 debut at an $83 IPO price. It is a good example of how new AI-linked stocks swing with the whole sector.",
-      "url": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/",
-      "source": "FinanceFeeds (citing CNBC)"
-    },
-    {
-      "tag": "Tech",
-      "headline": "CrowdStrike to buy Zscaler in an all-stock deal valued at about $43.9 billion",
-      "note": "Each Zscaler share converts into 1.135 CrowdStrike shares, a roughly 34% premium. Zscaler rose about 13% and CrowdStrike fell about 9% on the news. This is a big cybersecurity consolidation, and the deal is expected to close in the second half of CrowdStrike's fiscal 2028.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm",
-      "source": "SEC filing (Zscaler 8-K)"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia's last report: revenue up 103% and a higher forecast",
-      "note": "Fiscal Q3 revenue rose 103% to $116 billion, and Nvidia guided to $130 billion next quarter. Even so, the stock was down about 39% over the past month before Monday's jump, so doubts about AI spending returns are still the main worry.",
-      "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
-      "source": "24/7 Wall St."
+      "headline": "Nvidia falls about 6% a day after its 31% surge",
+      "note": "The stock gave back part of Monday's gain as investors asked how much further the AI trade can run, and it is still about 30% below its October record. AMD, Broadcom and Micron fell too, and Micron and SK Hynix each dropped more than 10%.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "Economy",
-      "headline": "10-year yield near 4.92%, oil lower; PCE inflation due Wednesday",
-      "note": "The VIX fear gauge fell about 26% to 26.62. The PCE inflation report on Wednesday will shape Fed rate expectations. Markets close Thursday for Thanksgiving and shut at 1 p.m. Friday.",
-      "url": "https://www.stl.news/us-stock-market-today-november-23-2026/",
-      "source": "STL News (AP data)"
+      "headline": "Traders now expect a Fed rate hike in December; PCE inflation data due Wednesday",
+      "note": "Fed funds futures price in a very high chance of a quarter-point hike next month, and NY Fed President John Williams said persistent inflation points toward tighter policy. The 10-year Treasury yield was around 4.9%. Wednesday's PCE report is the last big data point before the meeting, and higher rates tend to hit growth and AI stocks hardest.",
+      "url": "https://gvwire.com/2026/11/24/stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls/",
+      "source": "Reuters via GV Wire"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic dips below its $83 IPO price",
+      "note": "The stock traded as low as $82.30 early Tuesday, days after its record-breaking debut. New AI-linked listings are swinging with the whole sector.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Schumer demands answers on Trump's defense of Nvidia's CEO",
+      "note": "He urged Congress to pass three bipartisan AI-chip and China bills and asked for intelligence committee briefings. Chip export rules could change what Nvidia and others can sell, which matters for the AI industry you want to work in.",
+      "url": "https://www.devdiscourse.com/article/international/4004779-schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo",
+      "source": "Devdiscourse (Reuters)"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Retailers jump on earnings: Dick's up nearly 15%, Dollar Tree up over 11%",
+      "note": "Dick's Sporting Goods, Dollar Tree and Best Buy all raised guidance, and Kohl's reported its first positive same-store sales growth in four years. Consumers still appear to be spending, even with the AI-stock swings.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Economy",
+      "headline": "US banks' unrealized securities losses rose 50% to $486 billion, FDIC says",
+      "note": "The Q3 jump reflects high bond yields, which push down the value of bonds banks hold. It is a watch item if rates keep rising.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "source": "Yahoo Finance (citing FDIC)"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech hiring is recovering but still below pre-pandemic levels, one market report says",
-      "note": "The same report found statistics and ML skills in 92% of early-2026 data science postings. Layoff trackers still show heavy cuts this year, and some are tied to AI. Keep ML and stats fundamentals front and center.",
+      "headline": "Data job postings are recovering but still below the all-jobs average",
+      "note": "An Interview Query analysis of Indeed data says data and analytics postings are up from a year ago but far below pre-pandemic levels, and entry-level hiring is weak. Trackers such as TrueUp count more than 200,000 tech layoffs so far in 2026, so internship applications need to start early.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
     }
   ],
   "learn": {
-    "n": 43,
-    "term": "All-stock acquisition and the deal premium",
-    "explain": "When one company buys another, it can pay in cash, in its own shares, or both. In an all-stock deal, each target share is swapped for a fixed number of the buyer's shares, called the exchange ratio. CrowdStrike offered 1.135 of its shares for each Zscaler share. At CrowdStrike's Nov. 20 price, that was worth about $260.41, or a premium of about 34% over Zscaler's price. Buyers pay a premium to persuade owners to sell. Because the payment is in shares, the deal's dollar value moves with the buyer's stock price, and that is why Zscaler's stock follows CrowdStrike's until the deal closes.",
-    "try": "Look up the Zscaler and CrowdStrike prices today and multiply CrowdStrike's price by 1.135. How close is the result to Zscaler's price?"
+    "n": 44,
+    "term": "Sector rotation",
+    "explain": "Sector rotation is when investors sell stocks in one part of the market and buy in another, instead of leaving the market. On Tuesday money moved out of tech and chip stocks, like Nvidia and Micron, and into older-economy companies, and the Dow gained while the Nasdaq fell. The Dow holds only 30 big, mostly traditional companies, so it can rise on a day tech sinks. Rotation often happens when worries change, such as fears that higher interest rates will hurt fast-growing companies.",
+    "try": "Compare the Nasdaq and the Dow for the last week and see which days they moved in opposite directions."
   },
   "learned": [
     "Earnings season and EPS",
@@ -107,6 +107,7 @@
     "Drawdown",
     "Operating profit (operating income)",
     "Flight to safety (safe-haven assets)",
-    "All-stock acquisition and the deal premium"
+    "All-stock acquisition and the deal premium",
+    "Sector rotation"
   ]
 }

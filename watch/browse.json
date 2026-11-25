@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-24T19:41+00:00",
+ "generated": "2026-11-25T10:20+00:00",
  "jobs": [
+  {
+   "id": "w-0791b3b7a4a9",
+   "company": "Samsung",
+   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-25"
+  },
   {
    "id": "w-f147e3808fb5",
    "company": "BEUMER Group",
@@ -11,6 +22,39 @@
    "category": "tech",
    "posted": "2026-11-24",
    "found": "2026-11-24"
+  },
+  {
+   "id": "w-c8622cab340a",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1482835147112669",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-25"
+  },
+  {
+   "id": "w-e48b0a528a52",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Artificial Intelligence and Complex Systems Intern",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-25"
+  },
+  {
+   "id": "w-596fb6cf6d9f",
+   "company": "Kimley-Horn",
+   "title": "Data Science Intern",
+   "location": "Mesa, AZ",
+   "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-25"
   },
   {
    "id": "w-5e89da9841f5",
@@ -508,17 +552,6 @@
    "found": "2026-11-15"
   },
   {
-   "id": "w-77850534cf1f",
-   "company": "National Laboratory of the Rockies",
-   "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
-   "location": "Remote in USA",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-12",
-   "found": "2026-11-13"
-  },
-  {
    "id": "w-57611f6e3173",
    "company": "Environmental Defense Fund",
    "title": "Consumer Energy Analytics Intern",
@@ -854,6 +887,17 @@
    "title": "Data Scientist Intern",
    "location": "Boston, MA / Foster City, CA",
    "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-07",
+   "found": "2026-11-07"
+  },
+  {
+   "id": "w-879b9e37407d",
+   "company": "Zoox",
+   "title": "AI Workflows & Safety Decision Making Intern",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-07",
@@ -1377,17 +1421,6 @@
    "found": "2026-10-28"
   },
   {
-   "id": "w-c77197e3499b",
-   "company": "RosaicLabs",
-   "title": "AI Accelerator Design Verification Engineer Intern",
-   "location": "Austin, TX / Santa Clara, CA",
-   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-28",
-   "found": "2026-10-28"
-  },
-  {
    "id": "w-e50003ab61ed",
    "company": "FormFactor",
    "title": "Electrical Design Automation Intern - AI & EDA Automation",
@@ -1723,17 +1756,6 @@
    "title": "AI Engineer Intern - Fury Team",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-23",
-   "found": "2026-10-28"
-  },
-  {
-   "id": "w-9492671dd55d",
-   "company": "Quadric",
-   "title": "AI Kernel Engineer Intern",
-   "location": "Burlingame, CA",
-   "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-10-23",

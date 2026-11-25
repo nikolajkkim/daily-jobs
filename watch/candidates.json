@@ -1,7 +1,25 @@
 {
- "generated": "2026-11-24T19:41+00:00",
+ "generated": "2026-11-25T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
+  {
+   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "posted": "2026-11-25",
+   "company": "Samsung",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
   {
    "title": "AI Development Intern",
    "location": "Somerset County, NJ",
@@ -15,7 +33,59 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
+  },
+  {
+   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1482835147112669",
+   "posted": "2026-11-24",
+   "company": "Meta",
+   "terms": [
+    "N/A"
+   ],
+   "degrees": [],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  {
+   "title": "Artificial Intelligence and Complex Systems Intern",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+   "posted": "2026-11-24",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  {
+   "title": "Data Science Intern",
+   "location": "Mesa, AZ",
+   "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+   "posted": "2026-11-24",
+   "company": "Kimley-Horn",
+   "terms": [
+    "Summer 2027"
+   ],
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "category": "tech",
+   "ats": "simplify",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
   {
    "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
@@ -32,7 +102,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   {
    "title": "AI Engineer Intern",
@@ -47,7 +117,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   {
    "title": "Energy and Utilities Software Product Design and AI Development Intern",
@@ -65,7 +135,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   {
    "title": "Data Scientist Intern",
@@ -83,7 +153,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   {
    "title": "AI and Automation Intern",
@@ -98,7 +168,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   {
    "title": "Collections Analytics Intern",
@@ -113,7 +183,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   }
  ]
 }
