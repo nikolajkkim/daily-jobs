@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:49+00:00",
+ "generated": "2026-11-26T10:20+00:00",
  "jobs": [
   {
    "id": "w-3a7b51031a93",
@@ -11,6 +11,28 @@
    "category": "tech",
    "posted": "2026-11-25",
    "found": "2026-11-25"
+  },
+  {
+   "id": "w-430362d597bc",
+   "company": "Harvard Companies",
+   "title": "AI Engineer Intern",
+   "location": "Miami, FL",
+   "url": "https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-26"
+  },
+  {
+   "id": "w-b6e91ac029e7",
+   "company": "Harvard Companies",
+   "title": "AI Engineering Intern",
+   "location": "Miami, FL",
+   "url": "https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-26"
   },
   {
    "id": "w-f147e3808fb5",
@@ -110,6 +132,17 @@
    "category": "tech",
    "posted": "2026-11-23",
    "found": "2026-11-25"
+  },
+  {
+   "id": "w-364dfb02a428",
+   "company": "Zoox",
+   "title": "Supply Chain AI Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+   "source": "Lever",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-26"
   },
   {
    "id": "w-26e4531ce328",
@@ -1342,17 +1375,6 @@
    "category": "tech",
    "posted": "2026-10-30",
    "found": "2026-10-31"
-  },
-  {
-   "id": "w-b9d1f3e6faf6",
-   "company": "Meta",
-   "title": "Research Scientist Intern - AI Infra",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/4603165899971826",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-29",
-   "found": "2026-10-30"
   },
   {
    "id": "w-743d4a6fdcc5",

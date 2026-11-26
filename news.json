@@ -1,68 +1,61 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Nasdaq tumbles and S&P 500 slips Tuesday as Nvidia's rally fades; Dow edges up",
-      "note": "Tuesday's close was mixed after Monday's huge jump: tech and chip stocks led the drop while the Dow rose slightly. Outlets differ on the exact size of the Nasdaq's fall, so the sources are linked rather than a single number. Investors rotated toward older-economy stocks and worried about inflation.",
-      "url": "https://gvwire.com/2026/11/24/stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls/",
-      "source": "Reuters via GV Wire"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia falls about 6% a day after its 31% surge",
-      "note": "The stock gave back part of Monday's gain as investors asked how much further the AI trade can run, and it is still about 30% below its October record. AMD, Broadcom and Micron fell too, and Micron and SK Hynix each dropped more than 10%.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
-      "source": "Yahoo Finance"
+      "headline": "Stocks claw back a sharp sell-off: Dow +0.3%, S&P 500 -0.2%, Nasdaq -0.6%",
+      "note": "The Nasdaq was down more than 4% early Wednesday before recovering most of the loss, as AI and chip stocks fell for a second day. Markets are closed Thursday for Thanksgiving and reopen Friday for a half-day.",
+      "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+      "source": "ABC News"
     },
     {
       "tag": "Economy",
-      "headline": "Traders now expect a Fed rate hike in December; PCE inflation data due Wednesday",
-      "note": "Fed funds futures price in a very high chance of a quarter-point hike next month, and NY Fed President John Williams said persistent inflation points toward tighter policy. The 10-year Treasury yield was around 4.9%. Wednesday's PCE report is the last big data point before the meeting, and higher rates tend to hit growth and AI stocks hardest.",
-      "url": "https://gvwire.com/2026/11/24/stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls/",
-      "source": "Reuters via GV Wire"
+      "headline": "Fed's favored inflation gauge hits 3.8%; traders see ~98% odds of a December hike",
+      "note": "October PCE inflation was 3.8% over the past year, the highest since 2023, and core PCE rose to 3.3% versus the 3.2% expected. The 10-year Treasury yield still fell 7 basis points to 4.82%. A rate hike makes borrowing costlier, which tends to pressure growth and tech stocks.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Nvidia drops about 4% for a second day; chip index falls more than 6%",
+      "note": "Analysts said Jensen Huang's reinstatement as CEO on Monday did little to calm the AI trade. Micron and Sandisk were among the biggest decliners, and the Nasdaq-100 was on pace for a bear-market close.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic dips below its $83 IPO price",
-      "note": "The stock traded as low as $82.30 early Tuesday, days after its record-breaking debut. New AI-linked listings are swinging with the whole sector.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
-      "source": "Yahoo Finance"
+      "headline": "Anthropic closes at about $82.79, just under its $83 IPO price",
+      "note": "The newly public AI lab is trading around its offering price as the whole AI sector swings. Large software names like Salesforce, Adobe and ServiceNow are each down roughly 25% to 60% this year, a sign of how much investors worry about AI's effect on software.",
+      "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+      "source": "ABC News"
     },
     {
-      "tag": "Chips",
-      "headline": "Schumer demands answers on Trump's defense of Nvidia's CEO",
-      "note": "He urged Congress to pass three bipartisan AI-chip and China bills and asked for intelligence committee briefings. Chip export rules could change what Nvidia and others can sell, which matters for the AI industry you want to work in.",
-      "url": "https://www.devdiscourse.com/article/international/4004779-schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo",
-      "source": "Devdiscourse (Reuters)"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Retailers jump on earnings: Dick's up nearly 15%, Dollar Tree up over 11%",
-      "note": "Dick's Sporting Goods, Dollar Tree and Best Buy all raised guidance, and Kohl's reported its first positive same-store sales growth in four years. Consumers still appear to be spending, even with the AI-stock swings.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "tag": "Economy",
+      "headline": "New tariffs of up to 20% proposed on China, the EU and 12 other partners",
+      "note": "They would stack on existing duties, pushing totals above 40% in some areas, and likely wouldn't start before January. The current US-China trade truce expires Jan. 10, so tech supply chains and chip stocks are worth watching.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "Economy",
-      "headline": "US banks' unrealized securities losses rose 50% to $486 billion, FDIC says",
-      "note": "The Q3 jump reflects high bond yields, which push down the value of bonds banks hold. It is a watch item if rates keep rising.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
-      "source": "Yahoo Finance (citing FDIC)"
+      "headline": "Q3 GDP revised up to a 4.3% annual growth rate",
+      "note": "That beat the 3.5% economists expected. A strong economy is part of why the Fed is leaning toward raising rates instead of cutting. The average 30-year mortgage rate eased to 7.21% from 7.28%.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "source": "Yahoo Finance"
     },
     {
       "tag": "Jobs",
-      "headline": "Data job postings are recovering but still below the all-jobs average",
-      "note": "An Interview Query analysis of Indeed data says data and analytics postings are up from a year ago but far below pre-pandemic levels, and entry-level hiring is weak. Trackers such as TrueUp count more than 200,000 tech layoffs so far in 2026, so internship applications need to start early.",
+      "headline": "Tech layoffs top 142,000 this year, though data roles are still in demand",
+      "note": "One compilation citing Layoffs.fyi counts 142,000+ tech layoffs at 350 companies as of Nov. 11, but also says hiring is recovering and data science stays high-demand. It's a secondary source, so treat the figures as approximate. Data engineering and AI systems skills look strongest.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
     }
   ],
   "learn": {
-    "n": 44,
-    "term": "Sector rotation",
-    "explain": "Sector rotation is when investors sell stocks in one part of the market and buy in another, instead of leaving the market. On Tuesday money moved out of tech and chip stocks, like Nvidia and Micron, and into older-economy companies, and the Dow gained while the Nasdaq fell. The Dow holds only 30 big, mostly traditional companies, so it can rise on a day tech sinks. Rotation often happens when worries change, such as fears that higher interest rates will hurt fast-growing companies.",
-    "try": "Compare the Nasdaq and the Dow for the last week and see which days they moved in opposite directions."
+    "n": 45,
+    "term": "Tariffs",
+    "explain": "A tariff is a tax a government charges on imported goods. The importing company pays it at the border and usually passes some of the cost on to customers, so tariffs can push prices up and add to inflation. Today the administration proposed new tariffs of up to 20% on China, the EU and 12 other partners, stacked on existing duties. Investors watch tariffs because they can raise costs for companies that import parts, such as chipmakers and electronics firms, and can trigger retaliation.",
+    "try": "Look up which companies have said tariffs raised their costs this year, and check how their stocks reacted."
   },
   "learned": [
     "Earnings season and EPS",
@@ -108,6 +101,7 @@
     "Operating profit (operating income)",
     "Flight to safety (safe-haven assets)",
     "All-stock acquisition and the deal premium",
-    "Sector rotation"
+    "Sector rotation",
+    "Tariffs"
   ]
 }

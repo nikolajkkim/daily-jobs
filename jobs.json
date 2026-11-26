@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-25",
-    "found": 3,
-    "note": "3 new roles (JHU APL, Kimley-Horn, Samsung; posted Nov 24–25) · 1 more to browse (Two Sigma) · 0 new reports · Problem: only 3 eligible this run; most candidates lacked a stated Summer 2027 term, and JHU APL/Kimley-Horn/Workday/UltiPro pages wouldn't load · checked 5 old listings, none closed (Coinbase 403)"
+    "date": "2026-11-26",
+    "found": 1,
+    "note": "1 new role (Zoox Supply Chain AI, posted Nov 20) · 1 more to browse (TWG SOLT) · 0 new reports · Problem: only 1 eligible; the 5 new candidates had no stated Summer 2027 term, and many recent feed postings (Artefact, HERE, Smule, Calamos, Milliman, Constellation) wouldn't load or gave no term · checked 4 old listings, none closed (Tencent/Kensho inconclusive)"
   },
   "jobs": [
     {
@@ -2123,6 +2123,19 @@
       "found": "2026-11-25",
       "category": "tech",
       "posted": "2026-11-25"
+    },
+    {
+      "id": "zoox-supply-chain-ai-intern-2027",
+      "company": "Zoox",
+      "title": "Supply Chain AI Intern [Summer 2027]",
+      "location": "Foster City, CA",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+      "fit": "stretch",
+      "why": "Summer 2027 role open to master's students, in California. It leans toward supply-chain analytics (Sheets, SAP) and applying AI tools more than modeling, so your XGBoost and Pandas work fits but the ML depth is light.",
+      "found": "2026-11-26",
+      "posted": "2026-11-20",
+      "category": "tech"
     }
   ],
   "browse": [
@@ -2740,6 +2753,19 @@
       "why": "Summer 2027 in NYC, but open only to MS students with work experience (and PhDs) in their penultimate year, and you have no industry internship yet. Your PyTorch and RL projects fit the technical bar, so it is a long shot.",
       "found": "2026-11-25",
       "category": "tech"
+    },
+    {
+      "id": "twg-ai-data-science-intern-solt-2027",
+      "company": "TWG Global",
+      "title": "AI Data Science Intern (SOLT) - Summer 2027",
+      "location": "Santa Monica, CA",
+      "source": "Workable",
+      "url": "https://apply.workable.com/twgai/jobs/view/263B34D737",
+      "fit": "strong",
+      "why": "Summer 2027, for master's students, on-site in Santa Monica. It covers predictive and time-series modeling, RL and RAG/LLM evaluation, which matches your retrieval pipeline, PPO work and XGBoost projects.",
+      "found": "2026-11-26",
+      "posted": "2026-09-01",
+      "category": "entertainment"
     }
   ]
 }
