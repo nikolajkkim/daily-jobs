@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T18:37+00:00",
- "feeds_ok": 87,
+ "generated": "2026-11-27T10:20+00:00",
+ "feeds_ok": 86,
  "feeds_total": 88,
  "companies": {
   "Anthropic": {
@@ -26,7 +26,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 768,
+   "open_jobs": 767,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -68,7 +68,7 @@
   },
   "Pinterest": {
    "status": "ok",
-   "open_jobs": 167,
+   "open_jobs": 166,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "pinterest"
@@ -89,7 +89,7 @@
   },
   "Robinhood": {
    "status": "ok",
-   "open_jobs": 162,
+   "open_jobs": 161,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "robinhood"
@@ -103,21 +103,21 @@
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 528,
+   "open_jobs": 531,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 298,
+   "open_jobs": 295,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
   },
   "MongoDB": {
    "status": "ok",
-   "open_jobs": 421,
+   "open_jobs": 425,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "mongodb"
@@ -138,7 +138,7 @@
   },
   "Brex": {
    "status": "ok",
-   "open_jobs": 270,
+   "open_jobs": 266,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "brex"
@@ -152,7 +152,7 @@
   },
   "SoFi": {
    "status": "ok",
-   "open_jobs": 57,
+   "open_jobs": 58,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sofi"
@@ -194,14 +194,14 @@
   },
   "Asana": {
    "status": "ok",
-   "open_jobs": 109,
+   "open_jobs": 107,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "asana"
   },
   "Faire": {
    "status": "ok",
-   "open_jobs": 71,
+   "open_jobs": 73,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "faire"
@@ -222,14 +222,14 @@
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2598,
+   "open_jobs": 2599,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
   "Nuro": {
    "status": "ok",
-   "open_jobs": 106,
+   "open_jobs": 107,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "nuro"
@@ -292,7 +292,7 @@
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 114,
+   "open_jobs": 106,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -333,9 +333,7 @@
    "slug": "plaid"
   },
   "Spotify": {
-   "status": "ok",
-   "open_jobs": 97,
-   "matches": 0,
+   "status": "http 502",
    "ats": "lever",
    "slug": "spotify"
   },
@@ -355,7 +353,7 @@
   },
   "IMC Trading": {
    "status": "ok",
-   "open_jobs": 149,
+   "open_jobs": 150,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "imc"
@@ -472,21 +470,21 @@
   },
   "Riot Games": {
    "status": "ok",
-   "open_jobs": 199,
+   "open_jobs": 198,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "riotgames"
   },
   "Epic Games": {
    "status": "ok",
-   "open_jobs": 137,
+   "open_jobs": 138,
    "matches": 2,
    "ats": "greenhouse",
    "slug": "epicgames"
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 254,
+   "open_jobs": 259,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -500,7 +498,7 @@
   },
   "Scopely": {
    "status": "ok",
-   "open_jobs": 164,
+   "open_jobs": 165,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "scopely"
@@ -514,14 +512,14 @@
   },
   "PlayStation": {
    "status": "ok",
-   "open_jobs": 208,
+   "open_jobs": 209,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal"
   },
   "2K": {
    "status": "ok",
-   "open_jobs": 85,
+   "open_jobs": 84,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "2k"
@@ -591,7 +589,7 @@
   },
   "Genius Sports": {
    "status": "ok",
-   "open_jobs": 34,
+   "open_jobs": 33,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "geniussports"
@@ -612,8 +610,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 306,
-   "matches": 306,
+   "open_jobs": 298,
+   "matches": 298,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

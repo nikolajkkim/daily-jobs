@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-26",
-    "found": 1,
-    "note": "1 new role (Zoox Supply Chain AI, posted Nov 20) · 1 more to browse (TWG SOLT) · 0 new reports · Problem: only 1 eligible; the 5 new candidates had no stated Summer 2027 term, and many recent feed postings (Artefact, HERE, Smule, Calamos, Milliman, Constellation) wouldn't load or gave no term · checked 4 old listings, none closed (Tencent/Kensho inconclusive)"
+    "date": "2026-11-27",
+    "found": 0,
+    "note": "0 new daily picks · 1 more to browse (M Science) · 0 new reports · 6 old listings checked, none closed (GM, Tencent, KLA inconclusive) · Problem: no eligible role with confirmed Summer 2027: today's 3 candidates were not ML/summer-eligible, Artefact NYC postings state no term, CornerStone is undergrad-only, Smule/HERE/Milliman pages would not load"
   },
   "jobs": [
     {
@@ -2766,6 +2766,19 @@
       "found": "2026-11-26",
       "posted": "2026-09-01",
       "category": "entertainment"
+    },
+    {
+      "id": "m-science-data-scientist-intern-2027",
+      "company": "M Science",
+      "title": "Data Scientist Intern (Summer 2027, Alternative Data)",
+      "location": "New York, NY (hybrid)",
+      "source": "Company site",
+      "url": "https://wellfound.com/jobs/4800626-data-scientist-intern",
+      "fit": "good",
+      "why": "Summer 2027 in NYC, and the posting targets students graduating Dec 2027–May 2028, which matches your Columbia timeline. You would use Python and SQL on large datasets with AI/ML workflows, like your 14M-reading XGBoost work; Databricks/Spark is a gap. It was posted about a month ago, so apply soon.",
+      "found": "2026-11-27",
+      "posted": "2026-10-27",
+      "category": "finance"
     }
   ]
 }

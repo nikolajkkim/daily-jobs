@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T18:37+00:00",
+ "generated": "2026-11-27T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
  "candidates": [
   {
@@ -15,7 +15,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "AI Engineer Intern",
@@ -30,7 +30,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "AI Engineering Intern",
@@ -45,37 +45,7 @@
    "category": "tech",
    "ats": "simplify",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
-  },
-  {
-   "title": "AI Development Intern",
-   "location": "Somerset County, NJ",
-   "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739",
-   "posted": "2026-11-24",
-   "company": "BEUMER Group",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26"
-  },
-  {
-   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1482835147112669",
-   "posted": "2026-11-24",
-   "company": "Meta",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   }
  ]
 }

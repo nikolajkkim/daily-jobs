@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T18:37+00:00",
+ "generated": "2026-11-27T10:20+00:00",
  "jobs": [
   {
    "id": "w-3a7b51031a93",
@@ -2156,39 +2156,6 @@
    "category": "tech",
    "posted": "2026-10-14",
    "found": "2026-10-15"
-  },
-  {
-   "id": "w-b728a2f1e9f7",
-   "company": "Hewlett Packard Enterprise",
-   "title": "HPC AI Networking Intern - Network Transport",
-   "location": "Chippewa Falls, WI / Fort Collins, CO",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-90b6d3faf15b",
-   "company": "DriveTime",
-   "title": "Data Analytics Intern",
-   "location": "Dallas, TX / Tempe, AZ",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-13",
-   "found": "2026-10-14"
-  },
-  {
-   "id": "w-cbb52cad8c3e",
-   "company": "Koch Industries",
-   "title": "Digital Technology & Data Intern",
-   "location": "Auburn Hills, MI",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-12",
-   "found": "2026-10-13"
   }
  ]
 }

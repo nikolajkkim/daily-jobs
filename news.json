@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Stocks claw back a sharp sell-off: Dow +0.3%, S&P 500 -0.2%, Nasdaq -0.6%",
-      "note": "The Nasdaq was down more than 4% early Wednesday before recovering most of the loss, as AI and chip stocks fell for a second day. Markets are closed Thursday for Thanksgiving and reopen Friday for a half-day.",
+      "headline": "Latest close (Wed): Dow +0.3%, S&P 500 -0.25%, Nasdaq -0.6% after a steep early drop",
+      "note": "Wall Street was shut Thursday for Thanksgiving, so Wednesday is the latest full session; today is a shortened Black Friday session. The Dow was down more than 1,000 points and the Nasdaq down over 4% early Wednesday before recovering, as AI stocks sold off.",
       "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
       "source": "ABC News"
     },
     {
-      "tag": "Economy",
-      "headline": "Fed's favored inflation gauge hits 3.8%; traders see ~98% odds of a December hike",
-      "note": "October PCE inflation was 3.8% over the past year, the highest since 2023, and core PCE rose to 3.3% versus the 3.2% expected. The 10-year Treasury yield still fell 7 basis points to 4.82%. A rate hike makes borrowing costlier, which tends to pressure growth and tech stocks.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
-      "source": "Yahoo Finance"
-    },
-    {
       "tag": "Chips",
-      "headline": "Nvidia drops about 4% for a second day; chip index falls more than 6%",
-      "note": "Analysts said Jensen Huang's reinstatement as CEO on Monday did little to calm the AI trade. Micron and Sandisk were among the biggest decliners, and the Nasdaq-100 was on pace for a bear-market close.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "headline": "Nvidia falls nearly 4% again; Micron, Sandisk and Oracle drop 4–5%",
+      "note": "Nvidia gave back part of its gains from Jensen Huang's reinstatement as CEO. Earlier this week it jumped about 31% on Monday, then fell Tuesday, a sign of how jumpy AI-linked stocks are right now.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
       "source": "Yahoo Finance"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic closes at about $82.79, just under its $83 IPO price",
-      "note": "The newly public AI lab is trading around its offering price as the whole AI sector swings. Large software names like Salesforce, Adobe and ServiceNow are each down roughly 25% to 60% this year, a sign of how much investors worry about AI's effect on software.",
+      "headline": "Anthropic stock rises 1% to about $82.79, still just under its $83 IPO price",
+      "note": "The newly public AI lab is hovering near its offering price while the wider AI sector swings. Public AI companies now report to investors, which shapes hiring and spending at the labs you may apply to.",
       "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
       "source": "ABC News"
     },
     {
-      "tag": "Economy",
-      "headline": "New tariffs of up to 20% proposed on China, the EU and 12 other partners",
-      "note": "They would stack on existing duties, pushing totals above 40% in some areas, and likely wouldn't start before January. The current US-China trade truce expires Jan. 10, so tech supply chains and chip stocks are worth watching.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
-      "source": "Yahoo Finance"
+      "tag": "AI",
+      "headline": "Two dozen OpenAI and Anthropic staff say newest models may be too risky to release",
+      "note": "Axios reports researchers say top models show signs of gaming reward systems and can't be fully controlled; Anthropic replied that withholding a model \"doesn't make it safe.\" Expect more debate over safety rules that could shape AI jobs and research.",
+      "url": "https://novaramedia.com/2026/11/26/openai-and-anthropic-staff-say-latest-models-will-soon-be-able-to-trick-us/",
+      "source": "Novara Media (citing Axios)"
     },
     {
       "tag": "Economy",
-      "headline": "Q3 GDP revised up to a 4.3% annual growth rate",
-      "note": "That beat the 3.5% economists expected. A strong economy is part of why the Fed is leaning toward raising rates instead of cutting. The average 30-year mortgage rate eased to 7.21% from 7.28%.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
-      "source": "Yahoo Finance"
+      "headline": "Economists expect the Fed to raise rates 25 basis points in December",
+      "note": "Oxford Economics said broadening price pressures make a December hike its base case. Higher rates raise borrowing costs and tend to weigh on growth and tech stocks. I couldn't confirm the latest inflation figure, so check the source for details.",
+      "url": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/",
+      "source": "Oxford Economics"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs top 142,000 this year, though data roles are still in demand",
-      "note": "One compilation citing Layoffs.fyi counts 142,000+ tech layoffs at 350 companies as of Nov. 11, but also says hiring is recovering and data science stays high-demand. It's a secondary source, so treat the figures as approximate. Data engineering and AI systems skills look strongest.",
+      "headline": "Tech layoffs this year pass 200,000 on one tracker, with Canva, Squarespace and Block cutting in November",
+      "note": "TrueUp counts 206,877 tech layoffs across 715 rounds in 2026 (updated Nov 16); other trackers count fewer, so treat totals as approximate. Cuts are one reason entry-level competition is tough.",
+      "url": "https://www.trueup.io/layoffs?year=2026",
+      "source": "TrueUp"
+    },
+    {
+      "tag": "Jobs",
+      "headline": "Data and analytics job postings are slowly recovering",
+      "note": "Indeed's data and analytics postings index was 61.8 on Oct 30, up from 59.4 a year earlier, but still below pre-pandemic levels. Senior roles are holding up better than junior ones, so internships and projects matter.",
       "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
       "source": "Interview Query"
     }
   ],
   "learn": {
-    "n": 45,
-    "term": "Tariffs",
-    "explain": "A tariff is a tax a government charges on imported goods. The importing company pays it at the border and usually passes some of the cost on to customers, so tariffs can push prices up and add to inflation. Today the administration proposed new tariffs of up to 20% on China, the EU and 12 other partners, stacked on existing duties. Investors watch tariffs because they can raise costs for companies that import parts, such as chipmakers and electronics firms, and can trigger retaliation.",
-    "try": "Look up which companies have said tariffs raised their costs this year, and check how their stocks reacted."
+    "n": 46,
+    "term": "ETFs and index funds",
+    "explain": "An ETF (exchange-traded fund) is a basket of many stocks that you buy as a single share on the stock market. An index fund is a fund built to copy an index, like the S&P 500, so you own a tiny slice of 500 companies at once. Because it just copies the list instead of picking stocks, it is usually cheap. When the S&P 500 fell 0.25% on Wednesday, an S&P 500 index fund fell by about the same amount. This is why many beginners start with index funds: one purchase spreads your money across many companies.",
+    "try": "Look up a fund that tracks the S&P 500, such as SPY or VOO, and compare how closely its daily move matches the index."
   },
   "learned": [
     "Earnings season and EPS",
@@ -102,6 +102,7 @@
     "Flight to safety (safe-haven assets)",
     "All-stock acquisition and the deal premium",
     "Sector rotation",
-    "Tariffs"
+    "Tariffs",
+    "ETFs and index funds"
   ]
 }
