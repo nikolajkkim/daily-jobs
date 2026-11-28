@@ -1,51 +1,5 @@
 {
- "generated": "2026-11-27T18:25+00:00",
+ "generated": "2026-11-28T10:20+00:00",
  "note": "Postings posted in the last 2 days (or first seen then, when no date is known) and not yet on the site.",
- "candidates": [
-  {
-   "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
-   "location": "St Paul, MN",
-   "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
-   "posted": "2026-11-25",
-   "company": "University of St. Thomas",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "title": "AI Engineer Intern",
-   "location": "Miami, FL",
-   "url": "https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
-   "posted": "2026-11-25",
-   "company": "Harvard Companies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "title": "AI Engineering Intern",
-   "location": "Miami, FL",
-   "url": "https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
-   "posted": "2026-11-25",
-   "company": "Harvard Companies",
-   "terms": [
-    "N/A"
-   ],
-   "degrees": [],
-   "category": "tech",
-   "ats": "simplify",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27"
-  }
- ]
+ "candidates": []
 }

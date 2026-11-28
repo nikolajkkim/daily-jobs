@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:25+00:00",
+ "generated": "2026-11-28T10:20+00:00",
  "jobs": [
   {
    "id": "w-3a7b51031a93",
@@ -35,6 +35,72 @@
    "found": "2026-11-26"
   },
   {
+   "id": "w-a84cb326e228",
+   "company": "NVIDIA",
+   "title": "Accounting AI Solution Engineer Intern",
+   "location": "Santa Clara, CA / United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-16dfc0c8051a",
+   "company": "NVIDIA",
+   "title": "Finance AI Engineer Intern",
+   "location": "Santa Clara, CA / United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-e28508b6703c",
+   "company": "NVIDIA",
+   "title": "AI and Quant Devtech Engineering Intern",
+   "location": "Santa Clara, CA / United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-c4340059db2e",
+   "company": "Marvell",
+   "title": "Applied AI/ML Research Scientist Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-cc18a5254a2d",
+   "company": "Generac",
+   "title": "AI Engineer Intern",
+   "location": "Waukesha, WI",
+   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17511",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-e4030d6347c7",
+   "company": "Zebra Technologies",
+   "title": "Electrical Engineer Intern - Advanced Data Capture",
+   "location": "Holtsville, NY",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Electrical-Engineer--Advanced-Data-Capture_JR103913",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-25",
+   "found": "2026-11-28"
+  },
+  {
    "id": "w-f147e3808fb5",
    "company": "BEUMER Group",
    "title": "AI Development Intern",
@@ -55,6 +121,28 @@
    "category": "tech",
    "posted": "2026-11-24",
    "found": "2026-11-25"
+  },
+  {
+   "id": "w-bf556c73392b",
+   "company": "General Dynamics Information Technology",
+   "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+   "location": "Bossier City, LA",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-3375a324223e",
+   "company": "Varian",
+   "title": "Research Intern - Computer Vision and Robotics for Interventional AI",
+   "location": "United States",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Computer-Vision-and-Robotics-for-Interventional-AI_R-32162",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-24",
+   "found": "2026-11-28"
   },
   {
    "id": "w-5e89da9841f5",
@@ -84,17 +172,6 @@
    "title": "Energy and Utilities Software Product Design and AI Development Intern",
    "location": "Raleigh, NC",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-23",
-   "found": "2026-11-24"
-  },
-  {
-   "id": "w-d379e266dbc6",
-   "company": "Milliman",
-   "title": "Data Scientist Intern",
-   "location": "Indianapolis, IN",
-   "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-23",
@@ -132,6 +209,105 @@
    "category": "tech",
    "posted": "2026-11-23",
    "found": "2026-11-25"
+  },
+  {
+   "id": "w-5689e90913c3",
+   "company": "Roche",
+   "title": "Service Data and Analytics Intern",
+   "location": "Indianapolis, IN",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-7dfb68f0b844",
+   "company": "Micron Technology",
+   "title": "Advanced Modeling and AI Solutions Intern",
+   "location": "Boise, ID",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-61edab1b663b",
+   "company": "ASML",
+   "title": "Data & AI Intern - Controls",
+   "location": "San Diego, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Data---AI--Controls_J-00357861",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-08422c6c3d33",
+   "company": "FormFactor",
+   "title": "AI/ML Engineering Intern",
+   "location": "Livermore, CA",
+   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/AI-ML-Engineering-Intern_JR101434",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-4135c841cd1b",
+   "company": "Federal Home Loan Bank of Indianapolis",
+   "title": "Data Platform Engineer Intern",
+   "location": "Indianapolis, IN",
+   "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-bc47038f52d3",
+   "company": "Servco",
+   "title": "Summer Intern - Vehicle Data",
+   "location": "Honolulu, HI",
+   "url": "https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Vehicle-Data_R4085",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-9d7e9b503f45",
+   "company": "National Laboratory of the Rockies",
+   "title": "Graduate Student Intern - Commercial Vehicle Logistics and Data Science",
+   "location": "Golden, CO",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-47b5c6c1efb7",
+   "company": "Samsung",
+   "title": "Data Engineer Intern",
+   "location": "Plano, TX",
+   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-5a42c38b7d27",
+   "company": "Philips",
+   "title": "AI-Agentic Embedded Software Development Intern",
+   "location": "Bothell, WA",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-23",
+   "found": "2026-11-28"
   },
   {
    "id": "w-26e4531ce328",
@@ -277,6 +453,61 @@
    "found": "2026-11-24"
   },
   {
+   "id": "w-acadbf0b01a2",
+   "company": "UMB",
+   "title": "Artificial Intelligence Intern",
+   "location": "Kansas City, MO",
+   "url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-9a1e341d53f7",
+   "company": "State Street",
+   "title": "Product Internship - Data Intelligence",
+   "location": "Cambridge, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-41621a76fb9b",
+   "company": "GlobalFoundries",
+   "title": "AI-Enabled Device Modeling Intern",
+   "location": "Malta, NY",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling-Intern--Summer-2027-_JR-2604437",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-6c6968891ea2",
+   "company": "GlobalFoundries",
+   "title": "AI-Enabled PDK Development Intern",
+   "location": "Malta, NY",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-fd391a5241a5",
+   "company": "Leidos",
+   "title": "Data Engineer Intern",
+   "location": "Fort Belvoir, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-20",
+   "found": "2026-11-28"
+  },
+  {
    "id": "w-4b7e31798f27",
    "company": "Meta",
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
@@ -286,17 +517,6 @@
    "category": "tech",
    "posted": "2026-11-19",
    "found": "2026-11-19"
-  },
-  {
-   "id": "w-394adab50950",
-   "company": "HERE Technologies",
-   "title": "Applied AI Research Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-19",
-   "found": "2026-11-20"
   },
   {
    "id": "w-cab2f5ee954f",
@@ -332,15 +552,37 @@
    "found": "2026-11-21"
   },
   {
-   "id": "w-be0f1196bab6",
-   "company": "HERE Technologies",
-   "title": "Data Science Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
+   "id": "w-50e3b6fd4fca",
+   "company": "Northrop Grumman",
+   "title": "Artificial Intelligence/Machine Learning Engineer Intern",
+   "location": "Morrisville, NC",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-18",
-   "found": "2026-11-19"
+   "posted": "2026-11-19",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-dde9f11afc42",
+   "company": "Hewlett Packard Enterprise",
+   "title": "AI Engineering Technical Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California/AI-Engineering-Technical-Intern_1218702",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-6909eaca1a13",
+   "company": "Maersk",
+   "title": "Insights & Analytics Intern",
+   "location": "Santa Fe Springs, CA",
+   "url": "https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Intern--Insights---Analytics_R203969",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-19",
+   "found": "2026-11-28"
   },
   {
    "id": "w-243536867c0c",
@@ -376,6 +618,50 @@
    "found": "2026-11-23"
   },
   {
+   "id": "w-6983fd96720e",
+   "company": "State Street",
+   "title": "Agentic AI Engineer Intern",
+   "location": "Quincy, MA / Burlington, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-1da03cc50d82",
+   "company": "State Street",
+   "title": "AI Engineer Intern",
+   "location": "Cambridge, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-a211dfb36181",
+   "company": "State Street",
+   "title": "Data Engineering & Product Intern",
+   "location": "Boston, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-a7874327140f",
+   "company": "State Street",
+   "title": "Agentic AI Engineering Intern",
+   "location": "Quincy, MA / Burlington, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801282",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-18",
+   "found": "2026-11-28"
+  },
+  {
    "id": "w-131ca41e977b",
    "company": "Bissell",
    "title": "AI & Automation Intern",
@@ -396,6 +682,39 @@
    "category": "tech",
    "posted": "2026-11-17",
    "found": "2026-11-18"
+  },
+  {
+   "id": "w-f6bc3577dcbd",
+   "company": "Marvell",
+   "title": "AI Infrastructure Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-5200ad25033e",
+   "company": "Analog Devices",
+   "title": "Research Science Engineer Intern",
+   "location": "Wilmington, MA",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Research-Science-Engineering-Intern---Summer-2027_R268072",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-a8c4a809501d",
+   "company": "Hewlett Packard Enterprise",
+   "title": "AI Enablement Intern",
+   "location": "Milpitas, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-17",
+   "found": "2026-11-28"
   },
   {
    "id": "w-29779161b620",
@@ -486,26 +805,48 @@
    "found": "2026-11-23"
   },
   {
-   "id": "w-442edf0b4449",
+   "id": "w-af60ea70b4d2",
    "company": "ASML",
-   "title": "EUV Data Science and Analytics Intern",
-   "location": "Austin, TX",
-   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+   "title": "Generative AI Developer Intern",
+   "location": "San Jose, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Generative-AI-developer_J-00355346",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-13",
-   "found": "2026-11-14"
+   "posted": "2026-11-16",
+   "found": "2026-11-28"
   },
   {
-   "id": "w-22526532ea0e",
-   "company": "Piedmont Airlines",
-   "title": "Safety Data Analytics Intern",
-   "location": "Charlotte, NC",
-   "url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590",
+   "id": "w-079dc5a6a180",
+   "company": "ASML",
+   "title": "Artificial Intelligence Intern - Integrate GUI and LLM",
+   "location": "San Jose, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-13",
-   "found": "2026-11-14"
+   "posted": "2026-11-16",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-6f01063f0edb",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Environment Intern - Health & Safety Training & Analytics",
+   "location": "Tarrytown, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-28"
+  },
+  {
+   "id": "w-82355c824613",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Workplace Strategy & Planning Analytics Intern",
+   "location": "Tarrytown, NY",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-16",
+   "found": "2026-11-28"
   },
   {
    "id": "w-80a8da4fc443",
@@ -680,17 +1021,6 @@
    "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330",
    "source": "Simplify list",
    "category": "tech",
-   "posted": "2026-11-11",
-   "found": "2026-11-12"
-  },
-  {
-   "id": "w-7c3302da4916",
-   "company": "StepStone Group",
-   "title": "AI Quant Summer Analyst Intern",
-   "location": "La Jolla, San Diego, CA",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8368989",
-   "source": "Simplify list",
-   "category": "finance",
    "posted": "2026-11-11",
    "found": "2026-11-12"
   },
@@ -959,17 +1289,6 @@
    "found": "2026-11-07"
   },
   {
-   "id": "w-4db1ad4d31b7",
-   "company": "L3Harris Technologies",
-   "title": "Data Architect Intern",
-   "location": "Huntsville, AL",
-   "url": "https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-06",
-   "found": "2026-11-07"
-  },
-  {
    "id": "w-607b6f45233b",
    "company": "Niural",
    "title": "AI Product Operator Intern",
@@ -1122,17 +1441,6 @@
    "category": "tech",
    "posted": "2026-11-04",
    "found": "2026-11-11"
-  },
-  {
-   "id": "w-18bcda33406a",
-   "company": "Tokyo Electron",
-   "title": "Research Scientist Intern - Summer 2027",
-   "location": "Austin, TX",
-   "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-11-04",
-   "found": "2026-11-05"
   },
   {
    "id": "w-16db80709ac9",
@@ -1305,6 +1613,17 @@
    "title": "Software Engineer Intern - AI Platform Team",
    "location": "Des Moines, IA",
    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000159260670",
+   "source": "Simplify list",
+   "category": "tech",
+   "posted": "2026-11-02",
+   "found": "2026-11-03"
+  },
+  {
+   "id": "w-e4687186ce16",
+   "company": "NVIDIA",
+   "title": "AI Compiler and Kernel Intern",
+   "location": "Austin, TX",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
    "source": "Simplify list",
    "category": "tech",
    "posted": "2026-11-02",
@@ -2145,17 +2464,6 @@
    "category": "tech",
    "posted": "2026-10-15",
    "found": "2026-10-16"
-  },
-  {
-   "id": "w-197a2cbcde2e",
-   "company": "General Motors",
-   "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "source": "Simplify list",
-   "category": "tech",
-   "posted": "2026-10-14",
-   "found": "2026-10-15"
   }
  ]
 }

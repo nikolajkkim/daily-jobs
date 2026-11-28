@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:25+00:00",
+ "generated": "2026-11-28T10:20+00:00",
  "feeds_ok": 87,
  "feeds_total": 88,
  "companies": {
@@ -19,14 +19,14 @@
   },
   "Databricks": {
    "status": "ok",
-   "open_jobs": 888,
+   "open_jobs": 889,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "databricks"
   },
   "Stripe": {
    "status": "ok",
-   "open_jobs": 767,
+   "open_jobs": 771,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "stripe"
@@ -47,7 +47,7 @@
   },
   "DoorDash": {
    "status": "ok",
-   "open_jobs": 402,
+   "open_jobs": 401,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "doordashusa"
@@ -89,28 +89,28 @@
   },
   "Robinhood": {
    "status": "ok",
-   "open_jobs": 161,
+   "open_jobs": 162,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "robinhood"
   },
   "Datadog": {
    "status": "ok",
-   "open_jobs": 390,
+   "open_jobs": 392,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "datadog"
   },
   "Cloudflare": {
    "status": "ok",
-   "open_jobs": 533,
+   "open_jobs": 532,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "cloudflare"
   },
   "Samsara": {
    "status": "ok",
-   "open_jobs": 295,
+   "open_jobs": 297,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "samsara"
@@ -166,7 +166,7 @@
   },
   "Toast": {
    "status": "ok",
-   "open_jobs": 299,
+   "open_jobs": 298,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "toast"
@@ -201,7 +201,7 @@
   },
   "Faire": {
    "status": "ok",
-   "open_jobs": 73,
+   "open_jobs": 71,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "faire"
@@ -215,14 +215,14 @@
   },
   "Waymo": {
    "status": "ok",
-   "open_jobs": 356,
+   "open_jobs": 352,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "waymo"
   },
   "Anduril": {
    "status": "ok",
-   "open_jobs": 2599,
+   "open_jobs": 2598,
    "matches": 1,
    "ats": "greenhouse",
    "slug": "andurilindustries"
@@ -285,14 +285,14 @@
   },
   "Cohere": {
    "status": "ok",
-   "open_jobs": 122,
+   "open_jobs": 121,
    "matches": 0,
    "ats": "ashby",
    "slug": "cohere"
   },
   "ElevenLabs": {
    "status": "ok",
-   "open_jobs": 109,
+   "open_jobs": 108,
    "matches": 0,
    "ats": "ashby",
    "slug": "elevenlabs"
@@ -486,7 +486,7 @@
   },
   "Roblox": {
    "status": "ok",
-   "open_jobs": 259,
+   "open_jobs": 257,
    "matches": 0,
    "ats": "greenhouse",
    "slug": "roblox"
@@ -612,8 +612,8 @@
   },
   "Simplify internship list": {
    "status": "ok",
-   "open_jobs": 297,
-   "matches": 297,
+   "open_jobs": 321,
+   "matches": 321,
    "ats": "simplify",
    "slug": "SimplifyJobs/Summer2027-Internships"
   }

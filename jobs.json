@@ -1,8 +1,8 @@
 {
   "lastRun": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "found": 0,
-    "note": "0 new daily picks · 1 more to browse (M Science) · 0 new reports · 6 old listings checked, none closed (GM, Tencent, KLA inconclusive) · Problem: no eligible role with confirmed Summer 2027: today's 3 candidates were not ML/summer-eligible, Artefact NYC postings state no term, CornerStone is undergrad-only, Smule/HERE/Milliman pages would not load"
+    "note": "0 new daily picks · 0 new reports · 6 old listings checked, 1 closed (Figma DS intern); Coinbase x2 blocked (403), IMC/DoorDash open · Problem: no candidates in today's feed, discovery finds (Pinterest, Scale AI) already listed, Gallup/Tatari postings gone, and Marvell/Calamos/HPE/Micron pages would not load so Summer 2027 eligibility couldn't be confirmed"
   },
   "jobs": [
     {
@@ -2248,7 +2248,11 @@
       "why": "Scoped analytics/experimentation project; no master's requirement or grad window is stated, so confirm the term dates. His SQL, Python and Tableau cover it, but it is less ML-heavy than his research.",
       "found": "2026-10-13",
       "posted": "2026-09-14",
-      "category": "tech"
+      "category": "tech",
+      "removed": {
+        "date": "2026-11-28",
+        "reason": "Posting closed: Greenhouse link redirects to the Figma board error page (job removed)"
+      }
     },
     {
       "id": "lyft-ds-intern-algorithms-nyc-2027",

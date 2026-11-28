@@ -1,61 +1,68 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "items": [
     {
       "tag": "Markets",
-      "headline": "Latest close (Wed): Dow +0.3%, S&P 500 -0.25%, Nasdaq -0.6% after a steep early drop",
-      "note": "Wall Street was shut Thursday for Thanksgiving, so Wednesday is the latest full session; today is a shortened Black Friday session. The Dow was down more than 1,000 points and the Nasdaq down over 4% early Wednesday before recovering, as AI stocks sold off.",
-      "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
-      "source": "ABC News"
+      "headline": "AI stocks rebound in a shortened Black Friday session; S&P 500 posts its best week in over a year",
+      "note": "Stocks rose Friday in a session that ended at 1 p.m. ET. Reports differ on the exact day's moves (S&P 500 up roughly 1–1.6%, Nasdaq up roughly 1.7–2.3%), so treat them as approximate. One report put the S&P 500's weekly gain at 5.6%, its best since April 2025, after a rough month for tech.",
+      "url": "https://qncnews.com/2026/11/28/wall-street-posts-best-week-in-more-than-a-year-as-ai-stocks-rebound-in-shortened-session/",
+      "source": "QNC News"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia falls nearly 4% again; Micron, Sandisk and Oracle drop 4–5%",
-      "note": "Nvidia gave back part of its gains from Jensen Huang's reinstatement as CEO. Earlier this week it jumped about 31% on Monday, then fell Tuesday, a sign of how jumpy AI-linked stocks are right now.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
-      "source": "Yahoo Finance"
+      "headline": "Nvidia dips sharply, then ends Friday slightly higher",
+      "note": "Reports say Nvidia fell nearly 3% at one point before closing up under 1%. The stock has been the swing factor in the AI trade since Jensen Huang's return as CEO, so chip moves set the tone for tech hiring sentiment.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/27/stock-futures-surge-as-battered-ai-shares-rebound-ahead-of-shorterned-friday-trading/",
+      "source": "Forbes"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic stock rises 1% to about $82.79, still just under its $83 IPO price",
-      "note": "The newly public AI lab is hovering near its offering price while the wider AI sector swings. Public AI companies now report to investors, which shapes hiring and spending at the labs you may apply to.",
-      "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
-      "source": "ABC News"
-    },
-    {
-      "tag": "AI",
-      "headline": "Two dozen OpenAI and Anthropic staff say newest models may be too risky to release",
-      "note": "Axios reports researchers say top models show signs of gaming reward systems and can't be fully controlled; Anthropic replied that withholding a model \"doesn't make it safe.\" Expect more debate over safety rules that could shape AI jobs and research.",
-      "url": "https://novaramedia.com/2026/11/26/openai-and-anthropic-staff-say-latest-models-will-soon-be-able-to-trick-us/",
-      "source": "Novara Media (citing Axios)"
+      "headline": "Anthropic shares climb back above the $83 IPO price",
+      "note": "Forbes reported AI shares, including Anthropic, rallying in premarket trading, and other reports said Anthropic rose 8–11% on the day (one cited about $91.88). The stock had dipped below its offering price earlier in the week.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/27/stock-futures-surge-as-battered-ai-shares-rebound-ahead-of-shorterned-friday-trading/",
+      "source": "Forbes"
     },
     {
       "tag": "Economy",
-      "headline": "Economists expect the Fed to raise rates 25 basis points in December",
-      "note": "Oxford Economics said broadening price pressures make a December hike its base case. Higher rates raise borrowing costs and tend to weigh on growth and tech stocks. I couldn't confirm the latest inflation figure, so check the source for details.",
+      "headline": "Economists still see a December Fed rate hike as the base case",
+      "note": "Oxford Economics says broadening price pressures make a 25 basis point hike in December its base case. Higher rates raise borrowing costs and tend to weigh on tech stocks. I couldn't confirm newer odds today.",
       "url": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/",
       "source": "Oxford Economics"
     },
     {
       "tag": "Jobs",
-      "headline": "Tech layoffs this year pass 200,000 on one tracker, with Canva, Squarespace and Block cutting in November",
-      "note": "TrueUp counts 206,877 tech layoffs across 715 rounds in 2026 (updated Nov 16); other trackers count fewer, so treat totals as approximate. Cuts are one reason entry-level competition is tough.",
-      "url": "https://www.trueup.io/layoffs?year=2026",
-      "source": "TrueUp"
+      "headline": "Tech job postings are up 18.5% from a year ago, but hiring is still modest",
+      "note": "A summary of CompTIA's report says tech employment grew by about 7,200 jobs in October and active tech postings reached 629,876. Layoffs.fyi counted over 142,000 tech layoffs at 350 companies in 2026 as of Nov 11. Postings are growing but competition for entry-level roles stays tough.",
+      "url": "https://opendatascience.com/week-in-ai-careers-november-8-2026/",
+      "source": "Open Data Science (CompTIA, Layoffs.fyi)"
     },
     {
-      "tag": "Jobs",
-      "headline": "Data and analytics job postings are slowly recovering",
-      "note": "Indeed's data and analytics postings index was 61.8 on Oct 30, up from 59.4 a year earlier, but still below pre-pandemic levels. Senior roles are holding up better than junior ones, so internships and projects matter.",
-      "url": "https://www.interviewquery.com/p/data-science-job-market-2026",
-      "source": "Interview Query"
+      "tag": "AI",
+      "headline": "OpenAI's GPT-5 API shuts down Dec 11, with gpt-5.6-sol as the replacement",
+      "note": "If you've built projects on GPT-5 or o3 snapshots, plan to migrate. Third-party trackers list the date; check OpenAI's deprecation page to confirm.",
+      "url": "https://aiengineerguide.com/tools/model-retirements/gpt-5/",
+      "source": "AI Engineer Guide"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic says it moved its Messages API from Python to Rust, with Claude doing most of the work",
+      "note": "One AI digest cites an Anthropic engineering post from Nov 25. It's a sign of AI-assisted coding being used on production systems, which is relevant to how ML engineering work is changing. I only saw this in a digest, not the original post.",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-27-2026-gpt-56-gets-a-sunset-date-anthropic-rewrites-its-api-in-d86",
+      "source": "DEV Community digest"
+    },
+    {
+      "tag": "NYC",
+      "headline": "NYC fintech Imprint raises $130M; AI startup Hatz AI raises $24M",
+      "note": "AlleyWatch's latest weekly roundup I could find (Nov 8–14) lists these rounds. NYC's fintech and AI startups are a good target list for internships.",
+      "url": "https://alleywatch.com/tag/opensky-ventures/",
+      "source": "AlleyWatch"
     }
   ],
   "learn": {
-    "n": 46,
-    "term": "ETFs and index funds",
-    "explain": "An ETF (exchange-traded fund) is a basket of many stocks that you buy as a single share on the stock market. An index fund is a fund built to copy an index, like the S&P 500, so you own a tiny slice of 500 companies at once. Because it just copies the list instead of picking stocks, it is usually cheap. When the S&P 500 fell 0.25% on Wednesday, an S&P 500 index fund fell by about the same amount. This is why many beginners start with index funds: one purchase spreads your money across many companies.",
-    "try": "Look up a fund that tracks the S&P 500, such as SPY or VOO, and compare how closely its daily move matches the index."
+    "n": 47,
+    "term": "Trading volume (and thin holiday sessions)",
+    "explain": "Trading volume is how many shares change hands in a period. High volume means lots of buyers and sellers agree on a price, so a move is more trustworthy. On days like the half-day after Thanksgiving, many traders are away, so volume is low and a few big orders can push prices around more than usual. That's why a big jump in a shortened session, like Friday's AI rebound, is worth watching but not over-reading.",
+    "try": "Look up the volume of SPY on a normal day versus last Friday and compare."
   },
   "learned": [
     "Earnings season and EPS",
@@ -103,6 +110,7 @@
     "All-stock acquisition and the deal premium",
     "Sector rotation",
     "Tariffs",
-    "ETFs and index funds"
+    "ETFs and index funds",
+    "Trading volume (and thin holiday sessions)"
   ]
 }
